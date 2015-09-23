@@ -3,8 +3,8 @@ Open Austin Website Redesign - 2015
 
 ### Sitemap
 
-![our sitemap](http://www.gliffy.com/go/publish/image/8981187/L.png)
-[link](http://www.gliffy.com/go/publish/8981187)
+![our sitemap](https://raw.githubusercontent.com/open-austin/open-austin.org/master/oa-sitemap.png)
+[link to Gliffy](http://www.gliffy.com/go/publish/8981187)
 
 ### Mockups
 [Original Lo-fi Mockup](https://github.com/open-austin/open-austin.org/blob/master/lo-fi-mockup.jpg)
