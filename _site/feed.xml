@@ -4,12 +4,12 @@
     <title>Your awesome title</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Nov 2015 22:28:49 -0600</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2015 22:28:49 -0600</lastBuildDate>
+    <link>http://yourdomain.com/open-austin-org/</link>
+    <atom:link href="http://yourdomain.com/open-austin-org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 05 Nov 2015 22:51:34 -0600</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2015 22:51:34 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
-    
+
       <item>
         <title>Welcome to Jekyll!</title>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
@@ -30,13 +30,13 @@
         <pubDate>Thu, 05 Nov 2015 19:41:06 -0600</pubDate>
         <link>http://yourdomain.com/jekyll/update/2015/11/05/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/11/05/welcome-to-jekyll.html</guid>
-        
-        
+
+
         <category>jekyll</category>
-        
+
         <category>update</category>
-        
+
       </item>
-    
+
   </channel>
 </rss>
