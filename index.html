@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<div class="home">
+  <div class="hero-section">
+    <h1 class="hero-text">WE ARE OPEN AUSTIN</h1>
+    <p class="hero-subtext">Promoting open government, open data, and civic application development in Austin, TX</p>
+    <button class="default-btn">Get Involved</button>
+    <button class="default-btn">Get Hacking</button>
+  </div>
+  <div class="wrapper">
+    <div class="home-events">
+      <h2>Featured Events</h2>
+      <div class = "event-list">  
+        <ul>
+          <li class = "event-list-element">
+            <img src ="http://www2.psd100.com/ppp/2013/10/0501/Calendar-icon-1005061602.png">
+            <h3>Since 2009 Open Austin has been working hard with Hackers, Policy People, educators.</h3>
+          </li>
+          <li class = "event-list-element">
+            <img src ="http://www2.psd100.com/ppp/2013/10/0501/Calendar-icon-1005061602.png">
+            <h3>Since 2009 Open Austin has been working hard with Hackers, Policy People, educators.</h3>
+          </li>
+          <li class = "event-list-element">
+            <img src ="http://www2.psd100.com/ppp/2013/10/0501/Calendar-icon-1005061602.png">
+            <h3>Since 2009 Open Austin has been working hard with Hackers, Policy People, educators.</h3>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+    <div class="current-news">
+      <h2>Placeholder for news</h2>
+      <ul class="post-list">
+      {% for post in site.posts %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+        </li>
+      {% endfor %}
+      </ul>
+    </div>
+    <div class="featured-project">
+      <h2>Featured Project</h2>
+    </div>
+
+  </div>
+</div>
