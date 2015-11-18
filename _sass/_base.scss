@@ -38,7 +38,6 @@ ul, ol, dl, figure,
 }
 
 
-
 /**
  * Images
  */
@@ -74,6 +73,11 @@ li {
     > ol {
          margin-bottom: 0;
     }
+}
+
+#ul-event-list li
+{
+    display: inline;
 }
 
 
