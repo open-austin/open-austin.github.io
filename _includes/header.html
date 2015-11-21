@@ -21,8 +21,21 @@
           {% endif %}
         {% endfor %}
           <a class="page-link learn-more-link" href="#">Learn More</a>
+          {% if site.github_username %}
+          <ul>
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+        </ul>
+          {% endif %}
       </div>
-      
+
     </nav>
 
   </div>
