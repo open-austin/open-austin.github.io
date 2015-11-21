@@ -56,6 +56,9 @@ li > ul,
 li > ol {
   margin-bottom: 0; }
 
+.ul-event-list li {
+  display: inline; }
+
 /**
  * Headings
  */
