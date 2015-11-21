@@ -11,8 +11,8 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #111;
+  font: 400 16px/1.5 "Myriad Pro", Helvetica, Arial, sans-serif;
+  color: #2d2d2d;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -69,20 +69,20 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #2a7ae2;
+  color: #f48400;
   text-decoration: none; }
   a:visited {
-    color: #1756a9; }
+    color: #a85b00; }
   a:hover {
-    color: #111;
+    color: #2d2d2d;
     text-decoration: underline; }
 
 /**
  * Blockquotes
  */
 blockquote {
-  color: #828282;
-  border-left: 4px solid #e8e8e8;
+  color: #5D5D5D;
+  border-left: 4px solid #c3c3c3;
   padding-left: 15px;
   font-size: 18px;
   letter-spacing: -1px;
@@ -96,7 +96,7 @@ blockquote {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #e8e8e8;
+  border: 1px solid #c3c3c3;
   border-radius: 3px;
   background-color: #eef; }
 
@@ -145,14 +145,14 @@ pre {
   height: 16px;
   vertical-align: middle; }
   .icon > svg path {
-    fill: #828282; }
+    fill: #5D5D5D; }
 
 /**
  * Site header
  */
 .site-header {
-  border-top: 0px solid #424242;
-  border-bottom: 8px solid #ef8433;
+  border-top: 0px solid #1d1d1d;
+  border-bottom: 8px solid #f48400;
   min-height: 56px;
   position: relative; }
 
@@ -164,7 +164,7 @@ pre {
   margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
-    color: #424242; }
+    color: #1d1d1d; }
 
 .site-nav {
   float: right;
@@ -172,7 +172,7 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
+    color: #2d2d2d;
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
@@ -180,7 +180,7 @@ pre {
     text-transform: uppercase;
     text-decoration: none; }
   .site-nav a.page-link.learn-more-link {
-    background-color: #ef8433;
+    background-color: #f48400;
     padding: 10px;
     color: white;
     border-radius: 10px;
@@ -191,7 +191,7 @@ pre {
       top: 9px;
       right: 15px;
       background-color: #fdfdfd;
-      border: 1px solid #e8e8e8;
+      border: 1px solid #c3c3c3;
       border-radius: 5px;
       text-align: right; }
       .site-nav .menu-icon {
@@ -206,7 +206,7 @@ pre {
           width: 18px;
           height: 15px; }
           .site-nav .menu-icon > svg path {
-            fill: #424242; }
+            fill: #1d1d1d; }
       .site-nav .trigger {
         clear: both;
         display: none; }
@@ -224,7 +224,7 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #e8e8e8;
+  border-top: 1px solid #c3c3c3;
   padding: 30px 0; }
 
 .footer-heading {
@@ -238,7 +238,7 @@ pre {
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: #828282;
+  color: #5D5D5D;
   margin-left: -15px; }
 
 .footer-col {
@@ -289,11 +289,14 @@ pre {
 
 .post-meta {
   font-size: 14px;
-  color: #828282; }
+  color: #5D5D5D; }
 
 .post-link {
   display: block;
   font-size: 24px; }
+
+.ul-event-list li {
+  display: inline; }
 
 /**
  * Posts
