@@ -282,6 +282,26 @@ pre {
 .page-heading {
   font-size: 20px; }
 
+/**
+ * Post content
+ */
+.post-col {
+  float: left;
+  margin-bottom: 15px;
+  padding-right: 15px; }
+
+.post-col-1 {
+  width: -webkit-calc(30% - (30px / 2));
+  width: calc(30% - (30px / 2)); }
+
+.post-col-2 {
+  width: -webkit-calc(60% - (30px / 2));
+  width: calc(60% - (30px / 2)); }
+
+.post-col-3 {
+  width: -webkit-calc(10% - (30px / 2));
+  width: calc(10% - (30px / 2)); }
+
 .post-list {
   margin-left: 0;
   list-style: none; }

@@ -189,6 +189,31 @@
     font-size: 20px;
 }
 
+/**
+ * Post content
+ */
+
+.post-col {
+     float: left;
+     margin-bottom: $spacing-unit / 2;
+     padding-right: $spacing-unit / 2;
+ }
+.post-col-1 {
+     width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+     width:         calc(30% - (#{$spacing-unit} / 2));
+}
+
+.post-col-2 {
+     width: -webkit-calc(60% - (#{$spacing-unit} / 2));
+     width:         calc(60% - (#{$spacing-unit} / 2));
+}
+
+.post-col-3 {
+     width: -webkit-calc(10% - (#{$spacing-unit} / 2));
+     width:         calc(10% - (#{$spacing-unit} / 2));
+}
+
+
 .post-list {
     margin-left: 0;
     list-style: none;
