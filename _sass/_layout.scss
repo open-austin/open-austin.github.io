@@ -233,8 +233,33 @@
     font-size: 24px;
 }
 
+.hero-section {
+    width: 100%;
+    background-color: $light-orange-color-transparent;
+    background-image: url("images/hero.png");
+    text-align: center;
+}
+
+
 .ul-event-list li {
-    display: inline;
+    line-height: 100px;
+    display: block;
+    float: left;
+    width: 200px;
+    height: 200x;
+    line-height: 20px;
+    padding-top: 10px;
+    text-align: center;
+    &:not(:last-child) {
+        margin-right: 20px;
+    > svg {
+            width: 18px;
+            height: 15px;
+        }
+    }
+}
+.current-news {
+    clear: left;
 }
 
 
