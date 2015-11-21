@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Code for America Summit Recap"
 author: Mateo Clarke
-date:   2015-11-05 19:41:06 -0600
+date:   2015-10-21 19:41:06 -0600
 categories: jekyll update
-thumb: 921_CivicNight_thumb.jpg
-thumbalt: Civic Hack Night
-summary: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+thumb: 1015_summit_thumb.jpg
+thumbalt: CFA Summit
+summary: This month, 52 brigades and over 110 brigade captains and core team members from all across the world got together in Oakland, California for the 2015 Code for America Summit. Open Austin was represented by Brigade Captain, Mateo Clarke, and Delivery Lead, Luqmaan Dawoodjee.
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
