@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="post">
+
+<div class="breadcrumb"><a href="/">Home</a> > {{ page.title }} </div>
+
+  <ul class="post-list">
+  {% for post in site.posts %}
+    <li>
+      <img width="250px" height="200px" src="/open-austin-org/images/{{ post.thumb }}" alt="{{ post.thumbalt }}">
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <span class="post-meta">{% if post.author %}{{ post.author }}{% endif %} | {{ post.date | date: "%b %-d, %Y" }}</span>
+      <p>{% if post.summary %}{{ post.summary }}{% endif %}</p>
+      <a class="continue-link" href="{{ post.url | prepend: site.baseurl }}">Continue Reading...</a>
+    </li>
+  {% endfor %}
+  </ul>
+
+</article>
