@@ -9,7 +9,7 @@ Open Austin Website Redesign - 2015
 ### Design Docs
 [Design Brief](https://github.com/open-austin/open-austin.org/blob/master/OA%20Design%20Brief.pdf)
 
-[Colors/Typography](https://github.com/open-austin/open-austin-org/blob/gh-pages/planning-design/colorstypography.png)
+[Colors/Typography](https://github.com/open-austin/open-austin-org/blob/gh-pages/planning-design/colorstypography2.png)
 
 ### Mockups
 [Homepage Mockups from 1-Sept](https://github.com/open-austin/open-austin.org/blob/master/oa_homepage_mockup.pdf)
