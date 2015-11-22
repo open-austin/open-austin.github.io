@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
+    <title>Coming Soon</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
     <link>http://yourdomain.com/open-austin-org/</link>
     <atom:link href="http://yourdomain.com/open-austin-org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Nov 2015 13:09:59 -0600</pubDate>
-    <lastBuildDate>Sun, 22 Nov 2015 13:09:59 -0600</lastBuildDate>
+    <pubDate>Sun, 22 Nov 2015 13:28:32 -0600</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2015 13:28:32 -0600</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -31,34 +31,6 @@
         <link>http://yourdomain.com/open-austin-org/2015/11/12/ship-it-weekend-nov-21st-22nd.html</link>
         <guid isPermaLink="true">http://yourdomain.com/open-austin-org/2015/11/12/ship-it-weekend-nov-21st-22nd.html</guid>
         
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 05 Nov 2015 19:41:06 -0600</pubDate>
-        <link>http://yourdomain.com/open-austin-org/jekyll/update/2015/11/05/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/open-austin-org/jekyll/update/2015/11/05/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
@@ -320,6 +292,32 @@
         <category>General News</category>
         
         <category>Hack Events</category>
+        
+      </item>
+    
+      <item>
+        <title>Open Gov &amp; Civic Tech Meetup, May 18</title>
+        <description>&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Mon, May 18, 2015&lt;br /&gt;
+&lt;strong&gt;Time:&lt;/strong&gt; 6:45 – 8:45 pm&lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Terrazas Branch Library, 1105 E. Cesar Chavez St, Austin, TX, 78702 (&lt;a href=&quot;http://tinyurl.com/pgvzuw4&quot;&gt;map&lt;/a&gt;)&lt;br /&gt;
+&lt;strong&gt;Calendar:&lt;/strong&gt; &lt;a href=&quot;https://www.google.com/calendar/event?eid=cmZxaTI3YzdhcmN0aGtpdThtbmJzczFqamcgb3BlbmF1c3RpbkBt&amp;amp;ctz=America/Chicago&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Invited Guest:&lt;/strong&gt; Andy Wilson&lt;br /&gt;
+&lt;strong&gt;Topic:&lt;/strong&gt; OpenStreetMap!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;May 20 update:&lt;/strong&gt; Slides from Chip Rosenthal are &lt;a href=&quot;https://docs.google.com/presentation/d/1DvJjZNhc1bO-T7-QXpqHyBr_ce5wYECid6nJmrj0T_s/edit?usp=sharing&quot;&gt;here&lt;/a&gt;. Slides from Andy Wilson are &lt;a href=&quot;http://wilsaj.github.io/open-austin-osm-talk&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.openstreetmap.org/#map=11/30.3083/-97.6300&quot;&gt;OpenStreetMap&lt;/a&gt; is a is a collaborative project to create a free editable map of the world. Users have the ability to add and edit features in the maps.&lt;/p&gt;
+&lt;p&gt;The City of Austin publishes copious geospatial data sets, including street address and footprints of all buildings in the city and surrounding areas. A group of volunteers is working to get this information imported into OpenStreetMap, so that it has accurate information and addresses for our city.&lt;/p&gt;
+&lt;p&gt;Andy Wilson will talk about the OpenStreetMap project and the effort to add City of Austin data to the map.&lt;/p&gt;
+&lt;p&gt;The meetup location is easily accessed by public transportation and has plentiful parking.&lt;/p&gt;
+&lt;p&gt;Open Austin hosts a monthly meet-up, to discuss local open government and civic technology issues. Our meet-ups are free and open to the public.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 May 2015 20:00:29 -0500</pubDate>
+        <link>http://yourdomain.com/open-austin-org/general%20news/open%20austin%20meetings/2015/05/12/open-gov-civic-tech-meetup-may-18.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/open-austin-org/general%20news/open%20austin%20meetings/2015/05/12/open-gov-civic-tech-meetup-may-18.html</guid>
+        
+        
+        <category>General News</category>
+        
+        <category>Open Austin Meetings</category>
         
       </item>
     
