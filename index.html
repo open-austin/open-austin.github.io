@@ -14,39 +14,43 @@ layout: default
   <div id="wrapper">
     <div class="home-events">
       <div id = "list-wrapper">
-        <ul id = "ul-event-list">
+        <ul id = "ul-list">
           <li class="event-list-element">
             <img src ="/open-austin-org/images/comehang.png">
-            <button class="default-btn">COME HANG OUT</button>
+            <button class="default-btn-2">COME HANG OUT</button>
           </li>
           <li class = "event-list-element">
             <img src ="/open-austin-org/images/talktous.png">
-            <button class="default-btn">TALKTOUS</button>
+            <button class="default-btn-2">TALK TO US</button>
           </li>
           <li class = "event-list-element">
             <img src ="/open-austin-org/images/connect.png">
-            <button class="default-btn">GET CONNECTED</button>
+            <button class="default-btn-2">GET CONNECTED</button>
           </li>
           <li class = "event-list-element">
             <img src ="/open-austin-org/images/contribute.png">
-            <button class="default-btn">HACK</button>
+            <button class="default-btn-2">HACK</button>
           </li>
         </ul>
       </div>
     </div>
     <div class="current-news">
       <h2>LATEST NEWS</h2>
-      <ul class="post-list">
-      {% for post in site.posts limit:4 %}
-        <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <div id = "list-wrapper">
+        <ul class="post-list">
+          <div id = "ul-list">
+        {% for post in site.posts limit:4 %}
+          <li class = "post-list-element">
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-          <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
-        </li>
-      {% endfor %}
-      </ul>
+            <h2>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+          </li>
+        {% endfor %}
+            </div>
+        </ul>
+      </div>
     </div>
     <div class="featured-project">
       <h2>Code for America Projects</h2>
