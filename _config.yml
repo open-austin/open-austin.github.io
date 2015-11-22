@@ -19,3 +19,5 @@ github_username:  open-austin
 
 # Build settings
 markdown: kramdown
+exclude:
+  - import
