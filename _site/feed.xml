@@ -6,12 +6,10 @@
 </description>
     <link>http://yourdomain.com/open-austin-org/</link>
     <atom:link href="http://yourdomain.com/open-austin-org/feed.xml" rel="self" type="application/rss+xml"/>
-
-    <pubDate>Sat, 21 Nov 2015 14:12:38 -0600</pubDate>
-    <lastBuildDate>Sat, 21 Nov 2015 14:12:38 -0600</lastBuildDate>
-
+    <pubDate>Sun, 22 Nov 2015 09:44:30 -0600</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2015 09:44:30 -0600</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
-
+    
       <item>
         <title>Welcome to Jekyll!</title>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
@@ -32,14 +30,14 @@
         <pubDate>Thu, 05 Nov 2015 19:41:06 -0600</pubDate>
         <link>http://yourdomain.com/open-austin-org/jekyll/update/2015/11/05/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://yourdomain.com/open-austin-org/jekyll/update/2015/11/05/welcome-to-jekyll.html</guid>
-
-
+        
+        
         <category>jekyll</category>
-
+        
         <category>update</category>
-
+        
       </item>
-
+    
       <item>
         <title>Code for America Summit Recap</title>
         <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
@@ -60,13 +58,13 @@
         <pubDate>Wed, 21 Oct 2015 20:41:06 -0500</pubDate>
         <link>http://yourdomain.com/open-austin-org/jekyll/update/2015/10/21/code-for-america-summit-recap.html</link>
         <guid isPermaLink="true">http://yourdomain.com/open-austin-org/jekyll/update/2015/10/21/code-for-america-summit-recap.html</guid>
-
-
+        
+        
         <category>jekyll</category>
-
+        
         <category>update</category>
-
+        
       </item>
-
+    
   </channel>
 </rss>
