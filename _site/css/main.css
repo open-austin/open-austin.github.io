@@ -69,10 +69,10 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #f48400;
+  color: #0086A7;
   text-decoration: none; }
   a:visited {
-    color: #a85b00; }
+    color: #0086A7; }
   a:hover {
     color: #2d2d2d;
     text-decoration: underline; }
@@ -82,7 +82,7 @@ a {
  */
 blockquote {
   color: #5D5D5D;
-  border-left: 4px solid #c3c3c3;
+  border-left: 4px solid white;
   padding-left: 15px;
   font-size: 18px;
   letter-spacing: -1px;
@@ -96,7 +96,7 @@ blockquote {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #c3c3c3;
+  border: 1px solid white;
   border-radius: 3px;
   background-color: #eef; }
 
@@ -191,7 +191,7 @@ pre {
       top: 9px;
       right: 15px;
       background-color: #fdfdfd;
-      border: 1px solid #c3c3c3;
+      border: 1px solid white;
       border-radius: 5px;
       text-align: right; }
       .site-nav .menu-icon {
@@ -224,7 +224,7 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #c3c3c3;
+  border-top: 1px solid white;
   padding: 30px 0;
   background: #1d1d1d; }
 
@@ -239,7 +239,7 @@ pre {
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: #c3c3c3;
+  color: white;
   margin-left: -15px; }
 
 .footer-col {
@@ -316,29 +316,84 @@ pre {
   display: block;
   font-size: 24px; }
 
-.hero-section {
-  width: 100%;
-  background: url("open-austin-org/images/hero.png");
-  background-color: #f8cba9;
-  text-align: center; }
+.default-btn {
+  border: 0;
+  background-color: #00CAF4;
+  font-family: "Myriad Pro", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fdfdfd;
+  height: 32px;
+  width: 150px;
+  border-radius: 8px; }
 
-.ul-event-list li {
+.hero-section {
+  background: url("/open-austin-org/images/hero2.png");
+  background-color: #fef6f0;
+  background-size: cover;
+  text-align: center;
+  color: #fdfdfd;
+  height: 270px;
+  margin-top: -30px; }
+  .hero-section h1 {
+    font-size: 64px;
+    font-weight: bold;
+    margin-bottom: 15px; }
+  .hero-section p {
+    font-family: Georgia;
+    font-style: italic;
+    font-size: 24px;
+    padding-left: 210px;
+    padding-right: 210px; }
+
+#list-wrapper {
+  height: 220px; }
+
+.home-events {
+  text-align: center;
+  display: table;
+  /* Allow the centering to work */
+  margin: 0 auto; }
+
+#ul-event-list li {
   line-height: 100px;
-  display: block;
+  display: inline;
   float: left;
   width: 200px;
   height: 200x;
   line-height: 20px;
   padding-top: 10px;
   text-align: center; }
-  .ul-event-list li:not(:last-child) {
+  #ul-event-list li:not(:last-child) {
     margin-right: 20px; }
-    .ul-event-list li:not(:last-child) > svg {
+    #ul-event-list li:not(:last-child) > svg {
       width: 18px;
       height: 15px; }
 
 .current-news {
-  clear: left; }
+  text-align: center;
+  clear: left;
+  display: table;
+  /* Allow the centering to work */
+  margin: 0 auto; }
+
+.post-list li {
+  line-height: 100px;
+  display: inline;
+  float: left;
+  width: 200px;
+  height: 200x;
+  line-height: 20px;
+  padding-top: 10px;
+  text-align: center; }
+  .post-list li:not(:last-child) {
+    margin-right: 20px; }
+    .post-list li:not(:last-child) > svg {
+      width: 18px;
+      height: 15px; }
+
+.featured-project {
+  text-align: center; }
 
 /**
  * Posts

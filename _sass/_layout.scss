@@ -183,6 +183,7 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+
 }
 
 .page-heading {
@@ -233,17 +234,57 @@
     font-size: 24px;
 }
 
-.hero-section {
-    width: 100%;
-    background: url("open-austin-org/images/hero.png");
-    background-color: $light-orange-color-transparent;
-    text-align: center;
+.default-btn {
+    border: 0;
+    background-color: $light-blue;
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    font-weight: bold;
+    color: $background-color;
+    height: $base-font-size * 2;
+    width: 150px;
+    border-radius: 8px;
 }
 
 
-.ul-event-list li {
+.hero-section {
+    background: url("/open-austin-org/images/hero2.png");
+    background-color: $light-orange-color-transparent;
+    background-size: cover;
+    text-align: center;
+    color: $background-color;
+    height: $spacing-unit * 9;
+    margin-top: -$spacing-unit * 1;
+        h1 {
+            font-size: $base-font-size * 4;
+            font-weight: bold;
+            margin-bottom: $spacing-unit * .5;
+        }
+        
+        p {
+            font-family: Georgia;
+            font-style: italic;
+            font-size: $base-font-size * 1.5;
+            padding-left: $spacing-unit * 7;
+            padding-right: $spacing-unit * 7;
+        }
+}
+
+
+
+#list-wrapper {
+    height: 220px;
+}
+
+.home-events {
+    text-align: center;
+    display: table;   /* Allow the centering to work */
+    margin: 0 auto;
+}
+
+#ul-event-list li {
     line-height: 100px;
-    display: block;
+    display: inline;
     float: left;
     width: 200px;
     height: 200x;
@@ -259,7 +300,32 @@
     }
 }
 .current-news {
+    text-align: center;
     clear: left;
+    display: table;   /* Allow the centering to work */
+    margin: 0 auto;
+}
+
+.post-list li {
+    line-height: 100px;
+    display: inline;
+    float: left;
+    width: 200px;
+    height: 200x;
+    line-height: 20px;
+    padding-top: 10px;
+    text-align: center;
+    &:not(:last-child) {
+        margin-right: 20px;
+    > svg {
+            width: 18px;
+            height: 15px;
+        }
+    }
+}
+
+.featured-project{
+        text-align: center;
 }
 
 
