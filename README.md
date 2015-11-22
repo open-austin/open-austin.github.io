@@ -25,3 +25,14 @@ Higher fidelity Mockup from 24-Aug Meeting ([PDF](https://github.com/open-austin
 ### Assets/Images
 [Links to potential assets/images](https://github.com/open-austin/OA-Website/wiki/Assets-&-Images-for-potential-use)
 
+### Import Wordpress.com
+
+```
+gem install jekyll-import hpricot open_uri_redirections
+ruby -rubygems -e 'require "jekyll-import";
+    JekyllImport::Importers::WordpressDotCom.run({
+      "source" => "import/openaustin.wordpress.2015-11-21.xml",
+      "no_fetch_images" => false,
+      "assets_folder" => "assets"
+    })'
+```

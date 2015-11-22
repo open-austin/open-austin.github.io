@@ -21,7 +21,7 @@ layout: default
       <h2>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
-      <span class="post-meta">{% if post.author %}{{ post.author }}{% endif %} | {{ post.date | date: "%b %-d, %Y" }}</span>
+      <span class="post-meta">{% if post.author %}{{ post.author['first_name'] }} {{ post.author['last_name'] }}{% endif %} | {{ post.date | date: "%b %-d, %Y" }}</span>
       <p>{% if post.summary %}{{ post.summary }}{% endif %}</p>
       <a class="continue-link" href="{{ post.url | prepend: site.baseurl }}">Continue Reading...</a>
     </div>
