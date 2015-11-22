@@ -377,7 +377,7 @@ pre {
   /* Allow the centering to work */
   margin: 0 auto; }
 
-.post-list li {
+.current-news .post-list li {
   line-height: 100px;
   display: inline;
   float: left;
@@ -386,9 +386,9 @@ pre {
   line-height: 20px;
   padding-top: 10px;
   text-align: center; }
-  .post-list li:not(:last-child) {
+  .current-news .post-list li:not(:last-child) {
     margin-right: 20px; }
-    .post-list li:not(:last-child) > svg {
+    .current-news .post-list li:not(:last-child) > svg {
       width: 18px;
       height: 15px; }
 
