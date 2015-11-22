@@ -3,7 +3,7 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-    border-bottom: 8px solid $orange-color;
+    border-bottom: 8px solid $light-blue;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -255,7 +255,7 @@
 
 .default-btn {
     border: 0;
-    background-color: $light-blue;
+    background-color: $orange-color;
     font-family: $base-font-family;
     font-size: $base-font-size;
     font-weight: bold;
@@ -268,7 +268,7 @@
 
 .hero-section {
     background: url("/open-austin-org/images/hero2.png");
-    background-color: $light-orange-color-transparent;
+    background-color: $blue-jeans;
     background-size: cover;
     text-align: center;
     color: $background-color;
