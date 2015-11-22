@@ -166,6 +166,16 @@ pre {
   .site-title, .site-title:visited {
     color: #1d1d1d; }
 
+.trigger ul {
+  float: right;
+  margin: 0;
+  margin-left: 5px; }
+
+.trigger li {
+  float: left;
+  list-style-type: none;
+  margin-left: 15px; }
+
 .site-nav {
   float: right;
   line-height: 56px; }
@@ -175,16 +185,21 @@ pre {
     color: #2d2d2d;
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
-      margin-right: 20px; }
+      margin-left: 20px; }
   .site-nav a.page-link {
     text-transform: uppercase;
     text-decoration: none; }
+  .site-nav a.page-link:hover {
+    border-bottom: 3px solid #f48400;
+    padding-bottom: 5px; }
   .site-nav a.page-link.learn-more-link {
     background-color: #f48400;
     padding: 10px;
     color: white;
     border-radius: 10px;
     font-weight: 500; }
+  .site-nav a.page-link.learn-more-link:hover {
+    border-bottom: none; }
   @media screen and (max-width: 600px) {
     .site-nav {
       position: absolute;
@@ -287,7 +302,7 @@ pre {
  */
 .post-col {
   float: left;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
   padding-right: 15px; }
 
 .post-col-1 {
@@ -306,7 +321,8 @@ pre {
   margin-left: 0;
   list-style: none; }
   .post-list > li {
-    margin-bottom: 30px; }
+    margin-bottom: 30px;
+    clear: both; }
 
 .post-meta {
   font-size: 14px;

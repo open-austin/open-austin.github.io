@@ -23,6 +23,16 @@
         color: $grey-color-dark;
     }
 }
+.trigger ul {
+    float: right;
+    margin: 0;
+    margin-left: 5px;
+}
+.trigger li {
+    float: left;
+    list-style-type: none;
+    margin-left: 15px;
+}
 
 .site-nav {
     float: right;
@@ -38,7 +48,7 @@
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
-            margin-right: 20px;
+            margin-left: 20px;
         }
     }
 
@@ -47,12 +57,20 @@
         text-decoration: none;
     }
 
+    a.page-link:hover {
+        border-bottom: 3px solid $orange-color;
+        padding-bottom: 5px;
+    }
+
     a.page-link.learn-more-link {
         background-color: $orange-color;
         padding: 10px;
         color: white;
         border-radius: 10px;
         font-weight: 500;
+    }
+    a.page-link.learn-more-link:hover {
+        border-bottom: none;
     }
 
     @include media-query($on-palm) {
@@ -195,7 +213,7 @@
 
 .post-col {
      float: left;
-     margin-bottom: $spacing-unit / 2;
+     margin-bottom: $spacing-unit / 1;
      padding-right: $spacing-unit / 2;
  }
 .post-col-1 {
@@ -220,6 +238,7 @@
 
     > li {
         margin-bottom: $spacing-unit;
+        clear: both;
     }
 }
 
