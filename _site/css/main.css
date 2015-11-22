@@ -334,8 +334,8 @@ pre {
 
 .hero-section {
   width: 100%;
+  background: url("open-austin-org/images/hero.png");
   background-color: #f8cba9;
-  background-image: url("images/hero.png");
   text-align: center; }
 
 .ul-event-list li {
