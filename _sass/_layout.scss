@@ -267,9 +267,10 @@
 
 
 .hero-section {
-    background: url("/open-austin-org/images/hero2.png");
+    background: url("/open-austin-org/images/hero2.jpg");
     background-color: $blue-jeans;
     background-size: cover;
+    border-bottom: 8px solid $light-blue;
     text-align: center;
     color: $background-color;
     height: $spacing-unit * 9;
@@ -299,16 +300,24 @@
     text-align: center;
     display: table;   /* Allow the centering to work */
     margin: 0 auto;
+    padding: $spacing-unit;
+}
+
+#ul-event-list button {
+    background-color: $background-color;
+    color: $orange-color;
+    padding: $spacing-unit;
+    font-size: $small-font-size;
+    width: $spacing-unit * 6;
+    clear: left;
 }
 
 #ul-event-list li {
-    line-height: 100px;
+    line-height: $spacing-unit * 4;
     display: inline;
     float: left;
-    width: 200px;
-    height: 200x;
-    line-height: 20px;
-    padding-top: 10px;
+    width: $spacing-unit * 8;
+    height: $spacing-unit * 8;
     text-align: center;
     &:not(:last-child) {
         margin-right: 20px;
@@ -316,8 +325,14 @@
             width: 18px;
             height: 15px;
         }
-    }
+   
 }
+.event-list-element img {
+        padding: 20px;
+        color: $orange-color;
+        }
+    }
+
 .current-news {
     text-align: center;
     clear: left;
@@ -325,7 +340,7 @@
     margin: 0 auto;
 }
 
-.current-news .post-list li {
+.current-news li {
     line-height: 100px;
     display: inline;
     float: left;

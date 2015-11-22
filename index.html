@@ -13,28 +13,31 @@ layout: default
   </div>
   <div id="wrapper">
     <div class="home-events">
-      <h2>Featured Events</h2>
       <div id = "list-wrapper">
         <ul id = "ul-event-list">
           <li class="event-list-element">
-            <img src ="http://www2.psd100.com/ppp/2013/10/0501/Calendar-icon-1005061602.png">
-            <h3>Since 2009 Open Austin has been working hard with Hackers, Policy People, educators.</h3>
+            <img src ="/open-austin-org/images/comehang.png">
+            <button class="default-btn">COME HANG OUT</button>
           </li>
           <li class = "event-list-element">
-            <img src ="http://www2.psd100.com/ppp/2013/10/0501/Calendar-icon-1005061602.png">
-            <h3>Since 2009 Open Austin has been working hard with Hackers, Policy People, educators.</h3>
+            <img src ="/open-austin-org/images/talktous.png">
+            <button class="default-btn">TALKTOUS</button>
           </li>
           <li class = "event-list-element">
-            <img src ="http://www2.psd100.com/ppp/2013/10/0501/Calendar-icon-1005061602.png">
-            <h3>Since 2009 Open Austin has been working hard with Hackers, Policy People, educators.</h3>
+            <img src ="/open-austin-org/images/connect.png">
+            <button class="default-btn">GET CONNECTED</button>
+          </li>
+          <li class = "event-list-element">
+            <img src ="/open-austin-org/images/contribute.png">
+            <button class="default-btn">HACK</button>
           </li>
         </ul>
       </div>
     </div>
     <div class="current-news">
-      <h2>Placeholder for news</h2>
+      <h2>LATEST NEWS</h2>
       <ul class="post-list">
-      {% for post in site.posts %}
+      {% for post in site.posts limit:4 %}
         <li>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
