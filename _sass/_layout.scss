@@ -3,7 +3,7 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-    border-bottom: 8px solid $orange-color;
+    border-bottom: 8px solid $light-blue;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -23,11 +23,13 @@
         color: $grey-color-dark;
     }
 }
+
 .trigger ul {
     float: right;
     margin: 0;
     margin-left: 5px;
 }
+
 .trigger li {
     float: left;
     list-style-type: none;
@@ -51,6 +53,7 @@
             margin-left: 20px;
         }
     }
+}
 
     a.page-link {
         text-transform: uppercase;
@@ -121,7 +124,6 @@
             margin-left: 20px;
         }
     }
-}
 
 
 
@@ -201,7 +203,6 @@
  */
 .page-content {
     padding: $spacing-unit 0;
-
 }
 
 .page-heading {
@@ -215,8 +216,9 @@
 .post-col {
      float: left;
      margin-bottom: $spacing-unit / 1;
-     padding-right: $spacing-unit / 2;
- }
+     padding-right: $spacing-unit / 2; 
+}
+
 .post-col-1 {
      width: -webkit-calc(30% - (#{$spacing-unit} / 2));
      width:         calc(30% - (#{$spacing-unit} / 2));
@@ -255,7 +257,7 @@
 
 .default-btn {
     border: 0;
-    background-color: $light-blue;
+    background-color: $orange-color;
     font-family: $base-font-family;
     font-size: $base-font-size;
     font-weight: bold;
@@ -265,11 +267,24 @@
     border-radius: 8px;
 }
 
+.default-btn-2 button {
+    border: 0;
+    background-color: $background-color;
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    font-weight: bold;
+    color: $orange-color;
+    height: $base-font-size * 2;
+    width: 150px;
+    border-radius: 8px;
+}
+
 
 .hero-section {
-    background: url("/open-austin-org/images/hero2.png");
-    background-color: $light-orange-color-transparent;
+    background: url("/open-austin-org/images/hero2.jpg");
+    background-color: $blue-jeans;
     background-size: cover;
+    border-bottom: 8px solid $light-blue;
     text-align: center;
     color: $background-color;
     height: $spacing-unit * 9;
@@ -292,47 +307,38 @@
 
 
 #list-wrapper {
-    height: 220px;
+    height: $spacing-unit * 4;
 }
 
 .home-events {
     text-align: center;
     display: table;   /* Allow the centering to work */
     margin: 0 auto;
+    padding: $spacing-unit;
 }
 
-#ul-event-list li {
-    line-height: 100px;
-    display: inline;
-    float: left;
-    width: 200px;
-    height: 200x;
-    line-height: 20px;
-    padding-top: 10px;
-    text-align: center;
-    &:not(:last-child) {
-        margin-right: 20px;
-    > svg {
-            width: 18px;
-            height: 15px;
-        }
-    }
-}
 .current-news {
     text-align: center;
-    clear: left;
     display: table;   /* Allow the centering to work */
     margin: 0 auto;
+    padding: $spacing-unit;
 }
 
-.current-news .post-list li {
-    line-height: 100px;
+#ul-list button {
+    background-color: $background-color;
+    color: $orange-color;
+    padding: $spacing-unit * 2;
+    font-size: $small-font-size;
+    width: $spacing-unit * 6;
+    clear: left;
+}
+
+#ul-list li {
+    line-height: $spacing-unit * 4;
     display: inline;
     float: left;
-    width: 200px;
-    height: 200x;
-    line-height: 20px;
-    padding-top: 10px;
+    width: $spacing-unit * 8;
+    height: $spacing-unit * 8;
     text-align: center;
     &:not(:last-child) {
         margin-right: 20px;
@@ -340,11 +346,22 @@
             width: 18px;
             height: 15px;
         }
-    }
+   
 }
 
-.featured-project{
-        text-align: center;
+.event-list-element img {
+        padding: 20px;
+        color: $orange-color;
+}
+
+.post-list-element img {
+        padding: 20px;
+        color: $orange-color;
+}
+
+
+.featured-project {
+    text-align: center;
 }
 
 
