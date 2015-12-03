@@ -23,13 +23,11 @@
         color: $grey-color-dark;
     }
 }
-
 .trigger ul {
     float: right;
     margin: 0;
     margin-left: 5px;
 }
-
 .trigger li {
     float: left;
     list-style-type: none;
@@ -53,7 +51,6 @@
             margin-left: 20px;
         }
     }
-}
 
     a.page-link {
         text-transform: uppercase;
@@ -124,6 +121,7 @@
             margin-left: 20px;
         }
     }
+}
 
 
 
@@ -207,6 +205,7 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+
 }
 
 .page-heading {
@@ -220,9 +219,8 @@
 .post-col {
      float: left;
      margin-bottom: $spacing-unit / 1;
-     padding-right: $spacing-unit / 2; 
-}
-
+     padding-right: $spacing-unit / 2;
+ }
 .post-col-1 {
      width: -webkit-calc(30% - (#{$spacing-unit} / 2));
      width:         calc(30% - (#{$spacing-unit} / 2));
@@ -271,18 +269,6 @@
     border-radius: 8px;
 }
 
-.default-btn-2 button {
-    border: 0;
-    background-color: $background-color;
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    font-weight: bold;
-    color: $orange-color;
-    height: $base-font-size * 2;
-    width: 150px;
-    border-radius: 8px;
-}
-
 
 .hero-section {
     background: url("/open-austin-org/images/hero2.jpg");
@@ -311,7 +297,7 @@
 
 
 #list-wrapper {
-    height: $spacing-unit * 4;
+    height: 220px;
 }
 
 .home-events {
@@ -321,23 +307,16 @@
     padding: $spacing-unit;
 }
 
-.current-news {
-    text-align: center;
-    display: table;   /* Allow the centering to work */
-    margin: 0 auto;
-    padding: $spacing-unit;
-}
-
-#ul-list button {
+#ul-event-list button {
     background-color: $background-color;
     color: $orange-color;
-    padding: $spacing-unit * 2;
+    padding: $spacing-unit;
     font-size: $small-font-size;
     width: $spacing-unit * 6;
     clear: left;
 }
 
-#ul-list li {
+#ul-event-list li {
     line-height: $spacing-unit * 4;
     display: inline;
     float: left;
@@ -352,20 +331,39 @@
         }
    
 }
-
 .event-list-element img {
         padding: 20px;
         color: $orange-color;
-}
+        }
+    }
 
-.post-list-element img {
-        padding: 20px;
-        color: $orange-color;
-}
-
-
-.featured-project {
+.current-news {
     text-align: center;
+    clear: left;
+    display: table;   /* Allow the centering to work */
+    margin: 0 auto;
+}
+
+.current-news li {
+    line-height: 100px;
+    display: inline;
+    float: left;
+    width: 200px;
+    height: 200x;
+    line-height: 20px;
+    padding-top: 10px;
+    text-align: center;
+    &:not(:last-child) {
+        margin-right: 20px;
+    > svg {
+            width: 18px;
+            height: 15px;
+        }
+    }
+}
+
+.featured-project{
+        text-align: center;
 }
 
 
