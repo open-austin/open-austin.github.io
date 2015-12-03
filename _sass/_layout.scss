@@ -145,6 +145,11 @@
     margin-left: 0;
 }
 
+.sponsor-list {
+        list-style: none;
+        margin-left: 0;
+}
+
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color-light;
@@ -264,22 +269,21 @@
     font-size: $base-font-size;
     font-weight: bold;
     color: $background-color;
-    height: $base-font-size * 2;
-    width: 150px;
+    height: $base-font-size * 3;
+    width: $base-font-size * 10;
     border-radius: 8px;
 }
 
 
 .hero-section {
-    background: url("/open-austin-org/images/hero2.jpg");
     background-color: $blue-jeans;
-    background-size: cover;
     border-bottom: 8px solid $light-blue;
     text-align: center;
     color: $background-color;
-    height: $spacing-unit * 9;
+    height: $spacing-unit * 11;
     margin-top: -$spacing-unit * 1;
         h1 {
+            padding-top: $spacing-unit * 1.5;
             font-size: $base-font-size * 4;
             font-weight: bold;
             margin-bottom: $spacing-unit * .5;
@@ -317,10 +321,10 @@
 }
 
 #ul-event-list li {
-    line-height: $spacing-unit * 4;
+    line-height: $spacing-unit * 3;
     display: inline;
     float: left;
-    width: $spacing-unit * 8;
+    width: $spacing-unit * 7;
     height: $spacing-unit * 8;
     text-align: center;
     &:not(:last-child) {
