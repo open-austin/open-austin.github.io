@@ -12,6 +12,8 @@ Staging Site: http://open-austin.github.io/open-austin-org/
 ### Design Docs
 [Design Brief](https://github.com/open-austin/open-austin.org/blob/master/OA%20Design%20Brief.pdf)
 
+[Colors/Typography](https://github.com/open-austin/open-austin-org/blob/gh-pages/planning-design/colorstypography2.png)
+
 ### Mockups
 [Homepage Mockups from 1-Sept](https://github.com/open-austin/open-austin.org/blob/master/oa_homepage_mockup.pdf)
 
@@ -42,3 +44,15 @@ Higher fidelity Mockup from 24-Aug Meeting ([PDF](https://github.com/open-austin
 - Install [**chruby**](https://github.com/postmodern/chruby) to switch ruby versions.
 	- `brew install chruby`
 	- `chruby ruby 2.2.2`
+
+### Import Wordpress.com
+
+```
+gem install jekyll-import hpricot open_uri_redirections
+ruby -rubygems -e 'require "jekyll-import";
+    JekyllImport::Importers::WordpressDotCom.run({
+      "source" => "import/openaustin.wordpress.2015-11-21.xml",
+      "no_fetch_images" => false,
+      "assets_folder" => "assets"
+    })'
+```

@@ -38,7 +38,6 @@ ul, ol, dl, figure,
 }
 
 
-
 /**
  * Images
  */
@@ -76,6 +75,9 @@ li {
     }
 }
 
+.ul-event-list li {
+    display: inline;
+}
 
 
 /**
@@ -91,11 +93,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: $blue-jeans;
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: $blue-jeans;
     }
 
     &:hover {

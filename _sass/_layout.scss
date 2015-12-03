@@ -3,7 +3,7 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-    border-bottom: 8px solid $orange-color;
+    border-bottom: 8px solid $light-blue;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -23,6 +23,16 @@
         color: $grey-color-dark;
     }
 }
+.trigger ul {
+    float: right;
+    margin: 0;
+    margin-left: 5px;
+}
+.trigger li {
+    float: left;
+    list-style-type: none;
+    margin-left: 15px;
+}
 
 .site-nav {
     float: right;
@@ -38,7 +48,7 @@
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
-            margin-right: 20px;
+            margin-left: 20px;
         }
     }
 
@@ -47,12 +57,20 @@
         text-decoration: none;
     }
 
+    a.page-link:hover {
+        border-bottom: 3px solid $orange-color;
+        padding-bottom: 5px;
+    }
+
     a.page-link.learn-more-link {
         background-color: $orange-color;
         padding: 10px;
         color: white;
         border-radius: 10px;
         font-weight: 500;
+    }
+    a.page-link.learn-more-link:hover {
+        border-bottom: none;
     }
 
     @include media-query($on-palm) {
@@ -113,6 +131,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    background: $grey-color-dark;
 }
 
 .footer-heading {
@@ -128,7 +147,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $grey-color-light;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -186,11 +205,37 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+
 }
 
 .page-heading {
     font-size: 20px;
 }
+
+/**
+ * Post content
+ */
+
+.post-col {
+     float: left;
+     margin-bottom: $spacing-unit / 1;
+     padding-right: $spacing-unit / 2;
+ }
+.post-col-1 {
+     width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+     width:         calc(30% - (#{$spacing-unit} / 2));
+}
+
+.post-col-2 {
+     width: -webkit-calc(60% - (#{$spacing-unit} / 2));
+     width:         calc(60% - (#{$spacing-unit} / 2));
+}
+
+.post-col-3 {
+     width: -webkit-calc(10% - (#{$spacing-unit} / 2));
+     width:         calc(10% - (#{$spacing-unit} / 2));
+}
+
 
 .post-list {
     margin-left: 0;
@@ -198,6 +243,7 @@
 
     > li {
         margin-bottom: $spacing-unit;
+        clear: both;
     }
 }
 
@@ -209,6 +255,115 @@
 .post-link {
     display: block;
     font-size: 24px;
+}
+
+.default-btn {
+    border: 0;
+    background-color: $orange-color;
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    font-weight: bold;
+    color: $background-color;
+    height: $base-font-size * 2;
+    width: 150px;
+    border-radius: 8px;
+}
+
+
+.hero-section {
+    background: url("/open-austin-org/images/hero2.jpg");
+    background-color: $blue-jeans;
+    background-size: cover;
+    border-bottom: 8px solid $light-blue;
+    text-align: center;
+    color: $background-color;
+    height: $spacing-unit * 9;
+    margin-top: -$spacing-unit * 1;
+        h1 {
+            font-size: $base-font-size * 4;
+            font-weight: bold;
+            margin-bottom: $spacing-unit * .5;
+        }
+        
+        p {
+            font-family: Georgia;
+            font-style: italic;
+            font-size: $base-font-size * 1.5;
+            padding-left: $spacing-unit * 7;
+            padding-right: $spacing-unit * 7;
+        }
+}
+
+
+
+#list-wrapper {
+    height: 220px;
+}
+
+.home-events {
+    text-align: center;
+    display: table;   /* Allow the centering to work */
+    margin: 0 auto;
+    padding: $spacing-unit;
+}
+
+#ul-event-list button {
+    background-color: $background-color;
+    color: $orange-color;
+    padding: $spacing-unit;
+    font-size: $small-font-size;
+    width: $spacing-unit * 6;
+    clear: left;
+}
+
+#ul-event-list li {
+    line-height: $spacing-unit * 4;
+    display: inline;
+    float: left;
+    width: $spacing-unit * 8;
+    height: $spacing-unit * 8;
+    text-align: center;
+    &:not(:last-child) {
+        margin-right: 20px;
+    > svg {
+            width: 18px;
+            height: 15px;
+        }
+   
+}
+.event-list-element img {
+        padding: 20px;
+        color: $orange-color;
+        }
+    }
+
+.current-news {
+    text-align: center;
+    clear: left;
+    display: table;   /* Allow the centering to work */
+    margin: 0 auto;
+}
+
+.current-news li {
+    line-height: 100px;
+    display: inline;
+    float: left;
+    width: 200px;
+    height: 200x;
+    line-height: 20px;
+    padding-top: 10px;
+    text-align: center;
+    &:not(:last-child) {
+        margin-right: 20px;
+    > svg {
+            width: 18px;
+            height: 15px;
+        }
+    }
+}
+
+.featured-project{
+        text-align: center;
 }
 
 
