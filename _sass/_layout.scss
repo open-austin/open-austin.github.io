@@ -288,7 +288,7 @@
             font-weight: bold;
             margin-bottom: $spacing-unit * .5;
         }
-        
+
         p {
             font-family: Georgia;
             font-style: italic;
@@ -333,7 +333,7 @@
             width: 18px;
             height: 15px;
         }
-   
+
 }
 .event-list-element img {
         padding: 20px;
@@ -377,6 +377,10 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+}
+
+article.post {
+    margin-top: $spacing-unit;
 }
 
 .post-title {
