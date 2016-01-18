@@ -16,14 +16,14 @@ $spacing-unit:     30px;
 
 $background-color: #fdfdfd;
 
+$orange-color: #F05837;
+$brand-color:  #F05837;
+$blue-jeans:   #0086A7;
+$light-blue:   #00CAF4;
+$text-color:   #2d2d2d;
+$grey-color:   #5D5D5D;
 $light-orange-color: #ef8433;
 $light-orange-color-transparent: lighten($light-orange-color, 40%);
-$orange-color:      #F05837;
-$brand-color:      #F05837;
-$blue-jeans: #0086A7;
-$light-blue: #00CAF4;
-$text-color:       #2d2d2d;
-$grey-color:       #5D5D5D;
 $grey-color-light: lighten($grey-color, 70%);
 $grey-color-dark:  darken($grey-color, 25%);
 $light-grey-color: #D8d8d8;
@@ -53,8 +53,7 @@ $on-laptop:        800px;
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+@import "base";
+@import "typography";
+@import "layout";
+@import "syntax-highlighting";

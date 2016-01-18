@@ -1,0 +1,32 @@
+$color-primary:            #F68400;
+$color-primary-light:      #FF990D;
+$color-secondary:          #0086A9;
+$color-secondary-light:    #00C9F6;
+$color-nuetral-black:      #2D2D2D;
+$color-nuetral-dark-grey:  #AEAEAE;
+$color-nuetral-light-grey: #D8D8D8;
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700|Open+Sans:700,400);
+
+$font-primary: 'Raleway', sans-serif;
+$font-secondary: 'Open Sans', sans-serif;
+
+h1, .h1 {
+  font-family: $font-primary;
+}
+
+h2, .h2 {
+  font-family: $font-primary;
+}
+
+h3, .h3 {
+  font-family: $font-primary;
+}
+
+h4, .h4 {
+  font-family: $font-primary;
+}
+
+body, p {
+  font-family: $font-secondary;
+}
