@@ -23,6 +23,11 @@
         color: $grey-color-dark;
     }
 }
+
+.site-title-logo {
+    width: 110px;
+}
+
 .trigger ul {
     float: right;
     margin: 0;
@@ -37,6 +42,7 @@
 .site-nav {
     float: right;
     line-height: 56px;
+    padding: 18px 0;
 
     .menu-icon {
         display: none;
