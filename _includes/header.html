@@ -20,21 +20,16 @@
         <a class="page-link" href="{{ site.baseurl }}/advocacy">Advocacy</a>
         <a class="page-link" href="{{ site.baseurl }}/events">Events</a>
         <a class="page-link" href="{{ site.baseurl }}/projects">Projects</a>
-        <a class="page-link" href="{{site.baseurl}}/blog">Blog</a>
-          <a class="page-link learn-more-link" href="#">Learn More</a>
-          {% if site.github_username %}
-          <ul>
+        <a class="page-link" href="{{ site.baseurl }}/blog">Blog</a>
+        <a class="page-link learn-more-link" href="{{ site.baseurl }}/about/learn-more">Learn More</a>
+        <ul>
           <li>
             {% include icon-github.html username=site.github_username %}
           </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
         </ul>
-          {% endif %}
       </div>
 
     </nav>
