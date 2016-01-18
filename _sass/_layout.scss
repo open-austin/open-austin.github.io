@@ -64,19 +64,20 @@
     }
 
     a.page-link:hover {
-        border-bottom: 3px solid $orange-color;
+        border-bottom: 3px solid $color-primary;
         padding-bottom: 5px;
     }
 
     a.page-link.learn-more-link {
-        background-color: $orange-color;
-        padding: 10px;
-        color: white;
+        background-color: $color-primary;
+        padding: 10px 15px;
+        color: $color-neutral-white;
         border-radius: 10px;
         font-weight: 500;
     }
     a.page-link.learn-more-link:hover {
         border-bottom: none;
+        background-color: $color-neutral-dark-gray;
     }
 
     @include media-query($on-palm) {
@@ -267,44 +268,6 @@
     display: block;
     font-size: 24px;
 }
-
-.default-btn {
-    border: 0;
-    background-color: $orange-color;
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    font-weight: bold;
-    color: $background-color;
-    height: $base-font-size * 3;
-    width: $base-font-size * 10;
-    border-radius: 8px;
-}
-
-
-.hero-section {
-    background-color: $blue-jeans;
-    border-bottom: 8px solid $light-blue;
-    text-align: center;
-    color: $background-color;
-    height: $spacing-unit * 11;
-    margin-top: -$spacing-unit * 1;
-        h1 {
-            padding-top: $spacing-unit * 1.5;
-            font-size: $base-font-size * 4;
-            font-weight: bold;
-            margin-bottom: $spacing-unit * .5;
-        }
-
-        p {
-            font-family: Georgia;
-            font-style: italic;
-            font-size: $base-font-size * 1.5;
-            padding-left: $spacing-unit * 7;
-            padding-right: $spacing-unit * 7;
-        }
-}
-
-
 
 #list-wrapper {
     height: 220px;
