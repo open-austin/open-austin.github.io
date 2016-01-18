@@ -2,8 +2,9 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
+    <a class="site-title" href="{{ site.baseurl }}/">
+      <img src="assets/logo/open-austin-logo.svg" alt="Open Austin Logo" class="site-title-logo">
+    </a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -15,7 +16,7 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}        
+        {% for my_page in site.pages %}
           {% if my_page.title and my_page.header %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
