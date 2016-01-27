@@ -1,0 +1,36 @@
+// Original (needs review before delete)
+$background-color: #fdfdfd;
+$orange-color: #F05837;
+$brand-color:  #F05837;
+$blue-jeans:   #0086A7;
+$light-blue:   #00CAF4;
+$text-color:   #2d2d2d;
+$grey-color:   #5D5D5D;
+$light-orange-color: #ef8433;
+$light-orange-color-transparent: lighten($light-orange-color, 40%);
+$grey-color-light: lighten($grey-color, 70%);
+$grey-color-dark:  darken($grey-color, 25%);
+$light-grey-color: #D8d8d8;
+
+// -------------
+// Updated Colors
+
+$oa-orange: #ED6B3D;
+$oa-gray:   #5D5D5D;
+
+// primary colors
+$color-primary:            $oa-orange; // orange
+$color-primary-light:      #F68400; // light orange
+$color-primary-dark:       #A03D19; // light orange
+
+// seconday colors
+// $color-secondary:          #0086A9; // dark teal blue
+// $color-secondary:          #1D34BA; // dark teal blue
+$color-secondary:          $oa-gray; // dark teal blue
+$color-secondary-light:    #00C9F6; // sky blue
+
+// neutral colors
+$color-neutral-black:      #2D2D2D; // very dark gray
+$color-neutral-dark-gray:  #AEAEAE; // med gray
+$color-neutral-light-gray: #D8D8D8; // light gray
+$color-neutral-white:      #FFFFFF; // white
