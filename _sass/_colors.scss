@@ -26,8 +26,11 @@ $color-primary-dark:       #A03D19; // light orange
 // seconday colors
 // $color-secondary:          #0086A9; // dark teal blue
 // $color-secondary:          #1D34BA; // dark teal blue
-$color-secondary:          $oa-gray; // dark teal blue
-$color-secondary-light:    #00C9F6; // sky blue
+$color-secondary: $oa-gray; // gray
+// $color-secondary-light:    #00C9F6; // sky blue
+
+// tertiary-colors
+$color-tertiary: #0082DE;
 
 // neutral colors
 $color-neutral-black:      #2D2D2D; // very dark gray

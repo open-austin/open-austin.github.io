@@ -1,5 +1,5 @@
 .hero-btn-set {
-  margin-top: 30px;
+  margin-top: 25px;
   list-style: none;
   display: flex;
   justify-content: center;
@@ -14,7 +14,6 @@
   margin: 0 25px;
   padding: 10px 20px;
   color: $color-neutral-white;
-  border: 2px solid $color-secondary;
   font-weight: bold;
   font-size: 28px;
   text-decoration: none;
@@ -24,7 +23,7 @@
   }
   &:hover {
     text-decoration: none;
-    background: $color-secondary;
+    background: $color-tertiary;
   }
 }
 
