@@ -1,0 +1,26 @@
+/**
+ * Icons
+ */
+.svg-icon {
+  > svg {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+
+    path {
+      fill: $oa-gray;
+      &:hover {
+        fill: $oa-blue;
+      }
+    }
+  }
+}
+
+.icon--twitter svg {
+  margin-bottom: 2px;
+}
+
+.icon--github svg {
+  margin-bottom: 5px;
+}
