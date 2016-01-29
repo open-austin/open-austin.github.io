@@ -14,11 +14,14 @@ $light-grey-color: #D8d8d8;
 
 // -------------
 // Updated Colors
+//
+// for inspiration:
+// http://style.codeforamerica.org/
 
 $oa-orange: #ED6B3D;
 $oa-gray:   #5D5D5D;
+$oa-blue:   #0082DE;
 
-// http://style.codeforamerica.org/
 $cfa-red: #cf1b41;
 $cfa-blue: #329ED5;
 $cfa-gray: #6D6E71;
@@ -28,14 +31,11 @@ $color-primary:            $oa-orange; // orange
 $color-primary-light:      #F68400; // light orange
 $color-primary-dark:       #A03D19; // light orange
 
-// seconday colors
-// $color-secondary:          #0086A9; // dark teal blue
-// $color-secondary:          #1D34BA; // dark teal blue
+
 $color-secondary: $oa-gray; // gray
-// $color-secondary-light:    #00C9F6; // sky blue
 
 // tertiary-colors
-$color-tertiary: #0082DE;
+$color-tertiary: $oa-blue;
 
 // neutral colors
 $color-neutral-black:      #2D2D2D; // very dark gray

@@ -69,15 +69,15 @@
     }
 
     a.page-link.learn-more-link {
-        background-color: $color-primary;
+        background-color: $oa-orange;
         padding: 10px 15px;
         color: $color-neutral-white;
         border-radius: 10px;
         font-weight: 500;
-    }
-    a.page-link.learn-more-link:hover {
-        border-bottom: none;
-        background-color: $color-neutral-dark-gray;
+        &:hover {
+          border-bottom: none;
+          background-color: $oa-blue;
+        }
     }
 
     @include media-query($on-palm) {
