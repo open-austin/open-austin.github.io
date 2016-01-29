@@ -1,0 +1,21 @@
+.icons-row {
+  display: flex;
+  padding: 30px 15%;
+  list-style: none;
+}
+
+.icons-row-item {
+  flex: 1;
+  margin: 0 3%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  svg {
+    height: 100px;
+    fill: $oa-gray;
+    margin-bottom: 15px;
+    &:hover {
+      fill: $oa-blue;
+    }
+  }
+}
