@@ -1,4 +1,4 @@
-.current-news {
+.featured-section {
   h2 {
     text-align: center;
   }
@@ -6,27 +6,47 @@
     font-weight: bold;
   }
   width: 100%;
-  background: $color-neutral-light-gray;
   padding: 30px;
   ul {
     margin: 0;
   }
+  &.current-news-section {
+    background: $color-neutral-light-gray;
+  }
 }
 
-.current-news-item {
+.featured-section-item {
   margin-top: 30px;
 }
 
-.current-news-thumbnail {
+.featured-section-image {
+  width: 250px;
+  margin-right: 30px;
+  text-align: center;
+}
+
+.featured-section-thumbnail {
   margin-right: 30px;
   height: 100%;
 }
 
-.current-news-summary {
+.featured-section-summary {
   margin-top: 15px;
 }
 
-.current-news-more {
+.featured-section-more {
   text-align: center;
   text-transform: uppercase;
+}
+
+.featured-project-header {
+  a {
+    margin-right: 10px;
+  }
+  .project-status {
+    margin-top: 5px;
+    &:hover {
+      text-decoration: none;
+    }
+  }
 }

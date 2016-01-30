@@ -16,6 +16,10 @@ baseurl: "/open-austin-org" # the subpath of your site, e.g. /blog
 url: "http://open-austin.github.io" # the base hostname & protocol for your site
 twitter_username: openaustin
 github_username:  open-austin
+collections:
+  projects:
+    output: true
+
 
 # Build settings
 markdown: kramdown

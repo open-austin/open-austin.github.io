@@ -27,14 +27,15 @@
   }
 }
 
-.default-btn {
+.btn {
     border: 0;
     background-color: $color-secondary;
-    font-family: $base-font-family;
     font-size: $base-font-size;
-    font-weight: bold;
     color: $background-color;
-    height: $base-font-size * 3;
-    width: $base-font-size * 10;
-    border-radius: 8px;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+.btn-beta-project {
+  background: $cfa-beta-blue;
 }
