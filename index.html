@@ -96,7 +96,7 @@ layout: default
             </div>
             <div class="flex-item">
               <div class="featured-project-header flex-container">
-                <a class="post-link" href="{{ site.baseurl }}/{{ project.url }}"><h3>{{ project.title }}</h3></a>
+                <a class="post-link" href="{{ site.baseurl }}{{ project.url }}"><h3>{{ project.title }}</h3></a>
                 <a href="{{ project.project_at }}" class="svg-icon icon--github">{% include icons/icon-github.svg %}</a>
                 <a class="project-status" href="https://www.codeforamerica.org/brigade/projects/stages">
                   <span class="btn btn-{{ project.cfa_stage }}-project">{{ project.cfa_stage }}</span>
@@ -106,7 +106,7 @@ layout: default
               <p class="featured-section-summary">
                 {{ project.description | strip_html | truncate: 420 }}
                 {% if project.description.size > 60 %}
-                <a href="{{ site.baseurl }}/{{ project.url }}">Read more</a>
+                <a href="{{ site.baseurl }}{{ project.url }}">Read more</a>
                 {% endif %}
               </p>
             </div>
