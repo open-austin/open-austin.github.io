@@ -8,6 +8,8 @@
     position: fixed;
     width: 100%;
     background: $color-neutral-white;
+    z-index: 1;
+    top: 0;
 }
 
 .site-title {
@@ -139,6 +141,9 @@
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
     background: $grey-color-dark;
+    position: relative;
+    top: 100px;
+
 }
 
 .footer-heading {
@@ -216,7 +221,8 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    top: 100px;
+    position: relative;
 
 }
 
@@ -309,31 +315,6 @@
         color: $orange-color;
         }
     }
-
-.current-news {
-    text-align: center;
-    clear: left;
-    display: table;   /* Allow the centering to work */
-    margin: 0 auto;
-}
-
-.current-news li {
-    line-height: 100px;
-    display: inline;
-    float: left;
-    width: 200px;
-    height: 200x;
-    line-height: 20px;
-    padding-top: 10px;
-    text-align: center;
-    &:not(:last-child) {
-        margin-right: 20px;
-    > svg {
-            width: 18px;
-            height: 15px;
-        }
-    }
-}
 
 .featured-project{
         text-align: center;

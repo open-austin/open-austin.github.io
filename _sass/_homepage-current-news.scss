@@ -1,0 +1,32 @@
+.current-news {
+  h2 {
+    text-align: center;
+  }
+  h3 {
+    font-weight: bold;
+  }
+  width: 100%;
+  background: $color-neutral-light-gray;
+  padding: 30px;
+  ul {
+    margin: 0;
+  }
+}
+
+.current-news-item {
+  margin-top: 30px;
+}
+
+.current-news-thumbnail {
+  margin-right: 30px;
+  height: 100%;
+}
+
+.current-news-summary {
+  margin-top: 15px;
+}
+
+.current-news-more {
+  text-align: center;
+  text-transform: uppercase;
+}

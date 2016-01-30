@@ -18,8 +18,6 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
-
 /**
  * Basic styling
  */
@@ -34,19 +32,6 @@ body {
     font-feature-settings: "kern" 1;
     font-kerning: normal;
 }
-
-
-
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
-%vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
-}
-
 
 /**
  * Images
@@ -103,15 +88,15 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $blue-jeans;
+    color: $oa-orange;
     text-decoration: none;
 
     &:visited {
-        color: $blue-jeans;
+        color: $oa-orange;
     }
 
     &:hover {
-        color: $text-color;
+        color: $oa-blue;
         text-decoration: underline;
     }
 }
@@ -172,8 +157,6 @@ pre {
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
@@ -184,6 +167,15 @@ pre {
     }
 }
 
+.h-wrap {
+  padding-left: $spacing-unit;
+  padding-right: $spacing-unit;
+}
+
+.v-wrap {
+  padding-top: $spacing-unit;
+  padding-bottom: $spacing-unit;
+}
 
 
 /**
