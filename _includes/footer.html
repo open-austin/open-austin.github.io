@@ -3,29 +3,47 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+      <div class="footer-social-media">
         <h2>Find Us Online</h2>
         <ul class="social-media-list">
-          {% if site.github_username %}
           <li>
-            {% include icons/icon-github.html username=site.github_username %}
+            <a href="https://twitter.com/{{ site.twitter_usernam }}">
+              <span class="footer-svg">{% include icons/icon-twitter.svg %}</span>
+            </a>
           </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
           <li>
-            {% include icons/icon-twitter.html username=site.twitter_username %}
+            <a href="https://www.facebook.com/Open-Austin-412390968837071/">
+              <span class="footer-svg">{% include icons/SVG/facebook2.svg %}</span>
+            </a>
           </li>
-          {% endif %}
+          <li>
+            <a href="https://github.com/{{ site.github_username }}">
+              <span class="footer-svg">{% include icons/SVG/logo-github.svg %}</span>
+            </a>
+          </li>
+          <li>
+            <a href="http://slack.open-austin.org/">
+              <span class="footer-svg">{% include icons/slack.svg %}</span>
+            </a>
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/feed.xml">
+              <span class="footer-svg">{% include icons/rss.svg %}</span>
+            </a>
+          </li>
+          <li>
+            <a href="mailto:info@open-austin.org">
+              <span class="footer-svg">{% include icons/email.svg %}</span>
+            </a>
+          </li>
         </ul>
       </div>
 
-      <div class="footer-col footer-col-2">
-        <h2>Sponsors</h2>
+      <div class="footer-special-thanks">
+        <h2>Special Thanks To</h2>
         <ul class="sponsor-list">
-          <li><a href = "http://www.codeforamerica.org"><img src = "/open-austin-org/assets/images/footercfa.png"></a></li>
-          <br>
-          <li><a href = "http://www.ch3data.com"><img src = "/open-austin-org/assets/images/footerch3.png"></a></li>
+          <li><a href="http://www.codeforamerica.org"><img src="{{ site.baseurl }}/assets/images/footercfa.png"></a></li>
+          <li><a href="http://www.ch3data.com"><img src="{{ site.baseurl }}/assets/images/footerch3.png"></a></li>
         </ul>
       </div>
     </div>
