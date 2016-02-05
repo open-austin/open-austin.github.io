@@ -43,10 +43,14 @@
 
 .social-media-list {
   margin-top: 10px;
+  align-items: center;
+  padding: 0 25px;
+  li {
+    flex: 1;
+  }
 }
 
 .footer-svg {
-  margin-right: 5%;
   svg {
     max-width: 200px;
     fill: $color-neutral-light-gray;
@@ -65,8 +69,12 @@
   }
 }
 
+.footer-svg-twitter svg {
+  width: 35px;
+}
+
 .footer-svg-facebook svg {
-  width: 45px;
+  width: 35px;
 }
 
 .footer-svg-github svg {
@@ -80,11 +88,16 @@
 }
 
 .footer-svg-meetup svg {
-  width: 70px;
+  width: 60px;
+}
+
+.footer-svg-rss svg {
+  width: 45px;
 }
 
 .footer-svg-email svg {
   width: 50px;
+  margin-right: 0px;
 }
 
 .footer-col-wrapper {
