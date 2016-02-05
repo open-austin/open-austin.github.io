@@ -1,0 +1,41 @@
+.featured-project {
+  list-style: none;
+  padding: 0 10px;
+}
+
+.featured-project-image-container {
+  width: 100%;
+  max-height: 250px;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.featured-project-image {
+  max-height: 220px;
+}
+
+.featured-project-header {
+  a {
+    margin: auto;
+    font-size: 18px;
+  }
+  .project-status {
+    margin-top: 5px;
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
+.featured-project-links {
+  a {
+    padding: 0 5px;
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
+.featured-project-summary {
+
+}
