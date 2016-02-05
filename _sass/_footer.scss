@@ -41,12 +41,17 @@
   }
 }
 
+.social-media-list {
+  margin-top: 10px;
+}
+
 .footer-svg {
   margin-right: 5%;
   svg {
     max-width: 200px;
     fill: $color-neutral-light-gray;
     height: 50px;
+    margin-right: 15px;
     path {
       fill: $color-neutral-light-gray;
       max-height: 50px;
@@ -58,6 +63,28 @@
       fill: $oa-blue;
     }
   }
+}
+
+.footer-svg-facebook svg {
+  width: 45px;
+}
+
+.footer-svg-github svg {
+  width: 120px;
+  margin-top: 5px;
+}
+
+.footer-svg-slack svg {
+  width: 130px;
+  margin-top: 2px;
+}
+
+.footer-svg-meetup svg {
+  width: 70px;
+}
+
+.footer-svg-email svg {
+  width: 50px;
 }
 
 .footer-col-wrapper {
@@ -107,8 +134,4 @@
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
-}
-
-.footer-social-media {
-
 }
