@@ -6,20 +6,20 @@ Staging Site: http://open-austin.github.io/open-austin-org/
 ## Planning & Design
 ### Sitemap
 
-![our sitemap](https://github.com/open-austin/open-austin-org/blob/master/planning-design/planning-design/oa-sitemap.png)
+![our sitemap](planning-design/planning-design/oa-sitemap.png?raw=true)
 [link to Gliffy](http://www.gliffy.com/go/publish/8981187)
 
 ### Design Docs
-[Design Brief](https://github.com/open-austin/open-austin-org/blob/master/planning-design/OA%20Design%20Brief.pdf)
+[Design Brief](planning-design/OA%20Design%20Brief.pdf)
 
 [Colors/Typography](https://github.com/open-austin/open-austin-org/blob/gh-pages/planning-design/colorstypography2.png)
 
 ### Mockups
-[Homepage Mockups from 1-Sept](https://github.com/open-austin/open-austin-org/blob/master/planning-design/oa_homepage_mockup.pdf)
+[Homepage Mockups from 1-Sept](planning-design/oa_homepage_mockup.pdf)
 
-Higher fidelity Mockup from 24-Aug Meeting ([PDF](https://github.com/open-austin/open-austin-org/blob/master/planning-design/OA%20Homepage%201.pdf) AND [Sketch](https://github.com/open-austin/open-austin-org/blob/master/planning-design/OA%20Homepage%201.sketch))
+Higher fidelity Mockup from 24-Aug Meeting ([PDF](planning-design/OA%20Homepage%201.pdf) AND [Sketch](planning-design/OA%20Homepage%201.sketch))
 
-[Original Lo-fi Mockup](https://github.com/open-austin/open-austin-org/blob/master/planning-design/lo-fi-mockup.jpg)
+[Original Lo-fi Mockup](planning-design/lo-fi-mockup.jpg)
 
 ### Requirements
 [Link to functional requirements doc](https://docs.google.com/document/d/1dgYQunemFzfGPpmc6jJz5L1sCm0m7f9ZemPT0z6FK2c)
