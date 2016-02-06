@@ -6,7 +6,7 @@ Staging Site: http://open-austin.github.io/open-austin-org/
 ## Planning & Design
 ### Sitemap
 
-![our sitemap](planning-design/oa-sitemap.png?raw=true)
+![our sitemap](planning-design/site_architecture/oa-sitemap.png?raw=true)
 [link to Gliffy](http://www.gliffy.com/go/publish/8981187)
 
 ### Design Docs
