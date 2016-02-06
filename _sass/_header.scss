@@ -1,4 +1,156 @@
 /**
+ * Site header
+ */
+.site-header {
+    border-bottom: 3px solid $color-primary;
+    min-height: $site-header-height;
+    width: 100%;
+    position: relative;
+    background: $color-neutral-white;
+    z-index: 1;
+    top: 0;
+}
+
+.site-title {
+    padding: 0 10px 0 0;
+    line-height: $site-header-height;
+    float: left;
+    text-decoration: none;
+
+    .site-title-logo {
+        height: $site-header-height / .75;
+    }
+
+    .site-title-text {
+        font-family: $font-primary;
+        font-size: 30px;
+        line-height: 30px;
+        color: $oa-gray;
+        vertical-align: middle;
+    }
+    &:hover {
+        text-decoration: none;
+        .site-title-text {
+            color: $color-primary;
+        }
+    }
+
+    &:visited {
+        color: $grey-color-dark;
+    }
+}
+
+.trigger {
+    ul {
+        float: right;
+        margin: 0;
+        margin-left: 5px;
+    }
+    li {
+        float: left;
+        list-style-type: none;
+        margin-left: 15px;
+    }
+}
+
+
+.site-nav {
+    float: right;
+    line-height: $site-header-height;
+    padding: ($site-header-height * .16) 0;
+
+    .menu-icon {
+        display: none;
+    }
+
+    a.page-link {
+        color: $text-color;
+        line-height: $base-line-height;
+        text-decoration: none;
+
+        // Gaps between nav items, but not on the last one
+        &:not(:last-child) {
+            margin-left: 20px;
+        }
+        &:hover {
+            border-bottom: 1px solid $color-primary;
+            padding-bottom: 5px;
+            color: $color-primary;
+        }
+    }
+
+    a.page-link.featured-link {
+        background-color: $oa-orange;
+        padding: 10px 15px;
+        color: $color-neutral-white;
+        border-radius: 10px;
+        font-weight: 500;
+        &:hover {
+          border-bottom: none;
+          background-color: $oa-blue;
+        }
+    }
+
+    @include media-query($on-palm) {
+        position: absolute;
+        top: 9px;
+        right: $spacing-unit / 2;
+        background-color: $background-color;
+        border: 1px solid $grey-color-light;
+        border-radius: 5px;
+        text-align: right;
+        padding: 5px;
+
+        .menu-icon {
+            display: block;
+            float: right;
+            width: 36px;
+            height: 26px;
+            line-height: 0;
+            padding-top: 10px;
+            text-align: center;
+
+            > svg {
+                width: 18px;
+                height: 15px;
+
+                path {
+                    fill: $oa-gray;
+                }
+            }
+        }
+
+        .trigger {
+            clear: both;
+            display: none;
+        }
+
+        a.page-link {
+            padding-right: 0;
+            padding-left: 0;
+            &:hover {
+                border-bottom: none;
+            }
+        }
+
+        &:hover .trigger {
+            display: block;
+            padding-bottom: 5px;
+        }
+
+        .page-link {
+            display: block;
+            padding: 5px 10px;
+
+            &:not(:last-child) {
+                margin-right: 0;
+            }
+            margin-left: 20px;
+        }
+    }
+}
+
+/**
  * Icons
  */
 .svg-icon {
@@ -12,16 +164,12 @@
     }
     &:hover {
       path {
-        fill: $oa-blue;
+        fill: $color-primary;
       }
     }
   }
-}
 
-.icon--twitter svg {
-  margin-bottom: 2px;
-}
-
-.icon--github svg {
-  margin-bottom: 5px;
+  &.twitter {
+    margin-bottom: 2px;
+  }
 }
