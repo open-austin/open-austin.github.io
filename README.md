@@ -10,16 +10,16 @@ Staging Site: http://open-austin.github.io/open-austin-org/
 [link to Gliffy](http://www.gliffy.com/go/publish/8981187)
 
 ### Design Docs
-[Design Brief](/planning-design/site_architecture/OA%20Design%20Brief.pdf)
+[Design Brief](planning-design/planning_and_analytics/OA Design Brief.pdf?raw=true)
 
-[Colors/Typography](https://github.com/open-austin/open-austin-org/blob/gh-pages/planning-design/colorstypography2.png)
+[Colors/Typography](planning-design/typography/colorstypography2.png?raw=true)
 
 ### Mockups
-[Homepage Mockups from 1-Sept](/planning-design/oa_homepage_mockup.pdf)
+[Homepage Mockups from 1-Sept](planning-design/final_mockups/oa_homepage_mockup.pdf?raw=true)
 
-Higher fidelity Mockup from 24-Aug Meeting ([PDF](/planning-design/OA%20Homepage%201.pdf) AND [Sketch](/planning-design/OA%20Homepage%201.sketch))
+Higher fidelity Mockup from 24-Aug Meeting ([PDF](planning-design/other_mockups/OA Homepage 1.pdf?raw=true) AND [Sketch](planning-design/other_mockups/OA Homepage 1.sketch?raw=true))
 
-[Original Lo-fi Mockup](/planning-design/lo-fi-mockup.jpg)
+[Original Lo-fi Mockup](planning-design/planning_and_analytics/lo-fi-mockup.jpg?raw=true)
 
 ### Requirements
 [Link to functional requirements doc](https://docs.google.com/document/d/1dgYQunemFzfGPpmc6jJz5L1sCm0m7f9ZemPT0z6FK2c)
