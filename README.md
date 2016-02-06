@@ -10,7 +10,7 @@ Staging Site: http://open-austin.github.io/open-austin-org/
 [link to Gliffy](http://www.gliffy.com/go/publish/8981187)
 
 ### Design Docs
-[Design Brief](/planning-design/OA%20Design%20Brief.pdf)
+[Design Brief](/planning-design/site_architecture/OA%20Design%20Brief.pdf)
 
 [Colors/Typography](https://github.com/open-austin/open-austin-org/blob/gh-pages/planning-design/colorstypography2.png)
 
