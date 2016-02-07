@@ -1,5 +1,52 @@
-# open-austin-org
-Open Austin Website Redesign - 2015
+# open-austin.org
+
+### The Open Austin website
+
+:warning: Under construction :warning:
+
+- [Development Instructions](#development-instructions)
+- [Planning](#planning)
+- [License](#license)
+
+------------------
+
+# Development Instructions
+
+## Installing Jekyll/Ruby on OS X
+- *(Optional)* Install [**iTerm**](https://www.iterm2.com/) for a better Command Line App in OS X.
+
+- _(Optional)_ Install [**oh-my-zsh**](https://github.com/robbyrussell/oh-my-zsh
+) for a prettier command line interface and easier zsh configuration than bash.
+	- `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+
+- Install [**homebrew**](http://brew.sh/) (for better installation of OS X packages)
+	- `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
+- Install [**ruby-install**](https://github.com/postmodern/ruby-install#readme) for installing Ruby versions. (OS X comes with 2.0.0, but its not the latest version and you may have to use the `sudo` command to do anything. Best to install a version manager like ruby-install + chruby to help with that.)
+	- `brew install ruby-install`
+	- `ruby-install ruby 2.2.2`
+
+- Install [**chruby**](https://github.com/postmodern/chruby) to switch ruby versions.
+	- `brew install chruby`
+	- `chruby ruby 2.2.2`
+
+## Start Jekyll
+
+Once you've got everything installed, run
+
+```
+jekyll serve --incremental --watch --trace
+```
+
+Then go to
+
+```
+http://localhost:4000/open-austin-org/
+```
+
+--------------------
+
+# Planning
 
 Staging Site: http://open-austin.github.io/open-austin-org/
 
@@ -27,32 +74,6 @@ Higher fidelity Mockup from 24-Aug Meeting ([PDF](planning-design/other_mockups/
 ### Assets/Images
 [Links to potential assets/images](https://github.com/open-austin/OA-Website/wiki/Assets-&-Images-for-potential-use)
 
-## Setting up Jekyll/Ruby on OS X
-- *(Optional)* Install [**iTerm**](https://www.iterm2.com/) for a better Command Line App in OS X.
+# License
 
-- _(Optional)_ Install [**oh-my-zsh**](https://github.com/robbyrussell/oh-my-zsh
-) for a prettier command line interface and easier zsh configuration than bash.
-	- `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
-
-- Install [**homebrew**](http://brew.sh/) (for better installation of OS X packages)
-	- `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-
-- Install [**ruby-install**](https://github.com/postmodern/ruby-install#readme) for installing Ruby versions. (OS X comes with 2.0.0, but its not the latest version and you may have to use the `sudo` command to do anything. Best to install a version manager like ruby-install + chruby to help with that.)
-	- `brew install ruby-install`
-	- `ruby-install ruby 2.2.2`
-
-- Install [**chruby**](https://github.com/postmodern/chruby) to switch ruby versions.
-	- `brew install chruby`
-	- `chruby ruby 2.2.2`
-
-### Import Wordpress.com
-
-```
-gem install jekyll-import hpricot open_uri_redirections
-ruby -rubygems -e 'require "jekyll-import";
-    JekyllImport::Importers::WordpressDotCom.run({
-      "source" => "import/openaustin.wordpress.2015-11-21.xml",
-      "no_fetch_images" => false,
-      "assets_folder" => "assets"
-    })'
-```
+The code for this repository has been released into the public domain by Open Austin via the Unlicense.

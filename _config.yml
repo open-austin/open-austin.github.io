@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+host: 0.0.0.0
+
 # Site settings
 title: Open Austin - Code for America Brigade - Austin, Texas
 email: your-email@domain.com
@@ -20,6 +22,12 @@ collections:
   projects:
     output: true
 
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
 
 # Build settings
 markdown: kramdown

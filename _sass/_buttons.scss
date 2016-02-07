@@ -1,32 +1,3 @@
-.hero-btn-set {
-  margin-top: 25px;
-  list-style: none;
-  display: flex;
-  justify-content: center;
-}
-
-.hero-button-item {
-  max-width: 225px;
-  display: block;
-  flex: 1;
-  background: $oa-orange;
-  border-radius: 10px;
-  margin: 0 25px;
-  padding: 10px 20px;
-  color: $color-neutral-white;
-  font-weight: bold;
-  font-size: 28px;
-  text-decoration: none;
-  text-shadow: 1px 1px 3px $color-neutral-black;
-  &:visited {
-    color: $color-neutral-white;
-  }
-  &:hover {
-    text-decoration: none;
-    background: $oa-blue;
-  }
-}
-
 .btn {
     border: 0;
     background-color: $color-secondary;
