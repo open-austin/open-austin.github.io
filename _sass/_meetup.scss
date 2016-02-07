@@ -1,0 +1,71 @@
+#meetup-widget {
+
+    .meetup-row {
+        padding: 10px 0;
+        border-bottom: 1px solid #e5e5e6;
+    }
+
+    .url {
+        font-size: 20px;
+    }
+
+    .description {
+        $meetup-font-size: 13px;
+        $meetup-lines-to-show: 7;
+        $meetup-line-height: 1.6;
+        color: #605b5a;
+        padding: 10px 0;
+        max-height: $meetup-lines-to-show * $meetup-font-size * $meetup-line-height;
+        font-size: $meetup-font-size;
+        position: relative;
+        overflow: hidden;
+        .text {
+            * {
+                line-height: $meetup-line-height;
+                margin: 0;
+                padding: 0;
+            }
+            br {
+                display: none;
+            }
+        }
+        .fade-out {
+            position: absolute;
+            z-index: 1;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            text-align: center;
+            margin: 0;
+            padding: 30px 0;
+            /* "transparent" only works here because == rgba(0,0,0,0) */
+            background-image: linear-gradient(to bottom, transparent, white);
+        }
+    }
+    .rsvp {
+        $meetup-red: #e0393e;
+        display: block;
+        font-size: 13px;
+        margin: 0 0 10px;
+        z-index: 2;
+        position: relative;
+        a {
+            background: #fff;
+            padding: 5px;
+            border-radius: 3px;
+            background: $meetup-red;
+            color: #fff;
+            text-decoration: none;
+            border: 1px solid $meetup-red;
+            &:hover {
+                border: 1px solid $meetup-red;
+                color: $meetup-red;
+                background: white;
+            }
+        }
+        .count {
+            margin-left: 10px;
+            color: #87807f;
+        }
+    }
+}
