@@ -1,21 +1,26 @@
 .icons-row {
-  display: flex;
-  padding: 35px 0;
-  list-style: none;
+    display: flex;
+    padding: 35px 0;
+    list-style: none;
 }
 
 .icons-row-item {
-  flex: 1;
-  margin: 0 3%;
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  svg {
-    height: 100px;
-    fill: $oa-gray;
-    margin-bottom: 15px;
-    &:hover {
-      fill: $oa-blue;
+    flex: 1;
+    margin: 0 3%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    svg {
+        background: #fdf1ef;
+        border-radius: 35px;
+        height: 70px;
+        width: 70px;
+        padding: 5px;
+        border: 1px solid $color-primary-dark;
+        fill: $color-primary;
+        margin-bottom: 15px;
+        &:hover {
+            fill: $color-primary-dark;
+        }
     }
-  }
 }

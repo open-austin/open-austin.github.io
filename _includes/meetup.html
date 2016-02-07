@@ -1,0 +1,20 @@
+<div id="meetup-widget"></div>
+{% raw %}
+<script type="x-tmpl-mustache" id="meetup-widget-template">
+	{{#results}}
+	<div class="meetup-row">
+		<a class="url" href="{{event_url}}" target="_blank">{{name}}</a>
+		<div class="description">
+			<div class="text">{{{description}}}</div>
+			<div class="fade-out"></div>
+		</div>
+		<div class="rsvp">
+			<a href="{{event_url}}" target="_blank">RSVP on Meetup.com</a>
+			<span class="count">{{yes_rsvp_count}} RSVPs</span>
+		</div>
+	</div>
+	{{/results}}
+</script>
+{% endraw %}
+<script src="{{ site.baseurl }}/assets/js/mustache.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/meetup.js"></script>
