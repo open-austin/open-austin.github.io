@@ -8,4 +8,5 @@ Status:       beta
 Contact:      Luqmaan Dawoodjee <ldawoodjee@gmail.com>
 Categories:   [ map, parks, austin, pard ]
 date:         2015-08-02 00:00:00
+screenshot:   austingreenmap.jpg
 ---

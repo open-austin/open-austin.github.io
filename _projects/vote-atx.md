@@ -8,4 +8,5 @@ Status: deployed
 Categories: [ elections, politics, voting ]
 Contact: hack@open-austin.org
 date:         2014-10-02 00:00:00
+screenshot: voteatx.jpg
 ---
