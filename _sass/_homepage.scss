@@ -1,7 +1,20 @@
 .home {
     .post-content {
         margin: 0 auto;
-        width: $narrow-content-width;
         display: block;
+        p, li {
+            margin: 10px 0;
+            line-height: 1.5;
+        }
+        ul {
+            margin: 20px 30px;
+        }
+    }
+    .upcoming-events {
+        padding: 30px 0;
+        width: $narrow-content-width;
+    }
+    h2 {
+        text-align: center;
     }
 }

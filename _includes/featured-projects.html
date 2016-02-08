@@ -1,41 +1,38 @@
-<div class="featured-section">
-  <div class="wrapper">
+<div class="featured-section post-content">
+    <div class="wrapper">
 
-    <h2>FEATURED PROJECTS</h2>
+        <h2>Featured Projects</h2>
 
-    <ul class="v-wrap flex-container">
-    {% for project in site.projects %}
-      {% if project.featured == true %}
-        <li class="flex-item featured-project">
-          <div class="featured-project-header">
-            <a class="post-link" href="{{ site.baseurl }}{{ project.url }}"><h3>{{ project.title }}</h3></a>
-          </div>
-          <div class="featured-project-image-container">
-            <img class="featured-project-image" src="{{ site.baseurl }}/assets/images/{{ project.thumb }}" alt="{{ project.title }}">
-          </div>
-          <div class="featured-project-links">
-            <a href="{{ project.access_at }}" class="svg-icon">{% include icons/SVG/link.svg %}</a>
-            <a href="{{ project.project_at }}" class="svg-icon icon--github">{% include icons/icon-github.svg %}</a>
-            <a class="project-status" href="https://www.codeforamerica.org/brigade/projects/stages">
-              <span class="btn btn-{{ project.cfa_stage }}-project">{{ project.cfa_stage }}</span>
-            </a>
-          </div>
-          <div>
-            <p class="featured-project-summary">
-              {{ project.description | strip_html | truncate: 420 }}
-              {% if project.description.size > 60 %}
-              <a href="{{ site.baseurl }}{{ project.url }}">Read more</a>
-              {% endif %}
-            </p>
-          </div>
-        </li>
-      {% endif %}
-    {% endfor %}
-    </ul>
+        <ul class="v-wrap flex-container">
+            {% for project in site.projects %}
+            {% if project.featured == true %}
+            <li class="flex-item featured-project">
+                <div class="featured-project-header">
+                    <a class="post-link" href="{{ site.baseurl }}{{ project.url }}"><h3>{{ project.title }}</h3></a>
+                </div>
+                <div class="featured-project-image-container">
+                    <img class="featured-project-image" src="{{ site.baseurl }}/assets/images/{{ project.thumb }}" alt="{{ project.title }}">
+                </div>
+                <div class="featured-project-links">
+                    <a href="{{ project.access_at }}" class="svg-icon">{% include icons/SVG/link.svg %}</a>
+                    <a href="{{ project.project_at }}" class="svg-icon icon--github">{% include icons/icon-github.svg %}</a>
+                    <a class="project-status" href="https://www.codeforamerica.org/brigade/projects/stages">
+                        <span class="btn btn-{{ project.cfa_stage }}-project">{{ project.cfa_stage }}</span>
+                    </a>
+                </div>
+                <div>
+                    <p class="featured-project-summary">
+                        {{ project.description | strip_html | truncate: 420 }} <!-- blaze it -->
+                    </p>
+                </div>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
 
-    <h3 class="featured-section-more">
-      <a href="{{ site.baseurl }}/projects">MORE PROJECTS</a>
-    </h3>
+        <h3 class="featured-section-more">
+            <a href="{{ site.baseurl }}/projects">MORE PROJECTS</a>
+        </h3>
 
-  </div>
+    </div>
 </div>

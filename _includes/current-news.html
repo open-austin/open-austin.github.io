@@ -1,34 +1,31 @@
-<div class="featured-section current-news-section">
-  <div class="wrapper">
-    <h2>LATEST NEWS</h2>
-    <ul>
-    {% for post in site.posts limit:1 %}
-      <li class="v-wrap flex-container">
-        <div class="featured-section-image">
-          <img class="featured-section-thumbnail" src="{{ site.baseurl }}/assets/images/{{ post.thumb }}" alt="{{ post.title }}">
+<div class="featured-section current-news-section post-content">
+    <div class="wrapper">
+        {% for post in site.posts limit:1 %}
+        <div class="v-wrap flex-container">
+            <div class="featured-section-image">
+                <img class="featured-section-thumbnail" src="{{ site.baseurl }}/assets/images/{{ post.thumb }}" alt="{{ post.title }}">
+            </div>
+            <div class="flex-item">
+                <h3>
+                    <a class="post-link" href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
+                </h3>
+                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                {% if post.author %}
+                • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                    <span itemprop="name">{{ post.author['display_name'] }}</span>
+                </span>
+                {% endif %}
+                <p class="featured-section-summary">
+                    {{ post.content | strip_html | truncate: 420 }}
+                    {% if post.content.size > 60 %}
+                    <a href="{{ site.baseurl }}/{{ post.url }}">Read more</a>
+                    {% endif %}
+                </p>
+            </div>
         </div>
-        <div class="flex-item">
-          <h3>
-            <a class="post-link" href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
-          </h3>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          {% if post.author %}
-           • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span itemprop="name">{{ post.author['display_name'] }}</span>
-            </span>
-          {% endif %}
-          <p class="featured-section-summary">
-            {{ post.content | strip_html | truncate: 420 }}
-            {% if post.content.size > 60 %}
-              <a href="{{ site.baseurl }}/{{ post.url }}">Read more</a>
-            {% endif %}
-          </p>
-        </div>
-      </li>
-    {% endfor %}
-    </ul>
-    <h3 class="featured-section-more">
-      <a href="{{ site.baseurl }}/blog">More Recent Posts</a>
-    </h3>
-  </div>
+        {% endfor %}
+        <h3 class="featured-section-more">
+            <a class="btn" href="{{ site.baseurl }}/blog">More Recent Posts</a>
+        </h3>
+    </div>
 </div>

@@ -1,20 +1,38 @@
 .btn {
-    border: 0;
-    background-color: $color-secondary;
-    font-size: $base-font-size;
-    color: $background-color;
-    border-radius: 10px;
     padding: 5px 10px;
+    border-radius: 3px;
+    border: 1px solid $color-primary;
+    color: $color-primary;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    &:hover {
+        text-decoration: none;
+        color: #fff;
+        background: $color-primary;
+    }
 }
 
 .btn-experiment-project {
-  background: $cfa-experiment-purple;
+    color: $cfa-experiment-purple;
+    border-color: $cfa-experiment-purple;
+    &:hover {
+        background-color: $cfa-experiment-purple;
+    }
 }
 
 .btn-alpha-project {
-  background: $cfa-alpha-blue;
+    color: $cfa-alpha-blue;
+    border-color: $cfa-alpha-blue;
+    &:hover {
+        background-color: $cfa-alpha-blue;
+    }
 }
 
 .btn-beta-project {
-  background: $cfa-beta-blue;
+    color: $cfa-beta-blue;
+    border-color: $cfa-beta-blue;
+    &:hover {
+        background-color: $cfa-beta-blue;
+    }
 }

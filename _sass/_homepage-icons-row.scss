@@ -11,14 +11,10 @@
     flex-direction: column;
     text-align: center;
     svg {
-        background: #fdf1ef;
-        border-radius: 35px;
         height: 70px;
         width: 70px;
         padding: 5px;
-        border: 1px solid $color-primary-dark;
         fill: $color-primary;
-        margin-bottom: 15px;
         &:hover {
             fill: $color-primary-dark;
         }

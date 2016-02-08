@@ -1,18 +1,31 @@
 #meetup-widget {
 
+    h2 {
+        margin-top: 30px;
+    }
+
     .meetup-row {
-        padding: 10px 0;
+        padding: 20px 0;
         border-bottom: 1px solid #e5e5e6;
+        &:last-child {
+            border-bottom: none;
+        }
     }
 
     .url {
-        font-size: 20px;
+        font-size: 24px;
+    }
+
+    .date {
+        float: right;
+        text-align: right;
+        color: #87807f;
     }
 
     .description {
         $meetup-font-size: 13px;
         $meetup-lines-to-show: 7;
-        $meetup-line-height: 1.6;
+        $meetup-line-height: 1.9;
         color: #605b5a;
         padding: 10px 0;
         max-height: $meetup-lines-to-show * $meetup-font-size * $meetup-line-height;
@@ -51,16 +64,16 @@
         position: relative;
         a {
             background: #fff;
-            padding: 5px;
+            padding: 5px 10px;
             border-radius: 3px;
-            background: $meetup-red;
-            color: #fff;
             text-decoration: none;
             border: 1px solid $meetup-red;
+            color: $meetup-red;
+            background: white;
             &:hover {
                 border: 1px solid $meetup-red;
-                color: $meetup-red;
-                background: white;
+                color: #fff;
+                background: $meetup-red;
             }
         }
         .count {

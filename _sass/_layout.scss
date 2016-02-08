@@ -1,4 +1,3 @@
-
 #event-list li
 {
     display: inline;
@@ -126,7 +125,6 @@ article.post {
 .post-title {
     font-size: 42px;
     letter-spacing: -1px;
-    line-height: 1;
 
     @include media-query($on-laptop) {
         font-size: 36px;

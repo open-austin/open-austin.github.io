@@ -107,11 +107,13 @@ a {
  */
 blockquote {
     color: $grey-color;
-    border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
+    background: $light-light-orange-color;
+    font-size: 17px;
+    background: rgb(255, 241, 241);
+    padding: 15px 45px;
+    margin: 15px -30px;
+    line-height: 1.9;
+    font-family: Raleway;
 
     > :last-child {
         margin-bottom: 0;
@@ -162,6 +164,9 @@ pre {
         max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
         max-width:         calc(#{$content-width} - (#{$spacing-unit}));
     }
+}
+.wrapper.post-content {
+    margin-top: 30px;
 }
 
 .h-wrap {
