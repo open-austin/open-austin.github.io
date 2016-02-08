@@ -8,4 +8,5 @@ Status:       deployed
 Contact:      Tim Shelburne
 Categories:   [ animal center, lost pets ]
 date:         2015-08-17 00:00:00
+screenshot:   petalerts.jpg
 ---

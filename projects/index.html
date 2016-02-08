@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="post-content">
+    <div class="wrapper">
+        <h2>Featured Projects</h2>
+
+        <ul>
+            {% assign items = site.projects | sort: 'date' | reverse %}
+            {% for project in items %}
+            <li class="featured-project">
+                {% if project.screenshot %}
+                <div class="featured-project-image-container">
+                    <img class="featured-project-image" src="{{ site.baseurl }}/assets/images/projects/screenshots/{{ project.screenshot }}" alt="{{ project.title }}">
+                </div>
+                {% endif %}
+                <div>
+                    <div class="featured-project-header">
+                        <a class="post-link" href="{{ site.baseurl }}{{ project.url }}"><h3>{{ project.title }}</h3></a>
+                    </div>
+                    <div class="featured-project-links">
+                        <a href="{{ project.access_at }}" class="svg-icon">{% include icons/SVG/link.svg %}</a>
+                        <a href="{{ project.project_at }}" class="svg-icon icon--github">{% include icons/icon-github.svg %}</a>
+                        {% if project.cfa_stage %}
+                        <a class="project-status" href="https://www.codeforamerica.org/brigade/projects/stages">
+                            <span class="btn btn-{{ project.cfa_stage }}-project">{{ project.cfa_stage }}</span>
+                        </a>
+                        {% endif %}
+                    </div>
+                </div>
+                <div>
+                    {% if project.date %}
+                    <time datetime="{{ project.date | date_to_xmlschema }}" itemprop="datePublished">{{ project.date | date: "%b %-d, %Y" }}</time>
+                    {% endif %}
+                    <p class="featured-project-summary">
+                        {{ project.description | strip_html }}
+                    </p>
+                </div>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>

@@ -8,4 +8,5 @@ Status:       beta
 Contact:      info@open-austin.org
 Categories:   [ animal control, twitter ]
 date:         2014-10-02 00:00:00
+screenshot:   cutepets.jpg
 ---
