@@ -4,15 +4,15 @@
 }
 
 /**
- * Page content
- */
+* Page content
+*/
 .page-content {
     position: relative;
 }
 
 /**
- * Page container
- */
+* Page container
+*/
 
 .page, .project {
     max-width: $narrow-content-width;
@@ -20,27 +20,27 @@
 }
 
 /**
- * Post content
- */
+* Post content
+*/
 
 .post-col {
-     float: left;
-     margin-bottom: $spacing-unit / 1;
-     padding-right: $spacing-unit / 2;
- }
+    float: left;
+    margin-bottom: $spacing-unit / 1;
+    padding-right: $spacing-unit / 2;
+}
 .post-col-1 {
-     width: -webkit-calc(30% - (#{$spacing-unit} / 2));
-     width:         calc(30% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+    width:         calc(30% - (#{$spacing-unit} / 2));
 }
 
 .post-col-2 {
-     width: -webkit-calc(60% - (#{$spacing-unit} / 2));
-     width:         calc(60% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(60% - (#{$spacing-unit} / 2));
+    width:         calc(60% - (#{$spacing-unit} / 2));
 }
 
 .post-col-3 {
-     width: -webkit-calc(10% - (#{$spacing-unit} / 2));
-     width:         calc(10% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(10% - (#{$spacing-unit} / 2));
+    width:         calc(10% - (#{$spacing-unit} / 2));
 }
 
 
@@ -93,27 +93,22 @@
     text-align: center;
     &:not(:last-child) {
         margin-right: 20px;
-    > svg {
+        > svg {
             width: 18px;
             height: 15px;
         }
 
-}
-.event-list-element img {
+    }
+    .event-list-element img {
         padding: 20px;
         color: $orange-color;
-        }
     }
-
-.featured-project{
-        text-align: center;
 }
-
 
 
 /**
- * Posts
- */
+* Posts
+*/
 .post-header {
     margin-bottom: $spacing-unit;
 }
