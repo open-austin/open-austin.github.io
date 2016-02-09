@@ -10,11 +10,10 @@
     background-position: 50% 0;
     .hero-title {
         font-family: $font-primary;
-        font-weight: 400;
+        font-weight: 700;
         text-shadow: 0 2px 1px rgba(0, 0, 0, 0.8);
         padding-top: $spacing-unit * 3;
-        font-size: $base-font-size * 4;
-        font-weight: bold;
+        font-size: $base-font-size * 5;
         margin-bottom: $spacing-unit * .5;
     }
     .hero-subtext {
