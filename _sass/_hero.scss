@@ -2,7 +2,7 @@
     border-bottom: 3px solid $color-primary;
     text-align: center;
     color: $background-color;
-    height: $spacing-unit * 11;
+    min-height: $spacing-unit * 11;
     background-size: cover;
     background-image: url(/open-austin-org/assets/images/code-across-2015-pano.png);
     background-attachment: fixed !important;
@@ -22,5 +22,6 @@
         font-weight: 700;
         text-shadow: 0 1px 1px rgba(0, 0, 0, 0.8);
         margin: 0 auto;
+        padding-bottom: 30px; 
     }
 }
