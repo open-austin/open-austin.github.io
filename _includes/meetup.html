@@ -1,18 +1,18 @@
 <div id="meetup-widget"></div>
 {% raw %}
 <script type="x-tmpl-mustache" id="meetup-widget-template">
-	<h2>Upcoming Events</h2>
+	<h2>Join Us</h2>
 	{{#results}}
 	<div class="meetup-row">
 		<a class="url" href="{{event_url}}" target="_blank">{{name}}</a>
+		<div class="date">{{prettyDate}}</div>
 		<div class="description">
 			<div class="text">{{{description}}}</div>
 			<div class="fade-out"></div>
 		</div>
 		<div class="rsvp">
-			<a href="{{event_url}}" target="_blank">RSVP on Meetup.com</a>
 			<span class="count">{{yes_rsvp_count}} RSVPs</span>
-			<div class="date">{{prettyDate}}</div>
+			<a href="{{event_url}}" target="_blank">RSVP on Meetup.com</a>
 		</div>
 	</div>
 	{{/results}}

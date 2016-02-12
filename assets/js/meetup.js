@@ -32,7 +32,7 @@
         console.log('xhr', xhr);
 
         var template = document.querySelector('#meetup-widget-template').innerHTML;
-        data.results = data.results.slice(0, 3);
+        data.results = data.results.slice(0, 1);
         data.results = data.results.map(function(result) {
             result.prettyDate = new Date(result.time).toDateString();
             return result;
