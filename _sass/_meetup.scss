@@ -24,7 +24,7 @@
 
     .description {
         $meetup-font-size: 13px;
-        $meetup-lines-to-show: 7;
+        $meetup-lines-to-show: 5;
         $meetup-line-height: 1.9;
         color: #605b5a;
         padding: 10px 0;
@@ -77,7 +77,7 @@
             }
         }
         .count {
-            margin-left: 10px;
+            margin-right: 10px;
             color: #87807f;
         }
     }
