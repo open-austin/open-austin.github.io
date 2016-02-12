@@ -3,11 +3,11 @@ layout: default
 ---
 <div class="wrapper project">
     <div class="breadcrumb">
-        <a href="/open-austin-org">Home</a>
+        <a href="{{ site.baseurl }}/">Home</a>
         &gt;
-        <a href="/open-austin-org/projects">Projects</a>
+        <a href="{{ site.baseurl }}/projects">Projects</a>
         &gt;
-        <a class="active" href="{{ page.url }}">{{ page.title }}</a>
+        <a class="active" href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
     </div>
 
     <article class="post project" itemscope itemtype="http://schema.org/BlogPosting">
@@ -28,9 +28,9 @@ layout: default
                 </div>
             </header>
 
-            {% if page.thumb %}
+            {% if page.screenshot %}
             <div class="thumb">
-                <img src="/open-austin-org/assets/images/{{ page.thumb }}">
+                <img src="{{ site.baseurl }}/assets/images/projects/screenshots/{{ page.screenshot }}">
             </div>
             {% endif %}
 
