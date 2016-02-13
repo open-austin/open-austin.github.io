@@ -20,10 +20,12 @@ author:
   last_name: ''
 ---
 
+**Open Austin** is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009\. We are an official brigade affiliated with the nonprofit [Code for America](http://www.codeforamerica.org/) which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.
+
 * TOC
 {:toc}
 
-**Open Austin** is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009\. We are an official brigade affiliated with the nonprofit [Code for America](http://www.codeforamerica.org/) which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.
+---
 
 ### Our Roots
 Open Austin was formed in 2009 by citizens interested in the City of Austin web strategy and approach to the procurement of a new website management system [(link to Austin Chronicle article)](http://www.austinchronicle.com/news/2009-06-05/789960/). Through a series of conversations, common ground was developed between the City and Open Austin to partner on civic technology issues. Open Austin has served as an advisor and advocate for community technology issues ever since. The outcome of this process was when, at the end of 2011, the City of Austin unveiled its [new website](http://www.austintexas.gov/). The new site developed by city staff, working in conjunction with local technology companies, based on a [free and open source content publishing platform](http://drupal.org/). Also, a dedicated open government [data portal](https://data.austintexas.gov/), was released. Further, the City announced that Austin would sponsor a [Code for America open government fellowship](http://codeforamerica.org/austin/).
