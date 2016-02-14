@@ -5,26 +5,26 @@
         <ul>
             {% for project in site.projects %}
             {% if project.featured == true %}
-            <li class="featured-project">
-                <div class="featured-project-image-container">
+            <li class="featured-project flex-container">
+                <div class="project-image-container flex-item">
                     <img class="featured-project-image" src="{{ site.baseurl }}/assets/images/projects/screenshots/{{ project.screenshot }}" alt="{{ project.title }}">
                 </div>
-                <div>
+                <div class="featured-project-description flex-item">
                     <div class="featured-project-header">
                         <a class="post-link" href="{{ site.baseurl }}{{ project.url }}"><h3>{{ project.title }}</h3></a>
+                    </div>
+                    <div>
+                      <p class="featured-project-summary">
+                        {{ project.description | strip_html | truncate: 420 }} <!-- blaze it -->
+                      </p>
                     </div>
                     <div class="featured-project-links">
                         <a href="{{ project.access_at }}" class="svg-icon">{% include icons/SVG/link.svg %}</a>
                         <a href="{{ project.project_at }}" class="svg-icon icon--github">{% include icons/icon-github.svg %}</a>
-                        <a class="project-status" href="https://www.codeforamerica.org/brigade/projects/stages">
+                        <a class="project-status" href="https://www.codeforamerica.org/brigade/projects/stages#{{ project.cfa_stage }}" target="_blank">
                             <span class="btn btn-{{ project.cfa_stage }}-project">{{ project.cfa_stage }}</span>
                         </a>
                     </div>
-                </div>
-                <div>
-                    <p class="featured-project-summary">
-                        {{ project.description | strip_html | truncate: 420 }} <!-- blaze it -->
-                    </p>
                 </div>
             </li>
             {% endif %}

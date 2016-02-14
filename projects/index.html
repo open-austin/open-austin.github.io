@@ -24,12 +24,14 @@ title: Projects
       </p>
 
       <h2>Project Gallery</h2>
-        <ul>
+        <ul class="project-gallery">
             {% assign items = site.projects | sort: 'date' | reverse %}
             {% for project in items %}
-            <li class="featured-project">
+            <div class="project-gallery-item">
+            <li class="">
+
                 {% if project.screenshot %}
-                <div class="featured-project-image-container">
+                <div class="project-image-container">
                     <img class="featured-project-image" src="{{ site.baseurl }}/assets/images/projects/screenshots/{{ project.screenshot }}" alt="{{ project.title }}">
                 </div>
                 {% endif %}
@@ -48,14 +50,12 @@ title: Projects
                     </div>
                 </div>
                 <div>
-                    {% if project.date %}
-                    <time datetime="{{ project.date | date_to_xmlschema }}" itemprop="datePublished">{{ project.date | date: "%b %-d, %Y" }}</time>
-                    {% endif %}
                     <p class="featured-project-summary">
                         {{ project.description | strip_html }}
                     </p>
                 </div>
             </li>
+            </div>
             {% endfor %}
         </ul>
     </div>

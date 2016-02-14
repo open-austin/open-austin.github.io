@@ -1,3 +1,19 @@
+.project-gallery {
+  list-style: none;
+  margin-top: 0 !important;
+}
+
+.project-gallery-item {
+  width: 48%;
+  float: left;
+  &:nth-child(odd) {
+    margin-right: 4%;
+  }
+  @include media-query($on-palm) {
+    width: 100%;
+  }
+}
+
 .featured-project {
     list-style: none;
     padding: 30px 0;
@@ -15,11 +31,13 @@
 }
 .featured-project-links {
     display: inline-block;
-    float: right;
     margin-top: 10px;
 }
 
 .featured-project-image-container {
+  width: 60%;
+}
+.project-image-container {
     margin: 10px 0;
     border: 1px solid rgb(200, 200, 200);
     box-shadow: 0px 1px 3px rgba(195, 193, 193, 0.8);
@@ -28,6 +46,11 @@
 .featured-project-image {
     max-height: 540px;
     display: block;
+}
+
+.featured-project-description {
+    width: 60%;
+    padding-left: 30px;
 }
 
 .featured-project-header {
