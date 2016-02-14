@@ -21,6 +21,9 @@ hr {
 .page, .project {
     max-width: $narrow-content-width;
     margin: $spacing-unit auto;
+    @include media-query($on-palm) {
+      padding: 0 3%;
+    };
 }
 
 /**
