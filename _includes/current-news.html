@@ -1,5 +1,6 @@
 <div class="featured-section current-news-section post-content">
     <div class="wrapper">
+        <h2>Most Recent Post</h2>
         {% for post in site.posts limit:1 %}
         <div class="v-wrap flex-container">
             <div class="featured-section-image">
@@ -25,7 +26,7 @@
         </div>
         {% endfor %}
         <h3 class="featured-section-more">
-            <a class="btn" href="{{ site.baseurl }}/blog">More Recent Posts</a>
+            <a class="btn" href="{{ site.baseurl }}/blog">More Posts</a>
         </h3>
     </div>
 </div>

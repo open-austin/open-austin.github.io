@@ -11,35 +11,12 @@ layout: default
     </div>
   </div>
 
-  <div>
-    <ul class="icons-row wrapper">
-      <li class="icons-row-item">
-        <a href="{{ site.baseurl }}/advocacy">
-          {% include icons/capital.svg %}
-        </a>
-        <span>We advocate to make government work for the 21st century.</span>
-      </li>
-      <li class="icons-row-item">
-        <a href="{{ site.baseurl }}/events">
-          {% include icons/calendar.svg %}
-        </a>
-        <span>We host frequent meetups, hack projects and events. Join us!</span>
-      </li>
-      <li class="icons-row-item">
-        <a href="{{ site.baseurl }}/projects">
-          {% include icons/brigade.svg %}
-        </a>
-        <span>We develop open-source projects as a Code for America Brigade.</span>
-      </li>
-    </ul>
-  </div>
-
-
   {% include meetup.html %}
+
+  {% include icons-row.html %}
 
   {% include featured-projects.html %}
 
   {% include current-news.html %}
-
 
 </div>
