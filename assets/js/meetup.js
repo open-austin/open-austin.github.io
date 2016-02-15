@@ -1,6 +1,14 @@
 (function() {
     // http://microjs.com/#
 
+    var monthsArray = [
+      "jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"
+    ]
+
+    var weekdaysArray = [
+      "sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"
+    ]
+
     // pegasus is from https://github.com/typicode/pegasus
     function pegasus(a, xhr) {
         xhr = new XMLHttpRequest();
@@ -34,7 +42,9 @@
         var template = document.querySelector('#meetup-widget-template').innerHTML;
         data.results = data.results.slice(0, 1);
         data.results = data.results.map(function(result) {
-            result.prettyDate = new Date(result.time).toDateString();
+            result.month = monthsArray[new Date(result.time).getMonth()].toUpperCase();
+            result.day = new Date(result.time).getDate();
+            result.weekday = weekdaysArray[new Date(result.time).getDay()];
             return result;
         })
         var rendered = Mustache.render(template, data);
@@ -47,5 +57,5 @@
     }
 
     pegasus('https://lhtgmc37pi.execute-api.us-west-2.amazonaws.com/prod/meetup-proxy-aws-lambda')
-    .then(onSuccess, onError);
+    .then(onSuccess, onError)
 })();
