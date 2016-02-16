@@ -1,4 +1,6 @@
 #meetup-widget {
+    max-width: 550px;
+    margin: 0 auto;
 
     .meetup-row {
         padding: 20px 5%;
@@ -18,14 +20,17 @@
     }
 
     .date {
-        float: right;
-        text-align: right;
-        color: #87807f;
+        color: $oa-gray;
     }
 
-    .meetup-cal {
+    .meetup-calendar {
+      flex: 1;
+      max-width: 120px;
+    }
+
+    .meetup-cal-container {
       width: 100px;
-      margin: 15px 20px 10px 0;
+      margin: 3px 20px 10px 0;
       border: 1px solid #c8c8c8;
       box-shadow: 0px 1px 3px rgba(195, 193, 193, 0.8);
       text-align: center;
@@ -55,7 +60,7 @@
         $meetup-font-size: 13px;
         $meetup-lines-to-show: 5;
         $meetup-line-height: 1.9;
-        color: #605b5a;
+        color: $oa-gray;
         padding: 10px 0;
         max-height: $meetup-lines-to-show * $meetup-font-size * $meetup-line-height;
         font-size: $meetup-font-size;
@@ -78,9 +83,8 @@
         margin: 0 0 10px;
         z-index: 2;
         position: relative;
-        text-align: right;
         a {
-            background: #fff;
+            background: $color-neutral-white;
             padding: 5px 10px;
             border-radius: 3px;
             text-decoration: none;
@@ -89,13 +93,27 @@
             background: white;
             &:hover {
                 border: 1px solid $meetup-red;
-                color: #fff;
+                color: $color-neutral-white;
                 background: $meetup-red;
             }
         }
         .count {
-            margin-right: 10px;
-            color: #87807f;
+            color: $oa-gray;
+            margin-left: 10px;
         }
     }
+    .fade-out {
+      position: absolute;
+      z-index: 1;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      text-align: center;
+      margin: 0;
+      padding: 20px 0;
+      /* "transparent" only works here because == rgba(0,0,0,0) */
+      background: -webkit-linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 1) 50%);
+      background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 1) 50%);
+      background-color: rgba(255,255,255,0);
+  }
 }

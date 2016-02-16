@@ -3,25 +3,31 @@
 		<div id="meetup-widget"></div>
 		{% raw %}
 		<script type="x-tmpl-mustache" id="meetup-widget-template">
-		<h2>Join Us at our Next Event</h2>
+			<h2>Join Us at our Next Event</h2>
 			{{#results}}
-			<div class="meetup-row flex-container flex-column">
-				<a class="url" href="{{event_url}}" target="_blank">{{name}}</a>
-				<div class="flex-item">
-					<div class="meetup-cal">
+			<div class="meetup-row flex-container">
+				<div class="meetup-calendar">
+					<div class="meetup-cal-container">
 						<div class="meetup-month">{{month}}</div>
 						<div class="meetup-cal-body">
 							<div class="meetup-day">{{day}}</div>
 							<div class="meetup-weekday">{{weekday}}</div>
 						</div>
 					</div>
-					<div class="description">
-						<div class="text">{{{description}}}</div>
-					</div>
 				</div>
-				<div class="rsvp">
-					<span class="count">{{yes_rsvp_count}} RSVPs</span>
-					<a href="{{event_url}}" target="_blank">RSVP on Meetup.com</a>
+				<div class="flex-item">
+					<div class="meetup-details">
+						<div class="date">{{prettyDate}}</div>
+						<a class="url" href="{{event_url}}" target="_blank">{{name}}</a>
+						<div class="description">
+							<div class="text">{{{description}}}</div>
+							<div class="fade-out"></div>
+						</div>
+						<div class="rsvp">
+							<a href="{{event_url}}" target="_blank">RSVP on Meetup.com</a>
+							<span class="count">{{yes_rsvp_count}} RSVPs</span>
+						</div>
+					</div>
 				</div>
 			</div>
 			{{/results}}

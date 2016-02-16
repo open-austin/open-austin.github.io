@@ -42,6 +42,7 @@
         var template = document.querySelector('#meetup-widget-template').innerHTML;
         data.results = data.results.slice(0, 1);
         data.results = data.results.map(function(result) {
+            result.prettyDate = new Date(result.time).toDateString();
             result.month = monthsArray[new Date(result.time).getMonth()].toUpperCase();
             result.day = new Date(result.time).getDate();
             result.weekday = weekdaysArray[new Date(result.time).getDay()];
@@ -57,5 +58,5 @@
     }
 
     pegasus('https://lhtgmc37pi.execute-api.us-west-2.amazonaws.com/prod/meetup-proxy-aws-lambda')
-    .then(onSuccess, onError)
+    .then(onSuccess, onError);
 })();
