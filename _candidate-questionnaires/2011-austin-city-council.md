@@ -17,26 +17,27 @@ author:
   first_name: Chip
   last_name: Rosenthal
 ---
-<p>The Open Austin "2011 Austin City Council Candidate Questionnaire" features a set of seven questions focusing on measuring candidate support for several policies and practices that promote open government.</p>
-<p>All candidates were provided a copy of the questionnaire and were invited to respond. Here are the candidates and the responses they provided.</p>
-<p><strong>Place 1</strong></p>
-<ul>
-<li><a title="Place 1, Roger Chan" href="2011-austin-city-council/roger-chan">Roger Chan</a></li>
-<li><a title="Place 1, Josiah Ingalls" href="2011-austin-city-council/josiah-ingalls">Josiah Ingalls</a></li>
-<li>Norman Jacobson - <em>did not respond</em></li>
-<li><a title="Place 1, Chris Riley" href="2011-austin-city-council/chris-riley">Chris Riley</a></li>
-</ul>
-<p><strong>Place 3</strong></p>
-<ul>
-<li><a title="Place 3, Kris Bailey" href="2011-austin-city-council/kris-bailey">Kris Bailey</a></li>
-<li>Chris Nielsen - <em>did not respond</em></li>
-<li><a title="Place 3, Max Nofziger" href="2011-austin-city-council/max-nofziger">Max Nofziger</a></li>
-<li><a title="Place 3, Randi Shade" href="2011-austin-city-council/randi-shade">Randi Shade</a></li>
-<li><a title="Place 3, Kathie Tovo" href="2011-austin-city-council/kathie-tovo">Kathie Tovo</a></li>
-</ul>
-<p><strong>Place 4</strong></p>
-<ul>
-<li><a title="Place 4, Laura Morrison" href="2011-austin-city-council/laura-morrison">Laura Morrison</a></li>
-<li><a title="Place 4, Eric Rangel" href="2011-austin-city-council/eric-rangel">Eric Rangel</a></li>
-<li>Toby Ryan - <em>did not respond</em></li>
-</ul>
+The Open Austin "2011 Austin City Council Candidate Questionnaire" features a set of seven questions focusing on measuring candidate support for several policies and practices that promote open government.
+
+All candidates were provided a copy of the questionnaire and were invited to respond. Here are the candidates and the responses they provided.
+
+**Place 1**
+
+*   [Roger Chan](2011-roger-chan.html "Place 1, Roger Chan")
+*   [Josiah Ingalls](2011-josiah-ingalls.html "Place 1, Josiah Ingalls")
+*   Norman Jacobson - _did not respond_
+*   [Chris Riley](2011-chris-riley.html "Place 1, Chris Riley")
+
+**Place 3**
+
+*   [Kris Bailey](2011-kris-bailey.html "Place 3, Kris Bailey")
+*   Chris Nielsen - _did not respond_
+*   [Max Nofziger](2011-max-nofziger.html "Place 3, Max Nofziger")
+*   [Randi Shade](2011-randi-shade.html "Place 3, Randi Shade")
+*   [Kathie Tovo](2011-kathie-tovo.html "Place 3, Kathie Tovo")
+
+**Place 4**
+
+*   [Laura Morrison](2011-laura-morrison.html "Place 4, Laura Morrison")
+*   [Eric Rangel](2011-eric-rangel.html "Place 4, Eric Rangel")
+*   Toby Ryan - _did not respond_

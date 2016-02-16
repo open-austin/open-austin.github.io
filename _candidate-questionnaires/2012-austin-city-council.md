@@ -17,33 +17,36 @@ author:
   first_name: Chip
   last_name: Rosenthal
 ---
-<p>The Open Austin "2012 Austin City Council Candidate Questionnaire" features a set of seven questions focusing on measuring candidate support for several policies and practices that promote open government.</p>
-<p>All candidates were provided a copy of the questionnaire and were invited to respond.</p>
-<p>View the questionnaire here: <a href="http://www.open-austin.org/wp-content/uploads/2013/03/OpenAustinCandidateQuestionnaire2012.pdf">Open Austin Candidate Questionnaire 2012</a> (44KB PDF document).</p>
-<p>Here are the candidates and the responses they provided.</p>
-<p><strong>Mayor</strong></p>
-<ul>
-<li><a title="Mayor, Lee Leffingwell" href="2012-austin-city-council/lee-leffingwell">Lee Leffingwell</a></li>
-<li><a title="Mayor, Brigid Shea" href="2012-austin-city-council/brigid-shea">Brigid Shea</a></li>
-<li><a title="Mayor, Clay Dafoe" href="2012-austin-city-council/clay-dafoe">Clay Dafoe</a></li>
-</ul>
-<p><strong>Place 2</strong></p>
-<ul>
-<li>Laura Pressley - <em>did not respond</em></li>
-<li><a title="Place 2, Mike Martinez" href="2012-austin-city-council/mike-martinez">Mike Martinez</a></li>
-</ul>
-<p><strong>Place 5</strong></p>
-<ul>
-<li>John F. Duffy - <em>did not respond</em></li>
-<li>John A. Rubine - <em>did not respond</em></li>
-<li>R. A. "Bo" Prudente - <em>did not respond</em></li>
-<li><a title="Place 5, Audrey “Tina” Cannon" href="2012-austin-city-council/audrey-tina-cannon">Audrey "Tina" Cannon</a></li>
-<li><a title="Place 5, Bill Spelman" href="2012-austin-city-council/bill-spelman">Bill Spelman</a></li>
-<li><a title="Place 5, Dominic “Dom” Chavez" href="2012-austin-city-council/dominic-dom-chavez">Dominic "Dom" Chavez</a></li>
-<li>David Y. Conley - <em>did not respond</em></li>
-</ul>
-<p><strong>Place 6</strong></p>
-<ul>
-<li>Sheryl Cole - <em>did not respond</em></li>
-<li>Shaun Ireland - <em>did not respond</em></li>
-</ul>
+The Open Austin "2012 Austin City Council Candidate Questionnaire" features a set of seven questions focusing on measuring candidate support for several policies and practices that promote open government.
+
+All candidates were provided a copy of the questionnaire and were invited to respond.
+
+View the questionnaire here: [Open Austin Candidate Questionnaire 2012]({{site.baseurl}}/candidate-questionnaires/documents/OpenAustinCandidateQuestionnaire2012.pdf) (44KB PDF document).
+
+Here are the candidates and the responses they provided.
+
+**Mayor**
+
+*   [Lee Leffingwell](2012-lee-leffingwell.html "Mayor, Lee Leffingwell")
+*   [Brigid Shea](2012-brigid-shea.html "Mayor, Brigid Shea")
+*   [Clay Dafoe](2012-clay-dafoe.html "Mayor, Clay Dafoe")
+
+**Place 2**
+
+*   Laura Pressley - _did not respond_
+*   [Mike Martinez](2012-mike-martinez.html "Place 2, Mike Martinez")
+
+**Place 5**
+
+*   John F. Duffy - _did not respond_
+*   John A. Rubine - _did not respond_
+*   R. A. "Bo" Prudente - _did not respond_
+*   [Audrey "Tina" Cannon](2012-audrey-tina-cannon.html "Place 5, Audrey “Tina” Cannon")
+*   [Bill Spelman](2012-bill-spelman.html "Place 5, Bill Spelman")
+*   [Dominic "Dom" Chavez](2012-dominic-dom-chavez.html "Place 5, Dominic “Dom” Chavez")
+*   David Y. Conley - _did not respond_
+
+**Place 6**
+
+*   Sheryl Cole - _did not respond_
+*   Shaun Ireland - _did not respond_
