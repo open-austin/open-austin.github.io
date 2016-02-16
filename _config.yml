@@ -19,6 +19,8 @@ url: "http://open-austin.github.io" # the base hostname & protocol for your site
 twitter_username: openaustin
 github_username:  open-austin
 collections:
+  candidate-questionnaires:
+    output: true
   projects:
     output: true
 
