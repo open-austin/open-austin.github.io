@@ -30,6 +30,14 @@ Here's some of the activity that's occurred during our advocacy for open governm
 
 
 {:.no_toc}
+
+### 2016 Advocacy Agenda
+
+Open Austin members brainstormed a list of priorities for using data to improve public services, mostly at the city level.
+
+*  [Open Austin Advocacy Agenda 2016]({{site.baseurl}}/advocacy/documents/OpenAustinAdvocacyAgenda2016.pdf)
+
+{:.no_toc}
 ### Open Data Initiative 2.0 - Apr 8, 2015
 
 The city launched its open data initiative with the creation of its new website and open data portal. To increase department participation and open data availability, city management relaunched the effort with the _Open Data Initiative 2.0_.
