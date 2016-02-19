@@ -1,6 +1,6 @@
 ---
 title:        CapMetrics
-description:  "CapMetrics is a go/python project that collects and archives all of CapMetro's realtime vehicle positions on GitHub. This allows you to do fancy analysis, like https://github.com/scascketta/capmetrics."
+description:  "CapMetrics is a go/python project that collects and archives all of CapMetro's realtime vehicle positions on GitHub. This allows you to do fancy analysis, like http://seancascketta.com/CapMetrics/."
 project_at:   https://github.com/scascketta/capmetrics
 type:         web application
 status:       deployed
