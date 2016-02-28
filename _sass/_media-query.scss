@@ -10,3 +10,9 @@
         @content;
     }
 }
+
+.mobile-hidden {
+  @include media-query($on-palm) {
+    display: none;
+  };
+}

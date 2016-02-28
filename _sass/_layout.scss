@@ -47,11 +47,19 @@ hr {
 .post-col-1 {
     width: -webkit-calc(30% - (#{$spacing-unit} / 2));
     width:         calc(30% - (#{$spacing-unit} / 2));
+    @include media-query($on-palm) {
+        width: 100%;
+        text-align: center;
+    }
 }
 
 .post-col-2 {
     width: -webkit-calc(60% - (#{$spacing-unit} / 2));
     width:         calc(60% - (#{$spacing-unit} / 2));
+    @include media-query($on-palm) {
+        width: 100%;
+        padding: 5%;
+    }
 }
 
 .post-col-3 {
@@ -188,4 +196,10 @@ article.post {
         background: #fafafa;
         margin-top: 15px;
     }
+}
+
+.breadcrumb {
+  @include media-query($on-palm) {
+    padding: 0 5%;
+  };
 }

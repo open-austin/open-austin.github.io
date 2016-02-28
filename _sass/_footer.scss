@@ -62,8 +62,10 @@
   padding: 0 25px;
   li {
     flex: 1;
+    float: left;
     @include media-query($on-palm) {
       padding: 0 15px;
+      float: none;
     }
   }
   @include media-query($on-palm) {
