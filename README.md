@@ -44,6 +44,19 @@ Then go to
 http://localhost:4000/open-austin-org/
 ```
 
+
+### Instructions for exporting content from Wordpress
+
+```
+gem install jekyll-import hpricot open_uri_redirections
+ruby -rubygems -e 'require "jekyll-import";
+    JekyllImport::Importers::WordpressDotCom.run({
+      "source" => "import/openaustin.wordpress.2015-11-21.xml",
+      "no_fetch_images" => false,
+      "assets_folder" => "assets"
+    })'
+```
+
 --------------------
 
 # Planning
