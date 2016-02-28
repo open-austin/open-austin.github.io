@@ -3,9 +3,11 @@
         <h2>Most Recent Post</h2>
         {% for post in site.posts limit:1 %}
         <div class="v-wrap flex-container flex-column-on-palm">
-            <div class="featured-section-image">
-                <img class="featured-section-thumbnail" src="{{ site.baseurl }}/assets/images/{{ post.thumb }}" alt="{{ post.title }}">
-            </div>
+            {% if post.thumb %}
+              <div class="featured-section-image">
+                  <img class="featured-section-thumbnail" src="{{ site.baseurl }}/assets/images/{{ post.thumb }}" alt="{{ post.title }}">
+              </div>
+            {% endif %}
             <div class="flex-item">
                 <h3>
                     <a class="post-link" href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
