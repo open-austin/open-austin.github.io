@@ -139,6 +139,7 @@ hr {
 
 article.post {
     margin-top: $spacing-unit;
+    @include word-wrap;
 }
 
 .post-title {
