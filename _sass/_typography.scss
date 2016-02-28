@@ -9,11 +9,13 @@ h1, h2, h3, h4 {
 .post-content {
 
     h2, h3, h4 {
-        line-height: 1.9;
-    }
+        line-height: 1.9em;
+        @include media-query($on-palm) {
+          line-height: 1.5em;
+        };
 
     p, li {
-        line-height: 1.7;
+        line-height: 1.7em;
     }
     p {
         margin: 1em;
