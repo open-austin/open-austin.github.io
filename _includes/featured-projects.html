@@ -5,7 +5,7 @@
         <ul>
             {% for project in site.projects %}
             {% if project.featured == true %}
-            <li class="featured-project flex-container">
+            <li class="featured-project flex-container flex-column-on-palm">
                 <div class="project-image-container flex-item">
                     <img class="featured-project-image" src="{{ site.baseurl }}/assets/images/projects/screenshots/{{ project.screenshot }}" alt="{{ project.title }}">
                 </div>

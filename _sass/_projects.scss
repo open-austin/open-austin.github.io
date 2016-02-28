@@ -32,6 +32,16 @@
 .featured-project-links {
     display: inline-block;
     margin-top: 10px;
+    a {
+        padding: 0 5px;
+        &:hover {
+            text-decoration: none;
+        }
+    }
+    @include media-query($on-palm) {
+      text-align: right;
+      width: 100%;
+    };
 }
 
 .featured-project-image-container {
@@ -51,6 +61,10 @@
 .featured-project-description {
     width: 60%;
     padding-left: 30px;
+    @include media-query($on-palm) {
+      width: 100%;
+      padding-left: 0;
+    };
 }
 
 .featured-project-header {
@@ -60,15 +74,6 @@
     }
     .project-status {
         margin-top: 5px;
-        &:hover {
-            text-decoration: none;
-        }
-    }
-}
-
-.featured-project-links {
-    a {
-        padding: 0 5px;
         &:hover {
             text-decoration: none;
         }

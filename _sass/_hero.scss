@@ -15,6 +15,9 @@
         padding-top: $spacing-unit * 3;
         font-size: $base-font-size * 5;
         margin-bottom: $spacing-unit * .5;
+        @include media-query($on-palm) {
+          font-size: 3rem;
+        };
     }
     .hero-subtext {
         font-family: $font-primary;
@@ -22,6 +25,6 @@
         font-weight: 700;
         text-shadow: 0 1px 1px rgba(0, 0, 0, 0.8);
         margin: 0 auto;
-        padding-bottom: 30px; 
+        padding-bottom: 30px;
     }
 }

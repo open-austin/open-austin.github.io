@@ -11,5 +11,11 @@
 }
 
 .flex-wrap {
-  flex-wrap: wrap; 
+  flex-wrap: wrap;
+}
+
+.flex-column-on-palm {
+  @include media-query($on-palm) {
+    flex-direction: column;
+  };
 }

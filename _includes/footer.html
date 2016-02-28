@@ -6,41 +6,45 @@
       <div class="footer-social-media">
         <h2>Find Us Online</h2>
         <ul class="social-media-list">
-          <li>
-            <a href="https://twitter.com/{{ site.twitter_usernam }}">
-              <span class="footer-svg footer-svg-twitter">{% include icons/icon-twitter.svg %}</span>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.facebook.com/Open-Austin-412390968837071/">
-              <span class="footer-svg footer-svg-facebook">{% include icons/SVG/facebook2.svg %}</span>
-            </a>
-          </li>
-          <li>
-            <a href="https://github.com/{{ site.github_username }}">
-              <span class="footer-svg footer-svg-github">{% include icons/SVG/logo-github.svg %}</span>
-            </a>
-          </li>
-          <li>
-            <a href="http://slack.open-austin.org/">
-              <span class="footer-svg footer-svg-slack">{% include icons/slack.svg %}</span>
-            </a>
-          </li>
-          <li>
-            <a href="http://www.meetup.com/Open-Austin/">
-              <span class="footer-svg footer-svg-meetup">{% include icons/SVG/meetup.svg %}</span>
-            </a>
-          </li>
-          <li>
-            <a href="{{ site.baseurl }}/feed.xml">
-              <span class="footer-svg footer-svg-rss">{% include icons/rss.svg %}</span>
-            </a>
-          </li>
-          <li>
-            <a href="mailto:info@open-austin.org">
-              <span class="footer-svg footer-svg-email">{% include icons/email.svg %}</span>
-            </a>
-          </li>
+          <div class="list-row-mobile">
+            <li>
+              <a href="https://github.com/{{ site.github_username }}">
+                <span class="footer-svg footer-svg-github">{% include icons/SVG/logo-github.svg %}</span>
+              </a>
+            </li>
+            <li>
+              <a href="http://slack.open-austin.org/">
+                <span class="footer-svg footer-svg-slack">{% include icons/slack.svg %}</span>
+              </a>
+            </li>
+            <li>
+              <a href="http://www.meetup.com/Open-Austin/">
+                <span class="footer-svg footer-svg-meetup">{% include icons/SVG/meetup.svg %}</span>
+              </a>
+            </li>
+          </div>
+          <div class="list-row-mobile">
+            <li>
+              <a href="https://twitter.com/{{ site.twitter_usernam }}">
+                <span class="footer-svg footer-svg-twitter">{% include icons/icon-twitter.svg %}</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.facebook.com/Open-Austin-412390968837071/">
+                <span class="footer-svg footer-svg-facebook">{% include icons/SVG/facebook2.svg %}</span>
+              </a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/feed.xml">
+                <span class="footer-svg footer-svg-rss">{% include icons/rss.svg %}</span>
+              </a>
+            </li>
+            <li>
+              <a href="mailto:info@open-austin.org">
+                <span class="footer-svg footer-svg-email">{% include icons/email.svg %}</span>
+              </a>
+            </li>
+          </div>
         </ul>
       </div>
 
