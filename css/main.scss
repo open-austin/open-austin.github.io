@@ -5,6 +5,7 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "variables";
+@import "mixins";
 @import "colors";
 @import "media-query";
 @import "flexbox";
