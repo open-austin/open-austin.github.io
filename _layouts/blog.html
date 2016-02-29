@@ -12,19 +12,24 @@ layout: default
     <li>
       <div class="post-col post-col-1">
         {% if post.thumb %}
-      <a href="{{ post.url | prepend: site.baseurl }}"><img width="250px" height="200px" src="/open-austin-org/assets/images/{{ post.thumb }}" alt="{{ post.thumbalt }}"></a>
-    {% endif %}
-
-    </div>
-    <div class="post-col post-col-2">
-      <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-      <span class="post-meta">{% if post.author %}{{ post.author['first_name'] }} {{ post.author['last_name'] }}{% endif %} | {{ post.date | date: "%b %-d, %Y" }}</span>
-      <p>{% if post.summary %}{{ post.summary }}{% endif %}</p>
-      <a class="continue-link" href="{{ post.url | prepend: site.baseurl }}">Continue Reading...</a>
-    </div>
-    <div class="post-col post-col-3"><div>
+          <a href="{{ post.url | prepend: site.baseurl }}"><img width="250px" height="200px" src="/open-austin-org/assets/images/{{ post.thumb }}" alt="{{ post.thumbalt }}"></a>
+        {% endif %}
+      </div>
+      <div class="post-col post-col-2">
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <span class="post-meta">{% if post.author %}{{ post.author['first_name'] }} {{ post.author['last_name'] }}{% endif %} | {{ post.date | date: "%b %-d, %Y" }}</span>
+        <p>
+          {% if post.summary %}
+            {{ post.summary }}
+          {% else %}
+            {{ post.content | strip_html | truncate: 250 }}
+          {% endif %}
+        </p>
+        <a class="continue-link" href="{{ post.url | prepend: site.baseurl }}">Continue Reading...</a>
+      </div>
+      <div class="post-col post-col-3"><div>
     </li>
   {% endfor %}
   </ul>
