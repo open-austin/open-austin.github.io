@@ -6,8 +6,8 @@
 </description>
     <link>http://open-austin.github.io/open-austin-org/</link>
     <atom:link href="http://open-austin.github.io/open-austin-org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Feb 2016 00:24:57 -0600</pubDate>
-    <lastBuildDate>Mon, 29 Feb 2016 00:24:57 -0600</lastBuildDate>
+    <pubDate>Mon, 29 Feb 2016 01:52:42 -0600</pubDate>
+    <lastBuildDate>Mon, 29 Feb 2016 01:52:42 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -119,18 +119,22 @@
     
       <item>
         <title>Lightning Talks: Jan. 11 Open Gov &amp; Civic Tech Meetup Recap</title>
-        <description>&lt;p&gt;For Open Austin&#39;s first meetup of the year, six members of our community presented rapid fire lightning talks showcasing the group&#39;s diversity of skill and knowledge.&lt;/p&gt;
+        <description>&lt;p&gt;For Open Austin’s first meetup of the year, six members of our community presented rapid fire lightning talks showcasing the group’s diversity of skill and knowledge.&lt;/p&gt;
+
 &lt;p&gt;The subjects ranged from introductory to technical. Presentations covered everything from online legal resources, web mapping, satellite imagery APIs, problem framing, City of Austin open datasets, and updates to Open Records Policy from the 84th Texas Legislative Session.&lt;/p&gt;
+
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/mscarey&quot;&gt;Matt Carey, OA Policy Lead&lt;/a&gt; - &lt;a href=&quot;https://github.com/open-austin/iced-coffee/files/88240/Law.on.Web.slides.pdf&quot;&gt;Free Law on the Web&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/prestonp&quot;&gt;Preston Pham&lt;/a&gt; - &lt;a href=&quot;http://open-austin.github.io/leaflet-talk/&quot;&gt;Leaflet Primer: Developing with Open Source Web Maps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/gusIreland&quot;&gt;Gus Ireland&lt;/a&gt; - &lt;a href=&quot;http://gusireland.github.io/urthecast-api-presentation/&quot;&gt;Mapping with Urthecast&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://twitter.com/atx_innovation&quot;&gt;Angela Hanson&lt;/a&gt;, Innovation Office - &lt;a href=&quot;https://prezi.com/hqtbt_jtme2y/innovation-method/&quot;&gt;Productive Brainstorming and Issue Framing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://twitter.com/spatialaustin&quot;&gt;John Clary&lt;/a&gt; - &lt;a href=&quot;https://github.com/open-austin/iced-coffee/files/88242/ACD.Presentation.To.Open.Austin.Jan.2016.pdf&quot;&gt;Austin Code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://twitter.com/McCnnll&quot;&gt;Chris McConnell&lt;/a&gt; - &lt;a href=&quot;https://github.com/open-austin/iced-coffee/files/88241/OA_OpenRecordsInTexas.pptx&quot;&gt;Open Records In Texas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1QvCowZBzfkhN-rAjH4I0kYSBQZUGDTAj5ey1KiF-Ris/edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;Open Austin Announcements &amp;amp; Upcoming Events Deck&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mscarey&quot;&gt;Matt Carey, OA Policy Lead&lt;/a&gt; - &lt;a href=&quot;https://github.com/open-austin/iced-coffee/files/88240/Law.on.Web.slides.pdf&quot;&gt;Free Law on the Web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/prestonp&quot;&gt;Preston Pham&lt;/a&gt; - &lt;a href=&quot;http://open-austin.github.io/leaflet-talk/&quot;&gt;Leaflet Primer: Developing with Open Source Web Maps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/gusIreland&quot;&gt;Gus Ireland&lt;/a&gt; - &lt;a href=&quot;http://gusireland.github.io/urthecast-api-presentation/&quot;&gt;Mapping with Urthecast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/atx_innovation&quot;&gt;Angela Hanson&lt;/a&gt;, Innovation Office - &lt;a href=&quot;https://prezi.com/hqtbt_jtme2y/innovation-method/&quot;&gt;Productive Brainstorming and Issue Framing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/spatialaustin&quot;&gt;John Clary&lt;/a&gt; - &lt;a href=&quot;https://github.com/open-austin/iced-coffee/files/88242/ACD.Presentation.To.Open.Austin.Jan.2016.pdf&quot;&gt;Austin Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/McCnnll&quot;&gt;Chris McConnell&lt;/a&gt; - &lt;a href=&quot;https://github.com/open-austin/iced-coffee/files/88241/OA_OpenRecordsInTexas.pptx&quot;&gt;Open Records In Texas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1QvCowZBzfkhN-rAjH4I0kYSBQZUGDTAj5ey1KiF-Ris/edit?usp=sharing&quot;&gt;Open Austin Announcements &amp;amp; Upcoming Events Deck&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Highlights from Twitter. &lt;a href=&quot;https://twitter.com/openaustin&quot; target=&quot;_blank&quot;&gt;Give us a follow to stay up to date. &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Highlights from Twitter. &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;Give us a follow to stay up to date.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
 &lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;
 &lt;p dir=&quot;ltr&quot; lang=&quot;en&quot;&gt;&lt;a href=&quot;http://&amp;lt;blockquote%20class=&amp;quot;twitter-tweet&amp;quot; lang=&amp;quot;en&amp;quot;&amp;gt;&amp;lt;p lang=&amp;quot;en&amp;quot; dir=&amp;quot;ltr&amp;quot;&amp;gt;&amp;amp;quot;We ask why until we get to the root cause of problems.&amp;amp;quot; -&amp;lt;a href=&amp;quot;https://twitter.com/atx_innovation&amp;quot;&amp;gt;@atx_innovation&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://twitter.com/hashtag/atx?src=hash&amp;quot;&amp;gt;#atx&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://twitter.com/hashtag/CfaBrigade?src=hash&amp;quot;&amp;gt;#CfaBrigade&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; Open Austin (@openaustin) &amp;lt;a href=&amp;quot;https://twitter.com/openaustin/status/686729073666572289&amp;quot;&amp;gt;January 12, 2016&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&amp;quot;//platform.twitter.com/widgets.js&amp;quot; charset=&amp;quot;utf-8&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;&quot;&gt;Meeting is starting now! #CfaBrigade&lt;/a&gt; &lt;a href=&quot;http://&amp;lt;blockquote%20class=&amp;quot;twitter-tweet&amp;quot; lang=&amp;quot;en&amp;quot;&amp;gt;&amp;lt;p lang=&amp;quot;en&amp;quot; dir=&amp;quot;ltr&amp;quot;&amp;gt;&amp;amp;quot;We ask why until we get to the root cause of problems.&amp;amp;quot; -&amp;lt;a href=&amp;quot;https://twitter.com/atx_innovation&amp;quot;&amp;gt;@atx_innovation&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://twitter.com/hashtag/atx?src=hash&amp;quot;&amp;gt;#atx&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://twitter.com/hashtag/CfaBrigade?src=hash&amp;quot;&amp;gt;#CfaBrigade&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; Open Austin (@openaustin) &amp;lt;a href=&amp;quot;https://twitter.com/openaustin/status/686729073666572289&amp;quot;&amp;gt;January 12, 2016&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&amp;quot;//platform.twitter.com/widgets.js&amp;quot; charset=&amp;quot;utf-8&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;&quot;&gt;#opendata&lt;/a&gt; &lt;a href=&quot;http://&amp;lt;blockquote%20class=&amp;quot;twitter-tweet&amp;quot; lang=&amp;quot;en&amp;quot;&amp;gt;&amp;lt;p lang=&amp;quot;en&amp;quot; dir=&amp;quot;ltr&amp;quot;&amp;gt;&amp;amp;quot;We ask why until we get to the root cause of problems.&amp;amp;quot; -&amp;lt;a href=&amp;quot;https://twitter.com/atx_innovation&amp;quot;&amp;gt;@atx_innovation&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://twitter.com/hashtag/atx?src=hash&amp;quot;&amp;gt;#atx&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://twitter.com/hashtag/CfaBrigade?src=hash&amp;quot;&amp;gt;#CfaBrigade&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; Open Austin (@openaustin) &amp;lt;a href=&amp;quot;https://twitter.com/openaustin/status/686729073666572289&amp;quot;&amp;gt;January 12, 2016&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&amp;quot;//platform.twitter.com/widgets.js&amp;quot; charset=&amp;quot;utf-8&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;&quot;&gt;#civictech&lt;/a&gt; &lt;a href=&quot;http://&amp;lt;blockquote%20class=&amp;quot;twitter-tweet&amp;quot; lang=&amp;quot;en&amp;quot;&amp;gt;&amp;lt;p lang=&amp;quot;en&amp;quot; dir=&amp;quot;ltr&amp;quot;&amp;gt;&amp;amp;quot;We ask why until we get to the root cause of problems.&amp;amp;quot; -&amp;lt;a href=&amp;quot;https://twitter.com/atx_innovation&amp;quot;&amp;gt;@atx_innovation&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://twitter.com/hashtag/atx?src=hash&amp;quot;&amp;gt;#atx&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://twitter.com/hashtag/CfaBrigade?src=hash&amp;quot;&amp;gt;#CfaBrigade&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; Open Austin (@openaustin) &amp;lt;a href=&amp;quot;https://twitter.com/openaustin/status/686729073666572289&amp;quot;&amp;gt;January 12, 2016&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&amp;quot;//platform.twitter.com/widgets.js&amp;quot; charset=&amp;quot;utf-8&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;&quot;&gt;#atx&lt;/a&gt; &lt;a href=&quot;http://&amp;lt;blockquote%20class=&amp;quot;twitter-tweet&amp;quot; lang=&amp;quot;en&amp;quot;&amp;gt;&amp;lt;p lang=&amp;quot;en&amp;quot; dir=&amp;quot;ltr&amp;quot;&amp;gt;&amp;amp;quot;We ask why until we get to the root cause of problems.&amp;amp;quot; -&amp;lt;a href=&amp;quot;https://twitter.com/atx_innovation&amp;quot;&amp;gt;@atx_innovation&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://twitter.com/hashtag/atx?src=hash&amp;quot;&amp;gt;#atx&amp;lt;/a&amp;gt; &amp;lt;a href=&amp;quot;https://twitter.com/hashtag/CfaBrigade?src=hash&amp;quot;&amp;gt;#CfaBrigade&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;amp;mdash; Open Austin (@openaustin) &amp;lt;a href=&amp;quot;https://twitter.com/openaustin/status/686729073666572289&amp;quot;&amp;gt;January 12, 2016&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt; &amp;lt;script async src=&amp;quot;//platform.twitter.com/widgets.js&amp;quot; charset=&amp;quot;utf-8&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;&quot;&gt;pic.twitter.com/fyjxiUIYsj&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;— Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/686714664542060548&quot;&gt;January 12, 2016&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
@@ -149,8 +153,12 @@ Also feel free to &lt;a href=&quot;http://www.open-austin.org/calendar&quot; tar
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Jan 2016 12:45:53 -0600</pubDate>
-        <link>http://open-austin.github.io/open-austin-org/general%20news/open%20austin%20meetings/2016/01/13/lightning-talks.html</link>
-        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/general%20news/open%20austin%20meetings/2016/01/13/lightning-talks.html</guid>
+        <link>http://open-austin.github.io/open-austin-org/2016/01/13/lightning-talks.html</link>
+        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/2016/01/13/lightning-talks.html</guid>
+        
+        <category>General News</category>
+        
+        <category>Open Austin Meetings</category>
         
         <category>City of Austin</category>
         
@@ -173,52 +181,171 @@ Also feel free to &lt;a href=&quot;http://www.open-austin.org/calendar&quot; tar
         <category>web mapping</category>
         
         
-        <category>general news</category>
-        
-        <category>open austin meetings</category>
-        
       </item>
     
       <item>
         <title>Ship It Weekend 2015 Event Summary</title>
-        <description>&lt;p&gt;The goal for our first ever &lt;strong&gt;Ship It Weekend&lt;/strong&gt; was to create a comfortable space for teams and new civic hackers to push forward on existing projects. Our &lt;a href=&quot;https://twitter.com/openaustin/status/668495254933368832/photo/1?ref_src=twsrc%5Etfw&quot;&gt;sponsors&lt;/a&gt; graciously provided fast wifi, good food, and coffee. All key ingredients for productive civic hacking.&lt;/p&gt;
-&lt;p&gt;Here&#39;s a summary of some of the achievements of our various projects over the two day hack:&lt;/p&gt;
+        <description>&lt;p&gt;The&amp;nbsp;goal for our first ever &lt;strong&gt;Ship It Weekend&lt;/strong&gt; was to
+create a comfortable space for teams and new civic hackers&amp;nbsp;to push
+forward&amp;nbsp;on existing projects. Our &lt;a href=
+&quot;https://twitter.com/openaustin/status/668495254933368832/photo/1?ref_src=twsrc%5Etfw&quot;&gt;
+sponsors&lt;/a&gt; graciously provided fast wifi, good food, and coffee. All key
+ingredients for productive civic hacking.&lt;/p&gt;
+&lt;p&gt;Here&#39;s a summary of some of the achievements of our various projects over
+the two day hack:&lt;/p&gt;
+
+&lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
 &lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;
-&lt;p dir=&quot;ltr&quot; lang=&quot;en&quot;&gt;.&lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt;&#39;s &lt;a href=&quot;https://twitter.com/hashtag/ShipItAtx15?src=hash&quot;&gt;#ShipItAtx15&lt;/a&gt; is kicking off &lt;a href=&quot;https://twitter.com/CapitalFactory&quot;&gt;@CapitalFactory&lt;/a&gt; this morning! &lt;a href=&quot;https://twitter.com/hashtag/CivicHack?src=hash&quot;&gt;#CivicHack&lt;/a&gt; &lt;a href=&quot;https://t.co/Hfm12iqXMV&quot;&gt;pic.twitter.com/Hfm12iqXMV&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;— Austin Tech Live (@AustinTechLive) &lt;a href=&quot;https://twitter.com/AustinTechLive/status/668092999499390978&quot;&gt;November 21, 2015&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;script src=&quot;//platform.twitter.com/widgets.js&quot; async=&quot;&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;The &lt;a href=&quot;https://wiki.openstreetmap.org/wiki/Austin,_TX/Buildings_Import&quot;&gt;&lt;strong&gt;Open Street Map (OSM) Import&lt;/strong&gt; &lt;strong&gt;Team&lt;/strong&gt;&lt;/a&gt; split public domain building data amongst 776 census block groups that represent an individual task (unit of work). They have now managed to finish 208 out of 776 tasks (about 25%). &lt;/p&gt;
-&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;So many Austin buildings imported into OSM this fine &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/ShipItATX15?src=hash&quot;&gt;#ShipItATX15&lt;/a&gt; weekend. More than 25% done! &lt;a href=&quot;https://t.co/BY3c7wGRIG&quot;&gt;pic.twitter.com/BY3c7wGRIG&lt;/a&gt; — Andy Wilson (@wilsajj) &lt;a href=&quot;https://twitter.com/wilsajj/status/668561956207353856&quot;&gt;November 22, 2015&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;script src=&quot;//platform.twitter.com/widgets.js&quot; async=&quot;&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://open-austin.github.io/recycling-atx/&quot;&gt;Recycling ATX&lt;/a&gt;&lt;/strong&gt; is a webapp &lt;span style=&quot;font-weight: 400;&quot;&gt;for reporting buildings that do not comply with Austin&#39;s Universal Recycling Ordinance. They&lt;/span&gt; extended the &lt;a href=&quot;https://github.com/open-austin/recycling-bin&quot;&gt;backend API&lt;/a&gt; and made progress on the &lt;a href=&quot;https://github.com/open-austin/recycling-atx&quot;&gt;front end&lt;/a&gt; of their app.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.texasappleseed.org/&quot;&gt;Texas Appleseed&lt;/a&gt;&lt;/strong&gt; continued working on a &lt;a href=&quot;https://openaustin.cartodb.com/u/oa-admin/viz/cb394812-8b56-11e5-91c0-0ecd1babdde5/public_map&quot;&gt;map of discipline statistics by school districts in Texas&lt;/a&gt;. They worked on making it easier to filter map views on classroom removals and the use of school police and court to address student behavior. These map visualizations are being included in their new School-to-Prison Pipeline awareness website. The site is still under development but can be viewed on their &lt;a href=&quot;http://forum-include.codio.io:3000/wordpress/?page_id=159&quot;&gt;demo host&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img class=&quot;size-medium wp-image-1666 alignright&quot; src=&quot;/open-austin-org/assets/Screen-Shot-2015-11-29-at-11.06.40-PM-167x300.png&quot; alt=&quot;Screen Shot 2015-11-29 at 11.06.40 PM&quot; width=&quot;167&quot; height=&quot;300&quot; /&gt;The &lt;strong&gt;&lt;a href=&quot;http://open-austin.github.io/open-data-progress-report/&quot;&gt;Open Data Progress Report&lt;/a&gt;&lt;/strong&gt; got an upgrade to display better on mobile browsers.&lt;/p&gt;
-&lt;p&gt;The&lt;strong&gt; &lt;a href=&quot;https://github.com/open-austin/data-portal-analysis&quot;&gt;City of Austin Socrata Data Portal Analysis&lt;/a&gt; &lt;/strong&gt;Team is &lt;span style=&quot;font-weight: 400;&quot;&gt;building a program that fetches summary information from the City’s open data portal and organizes it for analysis. They&lt;/span&gt; refactored their code so that other cities can use it, and added a feature to fetch the list of resources from Socrata. &lt;span style=&quot;font-weight: 400;&quot;&gt;As of right now, when you run the program, it generates a csv with summary data from the data portal. View their program &lt;a href=&quot;https://github.com/open-austin/data-portal-analysis&quot;&gt;Github&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;The &lt;strong&gt;&lt;a href=&quot;http://digitalatx.com&quot;&gt;Digital ATX&lt;/a&gt;&lt;/strong&gt; team is creating an inventory of programs and locations that offer computer labs and training offerings. They worked on some UI elements of the profile page, and location inventory page.&lt;/p&gt;
-&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;What a great team working in &lt;a href=&quot;https://t.co/YDwJwwL0WE&quot;&gt;https://t.co/YDwJwwL0WE&lt;/a&gt;! &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/ShipItATX15?src=hash&quot;&gt;#ShipItATX15&lt;/a&gt; &lt;a href=&quot;https://t.co/XxyCSA6H7Z&quot;&gt;pic.twitter.com/XxyCSA6H7Z&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;— COADigital Inclusion (@COADigInclusion) &lt;a href=&quot;https://twitter.com/COADigInclusion/status/668134373502246913&quot;&gt;November 21, 2015&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+    &lt;p dir=&quot;ltr&quot; lang=&quot;en&quot;&gt;.&lt;a href=
+    &quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt;&#39;s &lt;a href=
+    &quot;https://twitter.com/hashtag/ShipItAtx15?src=hash&quot;&gt;#ShipItAtx15&lt;/a&gt; is
+    kicking off &lt;a href=
+    &quot;https://twitter.com/CapitalFactory&quot;&gt;@CapitalFactory&lt;/a&gt; this morning!
+    &lt;a href=&quot;https://twitter.com/hashtag/CivicHack?src=hash&quot;&gt;#CivicHack&lt;/a&gt;
+    &lt;a href=&quot;https://t.co/Hfm12iqXMV&quot;&gt;pic.twitter.com/Hfm12iqXMV&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;— Austin Tech Live (@AustinTechLive) &lt;a href=
+    &quot;https://twitter.com/AustinTechLive/status/668092999499390978&quot;&gt;November 21,
+    2015&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+The &lt;a href=
+&quot;https://wiki.openstreetmap.org/wiki/Austin,_TX/Buildings_Import&quot;&gt;&lt;strong&gt;Open
+Street Map (OSM) Import&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;Team&lt;/strong&gt;&lt;/a&gt; split public
+domain building data amongst 776 census block groups that represent&amp;nbsp;an
+individual task (unit of work). They have now managed to finish 208 out of 776
+tasks (about 25%).&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;
+    &lt;p&gt;So many Austin buildings imported into OSM this fine &lt;a href=
+    &quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; &lt;a href=
+    &quot;https://twitter.com/hashtag/ShipItATX15?src=hash&quot;&gt;#ShipItATX15&lt;/a&gt;
+    weekend. More than 25% done! &lt;a href=
+    &quot;https://t.co/BY3c7wGRIG&quot;&gt;pic.twitter.com/BY3c7wGRIG&lt;/a&gt; — Andy Wilson
+    (@wilsajj) &lt;a href=
+    &quot;https://twitter.com/wilsajj/status/668561956207353856&quot;&gt;November 22,
+    2015&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://open-austin.github.io/recycling-atx/&quot;&gt;Recycling
+ATX&lt;/a&gt;&lt;/strong&gt; is a webapp &lt;span style=&quot;font-weight: 400;&quot;&gt;for reporting
+buildings that do not comply with Austin&#39;s Universal Recycling Ordinance.
+They&lt;/span&gt;&amp;nbsp;extended the &lt;a href=
+&quot;https://github.com/open-austin/recycling-bin&quot;&gt;backend API&lt;/a&gt; and made
+progress on the &lt;a href=&quot;https://github.com/open-austin/recycling-atx&quot;&gt;front
+end&lt;/a&gt; of their app.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.texasappleseed.org/&quot;&gt;Texas
+Appleseed&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;continued working on a &lt;a href=
+&quot;https://openaustin.cartodb.com/u/oa-admin/viz/cb394812-8b56-11e5-91c0-0ecd1babdde5/public_map&quot;&gt;
+map of discipline statistics by school districts in Texas&lt;/a&gt;. They worked on
+making it easier to filter map views&amp;nbsp;on classroom removals and
+the&amp;nbsp;use of school police and court to address student behavior. These map
+visualizations are being included in their new School-to-Prison Pipeline
+awareness website. The site is still under&amp;nbsp;development but can be viewed
+on their &lt;a href=
+&quot;http://forum-include.codio.io:3000/wordpress/?page_id=159&quot;&gt;demo host&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;img alt=&quot;Screen Shot 2015-11-29 at 11.06.40 PM&quot; class=&quot;post-inline-images&quot; height=&quot;300&quot; src=&quot;/open-austin-org/assets/Screen-Shot-2015-11-29-at-11.06.40-PM-167x300.png&quot; width=&quot;167&quot;&gt;
+&lt;/p&gt;
+
+The &lt;strong&gt;&lt;a href=
+&quot;http://open-austin.github.io/open-data-progress-report/&quot;&gt;Open Data Progress
+Report&lt;/a&gt;&lt;/strong&gt; got an upgrade to display better on mobile browsers.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;&lt;a href=
+&quot;https://github.com/open-austin/data-portal-analysis&quot;&gt;City of Austin Socrata
+Data Portal Analysis&lt;/a&gt;&lt;/strong&gt; Team is&amp;nbsp;&lt;span style=
+&quot;font-weight: 400;&quot;&gt;building a program that fetches summary information from
+the City’s open data portal and organizes it for analysis.
+They&lt;/span&gt;&amp;nbsp;refactored their code so that other cities can use it, and
+added a feature to fetch the list of resources from Socrata.&amp;nbsp;&lt;span style=
+&quot;font-weight: 400;&quot;&gt;As of right now, when you run the program, it generates a
+csv with summary data from the data portal. View their program&amp;nbsp;&lt;a href=
+&quot;https://github.com/open-austin/data-portal-analysis&quot;&gt;Github&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;&lt;a href=&quot;http://digitalatx.com&quot;&gt;Digital ATX&lt;/a&gt;&lt;/strong&gt; team is
+creating an inventory of programs and locations that offer computer labs and
+training offerings. They&amp;nbsp;worked on some UI elements of the profile page,
+and location inventory page.&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;
+    &lt;p&gt;What a great team working in &lt;a href=
+    &quot;https://t.co/YDwJwwL0WE&quot;&gt;https://t.co/YDwJwwL0WE&lt;/a&gt;! &lt;a href=
+    &quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; &lt;a href=
+    &quot;https://twitter.com/hashtag/ShipItATX15?src=hash&quot;&gt;#ShipItATX15&lt;/a&gt;
+    &lt;a href=&quot;https://t.co/XxyCSA6H7Z&quot;&gt;pic.twitter.com/XxyCSA6H7Z&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;— COADigital Inclusion (@COADigInclusion) &lt;a href=
+    &quot;https://twitter.com/COADigInclusion/status/668134373502246913&quot;&gt;November
+    21, 2015&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;T&lt;img class=&quot;alignleft size-medium wp-image-1663&quot; src=&quot;/open-austin-org/assets/Screen-Shot-2015-11-29-at-10.45.38-PM-161x300.png&quot; alt=&quot;Screen Shot 2015-11-29 at 10.45.38 PM&quot; width=&quot;161&quot; height=&quot;300&quot; /&gt;he &lt;strong&gt;Transitime&lt;/strong&gt; team is m&lt;span style=&quot;font-weight: 400;&quot;&gt;aking the deployment of the &lt;a href=&quot;https://github.com/open-austin/transitime-docker/blob/master/bin/fix_gtfs_stop_times.sh&quot;&gt;OpenAustin Transitime fork &lt;/a&gt;more stable. They c&lt;/span&gt;reated a simple Bash script to clean up the GTFS zip data provided by Capmetro.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://instabus.org/&quot;&gt;Instabus&lt;/a&gt;&lt;/strong&gt; is a webapp that shows where buses are in Austin. The team worked to modernize the Instabus code to use React, Immutable.js, and Redux. They also began a redesign of the user interface to work better on mobile.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://austinparkequity.com/&quot;&gt;Austin Park Equity&lt;/a&gt;&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; aims to increase equitable park access with maps thatt help visualize how Austin&#39;s park resources are distributed throughout the City of Austin. The team w&lt;/span&gt;orked on a &lt;a href=&quot;https://github.com/open-austin/austin-park-equity/blob/4955183ef934e7bba23ad80374693a550dd88e29/scripts/census-reporter.js&quot;&gt;node.js script &lt;/a&gt;to import census data from CensusReporter.org and thought about data architecture to import park GIS data from a unified source (looking at you Open Street Map) to pair better with Austin Green Map.&lt;/p&gt;
-&lt;p&gt;The &lt;strong&gt;Open Austin Policy Team&lt;/strong&gt; added some items to our &lt;a href=&quot;https://docs.google.com/document/d/1SAwpRkuTDZamxTHlxL_WJlpJ573yRu36OR8cCExYxRg/edit&quot;&gt;Google Doc&lt;/a&gt; of upcoming policy priorities.&lt;/p&gt;
-&lt;p&gt;&lt;img class=&quot;alignleft size-medium wp-image-1664&quot; src=&quot;/open-austin-org/assets/Screen-Shot-2015-11-29-at-10.52.16-PM-300x202.png&quot; alt=&quot;Screen Shot 2015-11-29 at 10.52.16 PM&quot; width=&quot;300&quot; height=&quot;202&quot; /&gt; The &lt;strong&gt;&lt;a href=&quot;https://github.com/open-austin/iced-coffee/issues/2&quot;&gt;Open Austin Logo&lt;/a&gt; &lt;/strong&gt;design group created a bunch of doodles, sketches and drafts of a new OA logo.&lt;/p&gt;
-&lt;p&gt;The&lt;strong&gt; &lt;a href=&quot;http://open-austin.github.io/open-austin-org/&quot;&gt;Open Austin Website Redesign&lt;/a&gt;&lt;/strong&gt; group worked on turning design mockups into functioning templates for the header, homepage, blogs. They also began content migration of existing OA articles.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Thanks to everyone that came and participated at Ship It Weekend!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2015/11/Ship-it-group-photo.jpg&quot;&gt;&lt;img class=&quot;size-medium wp-image-1673 aligncenter&quot; src=&quot;/open-austin-org/assets/Ship-it-group-photo-300x225.jpg&quot; alt=&quot;Ship it group photo&quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Shoutout to our amazing sponsors! &lt;a href=&quot;https://twitter.com/codeforamerica&quot;&gt;@codeforamerica&lt;/a&gt; &lt;a href=&quot;https://twitter.com/CapitalFactory&quot;&gt;@CapitalFactory&lt;/a&gt; &lt;a href=&quot;https://twitter.com/Hired_HQ&quot;&gt;@Hired_HQ&lt;/a&gt; &lt;a href=&quot;https://twitter.com/USAA&quot;&gt;@USAA&lt;/a&gt; &lt;a href=&quot;https://twitter.com/Dell&quot;&gt;@Dell&lt;/a&gt; &lt;a href=&quot;https://twitter.com/BoozAllen&quot;&gt;@BoozAllen&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/ShipItATX15?src=hash&quot;&gt;#ShipItATX15&lt;/a&gt; &lt;a href=&quot;https://t.co/zLk9sWhmsI&quot;&gt;pic.twitter.com/zLk9sWhmsI&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;— Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/668495254933368832&quot;&gt;November 22, 2015&lt;/p&gt;
-&lt;p&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;View more photos from Ship It Weekend in our &lt;a href=&quot;https://www.facebook.com/media/set/?set=a.912559125486917.1073741829.412390968837071&amp;amp;type=3&amp;amp;uploaded=25&quot; target=&quot;_blank&quot;&gt;Facebook Album&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;script src=&quot;//platform.twitter.com/widgets.js&quot; async=&quot;&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Screen Shot 2015-11-29 at 10.45.38 PM&quot; class=
+&quot;post-inline-images&quot; height=&quot;300&quot; src=
+&quot;/open-austin-org/assets/Screen-Shot-2015-11-29-at-10.45.38-PM-161x300.png&quot;
+width=&quot;161&quot;&gt;The &lt;strong&gt;Transitime&lt;/strong&gt; team is m&lt;span style=
+&quot;font-weight: 400;&quot;&gt;aking the deployment of the &lt;a href=
+&quot;https://github.com/open-austin/transitime-docker/blob/master/bin/fix_gtfs_stop_times.sh&quot;&gt;
+OpenAustin Transitime fork&lt;/a&gt; more stable. They c&lt;/span&gt;reated a simple Bash
+script to clean up the GTFS zip data provided by Capmetro.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://instabus.org/&quot;&gt;Instabus&lt;/a&gt;&lt;/strong&gt; is a webapp
+that shows where buses are in Austin. The team worked to modernize the Instabus
+code to use React, Immutable.js, and Redux. They also began a redesign of the
+user interface to work better on mobile.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://austinparkequity.com/&quot;&gt;Austin Park
+Equity&lt;/a&gt;&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;aims to increase
+equitable park access with maps thatt help visualize how Austin&#39;s park
+resources are distributed throughout the City of Austin. The team w&lt;/span&gt;orked
+on a &lt;a href=
+&quot;https://github.com/open-austin/austin-park-equity/blob/4955183ef934e7bba23ad80374693a550dd88e29/scripts/census-reporter.js&quot;&gt;
+node.js script&lt;/a&gt; to import census data from CensusReporter.org and thought
+about data architecture to import park GIS data from a unified source (looking
+at you Open Street Map) to pair better with Austin Green Map.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;Open Austin Policy Team&lt;/strong&gt;&amp;nbsp;added some items to our
+&lt;a href=
+&quot;https://docs.google.com/document/d/1SAwpRkuTDZamxTHlxL_WJlpJ573yRu36OR8cCExYxRg/edit&quot;&gt;
+Google Doc&lt;/a&gt; of upcoming policy priorities.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Screen Shot 2015-11-29 at 10.52.16 PM&quot; class=
+&quot;post-inline-images&quot; height=&quot;202&quot; src=
+&quot;/open-austin-org/assets/Screen-Shot-2015-11-29-at-10.52.16-PM-300x202.png&quot;
+width=&quot;300&quot;&gt; The&amp;nbsp;&lt;strong&gt;&lt;a href=
+&quot;https://github.com/open-austin/iced-coffee/issues/2&quot;&gt;Open Austin
+Logo&lt;/a&gt;&lt;/strong&gt; design group created&amp;nbsp;a bunch&amp;nbsp;of doodles, sketches
+and drafts&amp;nbsp;of a new OA logo.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;&lt;a href=&quot;http://open-austin.github.io/open-austin-org/&quot;&gt;Open
+Austin Website Redesign&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;group worked on turning design
+mockups into functioning templates for the header, homepage, blogs. They also
+began content migration of existing OA articles.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thanks to everyone that came and participated at Ship It
+Weekend!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2015/11/Ship-it-group-photo.jpg&quot;&gt;&lt;img alt=
+&quot;Ship it group photo&quot; class=&quot;post-inline-images&quot; height=
+&quot;225&quot; src=&quot;/open-austin-org/assets/Ship-it-group-photo-300x225.jpg&quot;
+width=&quot;300&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;
+  &lt;p&gt;Shoutout to our amazing sponsors! &lt;a href=
+  &quot;https://twitter.com/codeforamerica&quot;&gt;@codeforamerica&lt;/a&gt; &lt;a href=
+  &quot;https://twitter.com/CapitalFactory&quot;&gt;@CapitalFactory&lt;/a&gt; &lt;a href=
+  &quot;https://twitter.com/Hired_HQ&quot;&gt;@Hired_HQ&lt;/a&gt; &lt;a href=
+  &quot;https://twitter.com/USAA&quot;&gt;@USAA&lt;/a&gt; &lt;a href=
+  &quot;https://twitter.com/Dell&quot;&gt;@Dell&lt;/a&gt; &lt;a href=
+  &quot;https://twitter.com/BoozAllen&quot;&gt;@BoozAllen&lt;/a&gt; &lt;a href=
+  &quot;https://twitter.com/hashtag/ShipItATX15?src=hash&quot;&gt;#ShipItATX15&lt;/a&gt;
+  &lt;a href=&quot;https://t.co/zLk9sWhmsI&quot;&gt;pic.twitter.com/zLk9sWhmsI&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;— Open Austin (@openaustin) &lt;a href=
+  &quot;https://twitter.com/openaustin/status/668495254933368832&quot;&gt;November 22,
+  2015&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;View more photos from Ship It Weekend in our &lt;a href=
+&quot;https://www.facebook.com/media/set/?set=a.912559125486917.1073741829.412390968837071&amp;amp;type=3&amp;amp;uploaded=25&quot;
+target=&quot;_blank&quot;&gt;Facebook Album&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Dec 2015 12:00:55 -0600</pubDate>
-        <link>http://open-austin.github.io/open-austin-org/civic%20hacking/hack%20events/2015/12/01/ship-it-weekend-2015-event-summary.html</link>
-        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/civic%20hacking/hack%20events/2015/12/01/ship-it-weekend-2015-event-summary.html</guid>
+        <link>http://open-austin.github.io/open-austin-org/2015/12/01/ship-it-weekend-2015-event-summary.html</link>
+        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/2015/12/01/ship-it-weekend-2015-event-summary.html</guid>
         
+        <category>Civic Hacking</category>
         
-        <category>civic hacking</category>
+        <category>Hack Events</category>
         
-        <category>hack events</category>
         
       </item>
     
@@ -279,8 +406,12 @@ Also feel free to &lt;a href=&quot;http://www.open-austin.org/calendar&quot; tar
 &lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2015/10/SAYYAPHOTOBOOTH20151001_024411.jpg&quot;&gt;&lt;img class=&quot;aligncenter wp-image-1622 size-full&quot; src=&quot;/open-austin-org/assets/SAYYAPHOTOBOOTH20151001_024411.jpg&quot; alt=&quot;SAYYAPHOTOBOOTH20151001_024411&quot; width=&quot;788&quot; height=&quot;530&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Oct 2015 12:01:00 -0500</pubDate>
-        <link>http://open-austin.github.io/open-austin-org/civic%20hacking/general%20news/2015/10/21/code-for-america-summit-recap.html</link>
-        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/civic%20hacking/general%20news/2015/10/21/code-for-america-summit-recap.html</guid>
+        <link>http://open-austin.github.io/open-austin-org/2015/10/21/code-for-america-summit-recap.html</link>
+        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/2015/10/21/code-for-america-summit-recap.html</guid>
+        
+        <category>Civic Hacking</category>
+        
+        <category>General News</category>
         
         <category>brigade</category>
         
@@ -290,10 +421,6 @@ Also feel free to &lt;a href=&quot;http://www.open-austin.org/calendar&quot; tar
         
         <category>summit</category>
         
-        
-        <category>civic hacking</category>
-        
-        <category>general news</category>
         
       </item>
     
@@ -345,13 +472,13 @@ Also feel free to &lt;a href=&quot;http://www.open-austin.org/calendar&quot; tar
 &lt;a href=&quot;http://panelpicker.sxsw.com/vote/48724&quot;&gt;http://panelpicker.sxsw.com/vote/48724&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 25 Aug 2015 13:15:34 -0500</pubDate>
-        <link>http://open-austin.github.io/open-austin-org/general%20news/open%20government/2015/08/25/sxsw-session-proposals-of-interest.html</link>
-        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/general%20news/open%20government/2015/08/25/sxsw-session-proposals-of-interest.html</guid>
+        <link>http://open-austin.github.io/open-austin-org/2015/08/25/sxsw-session-proposals-of-interest.html</link>
+        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/2015/08/25/sxsw-session-proposals-of-interest.html</guid>
         
+        <category>General News</category>
         
-        <category>general news</category>
+        <category>Open Government</category>
         
-        <category>open government</category>
         
       </item>
     
@@ -370,13 +497,13 @@ Also feel free to &lt;a href=&quot;http://www.open-austin.org/calendar&quot; tar
 &lt;p&gt;Enjoy free snacks and drinks and bring your ideas and business cards!&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Aug 2015 13:57:44 -0500</pubDate>
-        <link>http://open-austin.github.io/open-austin-org/general%20news/public%20meetings%20and%20meetups/2015/08/17/smart-cities-meetup-by-cityup-aug-25.html</link>
-        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/general%20news/public%20meetings%20and%20meetups/2015/08/17/smart-cities-meetup-by-cityup-aug-25.html</guid>
+        <link>http://open-austin.github.io/open-austin-org/2015/08/17/smart-cities-meetup-by-cityup-aug-25.html</link>
+        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/2015/08/17/smart-cities-meetup-by-cityup-aug-25.html</guid>
         
+        <category>General News</category>
         
-        <category>general news</category>
+        <category>Public Meetings and Meetups</category>
         
-        <category>public meetings and meetups</category>
         
       </item>
     
