@@ -24,6 +24,9 @@ collections:
   projects:
     output: true
 
+paginate: 10
+paginate_path: "blog/page:num"
+
 defaults:
   - scope:
       path: ""
@@ -35,3 +38,5 @@ defaults:
 markdown: kramdown
 exclude:
   - import
+
+gems: [jekyll-paginate]
