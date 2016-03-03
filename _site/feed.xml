@@ -4,11 +4,11 @@
     <title>Open Austin - Code for America Brigade - Austin, Texas</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://open-austin.github.io/open-austin-org/</link>
-    <atom:link href="http://open-austin.github.io/open-austin-org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Mar 2016 01:08:44 -0600</pubDate>
-    <lastBuildDate>Wed, 02 Mar 2016 01:08:44 -0600</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <link>http://open-austin.github.io/</link>
+    <atom:link href="http://open-austin.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 03 Mar 2016 11:00:51 -0600</pubDate>
+    <lastBuildDate>Thu, 03 Mar 2016 11:00:51 -0600</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
     
       <item>
         <title>Uzbekistani delegation shares their experiences with open data on Austin visit</title>
@@ -23,13 +23,13 @@
 &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The meeting ended on a high note with gratitude and gifts, including beautiful silk pashminas and an Uzbekistani document about open government in their country. Open Austin is grateful to have opportunities to share with folks tackling some of the same problems in other parts of the world. &lt;/span&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 27 Feb 2016 13:44:46 -0600</pubDate>
-        <link>http://open-austin.github.io/open-austin-org/open%20data/open%20government/2016/02/27/uzbekistani-delegation-shares-their-experiences-with-open-data-on-austin-visit.html</link>
-        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/open%20data/open%20government/2016/02/27/uzbekistani-delegation-shares-their-experiences-with-open-data-on-austin-visit.html</guid>
+        <link>http://open-austin.github.io/open%20data/open%20government/2016/02/27/uzbekistani-delegation-shares-their-experiences-with-open-data-on-austin-visit.html</link>
+        <guid isPermaLink="true">http://open-austin.github.io/open%20data/open%20government/2016/02/27/uzbekistani-delegation-shares-their-experiences-with-open-data-on-austin-visit.html</guid>
         
         
-        <category>open data</category>
+        <category>Open Data</category>
         
-        <category>open government</category>
+        <category>Open Government</category>
         
       </item>
     
@@ -64,21 +64,21 @@
 &lt;p&gt;&lt;em&gt;This event is conducted under the Open Austin Code of Conduct: &lt;a href=&quot;http://www.open-austin.org/about/code-of-conduct&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://www.open-austin.org/about/code-of-conduct&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Read Last Years Recap &lt;a href=&quot;https://www.open-austin.org/article/1484&quot;&gt;here&lt;/a&gt;. &lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;&lt;strong&gt;Parking and building map&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2016/02/screenshot20160220at11.23.22am.png&quot;&gt;&lt;img class=&quot;size-large wp-image-1720 aligncenter&quot; src=&quot;/open-austin-org/assets/screenshot20160220at11.23.22am-1024x792.png&quot; alt=&quot;screenshot20160220at11.23.22am&quot; width=&quot;625&quot; height=&quot;483&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2016/02/screenshot20160220at11.23.22am.png&quot;&gt;&lt;img class=&quot;size-large wp-image-1720 aligncenter&quot; src=&quot;/assets/screenshot20160220at11.23.22am-1024x792.png&quot; alt=&quot;screenshot20160220at11.23.22am&quot; width=&quot;625&quot; height=&quot;483&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;h2&gt;&lt;strong&gt;Presented by &lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2016/01/cropped-logo_OpenAustin_Color.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-1683 aligncenter&quot; src=&quot;/open-austin-org/assets/cropped-logo_OpenAustin_Color-300x252.png&quot; alt=&quot;cropped-logo_OpenAustin_Color.png&quot; width=&quot;300&quot; height=&quot;252&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2016/02/logo.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-1723 aligncenter&quot; src=&quot;/open-austin-org/assets/logo-300x50.png&quot; alt=&quot;logo&quot; width=&quot;300&quot; height=&quot;50&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2016/01/cropped-logo_OpenAustin_Color.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-1683 aligncenter&quot; src=&quot;/assets/cropped-logo_OpenAustin_Color-300x252.png&quot; alt=&quot;cropped-logo_OpenAustin_Color.png&quot; width=&quot;300&quot; height=&quot;252&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2016/02/logo.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-1723 aligncenter&quot; src=&quot;/assets/logo-300x50.png&quot; alt=&quot;logo&quot; width=&quot;300&quot; height=&quot;50&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;&lt;strong&gt;Sponsored by&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2016/02/brigadelogo.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-1724 aligncenter&quot; src=&quot;/open-austin-org/assets/brigadelogo-300x111.png&quot; alt=&quot;brigadelogo&quot; width=&quot;300&quot; height=&quot;111&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2016/02/google.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-1725 aligncenter&quot; src=&quot;/open-austin-org/assets/google-300x225.png&quot; alt=&quot;google&quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2016/02/brigadelogo.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-1724 aligncenter&quot; src=&quot;/assets/brigadelogo-300x111.png&quot; alt=&quot;brigadelogo&quot; width=&quot;300&quot; height=&quot;111&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2016/02/google.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-1725 aligncenter&quot; src=&quot;/assets/google-300x225.png&quot; alt=&quot;google&quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 21 Feb 2016 13:50:26 -0600</pubDate>
-        <link>http://open-austin.github.io/open-austin-org/2016/02/21/code-across-2016.html</link>
-        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/2016/02/21/code-across-2016.html</guid>
+        <link>http://open-austin.github.io/2016/02/21/code-across-2016.html</link>
+        <guid isPermaLink="true">http://open-austin.github.io/2016/02/21/code-across-2016.html</guid>
         
         
       </item>
@@ -89,7 +89,7 @@
 &lt;p&gt;With the same mission and a more robust member base, Open Austin hopes to continue to grow and provide space for conversation and connection around civic tech and open government in Austin, Texas.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;Why the Change?&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;/wp-content/uploads/2013/04/copy-Open_Austin_Banner_400x80.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-921&quot; src=&quot;/open-austin-org/assets//wp-content/uploads/2013/04/copy-Open_Austin_Banner_400x80.png&quot; alt=&quot;copy-Open_Austin_Banner_400x80.png&quot; width=&quot;300&quot; height=&quot;60&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;/wp-content/uploads/2013/04/copy-Open_Austin_Banner_400x80.png&quot;&gt;&lt;img class=&quot;alignnone size-medium wp-image-921&quot; src=&quot;/assets//wp-content/uploads/2013/04/copy-Open_Austin_Banner_400x80.png&quot; alt=&quot;copy-Open_Austin_Banner_400x80.png&quot; width=&quot;300&quot; height=&quot;60&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Our previous logo was designed by our volunteers and has served us well since it was introduced. It provided a symbol for members and supporters to rally under. It portrayed Open Austin as a group for coders and hackers with the open and closing tags, which is a common motif among Code for America brigades.&lt;/p&gt;
 &lt;p&gt;As we reexamined our goals and mission, we decided we could design something to better reflect the priorities of Open Austin to be &lt;strong&gt;an inclusive environment for all citizens&lt;/strong&gt; that want to work to &lt;strong&gt;make Austin better&lt;/strong&gt; using &lt;strong&gt;open data, design, and technology&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;With new colors, we display the boldness, energy, and innovation that the organization fosters. With the new font, we mirror the friendly nature of our participants. And with the the new logo, we capture the diversity, enthusiasm, and professionalism of our organization. The star acknowledges our location in the capital city of lone star state. We include a closing bracket as a cornerstone component of the star, because coding is still an essential part of what we do. But it is not the only way our volunteers contribute.&lt;/p&gt;
@@ -99,8 +99,8 @@
 &lt;p&gt;&lt;iframe style=&quot;border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;&quot; src=&quot;//www.slideshare.net/slideshow/embed_code/key/jPqMBhkL7ldG1p&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt; &lt;/iframe&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 25 Jan 2016 09:00:45 -0600</pubDate>
-        <link>http://open-austin.github.io/open-austin-org/general%20news/2016/01/25/new-logo-same-mission.html</link>
-        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/general%20news/2016/01/25/new-logo-same-mission.html</guid>
+        <link>http://open-austin.github.io/general%20news/2016/01/25/new-logo-same-mission.html</link>
+        <guid isPermaLink="true">http://open-austin.github.io/general%20news/2016/01/25/new-logo-same-mission.html</guid>
         
         <category>2016</category>
         
@@ -113,7 +113,7 @@
         <category>redesign</category>
         
         
-        <category>general news</category>
+        <category>General News</category>
         
       </item>
     
@@ -153,8 +153,8 @@ Also feel free to &lt;a href=&quot;http://www.open-austin.org/calendar&quot; tar
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Jan 2016 12:45:53 -0600</pubDate>
-        <link>http://open-austin.github.io/open-austin-org/2016/01/13/lightning-talks.html</link>
-        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/2016/01/13/lightning-talks.html</guid>
+        <link>http://open-austin.github.io/2016/01/13/lightning-talks.html</link>
+        <guid isPermaLink="true">http://open-austin.github.io/2016/01/13/lightning-talks.html</guid>
         
         <category>General News</category>
         
@@ -245,7 +245,7 @@ on their &lt;a href=
 &quot;http://forum-include.codio.io:3000/wordpress/?page_id=159&quot;&gt;demo host&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;
-  &lt;img alt=&quot;Screen Shot 2015-11-29 at 11.06.40 PM&quot; class=&quot;post-inline-images&quot; height=&quot;300&quot; src=&quot;/open-austin-org/assets/Screen-Shot-2015-11-29-at-11.06.40-PM-167x300.png&quot; width=&quot;167&quot;&gt;
+  &lt;img alt=&quot;Screen Shot 2015-11-29 at 11.06.40 PM&quot; class=&quot;post-inline-images&quot; height=&quot;300&quot; src=&quot;/assets/Screen-Shot-2015-11-29-at-11.06.40-PM-167x300.png&quot; width=&quot;167&quot;&gt;
 &lt;/p&gt;
 
 The &lt;strong&gt;&lt;a href=
@@ -279,7 +279,7 @@ and location inventory page.&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;Screen Shot 2015-11-29 at 10.45.38 PM&quot; class=
 &quot;post-inline-images&quot; height=&quot;300&quot; src=
-&quot;/open-austin-org/assets/Screen-Shot-2015-11-29-at-10.45.38-PM-161x300.png&quot;
+&quot;/assets/Screen-Shot-2015-11-29-at-10.45.38-PM-161x300.png&quot;
 width=&quot;161&quot;&gt;The &lt;strong&gt;Transitime&lt;/strong&gt; team is m&lt;span style=
 &quot;font-weight: 400;&quot;&gt;aking the deployment of the &lt;a href=
 &quot;https://github.com/open-austin/transitime-docker/blob/master/bin/fix_gtfs_stop_times.sh&quot;&gt;
@@ -304,12 +304,12 @@ at you Open Street Map) to pair better with Austin Green Map.&lt;/p&gt;
 Google Doc&lt;/a&gt; of upcoming policy priorities.&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&quot;Screen Shot 2015-11-29 at 10.52.16 PM&quot; class=
 &quot;post-inline-images&quot; height=&quot;202&quot; src=
-&quot;/open-austin-org/assets/Screen-Shot-2015-11-29-at-10.52.16-PM-300x202.png&quot;
+&quot;/assets/Screen-Shot-2015-11-29-at-10.52.16-PM-300x202.png&quot;
 width=&quot;300&quot;&gt; The&amp;nbsp;&lt;strong&gt;&lt;a href=
 &quot;https://github.com/open-austin/iced-coffee/issues/2&quot;&gt;Open Austin
 Logo&lt;/a&gt;&lt;/strong&gt; design group created&amp;nbsp;a bunch&amp;nbsp;of doodles, sketches
 and drafts&amp;nbsp;of a new OA logo.&lt;/p&gt;
-&lt;p&gt;The &lt;strong&gt;&lt;a href=&quot;http://open-austin.github.io/open-austin-org/&quot;&gt;Open
+&lt;p&gt;The &lt;strong&gt;&lt;a href=&quot;http://open-austin.github.io/&quot;&gt;Open
 Austin Website Redesign&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;group worked on turning design
 mockups into functioning templates for the header, homepage, blogs. They also
 began content migration of existing OA articles.&lt;/p&gt;
@@ -317,7 +317,7 @@ began content migration of existing OA articles.&lt;/p&gt;
 Weekend!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2015/11/Ship-it-group-photo.jpg&quot;&gt;&lt;img alt=
 &quot;Ship it group photo&quot; class=&quot;post-inline-images&quot; height=
-&quot;225&quot; src=&quot;/open-austin-org/assets/Ship-it-group-photo-300x225.jpg&quot;
+&quot;225&quot; src=&quot;/assets/Ship-it-group-photo-300x225.jpg&quot;
 width=&quot;300&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;
   &lt;p&gt;Shoutout to our amazing sponsors! &lt;a href=
@@ -339,8 +339,8 @@ width=&quot;300&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 target=&quot;_blank&quot;&gt;Facebook Album&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Dec 2015 12:00:55 -0600</pubDate>
-        <link>http://open-austin.github.io/open-austin-org/2015/12/01/ship-it-weekend-2015-event-summary.html</link>
-        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/2015/12/01/ship-it-weekend-2015-event-summary.html</guid>
+        <link>http://open-austin.github.io/2015/12/01/ship-it-weekend-2015-event-summary.html</link>
+        <guid isPermaLink="true">http://open-austin.github.io/2015/12/01/ship-it-weekend-2015-event-summary.html</guid>
         
         <category>Civic Hacking</category>
         
@@ -367,8 +367,8 @@ target=&quot;_blank&quot;&gt;Facebook Album&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.eventbrite.com/e/open-austin-ship-it-weekend-tickets-19110607341&quot; target=&quot;_blank&quot;&gt;Register Now&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 12 Nov 2015 21:26:43 -0600</pubDate>
-        <link>http://open-austin.github.io/open-austin-org/2015/11/12/ship-it-weekend-nov-21st-22nd.html</link>
-        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/2015/11/12/ship-it-weekend-nov-21st-22nd.html</guid>
+        <link>http://open-austin.github.io/2015/11/12/ship-it-weekend-nov-21st-22nd.html</link>
+        <guid isPermaLink="true">http://open-austin.github.io/2015/11/12/ship-it-weekend-nov-21st-22nd.html</guid>
         
         
       </item>
@@ -403,11 +403,11 @@ target=&quot;_blank&quot;&gt;Facebook Album&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/MateoClarke&quot;&gt;@MateoClarke&lt;/a&gt; giving an ignite talk on &lt;a href=&quot;http://t.co/b3Y09aXYFQ&quot;&gt;http://t.co/b3Y09aXYFQ&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/cfasummit?src=hash&quot;&gt;#cfasummit&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/cfabrigade?src=hash&quot;&gt;#cfabrigade&lt;/a&gt; &lt;a href=&quot;http://t.co/wQx8lC9fpS&quot;&gt;pic.twitter.com/wQx8lC9fpS&lt;/a&gt; — Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/648966019248058368&quot;&gt;September 29, 2015&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;script src=&quot;//platform.twitter.com/widgets.js&quot; async=&quot;&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2015/10/SAYYAPHOTOBOOTH20151001_024411.jpg&quot;&gt;&lt;img class=&quot;aligncenter wp-image-1622 size-full&quot; src=&quot;/open-austin-org/assets/SAYYAPHOTOBOOTH20151001_024411.jpg&quot; alt=&quot;SAYYAPHOTOBOOTH20151001_024411&quot; width=&quot;788&quot; height=&quot;530&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2015/10/SAYYAPHOTOBOOTH20151001_024411.jpg&quot;&gt;&lt;img class=&quot;aligncenter wp-image-1622 size-full&quot; src=&quot;/assets/SAYYAPHOTOBOOTH20151001_024411.jpg&quot; alt=&quot;SAYYAPHOTOBOOTH20151001_024411&quot; width=&quot;788&quot; height=&quot;530&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Oct 2015 12:01:00 -0500</pubDate>
-        <link>http://open-austin.github.io/open-austin-org/2015/10/21/code-for-america-summit-recap.html</link>
-        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/2015/10/21/code-for-america-summit-recap.html</guid>
+        <link>http://open-austin.github.io/2015/10/21/code-for-america-summit-recap.html</link>
+        <guid isPermaLink="true">http://open-austin.github.io/2015/10/21/code-for-america-summit-recap.html</guid>
         
         <category>Civic Hacking</category>
         
@@ -472,8 +472,8 @@ target=&quot;_blank&quot;&gt;Facebook Album&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&quot;http://panelpicker.sxsw.com/vote/48724&quot;&gt;http://panelpicker.sxsw.com/vote/48724&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 25 Aug 2015 13:15:34 -0500</pubDate>
-        <link>http://open-austin.github.io/open-austin-org/2015/08/25/sxsw-session-proposals-of-interest.html</link>
-        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/2015/08/25/sxsw-session-proposals-of-interest.html</guid>
+        <link>http://open-austin.github.io/2015/08/25/sxsw-session-proposals-of-interest.html</link>
+        <guid isPermaLink="true">http://open-austin.github.io/2015/08/25/sxsw-session-proposals-of-interest.html</guid>
         
         <category>General News</category>
         
@@ -497,8 +497,8 @@ target=&quot;_blank&quot;&gt;Facebook Album&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Enjoy free snacks and drinks and bring your ideas and business cards!&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Aug 2015 13:57:44 -0500</pubDate>
-        <link>http://open-austin.github.io/open-austin-org/2015/08/17/smart-cities-meetup-by-cityup-aug-25.html</link>
-        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/2015/08/17/smart-cities-meetup-by-cityup-aug-25.html</guid>
+        <link>http://open-austin.github.io/2015/08/17/smart-cities-meetup-by-cityup-aug-25.html</link>
+        <guid isPermaLink="true">http://open-austin.github.io/2015/08/17/smart-cities-meetup-by-cityup-aug-25.html</guid>
         
         <category>General News</category>
         
@@ -522,13 +522,13 @@ target=&quot;_blank&quot;&gt;Facebook Album&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Open Austin hosts a monthly meet-up, to discuss local open government and civic technology issues. Our meet-ups are free and open to the public.  The meetup location is easily accessed by public transportation and has plentiful parking.&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Aug 2015 13:51:50 -0500</pubDate>
-        <link>http://open-austin.github.io/open-austin-org/general%20news/open%20austin%20meetings/2015/08/17/open-gov-civic-tech-meetup-aug-17.html</link>
-        <guid isPermaLink="true">http://open-austin.github.io/open-austin-org/general%20news/open%20austin%20meetings/2015/08/17/open-gov-civic-tech-meetup-aug-17.html</guid>
+        <link>http://open-austin.github.io/general%20news/open%20austin%20meetings/2015/08/17/open-gov-civic-tech-meetup-aug-17.html</link>
+        <guid isPermaLink="true">http://open-austin.github.io/general%20news/open%20austin%20meetings/2015/08/17/open-gov-civic-tech-meetup-aug-17.html</guid>
         
         
-        <category>general news</category>
+        <category>General News</category>
         
-        <category>open austin meetings</category>
+        <category>Open Austin Meetings</category>
         
       </item>
     
