@@ -41,7 +41,7 @@ jekyll serve --incremental --watch --trace
 Then go to
 
 ```
-http://localhost:4000/open-austin-org/
+http://localhost:4000/
 ```
 
 
@@ -61,7 +61,7 @@ ruby -rubygems -e 'require "jekyll-import";
 
 # Planning
 
-Staging Site: http://open-austin.github.io/open-austin-org/
+Staging Site: http://open-austin.github.io/
 
 ## Planning & Design
 ### Sitemap
