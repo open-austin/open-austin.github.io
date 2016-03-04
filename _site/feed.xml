@@ -6,9 +6,9 @@
 </description>
     <link>http://open-austin.github.io/</link>
     <atom:link href="http://open-austin.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Mar 2016 11:00:51 -0600</pubDate>
-    <lastBuildDate>Thu, 03 Mar 2016 11:00:51 -0600</lastBuildDate>
-    <generator>Jekyll v3.1.1</generator>
+    <pubDate>Fri, 04 Mar 2016 08:08:29 -0600</pubDate>
+    <lastBuildDate>Fri, 04 Mar 2016 08:08:29 -0600</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Uzbekistani delegation shares their experiences with open data on Austin visit</title>
@@ -27,9 +27,9 @@
         <guid isPermaLink="true">http://open-austin.github.io/open%20data/open%20government/2016/02/27/uzbekistani-delegation-shares-their-experiences-with-open-data-on-austin-visit.html</guid>
         
         
-        <category>Open Data</category>
+        <category>open data</category>
         
-        <category>Open Government</category>
+        <category>open government</category>
         
       </item>
     
@@ -113,7 +113,7 @@
         <category>redesign</category>
         
         
-        <category>General News</category>
+        <category>general news</category>
         
       </item>
     
@@ -526,9 +526,9 @@ target=&quot;_blank&quot;&gt;Facebook Album&lt;/a&gt;&lt;/p&gt;
         <guid isPermaLink="true">http://open-austin.github.io/general%20news/open%20austin%20meetings/2015/08/17/open-gov-civic-tech-meetup-aug-17.html</guid>
         
         
-        <category>General News</category>
+        <category>general news</category>
         
-        <category>Open Austin Meetings</category>
+        <category>open austin meetings</category>
         
       </item>
     
