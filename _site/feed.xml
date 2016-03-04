@@ -6,8 +6,8 @@
 </description>
     <link>http://open-austin.github.io/</link>
     <atom:link href="http://open-austin.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Mar 2016 08:08:29 -0600</pubDate>
-    <lastBuildDate>Fri, 04 Mar 2016 08:08:29 -0600</lastBuildDate>
+    <pubDate>Fri, 04 Mar 2016 08:25:36 -0600</pubDate>
+    <lastBuildDate>Fri, 04 Mar 2016 08:25:36 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -25,14 +25,14 @@
         <pubDate>Sat, 27 Feb 2016 13:44:46 -0600</pubDate>
         <link>http://open-austin.github.io/open%20data/open%20government/2016/02/27/uzbekistani-delegation-shares-their-experiences-with-open-data-on-austin-visit.html</link>
         <guid isPermaLink="true">http://open-austin.github.io/open%20data/open%20government/2016/02/27/uzbekistani-delegation-shares-their-experiences-with-open-data-on-austin-visit.html</guid>
-
-
+        
+        
         <category>open data</category>
-
+        
         <category>open government</category>
-
+        
       </item>
-
+    
       <item>
         <title>Code Across 2016</title>
         <description>&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Sat, March 5, 2016&lt;br /&gt;
@@ -79,10 +79,10 @@
         <pubDate>Sun, 21 Feb 2016 13:50:26 -0600</pubDate>
         <link>http://open-austin.github.io/2016/02/21/code-across-2016.html</link>
         <guid isPermaLink="true">http://open-austin.github.io/2016/02/21/code-across-2016.html</guid>
-
-
+        
+        
       </item>
-
+    
       <item>
         <title>New Logo, Same Mission</title>
         <description>&lt;p&gt;&lt;strong&gt;It&#39;s 2016 and Open Austin is starting the year with a brand new logo.&lt;/strong&gt;&lt;/p&gt;
@@ -101,22 +101,22 @@
         <pubDate>Mon, 25 Jan 2016 09:00:45 -0600</pubDate>
         <link>http://open-austin.github.io/general%20news/2016/01/25/new-logo-same-mission.html</link>
         <guid isPermaLink="true">http://open-austin.github.io/general%20news/2016/01/25/new-logo-same-mission.html</guid>
-
+        
         <category>2016</category>
-
+        
         <category>branding</category>
-
+        
         <category>design</category>
-
+        
         <category>new logo</category>
-
+        
         <category>redesign</category>
-
-
+        
+        
         <category>general news</category>
-
+        
       </item>
-
+    
       <item>
         <title>Lightning Talks: Jan. 11 Open Gov &amp; Civic Tech Meetup Recap</title>
         <description>&lt;p&gt;For Open Austin’s first meetup of the year, six members of our community presented rapid fire lightning talks showcasing the group’s diversity of skill and knowledge.&lt;/p&gt;
@@ -155,34 +155,34 @@ Also feel free to &lt;a href=&quot;http://www.open-austin.org/calendar&quot; tar
         <pubDate>Wed, 13 Jan 2016 12:45:53 -0600</pubDate>
         <link>http://open-austin.github.io/2016/01/13/lightning-talks.html</link>
         <guid isPermaLink="true">http://open-austin.github.io/2016/01/13/lightning-talks.html</guid>
-
+        
         <category>General News</category>
-
+        
         <category>Open Austin Meetings</category>
-
+        
         <category>City of Austin</category>
-
+        
         <category>free law</category>
-
+        
         <category>javasript</category>
-
+        
         <category>leaflet.js</category>
-
+        
         <category>online legal resources</category>
-
+        
         <category>open datas</category>
-
+        
         <category>problem framing</category>
-
+        
         <category>satellite imagery APIs</category>
-
+        
         <category>Texas Legislature</category>
-
+        
         <category>web mapping</category>
-
-
+        
+        
       </item>
-
+    
       <item>
         <title>Ship It Weekend 2015 Event Summary</title>
         <description>&lt;p&gt;The&amp;nbsp;goal for our first ever &lt;strong&gt;Ship It Weekend&lt;/strong&gt; was to
@@ -341,14 +341,14 @@ target=&quot;_blank&quot;&gt;Facebook Album&lt;/a&gt;&lt;/p&gt;
         <pubDate>Tue, 01 Dec 2015 12:00:55 -0600</pubDate>
         <link>http://open-austin.github.io/2015/12/01/ship-it-weekend-2015-event-summary.html</link>
         <guid isPermaLink="true">http://open-austin.github.io/2015/12/01/ship-it-weekend-2015-event-summary.html</guid>
-
+        
         <category>Civic Hacking</category>
-
+        
         <category>Hack Events</category>
-
-
+        
+        
       </item>
-
+    
       <item>
         <title>Ship It Weekend Nov 21st-22nd</title>
         <description>&lt;p&gt;&lt;strong&gt;Finish the year strong at our Open Austin Ship It Weekend Hackathon, November 21st-22nd at Capital Factory!&lt;/strong&gt;&lt;/p&gt;
@@ -369,10 +369,10 @@ target=&quot;_blank&quot;&gt;Facebook Album&lt;/a&gt;&lt;/p&gt;
         <pubDate>Thu, 12 Nov 2015 21:26:43 -0600</pubDate>
         <link>http://open-austin.github.io/2015/11/12/ship-it-weekend-nov-21st-22nd.html</link>
         <guid isPermaLink="true">http://open-austin.github.io/2015/11/12/ship-it-weekend-nov-21st-22nd.html</guid>
-
-
+        
+        
       </item>
-
+    
       <item>
         <title>Code for America Summit Recap</title>
         <description>&lt;p id=&quot;ba92&quot; class=&quot;graf--p graf--first&quot;&gt;This month, 52 brigades and over 110 brigade captains and core team members from all across the world got together in Oakland, California for the 2015 Code for America Summit. Open Austin was represented by Brigade Captain, Mateo Clarke, and Delivery Lead, Luqmaan Dawoodjee. In addition to our brigade, the City&#39;s Innovation Office sent 18 Austin City staff to participate in the conference.&lt;/p&gt;
@@ -408,22 +408,22 @@ target=&quot;_blank&quot;&gt;Facebook Album&lt;/a&gt;&lt;/p&gt;
         <pubDate>Wed, 21 Oct 2015 12:01:00 -0500</pubDate>
         <link>http://open-austin.github.io/2015/10/21/code-for-america-summit-recap.html</link>
         <guid isPermaLink="true">http://open-austin.github.io/2015/10/21/code-for-america-summit-recap.html</guid>
-
+        
         <category>Civic Hacking</category>
-
+        
         <category>General News</category>
-
+        
         <category>brigade</category>
-
+        
         <category>code for america</category>
-
+        
         <category>oakland</category>
-
+        
         <category>summit</category>
-
-
+        
+        
       </item>
-
+    
       <item>
         <title>SXSW Session Proposals of Interest</title>
         <description>&lt;p&gt;In 2012, Code for America founder &lt;a href=&quot;http://www.codeforamerica.org/blog/author/jen/&quot;&gt;Jen Pahlka&lt;/a&gt; was invited to to &lt;a href=&quot;http://www.sxsw.com/interactive&quot;&gt;SXSW Interactive&lt;/a&gt; give a &lt;a href=&quot;http://www.pcmag.com/article2/0,2817,2401594,00.asp&quot;&gt;keynote address&lt;/a&gt;. Every year since, SXSW has presented many sessions of interest to the civic technology community.&lt;/p&gt;
@@ -474,14 +474,14 @@ target=&quot;_blank&quot;&gt;Facebook Album&lt;/a&gt;&lt;/p&gt;
         <pubDate>Tue, 25 Aug 2015 13:15:34 -0500</pubDate>
         <link>http://open-austin.github.io/2015/08/25/sxsw-session-proposals-of-interest.html</link>
         <guid isPermaLink="true">http://open-austin.github.io/2015/08/25/sxsw-session-proposals-of-interest.html</guid>
-
+        
         <category>General News</category>
-
+        
         <category>Open Government</category>
-
-
+        
+        
       </item>
-
+    
       <item>
         <title>Smart Cities Meetup by CityUp, Aug 25</title>
         <description>&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Tue, Aug 25, 2015&lt;br /&gt;
@@ -499,14 +499,14 @@ target=&quot;_blank&quot;&gt;Facebook Album&lt;/a&gt;&lt;/p&gt;
         <pubDate>Mon, 17 Aug 2015 13:57:44 -0500</pubDate>
         <link>http://open-austin.github.io/2015/08/17/smart-cities-meetup-by-cityup-aug-25.html</link>
         <guid isPermaLink="true">http://open-austin.github.io/2015/08/17/smart-cities-meetup-by-cityup-aug-25.html</guid>
-
+        
         <category>General News</category>
-
+        
         <category>Public Meetings and Meetups</category>
-
-
+        
+        
       </item>
-
+    
       <item>
         <title>Open Gov &amp; Civic Tech Meetup, Aug 17</title>
         <description>&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Mon, Aug 17, 2015&lt;br /&gt;
@@ -524,13 +524,13 @@ target=&quot;_blank&quot;&gt;Facebook Album&lt;/a&gt;&lt;/p&gt;
         <pubDate>Mon, 17 Aug 2015 13:51:50 -0500</pubDate>
         <link>http://open-austin.github.io/general%20news/open%20austin%20meetings/2015/08/17/open-gov-civic-tech-meetup-aug-17.html</link>
         <guid isPermaLink="true">http://open-austin.github.io/general%20news/open%20austin%20meetings/2015/08/17/open-gov-civic-tech-meetup-aug-17.html</guid>
-
-
+        
+        
         <category>general news</category>
-
+        
         <category>open austin meetings</category>
-
+        
       </item>
-
+    
   </channel>
 </rss>

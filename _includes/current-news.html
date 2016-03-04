@@ -10,7 +10,7 @@
             {% endif %}
             <div class="flex-item">
                 <h3>
-                    <a class="post-link" href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
+                    <a class="post-link" href="{{ site.baseurl }} {{ post.url }}">{{ post.title }}</a>
                 </h3>
                 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
                 {% if post.author %}
@@ -21,14 +21,14 @@
                 <p class="featured-section-summary">
                     {{ post.content | strip_html | truncate: 420 }}
                     {% if post.content.size > 60 %}
-                    <a href="{{ site.baseurl }}/{{ post.url }}">Read more</a>
+                    <a href="{{ site.baseurl }} {{ post.url }}">Read more</a>
                     {% endif %}
                 </p>
             </div>
         </div>
         {% endfor %}
         <h3 class="featured-section-more">
-            <a class="btn" href="{{ site.baseurl }}/blog">More Posts</a>
+            <a class="btn" href="/blog">More Posts</a>
         </h3>
     </div>
 </div>

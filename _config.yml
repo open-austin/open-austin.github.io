@@ -10,11 +10,9 @@ host: 0.0.0.0
 # Site settings
 title: Open Austin - Code for America Brigade - Austin, Texas
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-url: "http://open-austin.github.io" # the base hostname & protocol for your site
+description: Open Austin is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. We are an official brigade affiliated with the nonprofit Code for America which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.
+url: "http://open-austin.github.io/" # the base hostname & protocol for your site
+baseurl: "http://www.open-austin.org/"
 twitter_username: openaustin
 github_username:  open-austin
 collections:
