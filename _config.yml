@@ -12,7 +12,7 @@ title: Open Austin - Code for America Brigade - Austin, Texas
 email: your-email@domain.com
 description: Open Austin is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. We are an official brigade affiliated with the nonprofit Code for America which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.
 url: "http://open-austin.github.io/" # the base hostname & protocol for your site
-baseurl: "http://www.open-austin.org/"
+baseurl: "http://www.open-austin.org"
 twitter_username: openaustin
 github_username:  open-austin
 collections:
