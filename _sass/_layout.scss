@@ -154,10 +154,6 @@ article.post {
     @include media-query($on-laptop) {
         font-size: 36px;
     }
-
-    .post-description {
-
-    }
 }
 
 .post-content {
