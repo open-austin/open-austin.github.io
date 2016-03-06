@@ -39,7 +39,10 @@ title: Blog
     {% if paginator.previous_page %}
       <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous">Previous</a>
     {% else %}
-      <span class="previous">Previous</span>
+      {% if paginator.page == 1 %}
+      {% else %}
+        <span class="previous">Previous</span>
+      {% endif%}
     {% endif %}
     <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
     {% if paginator.next_page %}
@@ -48,7 +51,7 @@ title: Blog
       <span class="next ">Next</span>
     {% endif %}
   </div>
-
+  
 </article>
 
 </div>
