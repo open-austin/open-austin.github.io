@@ -13,9 +13,9 @@
                     <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 </h3>
                 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-                {% if post.author %}
-                &middot; <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-                    <span itemprop="name">{{ post.author['display_name'] }}</span>
+                {% if post.author['first_name'] %}
+                • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                    <span itemprop="name">{{ post.author['first_name'] }} {{ post.author['last_name'] }}</span>
                 </span>
                 {% endif %}
                 <p class="featured-section-summary">
