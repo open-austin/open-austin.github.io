@@ -5,9 +5,63 @@
     <description>Open Austin is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. We are an official brigade affiliated with the nonprofit Code for America which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.</description>
     <link>http://open-austin.github.io//</link>
     <atom:link href="http://open-austin.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Mar 2016 19:19:08 -0600</pubDate>
-    <lastBuildDate>Sun, 06 Mar 2016 19:19:08 -0600</lastBuildDate>
+    <pubDate>Tue, 08 Mar 2016 07:45:33 -0600</pubDate>
+    <lastBuildDate>Tue, 08 Mar 2016 07:45:33 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>SXSW 2016 Open Data &amp; Civic Tech Events</title>
+        <description>&lt;p&gt;SXSW interactive takes place in Austin during March 10-15 this year. It will feature hundreds of of panels, workshops, and parties, and even a visit from President Obama.&lt;/p&gt;
+
+&lt;p&gt;As always, combing through all the official and unofficial events while keeping track of RSVPs can be super daunting, so we decided to help our our Open Data &amp;amp; Civic Tech friends with a curated list of relevant events to choose from.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1VnBJafxvbeIkGemBpu_l3UNt7JRV8u5KNnG3tJGpESQ/edit#gid=0&quot;&gt;View the google doc here!&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Here are a few highlights, in chronological order:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;IBM Design Hive at SXSW
+Friday, March 11, All Day
+Hotel Van Zandt&lt;/em&gt;
+Official SXSW &lt;a href=&quot;http://schedule.sxsw.com/2016/events/event_OE04783&quot;&gt;Event&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;At 4PM, Russ Unger of 18F will present. Aside from being friends of Code for America and Open Austin, &lt;em&gt;“18F is a civic consultancy for the government, inside the government, enabling agencies to rapidly deploy tools and services that are easy to operate, cost efficient, and reusable.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Voter Technology: A Reimagined Future
+Friday, March 11, 9:30 AM
+Old School Bar, 401 E 6th St&lt;/em&gt;
+Official SXSW &lt;a href=&quot;http://schedule.sxsw.com/2016/events/event_PP58068&quot;&gt;Event&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Aging voting technology means upcoming elections are more likely than ever to result in inaccurate ballots or in voters being unable to cast a ballot at all. This group of panelists is unafraid to both sound the alarm bells and inspire us all about what is at stake for the 2016 presidential election, what stands in the way of updated voter technology, and what the future of the voter experience could look like given the right tools.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Dell Policy Hack
+Saturday, March 12, 6:00 PM
+ 115 San Jacinto Austin, TX&lt;/em&gt;
+No Badge Required - RSVP &lt;a href=&quot;https://dell-policy-hack.splashthat.com/&quot;&gt;Here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Join Dell for an interactive hack-a-thon that tasks teams of policymakers, entrepreneurs, venture capitalists and students, along with a “coach”, to design solutions to policy challenges faced by entrepreneurs running growing businesses. The goal is to share the winning solution with the next president, recommending he or she implement them in their first 100 days in office.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Civic Tech Hackers and Advocates Meet Up
+Monday, March 14th, 11 AM
+JW Marriott Room 209&lt;/em&gt;
+Official SXSW &lt;a href=&quot;http://schedule.sxsw.com/2016/events/event_PP55660&quot;&gt;Event&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In case you don’t know already, Open Austin is hosting an official SXSW meetup to bring civic advocates, hackers, and supporters from all over together to share wins and roadblocks, and discuss ideas to take home.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;So far, this list features 38 events pertaining to Open Data, Civic Technology, Policy, and SmartCities. At this time, most of the events on this list are official events, but we encourage you to &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#105;&amp;#110;&amp;#102;&amp;#111;&amp;#064;&amp;#111;&amp;#112;&amp;#101;&amp;#110;&amp;#045;&amp;#097;&amp;#117;&amp;#115;&amp;#116;&amp;#105;&amp;#110;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;shoot us an email&lt;/a&gt; or &lt;a href=&quot;http://twitter.com/openaustin&quot;&gt;tweet us&lt;/a&gt; if you have anything else to add.&lt;/p&gt;
+
+&lt;p&gt;And if you can’t make it to SXSW, we hope we’ll see you at our &lt;a href=&quot;https://www.meetup.com/Open-Austin/events/228334335/&quot;&gt;next event&lt;/a&gt; on March 19th at Urban Co-Lab.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 07 Mar 2016 00:00:00 -0600</pubDate>
+        <link>http://open-austin.github.io//2016/03/07/sxsw-2016-events.html</link>
+        <guid isPermaLink="true">http://open-austin.github.io//2016/03/07/sxsw-2016-events.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Uzbekistani delegation shares their experiences with open data on Austin visit</title>
@@ -503,31 +557,6 @@ target=&quot;_blank&quot;&gt;Facebook Album&lt;/a&gt;&lt;/p&gt;
         
         <category>Public Meetings and Meetups</category>
         
-        
-      </item>
-    
-      <item>
-        <title>Open Gov &amp; Civic Tech Meetup, Aug 17</title>
-        <description>&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Mon, Aug 17, 2015&lt;br /&gt;
-&lt;strong&gt;Time:&lt;/strong&gt; 6:45 – 8:45 pm (program starts 7 pm)&lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; Terrazas Branch Library, 1105 E. Cesar Chavez St, Austin, TX, 78702 (&lt;a href=&quot;http://tinyurl.com/pgvzuw4&quot;&gt;map&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Invited Guests:&lt;/strong&gt;&lt;br /&gt;
-• John Clary, &lt;a href=&quot;http://spatialaustin.com/&quot;&gt;Spatial Austin&lt;/a&gt;&lt;br /&gt;
-• Ryan Robinson, &lt;a href=&quot;https://www.austintexas.gov/demographics&quot;&gt;City Demographer&lt;/a&gt;, City of Austin Planning and Zoning Department&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Topic:&lt;/strong&gt; Austin&#39;s Demographic Trands&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Aug 18 update:&lt;/strong&gt; &lt;a href=&quot;https://docs.google.com/presentation/d/1zIH4s_3Ebp7QgFcW6zx1RoD50nnho9cMt3Q4dK_pFgQ/edit?usp=sharing&quot;&gt;Here are the slides&lt;/a&gt; from last night&#39;s update.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;&lt;/b&gt;First, John Clary will share his work visualizing Austin’s 10-One Districts, growth, affordability, and gentrification with D3.js, OpenStreetMap, &amp;amp; Leaflet.&lt;/p&gt;
-&lt;p&gt;Then, Austin&#39;s City Demographer will share his perspective on Austin Demographic trends and some interesting features of the new 10-One Council District demography.&lt;/p&gt;
-&lt;p&gt;Open Austin hosts a monthly meet-up, to discuss local open government and civic technology issues. Our meet-ups are free and open to the public.  The meetup location is easily accessed by public transportation and has plentiful parking.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 17 Aug 2015 13:51:50 -0500</pubDate>
-        <link>http://open-austin.github.io//general%20news/open%20austin%20meetings/2015/08/17/open-gov-civic-tech-meetup-aug-17.html</link>
-        <guid isPermaLink="true">http://open-austin.github.io//general%20news/open%20austin%20meetings/2015/08/17/open-gov-civic-tech-meetup-aug-17.html</guid>
-        
-        
-        <category>general news</category>
-        
-        <category>open austin meetings</category>
         
       </item>
     
