@@ -6,19 +6,19 @@ title: Blog
 
 <article class="post">
 
-<div class="breadcrumb"><a href="{{ site.baseurl }}/">Home</a> > {{ page.title }} </div>
+<div class="breadcrumb"><a href="/">Home</a> > {{ page.title }} </div>
 
   <ul class="post-list">
   {% for post in paginator.posts %}
     <li>
       <div class="post-col post-col-1">
         {% if post.thumb %}
-          <a href="{{ post.url | prepend: site.baseurl }}"><img width="250px" height="200px" src="/assets/images/{{ post.thumb }}" alt="{{ post.thumbalt }}"></a>
+          <a href="{{ post.url }}"><img width="250px" height="200px" src="/assets/images/{{ post.thumb }}" alt="{{ post.thumbalt }}"></a>
         {% endif %}
       </div>
       <div class="post-col post-col-2">
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
         </h2>
         <span class="post-meta">{% if post.author %}{{ post.author['first_name'] }} {{ post.author['last_name'] }}{% endif %} | {{ post.date | date: "%b %-d, %Y" }}</span>
         <p>
@@ -28,7 +28,7 @@ title: Blog
             {{ post.content | strip_html | truncate: 250 }}
           {% endif %}
         </p>
-        <a class="continue-link" href="{{ post.url | prepend: site.baseurl }}">Continue Reading...</a>
+        <a class="continue-link" href="{{ post.url }}">Continue Reading...</a>
       </div>
       <div class="post-col post-col-3"><div>
     </li>
@@ -37,7 +37,7 @@ title: Blog
 
   <div class="pagination">
     {% if paginator.previous_page %}
-      <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous">Previous</a>
+      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
     {% else %}
       {% if paginator.page == 1 %}
       {% else %}
@@ -46,7 +46,7 @@ title: Blog
     {% endif %}
     <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
     {% if paginator.next_page %}
-      <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next">Next</a>
+      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
     {% else %}
       <span class="next ">Next</span>
     {% endif %}

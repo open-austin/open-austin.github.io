@@ -32,12 +32,12 @@ title: Projects
 
                 {% if project.screenshot %}
                 <div class="project-image-container">
-                    <img class="featured-project-image" src="{{ site.baseurl }}/assets/images/projects/screenshots/{{ project.screenshot }}" alt="{{ project.title }}">
+                    <img class="featured-project-image" src="/assets/images/projects/screenshots/{{ project.screenshot }}" alt="{{ project.title }}">
                 </div>
                 {% endif %}
                 <div>
                     <div class="featured-project-header">
-                        <a class="post-link" href="{{ site.baseurl }}{{ project.url }}"><h3>{{ project.title }}</h3></a>
+                        <a class="post-link" href="{{ project.url }}"><h3>{{ project.title }}</h3></a>
                     </div>
                     <div class="featured-project-links">
                         <a href="{{ project.access_at }}" class="svg-icon">{% include icons/SVG/link.svg %}</a>
