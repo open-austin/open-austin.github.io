@@ -2,7 +2,7 @@
 layout: post
 title: 'Lightning Talks: Jan. 11 Open Gov & Civic Tech Meetup Recap'
 date: 2016-01-13 12:45:53.000000000 -06:00
-type: post
+type: posts
 published: true
 status: publish
 thumb: lightning-talk-meetup.png
