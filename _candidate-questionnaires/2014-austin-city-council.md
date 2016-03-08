@@ -17,16 +17,16 @@ author:
   first_name: Chip
   last_name: Rosenthal
 ---
-The 2014 Open Austin Candidate Questionnaire features nine questions that we are asking all candidates in the City of Austin municipal election this November. You may view the candidate questionnaire here: [2014 Open Austin Candidate Questionnaire]({{ site.baseurl }}/candidate-questionnaires/documents/2014_OpenAustin_CandidateQuestionnaire.pdf) (94KB PDF document).
+The 2014 Open Austin Candidate Questionnaire features nine questions that we are asking all candidates in the City of Austin municipal election this November. You may view the candidate questionnaire here: [2014 Open Austin Candidate Questionnaire](/candidate-questionnaires/documents/2014_OpenAustin_CandidateQuestionnaire.pdf) (94KB PDF document).
 
 ### Open Government Briefing Guide
 
-New for 2014, our Open Government Briefing Guide provides information on key open government and open data issues. We distributed this to all candidates along with our quesionnaire. You may view the briefing guide here: [Open Government Briefing Guide]({{ site.baseurl }}/candidate-questionnaires/documents/2014_OpenAustin_OpenGovBriefing.pdf) (1.8MB PDF document)
+New for 2014, our Open Government Briefing Guide provides information on key open government and open data issues. We distributed this to all candidates along with our quesionnaire. You may view the briefing guide here: [Open Government Briefing Guide](/candidate-questionnaires/documents/2014_OpenAustin_OpenGovBriefing.pdf) (1.8MB PDF document)
 
 ### Campaign Finance Data Challenge
 
 In our questionnaire, we asked candidates if they would provide machine readable versions of their required campaign finance filings. We're calling that our _Campaign Finance Data Challenge_.  
-You can read more about why we issued the challenge [here]({{site.baseurl}}/posts/2014-10-11-the-campaign-finance-open-data-challenge.html).
+You can read more about why we issued the challenge [here](/posts/2014-10-11-the-campaign-finance-open-data-challenge.html).
 
 ### Candidate Responses
 

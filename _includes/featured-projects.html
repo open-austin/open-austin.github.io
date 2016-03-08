@@ -7,11 +7,11 @@
             {% if project.featured == true %}
             <li class="featured-project flex-container flex-column-on-palm">
                 <div class="project-image-container flex-item">
-                    <img class="featured-project-image" src="{{ site.baseurl }}/assets/images/projects/screenshots/{{ project.screenshot }}" alt="{{ project.title }}">
+                    <img class="featured-project-image" src="/assets/images/projects/screenshots/{{ project.screenshot }}" alt="{{ project.title }}">
                 </div>
                 <div class="featured-project-description flex-item">
                     <div class="featured-project-header">
-                        <a class="post-link" href="{{ site.baseurl }}{{ project.url }}"><h3>{{ project.title }}</h3></a>
+                        <a class="post-link" href="{{ project.url }}"><h3>{{ project.title }}</h3></a>
                     </div>
                     <div>
                       <p class="featured-project-summary">
@@ -32,7 +32,7 @@
         </ul>
 
         <h3 class="featured-section-more">
-            <a class="btn" href="{{ site.baseurl }}/projects">More Projects</a>
+            <a class="btn" href="/projects">More Projects</a>
         </h3>
 
     </div>
