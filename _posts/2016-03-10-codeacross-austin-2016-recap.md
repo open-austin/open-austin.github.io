@@ -56,7 +56,7 @@ Check out our event [photo album](https://www.facebook.com/media/set/?set=a.9625
 
 
 Missed out on this year’s CodeAcross? Come out to our next event. 
-[Civic Hack Saturday}(http://www.meetup.com/Open-Austin/events/228334335/) is on March 19th.
+[Civic Hack Saturday](http://www.meetup.com/Open-Austin/events/228334335/) is on March 19th.
 
 
 Join the Open Austin community on Slack: [Get an invite](http://slack.open-austin.org/)
