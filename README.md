@@ -2,7 +2,7 @@
 
 ### The Open Austin website
 
-- [How to Contribute a Blog Post](#How-to-draft-a-blog-post)
+- [How to Contribute a Blog Post](#how-to-draft-a-blog-post)
 - [Development Instructions](#development-instructions)
 - [Planning](#planning)
 - [License](#license)
