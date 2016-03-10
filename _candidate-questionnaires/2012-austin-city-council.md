@@ -21,7 +21,7 @@ The Open Austin "2012 Austin City Council Candidate Questionnaire" features a se
 
 All candidates were provided a copy of the questionnaire and were invited to respond.
 
-View the questionnaire here: [Open Austin Candidate Questionnaire 2012]({{site.baseurl}}/candidate-questionnaires/documents/OpenAustinCandidateQuestionnaire2012.pdf) (44KB PDF document).
+View the questionnaire here: [Open Austin Candidate Questionnaire 2012](/candidate-questionnaires/documents/OpenAustinCandidateQuestionnaire2012.pdf) (44KB PDF document).
 
 Here are the candidates and the responses they provided.
 
