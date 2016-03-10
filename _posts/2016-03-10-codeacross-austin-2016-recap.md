@@ -4,14 +4,14 @@ title: CodeAcross Austin 2016 Recap
 date: 2016-03-10
 type: post
 published: true
-thumb: codeacross-actors-performers.jpg
+thumb: codeacross-actors-performers_250.jpg
 thumbalt: Participants add their sticky notes to canvas
 author:
   first_name: Victoria
   last_name: O'Dell
 ---
 
-This past Saturday, March 5, 2015, Open Austin had it’s 6th annual CodeAcross Austin event. This national day of action aligns with International Open Data Day. 
+This past Saturday, March 5, 2015, Open Austin had it’s 6th annual CodeAcross Austin event. This national day of action aligns with International Open Data Day.
 
 [CodeAcross](https://www.codeforamerica.org/events/codeacross-2016/) is the first major event of the year that Open Austin organizes as a volunteer brigade affiliated with Code for America. It is a part of a series of events in collaboration with the City of Austin and St. Edward’s leading up to ATX Hack For Change (June 3-5). The purpose of Code Across Austin this year was to identify and frame challenges in Austin that can be solved using technology, data, design and the diverse skills and knowledge of volunteers.
 
@@ -24,7 +24,8 @@ The morning kicked off at 10:00 am with introductory remarks from Mateo Clarke &
 _Quote from Kerry O’Connor’s presentation_
 
 ![Description of Code for America from slidedeck.](/assets/images/cfa-slide.png)
-[View Monique’s presentation](https://docs.google.com/presentation/d/1INnwL4NGuiIFqIl_N_eLJrxKmhxT_hdULH9uCFW7zTw/edit#slide=id.g11c404532b_4_63)
+
+_[View Monique’s presentation](https://docs.google.com/presentation/d/1INnwL4NGuiIFqIl_N_eLJrxKmhxT_hdULH9uCFW7zTw/edit#slide=id.g11c404532b_4_63)_
 
 The rest of day was broken into group activities arranged around 8 themes and their relation to the city of Austin.
 
@@ -35,7 +36,7 @@ The rest of day was broken into group activities arranged around 8 themes and th
 - Transportation
 - Broadband and Digital Opportunities
 - Sustainability
-- Planning and Land Use 
+- Planning and Land Use
 
 Participants with varying backgrounds brainstormed on challenges the city faces and worked on actionable steps that could be taken to tackle them. By the end of the morning, groups focused on each theme had drafted at least three “How might we..” challenge statements.
 
@@ -47,7 +48,7 @@ The second half of the day focused on turning the challenge statements into pote
 
 With contributions from around 60 participants of different backgrounds, ages, and professions, [11 different project ideas](https://github.com/open-austin/project-ideas/issues?q=is%3Aopen+is%3Aissue+label%3ACodeAcross2016) were presented.
 
-Code Across is over but the ideas sharing and collaboration that occurred will allow the Austin community and Open Austin to continue to do open source civic tech and design work for the people. 
+Code Across is over but the ideas sharing and collaboration that occurred will allow the Austin community and Open Austin to continue to do open source civic tech and design work for the people.
 
 ---
 
@@ -55,7 +56,7 @@ View [our deck](https://docs.google.com/presentation/d/1aWNB5wWr9ZIjwvMNEZR2uoGJ
 Check out our event [photo album](https://www.facebook.com/media/set/?set=a.962504890492340.1073741830.412390968837071&type=1&l=d32fcb860f).
 
 
-Missed out on this year’s CodeAcross? Come out to our next event. 
+Missed out on this year’s CodeAcross? Come out to our next event.
 [Civic Hack Saturday](http://www.meetup.com/Open-Austin/events/228334335/) is on March 19th.
 
 

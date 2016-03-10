@@ -5,9 +5,73 @@
     <description>Open Austin is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. We are an official brigade affiliated with the nonprofit Code for America which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.</description>
     <link>http://open-austin.github.io//</link>
     <atom:link href="http://open-austin.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Mar 2016 16:33:08 -0600</pubDate>
-    <lastBuildDate>Tue, 08 Mar 2016 16:33:08 -0600</lastBuildDate>
-    <generator>Jekyll v3.1.1</generator>
+    <pubDate>Thu, 10 Mar 2016 01:18:12 -0600</pubDate>
+    <lastBuildDate>Thu, 10 Mar 2016 01:18:12 -0600</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>CodeAcross Austin 2016 Recap</title>
+        <description>&lt;p&gt;This past Saturday, March 5, 2015, Open Austin had it’s 6th annual CodeAcross Austin event. This national day of action aligns with International Open Data Day.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.codeforamerica.org/events/codeacross-2016/&quot;&gt;CodeAcross&lt;/a&gt; is the first major event of the year that Open Austin organizes as a volunteer brigade affiliated with Code for America. It is a part of a series of events in collaboration with the City of Austin and St. Edward’s leading up to ATX Hack For Change (June 3-5). The purpose of Code Across Austin this year was to identify and frame challenges in Austin that can be solved using technology, data, design and the diverse skills and knowledge of volunteers.&lt;/p&gt;
+
+&lt;p&gt;The morning kicked off at 10:00 am with introductory remarks from Mateo Clarke &amp;amp; Victoria O’Dell of Open Austin. Then, visiting from San Francisco, Monique Baena-Tan, Brigade Program Coordinator from Code for America, spoke about the international reach of the brigade program. The morning presentations ended with Kerry O’Connor, Chief Innovation Officer for the City of Austin sharing inspiring words about the importance of civic hacking events like CodeAcross.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/codeacross-2016-pano.jpg&quot; alt=&quot;Pano view of the crowd during morning presentations&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Favorite quote from &lt;a href=&quot;https://twitter.com/hashtag/codeacrossatx?src=hash&quot;&gt;#codeacrossatx&lt;/a&gt; &amp;quot;Disruption will come to government either as an opportunity or a threat.&amp;quot; &lt;a href=&quot;https://twitter.com/kerry_atx&quot;&gt;@kerry_atx&lt;/a&gt; ⚡️&lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mateo Clarke (@MateoClarke) &lt;a href=&quot;https://twitter.com/MateoClarke/status/706265412795658240&quot;&gt;March 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;em&gt;Quote from Kerry O’Connor’s presentation&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/cfa-slide.png&quot; alt=&quot;Description of Code for America from slidedeck.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1INnwL4NGuiIFqIl_N_eLJrxKmhxT_hdULH9uCFW7zTw/edit#slide=id.g11c404532b_4_63&quot;&gt;View Monique’s presentation&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The rest of day was broken into group activities arranged around 8 themes and their relation to the city of Austin.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Health and Human services&lt;/li&gt;
+  &lt;li&gt;Public Safety &amp;amp; Justice&lt;/li&gt;
+  &lt;li&gt;Economic Development&lt;/li&gt;
+  &lt;li&gt;Communication and Engagement&lt;/li&gt;
+  &lt;li&gt;Transportation&lt;/li&gt;
+  &lt;li&gt;Broadband and Digital Opportunities&lt;/li&gt;
+  &lt;li&gt;Sustainability&lt;/li&gt;
+  &lt;li&gt;Planning and Land Use&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Participants with varying backgrounds brainstormed on challenges the city faces and worked on actionable steps that could be taken to tackle them. By the end of the morning, groups focused on each theme had drafted at least three “How might we..” challenge statements.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/how-might-we.jpg&quot; alt=&quot;A participant add a sticky to a how might we challenge&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The second half of the day focused on turning the challenge statements into potential solutions with an actionable plan. Charles Purma, project manager for the City of Austin, presented the &lt;a href=&quot;http://www.open-austin.org/civic-tech-canvas/&quot;&gt;“Civic Tech Canvas”&lt;/a&gt; that groups used to plan out a solution to their chosen challenge statements.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/hack-canvas.jpg&quot; alt=&quot;Two ladies add post it notes to their hack canvas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With contributions from around 60 participants of different backgrounds, ages, and professions, &lt;a href=&quot;https://github.com/open-austin/project-ideas/issues?q=is%3Aopen+is%3Aissue+label%3ACodeAcross2016&quot;&gt;11 different project ideas&lt;/a&gt; were presented.&lt;/p&gt;
+
+&lt;p&gt;Code Across is over but the ideas sharing and collaboration that occurred will allow the Austin community and Open Austin to continue to do open source civic tech and design work for the people.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;View &lt;a href=&quot;https://docs.google.com/presentation/d/1aWNB5wWr9ZIjwvMNEZR2uoGJcK9zDKuFw0_B1JIhFBk/edit#slide=id.g11c5e340a8_0_17&quot;&gt;our deck&lt;/a&gt; from event and check out tweets from the event at &lt;a href=&quot;https://twitter.com/search?q=codeacrossatx&amp;amp;src=typd&amp;amp;lang=en&quot;&gt;#codeacrossatx&lt;/a&gt;
+Check out our event &lt;a href=&quot;https://www.facebook.com/media/set/?set=a.962504890492340.1073741830.412390968837071&amp;amp;type=1&amp;amp;l=d32fcb860f&quot;&gt;photo album&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Missed out on this year’s CodeAcross? Come out to our next event.
+&lt;a href=&quot;http://www.meetup.com/Open-Austin/events/228334335/&quot;&gt;Civic Hack Saturday&lt;/a&gt; is on March 19th.&lt;/p&gt;
+
+&lt;p&gt;Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;&lt;br /&gt;
+RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;&lt;br /&gt;
+Follow us on Twitter: &lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow&lt;/a&gt;&lt;br /&gt;
+&amp;amp; Like us on Facebook: &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 Mar 2016 00:00:00 -0600</pubDate>
+        <link>http://open-austin.github.io//blog/2016/03/10/codeacross-austin-2016-recap</link>
+        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/03/10/codeacross-austin-2016-recap</guid>
+        
+        
+      </item>
     
       <item>
         <title>SXSW 2016 Open Data &amp; Civic Tech Events</title>
@@ -77,9 +141,9 @@
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/02/27/uzbekistani-delegation-shares-their-experiences-with-open-data-on-austin-visit</guid>
         
         
-        <category>Open Data</category>
+        <category>open data</category>
         
-        <category>Open Government</category>
+        <category>open government</category>
         
       </item>
     
@@ -163,7 +227,7 @@
         <category>redesign</category>
         
         
-        <category>General News</category>
+        <category>general news</category>
         
       </item>
     
@@ -528,31 +592,6 @@ target=&quot;_blank&quot;&gt;Facebook Album&lt;/a&gt;&lt;/p&gt;
         <category>General News</category>
         
         <category>Open Government</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Smart Cities Meetup by CityUp, Aug 25</title>
-        <description>&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Tue, Aug 25, 2015&lt;br /&gt;
-&lt;strong&gt;Time:&lt;/strong&gt; 5:30 - 7:30 PM&lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; Austin City Hall, 301 W 2nd St, 78701 (&lt;a href=&quot;https://goo.gl/maps/N48jB&quot;&gt;map&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Free RSVP link: &lt;a href=&quot;https://www.eventbrite.com/e/smart-cities-meetup-using-technology-data-and-analytics-to-improve-cities-tickets-18154854659&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;(Open Austin is a member of the CityUP consortium, which is producing this event.)&lt;/p&gt;
-&lt;p&gt;Are you interested in meeting people who want to improve transportation, safety, health, education, economic opportunity, sustainability, environmental quality, and more by using technology, data, and analytics?&lt;/p&gt;
-&lt;p&gt;Smart city projects strive to advance all aspects of city life by using technology, data, and analytics to improve our understanding of urban design &amp;amp; planning, city infrastructure &amp;amp; operations, and civic issues &amp;amp; priorities. ‘Big Data’ is already transforming many industries and businesses, as well as education, research, and more. Smart city projects aim to collect data and use analytics to transform cities and the lives of the people in cities.&lt;/p&gt;
-&lt;p&gt;Austin CityUP™ is a new, comprehensive, city-wide consortium of companies, organizations, groups, and individuals that engage in smart city projects to advance Austin through digital technologies, data collection, analytics and modeling.&lt;/p&gt;
-&lt;p&gt;If you are interested in participating or just learning more, please join us for a smart city reception at Austin City Hall. You will hear about the upcoming plans of Austin CityUP™, learn about new opportunities, and meet people who are dedicated to transforming cities, and lives through the development, implementation, and operation of smart city projects.&lt;/p&gt;
-&lt;p&gt;Anyone interested in advancing and improving Austin is welcome!&lt;/p&gt;
-&lt;p&gt;Enjoy free snacks and drinks and bring your ideas and business cards!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 17 Aug 2015 13:57:44 -0500</pubDate>
-        <link>http://open-austin.github.io//blog/2015/08/17/smart-cities-meetup-by-cityup-aug-25</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2015/08/17/smart-cities-meetup-by-cityup-aug-25</guid>
-        
-        <category>General News</category>
-        
-        <category>Public Meetings and Meetups</category>
         
         
       </item>
