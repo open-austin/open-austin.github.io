@@ -52,14 +52,14 @@ Code Across is over but the ideas sharing and collaboration that occurred will a
 ---
 
 View [our deck](https://docs.google.com/presentation/d/1aWNB5wWr9ZIjwvMNEZR2uoGJcK9zDKuFw0_B1JIhFBk/edit#slide=id.g11c5e340a8_0_17) from event and check out tweets from the event at [#codeacrossatx](https://twitter.com/search?q=codeacrossatx&src=typd&lang=en)
-Check out our event [photo album](https://www.facebook.com/media/set/?set=a.962504890492340.1073741830.412390968837071&type=1&l=d32fcb860f). here
+Check out our event [photo album](https://www.facebook.com/media/set/?set=a.962504890492340.1073741830.412390968837071&type=1&l=d32fcb860f).
 
 
 Missed out on this year’s CodeAcross? Come out to our next event. 
 [Civic Hack Saturday](http://www.meetup.com/Open-Austin/events/228334335/) is on March 19th.
 
 
-Join the Open Austin community on Slack: [Get an invite](http://slack.open-austin.org/)
-RSVP for our future events on Meetup: [RSVP](http://www.meetup.com/Open-Austin/)
-Follow us on Twitter: [Follow](https://twitter.com/openaustin?lang=en)
+Join the Open Austin community on Slack: [Get an invite](http://slack.open-austin.org/)<br>
+RSVP for our future events on Meetup: [RSVP](http://www.meetup.com/Open-Austin/)<br>
+Follow us on Twitter: [Follow](https://twitter.com/openaustin?lang=en)<br>
 & Like us on Facebook: [Like](https://www.facebook.com/Open-Austin-412390968837071/)
