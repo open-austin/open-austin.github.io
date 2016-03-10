@@ -21,7 +21,7 @@ The morning kicked off at 10:00 am with introductory remarks from Mateo Clarke &
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Favorite quote from <a href="https://twitter.com/hashtag/codeacrossatx?src=hash">#codeacrossatx</a> &quot;Disruption will come to government either as an opportunity or a threat.&quot; <a href="https://twitter.com/kerry_atx">@kerry_atx</a> ⚡️<a href="https://twitter.com/openaustin">@openaustin</a></p>&mdash; Mateo Clarke (@MateoClarke) <a href="https://twitter.com/MateoClarke/status/706265412795658240">March 5, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
->Quote from Kerry O’Connor’s presentation
+_Quote from Kerry O’Connor’s presentation_
 
 ![Description of Code for America from slidedeck.](/assets/images/cfa-slide.png)
 [View Monique’s presentation](https://docs.google.com/presentation/d/1INnwL4NGuiIFqIl_N_eLJrxKmhxT_hdULH9uCFW7zTw/edit#slide=id.g11c404532b_4_63)
