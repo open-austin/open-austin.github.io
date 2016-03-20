@@ -17,7 +17,6 @@ Open Austin is an all volunteer citizen brigade affiliated with Code for America
 Current opportunities to donate:
 
 - [Civic Hack Nights](https://docs.google.com/document/d/1jB7Z4Bh0JBRjv8i-G5ACvrSt9f0sGqXe5C8_DofYsTc/edit?usp=sharing)
-- [CodeAcross 2016](https://docs.google.com/document/d/1Uuepsj7Ssx4Wo2fQ_IbZ3u1q0d77vIQJk1sKS_Nr7UA/edit?usp=sharing)
 
 ## How to Donate?
 
