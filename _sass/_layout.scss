@@ -8,15 +8,18 @@ hr {
 }
 
 /**
-* Page content
+* Page
 */
+
+.page-header {
+    margin-bottom: $spacing-unit;
+    display: inline-block;
+    width: 100%;
+}
+
 .page-content {
     position: relative;
 }
-
-/**
-* Page container
-*/
 
 .page, .project {
     max-width: $narrow-content-width;
@@ -138,6 +141,7 @@ hr {
 /**
 * Posts
 */
+
 .post-header {
     margin-bottom: $spacing-unit;
 }
@@ -147,7 +151,7 @@ article.post {
     @include word-wrap;
 }
 
-.post-title {
+.post-title, .page-title {
     font-size: 42px;
     letter-spacing: -1px;
 
@@ -156,8 +160,9 @@ article.post {
     }
 }
 
-.post-content {
+.post-content, .page-content {
     margin-bottom: $spacing-unit;
+    clear: both;
 
     h2 {
         font-size: 32px;
@@ -184,6 +189,10 @@ article.post {
     }
 }
 
+/**
+* Project
+*/
+
 .project {
     .thumb {
         img {
@@ -198,6 +207,10 @@ article.post {
         background: #fafafa;
         margin-top: 15px;
     }
+
+    .post-meta {
+      margin: 1em 0; 
+    }
 }
 
 .breadcrumb {
@@ -210,4 +223,12 @@ article.post {
   clear: both;
   padding-top: $spacing-unit / 2;
   padding-bottom: $spacing-unit / 2;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
 }
