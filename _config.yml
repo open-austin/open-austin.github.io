@@ -14,7 +14,6 @@ description: Open Austin is a volunteer citizen brigade advocating for open gove
 url: "http://open-austin.github.io/" # the base hostname & protocol for your site
 twitter_username: openaustin
 github_username:  open-austin
-github_repo: https://github.com/open-austin/open-austin.github.io
 collections:
   candidate-questionnaires:
     output: true

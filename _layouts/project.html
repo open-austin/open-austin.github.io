@@ -7,7 +7,7 @@ layout: default
         &gt;
         <a href="/projects">Projects</a>
         &gt;
-        <span class="active">{{ page.title }}</span>
+        <a class="active" href="{{ page.url }}">{{ page.title }}</a>
     </div>
 
     <article class="post project" itemscope itemtype="http://schema.org/BlogPosting">
@@ -24,7 +24,6 @@ layout: default
                             <span itemprop="name">{{ page.author['first_name'] }} {{ page.author['last_name'] }}</span>
                         </span>
                         {% endif %}
-                        • <a href="{{site.github_repo}}/edit/master/{{page.relative_path}}" target="_blank">Edit project page</a>
                     </p>
                 </div>
             </header>
