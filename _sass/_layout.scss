@@ -198,6 +198,9 @@ article.post {
         img {
             max-height: 200px;
             max-width: 400px;
+            @include media-query($on-palm) {
+              max-width: 100%;
+            }
         }
     }
 
@@ -209,7 +212,7 @@ article.post {
     }
 
     .post-meta {
-      margin: 1em 0; 
+      margin: 1em 0;
     }
 }
 
