@@ -108,9 +108,9 @@ On December 8, 2011, the Austin City Council adoped an Open Government Resolutio
 
 ## City of Austin
 
-*   [Austin Government Online](http://www.austingo.org/) (AustinGO) - Updates from the City of Austin "AustinGO" team.
+*   [Austin Government Online](http://austintexas.gov/austingo2.0) (AustinGO) - Updates from the City of Austin "AustinGO" team.
 *   [@atxgo](https://twitter.com/atxgo) - AustinGO2.0 Twitter feed
 
 ## Other Resources
 
-*   [Code for America / Austin](http://codeforamerica.org/austin/) - In 2012, Austin participated in a _Code for America_ fellowship.
+*   [Code for America / Austin](https://www.codeforamerica.org/why-government/our-partners/austin-tx) - In 2012, Austin participated in a _Code for America_ fellowship.
