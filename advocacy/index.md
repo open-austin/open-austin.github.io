@@ -102,7 +102,7 @@ On December 8, 2011, the Austin City Council adoped an Open Government Resolutio
 
 *   [City of Austin Open Data Portal](https://data.austintexas.gov/) (data.austintexas.gov) - Provides datasets published by the City, as well as reporting and visualization tools that operate on these datasets.
 *   [City of Austin GIS](http://austintexas.gov/department/gis-and-maps) (Geographic Information Systems) - Downloadable GIS datasets, plus links to various maps and viewers.
-*   [Capital Metro Geospatial Data](http://www.capmetro.org/datastats.aspx?id=129) - GIS datasets published by the local transit authority.
+*   [Capital Metro Geospatial Data](http://www.capmetro.org/stats/) - GIS datasets published by the local transit authority.
 *   [CAPCOG Data, Maps, and Reports](http://www.capcog.org/data-maps-and-reports/) - Published by the Capital Area Council of Governments
 *   [TNRIS Maps & Data](http://www.tnris.org/get-data?quicktabs_maps_data=1) - Published by the Texas Natural Resources Information System, part of the Texas Water Development Board.
 
