@@ -20,7 +20,7 @@ For our March Open Gov & Civic Tech Meetup, we invited Kathy Mitchell, from the 
 
 A key point of Kathy's presentation was that simply having body cams on police officers does not automatically equal transparency. The current state law that provides funding and the legal framework for body cams incentivizes law enforcement agencies to adopt body cameras, but to not make the data public.
 
-An innovative idea is to create an opt-in option for citizens that become the subject of police body cam recordings. This would also the public to access those recordings with the consent of the recorded subject who has either had a really poor experience with the police, a really good interaction, or something in between.
+An innovative idea is to create an opt-in option for citizens that become the subject of police body cam recordings. This would allow the public to access those recordings with the consent of the recorded subject who has either had a really poor experience with the police, a really good interaction, or something in between.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Open Austin members discuss what they would want in police body cam policy. <a href="https://twitter.com/hashtag/ATX?src=hash">#ATX</a> <a href="https://twitter.com/hashtag/OpenGov?src=hash">#OpenGov</a> <a href="https://t.co/1A9Hrf7ggW">pic.twitter.com/1A9Hrf7ggW</a></p>&mdash; Open Austin (@openaustin) <a href="https://twitter.com/openaustin/status/712082658218520576">March 22, 2016</a></blockquote>
 
@@ -28,7 +28,7 @@ Kathy asked Open Austin members what they would like to see in a Body Cam Open D
 
 ## Particpate in upcoming body cam actions
 
-To get invovled with this issues, we encourage you to sign up for our body cam listserv and/or volunteer for a working group by filling out this form.
+To get invovled with this issue, we encourage you to sign up for our body cam listserv and/or volunteer for a working group by filling out this form.
 [http://goo.gl/forms/QN5vZejo2P](http://goo.gl/forms/QN5vZejo2P)
 
 ## More Resources
