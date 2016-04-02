@@ -14,7 +14,7 @@ author:
 
 For our March Open Gov & Civic Tech Meetup, we invited Kathy Mitchell, from the [Texas Electronic Privacy Coalition](http://txepc.org/), to give a presentation on Police Body Cameras and the technology, laws, and advocacy opportunities surrounding their implementation at the Austin Police Department.
 
-[Here are is a link to slides that Kathy provided.](/assets/documents/Austin_Body_Cam.pdf)
+[Here are the slides that Kathy provided.](/assets/documents/Austin_Body_Cam.pdf)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Kathy Mitchell presenting to <a href="https://twitter.com/openaustin">@openaustin</a> on Austin police body cam policy. <a href="https://twitter.com/EFFaustin">@EFFaustin</a> <a href="https://t.co/9sVERhbl44">pic.twitter.com/9sVERhbl44</a></p>&mdash; luqmaan (@luqmonster) <a href="https://twitter.com/luqmonster/status/712115221783908357">March 22, 2016</a></blockquote>
 
@@ -28,7 +28,7 @@ Kathy asked Open Austin members what they would like to see in a Body Cam Open D
 
 ## Particpate in upcoming body cam actions
 
-To get invovled with this issue, we encourage you to sign up for our body cam listserv and/or volunteer for a working group by filling out this form.
+To get involved with this issue, we encourage you to sign up for our body cam listserv and/or volunteer for a working group by filling out this form.
 [http://goo.gl/forms/QN5vZejo2P](http://goo.gl/forms/QN5vZejo2P)
 
 ## More Resources
