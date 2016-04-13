@@ -21,6 +21,18 @@ Workshop attendees will engage in ethnographic research, synthesis, and rapid id
 
 The event will be free and open to the public. No design or development skills are necessary to attend this workshop. 
 
+### Workshop Faciltators
+
+**Eric Boggs** is an interaction designer at Blackboard in Austin, TX, focused on designing mobile applications for students.  He believes in the power of design to help address large scale social issues, and has completed a variety of research projects on student loan debt, family caregiving, and healthy shopping to inform product and service innovation.  Eric graduated from the Austin Center for Design in 2013.  
+
+**Bhavini Patel** is a freelance UX Experience Researcher & Interaction Designer.  Bhavini has worked in collaboration with Projekt202, Chaotic Moon Studios, Wondros, Zogotech and Saatchi and Saatchi.  She is a graduate of Austin Center for Design and splits her time between Los Angeles and Austin. 
+
+**Laura Galos** is a design researcher at IBM in Austin, Texas. Her past projects include research in aging and family dynamics, service design, and ad technology. She is a 2015 graduate of Austin Center for Design with certification in Interaction Design and Social Entrepreneurship.
+
+**James Lewis** is a curious, passionate interaction designer who likes to embrace the ambiguity of complex problems, creating clear solutions for both the end user and client. He previously worked to change hearts and minds in the political advocacy and non profit arenas. Now he works as a user experience designer at IBM designing products for developers who work with big data. 
+
+**Samara Watkiss** arrived at interaction design as a profession and calling by pursuing the most inspiring aspects of her work as a set designer, pedal-powered machine builder, graphic designer and refugee-liaison and asking how they all connected. After several years of working as an Interaction in Boston, she moved to Austin, TX to complete a degree in Interaction Design and Social Entrepreneurship at the Austin Center for Design. She now leads a human-centered design initiative for a local cyber security company. 
+
 ### Goals for this workshop
 Upon completion of the workshop, Participants will learn how to:
 
@@ -36,6 +48,10 @@ Upon completion of the workshop, Participants will learn how to:
 [http://www.open-austin.org/about/code-of-conduct
 ](http://www.open-austin.org/about/code-of-conduct
 )
+
+### This event is made possible by generous donations from:
+![Austin CityUp Logo](/assets/images/austin-cityup.png)
+![HubCiti Logo](/assets/images/hubciti.png)
 
 <br>Presented by 
 <br>Open Austin in Collaboration with [Austin Center for Design](http://www.ac4d.com/) Alumni
