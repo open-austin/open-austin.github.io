@@ -21,6 +21,16 @@ Workshop attendees will engage in ethnographic research, synthesis, and rapid id
 
 The event will be free and open to the public. No design or development skills are necessary to attend this workshop. 
 
+### Goals for this workshop
+Upon completion of the workshop, Participants will learn how to:
+
+- Contribute their research and ideas to the existing pressing issue of mobility in Austin
+- Conduct human-centered research around the theme of mobility
+- Translate their research into meaningful insights
+- Practice ideation methods based on their insights from the field
+- Use storyboarding as a way to prototype ideas
+- Apply this process and these skills to future projects
+
 ### Workshop Faciltators
 
 **Eric Boggs** is an interaction designer at Blackboard in Austin, TX, focused on designing mobile applications for students.  He believes in the power of design to help address large scale social issues, and has completed a variety of research projects on student loan debt, family caregiving, and healthy shopping to inform product and service innovation.  Eric graduated from the Austin Center for Design in 2013.  
@@ -32,17 +42,6 @@ The event will be free and open to the public. No design or development skills a
 **James Lewis** is a curious, passionate interaction designer who likes to embrace the ambiguity of complex problems, creating clear solutions for both the end user and client. He previously worked to change hearts and minds in the political advocacy and non profit arenas. Now he works as a user experience designer at IBM designing products for developers who work with big data. 
 
 **Samara Watkiss** arrived at interaction design as a profession and calling by pursuing the most inspiring aspects of her work as a set designer, pedal-powered machine builder, graphic designer and refugee-liaison and asking how they all connected. After several years of working as an Interaction in Boston, she moved to Austin, TX to complete a degree in Interaction Design and Social Entrepreneurship at the Austin Center for Design. She now leads a human-centered design initiative for a local cyber security company. 
-
-### Goals for this workshop
-Upon completion of the workshop, Participants will learn how to:
-
-- Contribute their research and ideas to the existing pressing issue of mobility in Austin
-- Conduct human-centered research around the theme of mobility
-- Translate their research into meaningful insights
-- Practice ideation methods based on their insights from the field
-- Use storyboarding as a way to prototype ideas
-- Apply this process and these skills to future projects
-
 
 ### This event is conducted under the Open Austin Code of Conduct
 [http://www.open-austin.org/about/code-of-conduct
