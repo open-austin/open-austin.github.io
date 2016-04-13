@@ -31,7 +31,7 @@ Upon completion of the workshop, Participants will learn how to:
 - Use storyboarding as a way to prototype ideas
 - Apply this process and these skills to future projects
 
-### Workshop Faciltators
+### Workshop Facilitators
 
 **Eric Boggs** is an interaction designer at Blackboard in Austin, TX, focused on designing mobile applications for students.  He believes in the power of design to help address large scale social issues, and has completed a variety of research projects on student loan debt, family caregiving, and healthy shopping to inform product and service innovation.  Eric graduated from the Austin Center for Design in 2013.  
 
