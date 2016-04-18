@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Press Release] Open Austin Collaborates with AC4D Alumni to Host Workshop
+title: Press Release - Open Austin Collaborates with AC4D Alumni to Host Workshop
 date: 2016-04-18
 type: post
 published: true
