@@ -49,10 +49,10 @@ Upon completion of the workshop, Participants will learn how to:
 )
 
 ### This event is made possible by generous donations from:
-![USAA Logo](/assets/images/usaa.png)
-![Austin CityUp Logo](/assets/images/austin-cityup.png)
-![HubCiti Logo](/assets/images/hubciti.png)
-![Austin B-Cycle Logo](/assets/images/austin-b-cycle.png)
+![USAA Logo](/assets/images/usaa.png)<br>
+![Austin CityUp Logo](/assets/images/austin-cityup.png)<br>
+![HubCiti Logo](/assets/images/hubciti.png)<br>
+![Austin B-Cycle Logo](/assets/images/austin-b-cycle.png)<br>
 ![IBM Design Logo](/assets/images/ibm-design.png)
 
 <br>Presented by 
