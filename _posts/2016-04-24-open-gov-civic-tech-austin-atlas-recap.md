@@ -17,12 +17,12 @@ For Open Austin’s April Open Gov & Civic Tech Meetup, Ann Armstrong was invite
 
 When Ann first moved to Austin she felt disconnected from her surroundings. She starting taking walks, not to get anywhere, but to explore a neighborhood. At first, she was frustrated with the city's poor walkability compared to San Francisco. Austin is not as dense, her walks were less stimulating, and there was not as much street art. But, as she kept walking, she fell more and more in love with Austin, its nooks and crannies, and “urban oddities.” Not before long, Ann realized that her favorites waypoints were rapidly disappearing due to new construction, weather, or other unexplained occurrences.
 
-“I’ve never lived in a city that was growing so rapidly.” Said Ann, “I’m an architect. I understand that the city has to grow. But it feels like it’s on steroids.” Her exploration of the growing city soon lead to documentation. “My first attempt at documenting Austin was all about the sidewalks” Armstrong continued. Ann documented the sidewalks for 2 years, which evolved into documenting public art. Then she started making and collecting other residents’ maps. "The first map I made myself was about urban oddities. It was the first map I made to be used by other people.”
+“I’ve never lived in a city that was growing so rapidly.” Said Ann, “I’m an architect. I understand that the city has to grow. But it feels like it’s on steroids.” Her exploration of the growing city soon lead to documentation. “My first attempt at documenting Austin was all about the sidewalks” Armstrong continued. Ann documented the sidewalks for 2 years, which evolved into documenting public art. Then she started making and collecting maps. "The first map I made myself was about urban oddities. It was the first map I made to be used by other people.”
 
 All of these efforts were fueled by the idea of making the city more knowable. Ann said she was trying to, “expand on the existing sense of place by revealing things about it and also understanding how other people see the city.” She pushed the idea further and started to host walks and workshops around different themes, and by collaborating with other mapmakers and urban explorers like Emma Schmidt and Angela Hanson.
 
 
-### How does Austin's Austin add new maps?
+### How does Austin's Atlas add new maps?
 
 The artifacts of Ann's walks, workshops, collaborations and exchanges became the foundation for Austin's Atlas.
 
