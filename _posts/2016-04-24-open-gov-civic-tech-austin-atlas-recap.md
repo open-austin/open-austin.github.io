@@ -32,7 +32,7 @@ So then she built a cart and showed up to [Park(ing) Day 2014](https://www.faceb
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">During an East Austin studio tour Ann set up a map drive and collected over 120 maps over 2 weekends. <a href="https://t.co/sZTKX4NnMB">pic.twitter.com/sZTKX4NnMB</a></p>&mdash; Open Austin (@openaustin) <a href="https://twitter.com/openaustin/status/722227520364421120">April 19, 2016</a></blockquote>
 
-“It’s a process! It’s a pain in the ass. It’s hard to collect maps from people.” The less than conventional ask has proven to be slow and involved. She said she doesn’t give people a ton of directions for map making but has the request that they title it. Interpretation often depends on how the map maker frames the project.
+“It’s a process! It’s hard to collect maps from people.” The less than conventional ask has proven to be slow and involved. She said she doesn’t give people a ton of directions for map making but has the request that they title it. Interpretation often depends on how the map maker frames the project.
 
 ### Map Making Exercise
 
