@@ -43,7 +43,7 @@ Open Austin members brainstormed a list of priorities for using data to improve 
 The city launched its open data initiative with the creation of its new website and open data portal. To increase department participation and open data availability, city management relaunched the effort with the _Open Data Initiative 2.0_.
 
 *   [Open Data Initiative 2.0](/advocacy/documents/20150408_Open_Data_Initiative_2_0.pdf) - Memo from City Manager to department heads announcing the Open Data Initiative 2.0
-*   [Open Data Particpation Plan](/advocacy/documents/20150408_Open_Data_Particpation_Plan.pdf) - 90 plan to implement the Open Data Initiative 2.0
+*   [Open Data Participation Plan](/advocacy/documents/20150408_Open_Data_Particpation_Plan.pdf) - 90 plan to implement the Open Data Initiative 2.0
 
 {:.no_toc}
 ### Open Government Briefing Guide - Aug 27, 2014
