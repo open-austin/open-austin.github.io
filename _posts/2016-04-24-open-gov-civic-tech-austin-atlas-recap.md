@@ -26,9 +26,9 @@ All of these efforts were fueled by the idea of making the city more knowable. A
 
 The artifacts of Ann's walks, workshops, collaborations and exchanges became the foundation for Austin's Atlas.
 
-Her first solution for collecting more maps was an exchange system. "I give you a map, you give me map.” It was a simple concept but Ann said there was no way she would get a lot of maps that way. Part of the problem was the lack of audience.
+Her first solution for collecting more maps was an exchange system. "I give you a map, you give me map.” It was a simple concept that helped grow the collection. However, Ann knew that in order to increase the amount of maps she collected she would have to create more opportunity for exchange. 
 
-So then she built a cart and showed up to [Park(ing) Day 2014](https://www.facebook.com/events/540975332670526/) to meet people where they were. She gave out supplies and asked people to draw maps. During an [East Austin Studio Tour (E.A.S.T)](http://east.bigmedium.org/) event she set up a "map drive" and collected 120+ drawn maps from people of various backgrounds over the course of 2 weekends in an art studio.
+This inspired her to build a cart and show up to [Park(ing) Day 2014](https://www.facebook.com/events/540975332670526/) to meet people where they were. She gave out supplies and asked people to draw maps. During an [East Austin Studio Tour (E.A.S.T)](http://east.bigmedium.org/) event she set up a "map drive" and collected 120+ drawn maps from people of various backgrounds over the course of 2 weekends in an art studio.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">During an East Austin studio tour Ann set up a map drive and collected over 120 maps over 2 weekends. <a href="https://t.co/sZTKX4NnMB">pic.twitter.com/sZTKX4NnMB</a></p>&mdash; Open Austin (@openaustin) <a href="https://twitter.com/openaustin/status/722227520364421120">April 19, 2016</a></blockquote>
 
