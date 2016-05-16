@@ -99,7 +99,7 @@ We value your attendance and hope that by communicating these expectations widel
 {:.no_toc}
 ### Credits
 
-This code of conduct and anti-harassment policy are based on ones published by Code for America at [https://github.com/open-austin/codeofconduct](https://github.com/open-austin/codeofconduct)
+This code of conduct and anti-harassment policy are based on ones published by Code for America at [https://github.com/codeforamerica/codeofconduct](https://github.com/codeforamerica/codeofconduct)
 
 The Code for America anti-harassment policy is based on [the example policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) from the Geek Feminism wiki, created by the Ada Initiative and other volunteers. It also incorporates aspects from several other policies, including the Ohio LinuxFest anti-harassment policy, written by Esther Filderman and Beth Lynn Eicher, and the Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith, and Donna Benjamin generalized the policies and added supporting material. Many members of LinuxChix, Geek Feminism and other groups contributed to this work.
 
