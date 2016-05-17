@@ -5,9 +5,52 @@
     <description>Open Austin is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. We are an official brigade affiliated with the nonprofit Code for America which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.</description>
     <link>http://open-austin.github.io//</link>
     <atom:link href="http://open-austin.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Apr 2016 19:40:35 -0500</pubDate>
-    <lastBuildDate>Sun, 24 Apr 2016 19:40:35 -0500</lastBuildDate>
+    <pubDate>Mon, 16 May 2016 22:51:16 -0500</pubDate>
+    <lastBuildDate>Mon, 16 May 2016 22:51:16 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>My day as a UXer at the Designing for Civic Solutions Workshop</title>
+        <description>&lt;p&gt;As a UX Design student in my final semester at ACC, I was thrilled to have the opportunity to attend the Open Austin’s Designing for Civic Solutions Workshop. It was held at the Little Walnut Creek Branch, Austin Public Library located near the Rundberg and North Lamar intersection. Snacks, refreshments, and lunch were provided to keep us well-fueled for the day’s human-centered design activities.&lt;/p&gt;
+
+&lt;p&gt;The morning started with an introduction by Mateo Clarke and Victoria O’Dell of Open Austin. Next we learned about the Rundberg community, and issues the area faces from Daniela Nuñez, Co-Vice President of the Georgian Acres Neighborhood Association. The human-centered design portion of the workshop was kicked off by Eric Boggs, AC4D alumni, followed by Bhavini Patel, Laura Galos, James Lewis, and Samara Watkiss. Each took turns introducing the room to a different phase of the process we’d utilize for the duration of the workshop.&lt;/p&gt;
+
+&lt;p&gt;As we moved into the &lt;strong&gt;Research&lt;/strong&gt; phase, participants broke up into small teams to choose what they would focus on for the day. I teamed with Lora Rowan and Kayla Kennett to focus on &lt;strong&gt;“what it feels like to be a bicyclist or pedestrian crossing the intersection at North Lamar and Rundberg”&lt;/strong&gt;, one of the most dangerous intersections in the city.&lt;/p&gt;
+
+&lt;p&gt;We collaborated to come up with open-ended questions, and headed out into the field on foot to ask area residents our questions with the goals of gaining empathy and insights. We successfully interviewed a few Austin residents, although we ran into language barriers with a couple of other potential interviewees. We took turns serving as the facilitator, notetaker, and photographer. Soon the heat of the afternoon kicked in, and we headed back to the Library for a break.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ellen-Contextal-observation.jpg&quot; alt=&quot;Ladies crossing N Lamar in the middle of the street&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Contextual observation - These ladies crossed N Lamar in the middle of the street and seemed very calm. They were standing in the street waiting to cross.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;After the our lunch break concluded, we moved into the &lt;strong&gt;Synthesis&lt;/strong&gt; phase of the workshop. We were led through a series of exercises where we examined what our interviewees shared with our team, and discovered themes and insights. This is the phase where the post-its and scissors were put into heavy use, as we collaborated.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ellen-mentor.jpg&quot; alt=&quot;4 participants organize sticky notes&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Eric Boggs mentoring, me (left), Lora (middle), Kayla (right)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In the &lt;strong&gt;Ideation&lt;/strong&gt; phase we were encouraged to generate many ideas without censorship in our teams. During this phase we engaged each team member, and openly encouraged the sharing of ideas and opinions. Then we used creative downselection, to identify ideas based on criteria appropriate to the project.&lt;/p&gt;
+
+&lt;p&gt;Finally, we moved into &lt;strong&gt;Storyboarding as a Prototyping tool&lt;/strong&gt;. Each team member created their own storyboard during this phase. We brought our individual design vision to life using a concise and focused approach to introducing the people in our story, showing the problem, the solution, and the result. We also learned some pretty nifty shortcuts to expressing emotion with facial expressions, that help the viewer understand the emotions tied to the experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ellen-storyboard.jpg&quot; alt=&quot;Ellen&#39;s story board&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This was my storyboard.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In conclusion, I thoroughly enjoyed the workshop, and hope that some of the ideas from attendees might solve the issue of mobility in Austin. It was incredible getting out in the field to conduct research, and listen to Austinites share their stories. Learning and applying AC4D alumni’s human-centered design process was also quite rewarding in many ways.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 May 2016 00:00:00 -0500</pubDate>
+        <link>http://open-austin.github.io//blog/2016/05/04/my-day-as-a-uxer-designing-for-civic-solutions</link>
+        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/05/04/my-day-as-a-uxer-designing-for-civic-solutions</guid>
+        
+        
+      </item>
     
       <item>
         <title>April Open Gov &amp; Civic Tech Meetup Recap - Ann Armstrong &amp; Austin&#39;s Atlas</title>
@@ -17,11 +60,11 @@
 
 &lt;p&gt;When Ann first moved to Austin she felt disconnected from her surroundings. She starting taking walks, not to get anywhere, but to explore a neighborhood. At first, she was frustrated with the city’s poor walkability compared to San Francisco. Austin is not as dense, her walks were less stimulating, and there was not as much street art. But, as she kept walking, she fell more and more in love with Austin, its nooks and crannies, and “urban oddities.” Not before long, Ann realized that her favorites waypoints were rapidly disappearing due to new construction, weather, or other unexplained occurrences.&lt;/p&gt;
 
-&lt;p&gt;“I’ve never lived in a city that was growing so rapidly.” Said Ann, “I’m an architect. I understand that the city has to grow. But it feels like it’s on steroids.” Her exploration of the growing city soon lead to documentation. “My first attempt at documenting Austin was all about the sidewalks” Armstrong continued. Ann documented the sidewalks for 2 years, which evolved into documenting public art. Then she started making and collecting other residents’ maps. “The first map I made myself was about urban oddities. It was the first map I made to be used by other people.”&lt;/p&gt;
+&lt;p&gt;“I’ve never lived in a city that was growing so rapidly.” Said Ann, “I’m an architect. I understand that the city has to grow. But it feels like it’s on steroids.” Her exploration of the growing city soon lead to documentation. “My first attempt at documenting Austin was all about the sidewalks” Armstrong continued. Ann documented the sidewalks for 2 years, which evolved into documenting public art. Then she started making and collecting maps. “The first map I made myself was about urban oddities. It was the first map I made to be used by other people.”&lt;/p&gt;
 
 &lt;p&gt;All of these efforts were fueled by the idea of making the city more knowable. Ann said she was trying to, “expand on the existing sense of place by revealing things about it and also understanding how other people see the city.” She pushed the idea further and started to host walks and workshops around different themes, and by collaborating with other mapmakers and urban explorers like Emma Schmidt and Angela Hanson.&lt;/p&gt;
 
-&lt;h3 id=&quot;how-does-austins-austin-add-new-maps&quot;&gt;How does Austin’s Austin add new maps?&lt;/h3&gt;
+&lt;h3 id=&quot;how-does-austins-atlas-add-new-maps&quot;&gt;How does Austin’s Atlas add new maps?&lt;/h3&gt;
 
 &lt;p&gt;The artifacts of Ann’s walks, workshops, collaborations and exchanges became the foundation for Austin’s Atlas.&lt;/p&gt;
 
@@ -31,7 +74,7 @@
 
 &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;During an East Austin studio tour Ann set up a map drive and collected over 120 maps over 2 weekends. &lt;a href=&quot;https://t.co/sZTKX4NnMB&quot;&gt;pic.twitter.com/sZTKX4NnMB&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/722227520364421120&quot;&gt;April 19, 2016&lt;/a&gt;&lt;/blockquote&gt;
 
-&lt;p&gt;“It’s a process! It’s a pain in the ass. It’s hard to collect maps from people.” The less than conventional ask has proven to be slow and involved. She said she doesn’t give people a ton of directions for map making but has the request that they title it. Interpretation often depends on how the map maker frames the project.&lt;/p&gt;
+&lt;p&gt;“It’s a process! It’s hard to collect maps from people.” The less than conventional ask has proven to be slow and involved. She said she doesn’t give people a ton of directions for map making but has the request that they title it. Interpretation often depends on how the map maker frames the project.&lt;/p&gt;
 
 &lt;h3 id=&quot;map-making-exercise&quot;&gt;Map Making Exercise&lt;/h3&gt;
 
@@ -418,56 +461,6 @@ Follow us on Twitter: &lt;a href=&quot;https://twitter.com/openaustin?lang=en&qu
         <category>open data</category>
         
         <category>open government</category>
-        
-      </item>
-    
-      <item>
-        <title>Code Across 2016</title>
-        <description>&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Sat, March 5, 2016&lt;br /&gt;
-&lt;strong&gt;Time:&lt;/strong&gt; 10:00 am – 4:00 pm&lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; St. Edward&#39;s University, Munday Library - 3001 South Congress Avenue Austin, TX 78704 (&lt;a href=&quot;https://www.google.com/maps/dir/30.234838,-97.7579789/30.231091,-97.757397/@30.2331063,-97.7608302,17z/data=!3m1!4b1!4m4!4m3!1m1!4e1!1m0&quot;&gt;map&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The event is free, but seating is limited and advance registration is required:&lt;br /&gt;
-&lt;a href=&quot;https://www.eventbrite.com/e/code-across-austin-2016-tickets-21752867412&quot; target=&quot;_blank&quot;&gt;REGISTER NOW&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;CodeAcross Austin 2016 &lt;/strong&gt;is an all-day event organized by Open Austin that starts off an arc of civic and social good projects through the rest of the year. The event will bring together nonprofit leaders, policy experts, civil servants, urbanists, community organizers, designers, developers, data scientists, and anyone with a passion to make our city better. Our goal is to launch a new wave of community-developed civic design &amp;amp; tech projects for continued work at &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Civic Hack Nights&lt;/a&gt; &amp;amp; ATX Hack for Change.&lt;/p&gt;
-&lt;p&gt;Participants will collaborate, brainstorm, and prototype around problems that affect Austin residents within a number of themes and community needs. The event will revolve around a facilitated workshop that utilizes human-centered design principles and agile design sprints.&lt;/p&gt;
-&lt;p&gt;The event is free and open to the public. It is conducted as part of the national “&lt;a href=&quot;http://www.codeforamerica.org/events/codeacross-2015/&quot;&gt;Code Across&lt;/a&gt;” weekend, sponsored by Code for America. “Code Across Austin” was launched in 2012 by visiting Code for America fellows.&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;Goals for CodeAcross Austin: &lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; Fully scoped &lt;strong&gt;problem statements&lt;/strong&gt; with actionable follow-up tasks. These problem statements will move along as projects in our year long arc of &quot;civic hacking&quot; with continued work at Open Austin Civic Hack Nights and at ATX Hack for Change.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; Identify &quot;Project Leaders&quot; who can champion community needs and lead implementation teams at ATX Hack for Change which will take place in June of 2016.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; Foster dialogue between disparate networks in Austin including nonprofits, government staff, social good startups, and community organizations like Open Austin. Let&#39;s all work together on the hard problems in our city.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4.&lt;/strong&gt; An interactive and enjoyable introduction to civic participation and innovative problem solving, aka &quot;civic hacking.&quot;&lt;/p&gt;
-&lt;p&gt;We&#39;ll explore themes such as:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Public Safety &amp;amp; Justice&lt;/li&gt;
-&lt;li&gt;Health and Human services&lt;/li&gt;
-&lt;li&gt;Economic Development&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Transportation&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;Communication and Engagement&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Broadband and Digital Opportunities&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Sustainability&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;Planning and Land Use&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;strong&gt;Why is it called CodeAcross?&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;CodeAcross is a weekend of civic hacking events hosted by groups like Open Austin throughout the world. The goal of CodeAcross is to activate the civic tech network and inspire residents everywhere to get actively involved in their communities. Though the title of this event is “CodeAcross&quot; to align with national events under the Code for America umbrella, we plan for this event to be focused on design thinking that is foundational to future project work which may or may not include “coding” projects.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;This event is conducted under the Open Austin Code of Conduct: &lt;a href=&quot;http://www.open-austin.org/about/code-of-conduct&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://www.open-austin.org/about/code-of-conduct&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Read Last Years Recap &lt;a href=&quot;https://www.open-austin.org/article/1484&quot;&gt;here&lt;/a&gt;. &lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;Parking and building map&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2016/02/screenshot20160220at11.23.22am.png&quot;&gt;&lt;img class=&quot;size-large wp-image-1720 aligncenter&quot; src=&quot;/assets/screenshot20160220at11.23.22am-1024x792.png&quot; alt=&quot;screenshot20160220at11.23.22am&quot; width=&quot;625&quot; height=&quot;483&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;Presented by &lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2016/01/cropped-logo_OpenAustin_Color.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-1683 aligncenter&quot; src=&quot;/assets/cropped-logo_OpenAustin_Color-300x252.png&quot; alt=&quot;cropped-logo_OpenAustin_Color.png&quot; width=&quot;300&quot; height=&quot;252&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2016/02/logo.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-1723 aligncenter&quot; src=&quot;/assets/logo-300x50.png&quot; alt=&quot;logo&quot; width=&quot;300&quot; height=&quot;50&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;Sponsored by&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2016/02/brigadelogo.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-1724 aligncenter&quot; src=&quot;/assets/brigadelogo-300x111.png&quot; alt=&quot;brigadelogo&quot; width=&quot;300&quot; height=&quot;111&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/wp-content/uploads/2016/02/google.png&quot;&gt;&lt;img class=&quot;size-medium wp-image-1725 aligncenter&quot; src=&quot;/assets/google-300x225.png&quot; alt=&quot;google&quot; width=&quot;300&quot; height=&quot;225&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 21 Feb 2016 13:50:26 -0600</pubDate>
-        <link>http://open-austin.github.io//blog/2016/02/21/code-across-2016</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/02/21/code-across-2016</guid>
-        
         
       </item>
     
