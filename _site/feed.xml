@@ -5,9 +5,58 @@
     <description>Open Austin is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. We are an official brigade affiliated with the nonprofit Code for America which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.</description>
     <link>http://open-austin.github.io//</link>
     <atom:link href="http://open-austin.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 May 2016 22:51:16 -0500</pubDate>
-    <lastBuildDate>Mon, 16 May 2016 22:51:16 -0500</lastBuildDate>
+    <pubDate>Sat, 28 May 2016 12:06:53 -0500</pubDate>
+    <lastBuildDate>Sat, 28 May 2016 12:06:53 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>May Open Gov &amp; Civic Tech Meetup Recap - Texas Water Planning App by TNRIS</title>
+        <description>&lt;p&gt;For Open Austin’s May Open Gov &amp;amp; Civic Tech Meetup, we hosted two presentations.&lt;/p&gt;
+
+&lt;h3 id=&quot;texas-water-plan-interactive-app--api&quot;&gt;2017 Texas Water Plan Interactive App &amp;amp; API&lt;/h3&gt;
+
+&lt;p&gt;The featured presentation was led by James Seppi (&lt;a href=&quot;http://www.meetup.com/MaptimeATX/&quot;&gt;Maptime ATX&lt;/a&gt;) &amp;amp; Matt Nelson, Director of Water Planning at &lt;a href=&quot;http://www.twdb.texas.gov/&quot;&gt;Texas Water Development Board&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Matt &amp;amp; James shared:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Basics of how Texas does its water planning, including important terminology&lt;/li&gt;
+  &lt;li&gt;Short demo/how to navigate and interpret the 2017 State Water Plan application&lt;/li&gt;
+  &lt;li&gt;Summary of API endpoints in the 2017 State Water Plan application&lt;/li&gt;
+  &lt;li&gt;Technology behind the application&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1bbrVWdT2R6N3qOT6PfIKQUB5myycgszWVg8MJmJg7PI/edit#slide=id.p&quot;&gt;Here is a link to their presentation&lt;/a&gt;.
+Here is a link to the &lt;a href=&quot;https://2017.texasstatewaterplan.org/&quot;&gt;2017 Water Plan App&lt;/a&gt;, the &lt;a href=&quot;https://2017.texasstatewaterplan.org/api/v1&quot;&gt;API&lt;/a&gt;, and their &lt;a href=&quot;https://github.com/TNRIS/iswp2017&quot;&gt;Github repo&lt;/a&gt; with the open-source code.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;At the always interesting &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; hearing about water resources as well as city performance measurement. &lt;a href=&quot;https://t.co/YPa3kIE0pd&quot;&gt;pic.twitter.com/YPa3kIE0pd&lt;/a&gt;&lt;/p&gt;&amp;mdash; david holmes (@texasdnc) &lt;a href=&quot;https://twitter.com/texasdnc/status/732367709728428032&quot;&gt;May 17, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;ditching-pdfs-for-open-data-at-the-city-opm&quot;&gt;Ditching PDFs for Open Data at the City OPM&lt;/h3&gt;
+
+&lt;p&gt;As a bonus presentation, Kimberly Springer-Olivares, Chief Performance Officer at the City of Austin’s newly created Office of Performance Management gave a quick introduction to the new office and previewed plans to ditch PDF reports and make it easier for Austin residents to see how the City is performing using open data and visualizations via new Socrata products offered within data.austintexas.gov.&lt;/p&gt;
+
+&lt;p&gt;Kim discussed how part of their goal is to ask the questions: Why do departments do the things that they do? How does their budget support those goals? One of the goals of her office is to transform the long Annual Budget Perform Report PDFs (&lt;a href=&quot;https://assets.austintexas.gov/budget/13-14/downloads/2013-14_Austin_Annual_Performance_Report_web.pdf&quot;&gt;like this one for 2013-14 that is 216 pages long&lt;/a&gt;), into more digestable and accessible &lt;a href=&quot;https://data.austintexas.gov/stories/s/mfnw-2iaf&quot;&gt;“stories” like this one hosted on the city’s data portal&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/documents/OPM_OpenAustin.pdf&quot;&gt;Here is a link to the Office of Performance Management slides&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Kim Springer-Olivares geeks out with &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; on &lt;a href=&quot;https://twitter.com/hashtag/data?src=hash&quot;&gt;#data&lt;/a&gt; + &lt;a href=&quot;https://twitter.com/hashtag/openperformance?src=hash&quot;&gt;#openperformance&lt;/a&gt; for better government &lt;a href=&quot;https://twitter.com/austintexasgov&quot;&gt;@austintexasgov&lt;/a&gt; &lt;a href=&quot;https://t.co/maTQws87N5&quot;&gt;pic.twitter.com/maTQws87N5&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jill Goodman (@cafejillio) &lt;a href=&quot;https://twitter.com/cafejillio/status/732377364332568576&quot;&gt;May 17, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1czm4VlA9376cmfobLgrxLLwA01_NXFBKs34FcDVrn_I/edit?usp=sharing&quot;&gt;Open Austin event intro slides with announcements&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Continue the conversation by following us on &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;Twitter&lt;/a&gt; and joining our community on &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Slack&lt;/a&gt;.
+RSVP for our next event on &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;Meetup&lt;/a&gt; and like us on &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Facebook&lt;/a&gt; to stay up to date.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Sat, 28 May 2016 00:00:00 -0500</pubDate>
+        <link>http://open-austin.github.io//blog/2016/05/28/may-open-gov-civic-tech-meetup-recap</link>
+        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/05/28/may-open-gov-civic-tech-meetup-recap</guid>
+        
+        
+      </item>
     
       <item>
         <title>My day as a UXer at the Designing for Civic Solutions Workshop</title>
@@ -68,9 +117,9 @@
 
 &lt;p&gt;The artifacts of Ann’s walks, workshops, collaborations and exchanges became the foundation for Austin’s Atlas.&lt;/p&gt;
 
-&lt;p&gt;Her first solution for collecting more maps was an exchange system. “I give you a map, you give me map.” It was a simple concept but Ann said there was no way she would get a lot of maps that way. Part of the problem was the lack of audience.&lt;/p&gt;
+&lt;p&gt;Her first solution for collecting more maps was an exchange system. “I give you a map, you give me map.” It was a simple concept that helped grow the collection. However, Ann knew that in order to increase the amount of maps she collected she would have to create more opportunity for exchange.&lt;/p&gt;
 
-&lt;p&gt;So then she built a cart and showed up to &lt;a href=&quot;https://www.facebook.com/events/540975332670526/&quot;&gt;Park(ing) Day 2014&lt;/a&gt; to meet people where they were. She gave out supplies and asked people to draw maps. During an &lt;a href=&quot;http://east.bigmedium.org/&quot;&gt;East Austin Studio Tour (E.A.S.T)&lt;/a&gt; event she set up a “map drive” and collected 120+ drawn maps from people of various backgrounds over the course of 2 weekends in an art studio.&lt;/p&gt;
+&lt;p&gt;This inspired her to build a cart and show up to &lt;a href=&quot;https://www.facebook.com/events/540975332670526/&quot;&gt;Park(ing) Day 2014&lt;/a&gt; to meet people where they were. She gave out supplies and asked people to draw maps. During an &lt;a href=&quot;http://east.bigmedium.org/&quot;&gt;East Austin Studio Tour (E.A.S.T)&lt;/a&gt; event she set up a “map drive” and collected 120+ drawn maps from people of various backgrounds over the course of 2 weekends in an art studio.&lt;/p&gt;
 
 &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;During an East Austin studio tour Ann set up a map drive and collected over 120 maps over 2 weekends. &lt;a href=&quot;https://t.co/sZTKX4NnMB&quot;&gt;pic.twitter.com/sZTKX4NnMB&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/722227520364421120&quot;&gt;April 19, 2016&lt;/a&gt;&lt;/blockquote&gt;
 
@@ -438,29 +487,6 @@ Follow us on Twitter: &lt;a href=&quot;https://twitter.com/openaustin?lang=en&qu
         <link>http://open-austin.github.io//blog/2016/03/07/sxsw-2016-events</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/03/07/sxsw-2016-events</guid>
         
-        
-      </item>
-    
-      <item>
-        <title>Uzbekistani delegation shares their experiences with open data on Austin visit</title>
-        <description>&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Last Tuesday, two Open Austinites attended a meeting with Uzbekistani leaders to discuss the topics of transparency and accountability in government. The meeting was organized by Global Austin, &lt;/span&gt;&lt;a href=&quot;http://www.globalaustin.org/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;http://www.globalaustin.org/&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; and the Uzbekistani leaders were in the US under the US Department of State’s International Visitor Leadership program, which fosters citizen diplomacy for emerging leaders. &lt;/span&gt;&lt;a href=&quot;http://exchanges.state.gov/ivlp/ivlp.html&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;http://exchanges.state.gov/ivlp/ivlp.html&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; The program’s organizers were interested in Open Austin’s work to bring citizens into active participation. Hailey Pate and Amalie Barras attended on behalf of the City of Austin and Open Austin, bringing insights about citizen engagement from inside the city and out. Also present, aside from the Uzbekistani IT and Telecom leaders, were journalists and translators, who simultaneously listened and interpreted between  English and Uzbekistani.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The meeting started off by focusing on the Uzbekistani open data portal, and providing a little context. Their data portal website &lt;/span&gt;&lt;a href=&quot;https://data.gov.uz/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;https://data.gov.uz/&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; is well designed and thought-out, which Hailey and Amalie noted as an achievement in itself based on the fact that the target user is any citizen.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;“Our participation in the initiative says a lot in itself. It is a legal base for reform,” one Uzbekistani leader shared. “In 2005 the government got to say what the state organizations should feature on their website.” He noted that in contrast, “in 2014 a law was passed on state organizations which requires that they highlight their activity via a website, and collect feedback. Citizens interested in engaging can connect with government organizations via their websites and now, quickly receive answers to questions.” Additionally, citizens have access to legal documents, and with the data portal, open government data.&lt;/p&gt;
-&lt;p&gt;Hailey asked whether it’d been difficult to develop user base for the data portal. The Uzbekistani leaders anticipated this challenge and developed and implemented a strategic plan for adoption.&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;They certainly have some great success stories. One Uzbekistani NGO that implemented a program using open data to distribute toddlers to day cares (which are state run).&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;It shows the centers’ availability and reviews. They also have a technology similar to Open Austin’s very own &lt;/span&gt;&lt;a href=&quot;http://instabus.org/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Instabus&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; app using GPS to track locations of their public transportation vehicles.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;One of the questions the Uzbekistani leaders had for Open Austin was how we deal with the legality and ethics of open data, and that’s a question we also have. Hailey shared  a couple of documents from the FCC &lt;/span&gt;&lt;a href=&quot;http://transition.fcc.gov/cgb/consumerfacts/cipa.pdf&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;http://transition.fcc.gov/cgb/consumerfacts/cipa.pdf&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; and Texas Attorney General &lt;/span&gt;&lt;a href=&quot;https://www.texasattorneygeneral.gov/files/og/PIA_handbook_2016.pdf&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;https://www.texasattorneygeneral.gov/files/og/PIA_handbook_2016.pdf&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; that are used as guidelines at the state and national levels. There is still much to be discussed, and in fact, in September the Uzbekistani leaders will devote a full week to a national summit with speakers and exhibitions around IT.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br /&gt;
-&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The meeting ended on a high note with gratitude and gifts, including beautiful silk pashminas and an Uzbekistani document about open government in their country. Open Austin is grateful to have opportunities to share with folks tackling some of the same problems in other parts of the world. &lt;/span&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 27 Feb 2016 13:44:46 -0600</pubDate>
-        <link>http://open-austin.github.io//blog/2016/02/27/uzbekistani-delegation-shares-their-experiences-with-open-data-on-austin-visit</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/02/27/uzbekistani-delegation-shares-their-experiences-with-open-data-on-austin-visit</guid>
-        
-        
-        <category>open data</category>
-        
-        <category>open government</category>
         
       </item>
     
