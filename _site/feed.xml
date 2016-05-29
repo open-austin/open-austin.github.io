@@ -5,9 +5,74 @@
     <description>Open Austin is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. We are an official brigade affiliated with the nonprofit Code for America which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.</description>
     <link>http://open-austin.github.io//</link>
     <atom:link href="http://open-austin.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 May 2016 12:06:53 -0500</pubDate>
-    <lastBuildDate>Sat, 28 May 2016 12:06:53 -0500</lastBuildDate>
+    <pubDate>Sun, 29 May 2016 09:10:42 -0500</pubDate>
+    <lastBuildDate>Sun, 29 May 2016 09:10:42 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Designing for Civic Solutions Recap</title>
+        <description>&lt;p&gt;On Saturday, April 23, 2016, Open Austin hosted a one-day workshop. The workshop was a first-time collaboration between Open Austin and Austin Center for Design (AC4D) alumni that aimed to help Open Austinites and the greater community understand the design process and how it could be applied to civic projects and application development.&lt;/p&gt;
+
+&lt;p&gt;The day kicked off with a presentation by Open Austin giving an overview of the workshop. Past transportation and mobility projects developed by the community were highlights as examples of success.&lt;/p&gt;
+
+&lt;p&gt;Then, Daniela Nunez, a local activist and community organizer with the Georgian Acres Neighborhood Association gave an overview of the Rundberg community and history. This primed participants on the issues that the neighborhood faces. It also gave context to the research that would be conducted during the workshop.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/community-driven action.png&quot; alt=&quot;Daniela&#39;s Presentation&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A slide from Daniela’s presentation: An outline of the ongoing work in the area&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Eric Boggs, Alumni Coordinator for AC4D, then took over and introduced his team of designers. We had a stellar crew which included Bhavini Patel a freelance UX &amp;amp; interaction Designer who has worked with Projekt202 &amp;amp; Chaotic Moon, Lauara Galos a research designer for IBM, James Lewis a user experience designer from IBM, and Samara Watkiss an interaction designer leading human-centered design efforts at a local cyber security company.&lt;/p&gt;
+
+&lt;p&gt;First, Eric introduced participants to a design methodology taught by AC4D. This method boils down to ethnography and immersion in cultural context, Synthesis which is making meaning through inferences and reframing, and prototyping through storyboarding and storytelling. View a version of &lt;a href=&quot;http://library.ac4d.com/d/AC4D_designlibrary_Ethnographic_research.pdf&quot;&gt;the  presentation on Ethnographic Research here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/Empathy?src=hash&quot;&gt;#Empathy&lt;/a&gt; needed in human-centered design - Eric Boggs, &lt;a href=&quot;https://twitter.com/AC4D&quot;&gt;@AC4D&lt;/a&gt; w/ &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/mobility?src=hash&quot;&gt;#mobility&lt;/a&gt; &lt;a href=&quot;https://t.co/TAtIonPw6P&quot;&gt;pic.twitter.com/TAtIonPw6P&lt;/a&gt;&lt;/p&gt;&amp;mdash; Daniela (@vegangrrl) &lt;a href=&quot;https://twitter.com/vegangrrl/status/723899500662661125&quot;&gt;April 23, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Afterwards, Bhavani lead the presentation on field research. She primed participants on how to ask the right questions to the right people to gain valuable insight. View the &lt;a href=&quot;http://library.ac4d.com/d/AC4D_designlibrary_worksheet_DesignResearch.pdf&quot;&gt;research planning worksheet here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;After coming back from their field research participants ate their lunch and started to make meaning of their research. They synthesized quotes and the behavioral clues of locals to uncover overarching themes. Laura lead the synthesis phase and helped participants find meaning in the data they gathered. Find a version of her &lt;a href=&quot;http://library.ac4d.com/d/AC4D_designlibrary_worksheet_DesignResearch.pdf&quot;&gt;presentation on syntheses here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Doing some ethnography with Open Austin! &lt;a href=&quot;https://twitter.com/vegangrrl&quot;&gt;@vegangrrl&lt;/a&gt; &lt;a href=&quot;https://twitter.com/ramirezal3&quot;&gt;@ramirezal3&lt;/a&gt; &lt;a href=&quot;https://t.co/taQf9RkFx4&quot;&gt;pic.twitter.com/taQf9RkFx4&lt;/a&gt;&lt;/p&gt;&amp;mdash; mae (@maebees) &lt;a href=&quot;https://twitter.com/maebees/status/723922394889379842&quot;&gt;April 23, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;The rest of the activities were capped off by Samara and James who taught about ideation, down selection, and storyboarding as a prototyping tool. By forcing opposing ideas together and deviating from initial thoughts on potential outcomes, participants were encouraged to diverge and think more broadly about the subjects they were exploring. This encouraged attendees to think of unique ways to solve their problems. From there they picked a solutions and started illustrating what that could look like by storyboarding. By drawing pictures that represented real and imagined situations the participants gained a better idea of what could work, how it could work, and how people may potentially feel and interact with their imagined solutions. Find &lt;a href=&quot;http://library.ac4d.com/&quot;&gt;AC4D presentations on storyboarding and ideation here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Working on loosening up our sketching muscles. &lt;a href=&quot;https://t.co/hAiU6MKa3K&quot;&gt;pic.twitter.com/hAiU6MKa3K&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/723969580138295297&quot;&gt;April 23, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;After wrapping up we encouraged the participants to continue the work at our hack nights and hack Saturdays if they felt strongly about the issue and contributing to mobility in Rundberg or the greater Austin area.&lt;/p&gt;
+
+&lt;p&gt;Since the workshop we’ve had a guest blog post by a local UX designer and member of Open Austin, Ellen Lazaretti. You can &lt;a href=&quot;http://www.open-austin.org/blog/2016/05/04/my-day-as-a-uxer-designing-for-civic-solutions&quot;&gt;read Ellen’s post here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Additionally, participant Alejandro Ramirez published a Medium article about his experience, insights, and suggestions for improvement. View &lt;a href=&quot;https://uxdesign.cc/ux-design-beyond-the-screen-how-design-thinking-can-improve-pedestrian-safety-d886ee3ba638#.1kqumegcp&quot;&gt;Alejandro’s article here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This event was made possible by generous donations from:
+&lt;img src=&quot;http://open-austin.github.io/assets/images/workshopdonors.jpg&quot; alt=&quot;Workshop Donors&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What we do would not be possible without our community and corporate sponsors. Having supporters such as these makes it possible for civic collaboration, creativity, and solutions.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/open?id=1_X1nwd5g2EpDGmsf5eVlGs5IOWgPypZ6ZDXdTgi6UoM&quot;&gt;View our deck&lt;/a&gt; from event and Check out our &lt;a href=&quot;https://drive.google.com/open?id=0B1cMlEZm_nJ0YkdHTkF6QWJEejA&quot;&gt;event photo album&lt;/a&gt;.
+&lt;br /&gt;
+Check out AC4D Slides and resources at their &lt;a href=&quot;http://library.ac4d.com/&quot;&gt;design library&lt;/a&gt;
+&lt;br /&gt;
+Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
+&lt;br /&gt;
+RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/events/231148616/&quot;&gt;RSVP&lt;/a&gt;
+&lt;br /&gt;
+Follow us on Twitter: &lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow&lt;/a&gt;
+&lt;br /&gt;
+&amp;amp; Like us on Facebook: &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like&lt;/a&gt;&lt;/p&gt;
+
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Sun, 29 May 2016 00:00:00 -0500</pubDate>
+        <link>http://open-austin.github.io//blog/2016/05/29/Recap-Designing-for-Civic-Solutions</link>
+        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/05/29/Recap-Designing-for-Civic-Solutions</guid>
+        
+        
+      </item>
     
       <item>
         <title>May Open Gov &amp; Civic Tech Meetup Recap - Texas Water Planning App by TNRIS</title>
@@ -435,57 +500,6 @@ Follow us on Twitter: &lt;a href=&quot;https://twitter.com/openaustin?lang=en&qu
         <pubDate>Thu, 10 Mar 2016 00:00:00 -0600</pubDate>
         <link>http://open-austin.github.io//blog/2016/03/10/codeacross-austin-2016-recap</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/03/10/codeacross-austin-2016-recap</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>SXSW 2016 Open Data &amp; Civic Tech Events</title>
-        <description>&lt;p&gt;SXSW Interactive takes place in Austin during March 10-15 this year. It will feature hundreds of panels, workshops, and parties, and even a visit from President Obama.&lt;/p&gt;
-
-&lt;p&gt;As always, combing through all the official and unofficial events while keeping track of RSVPs can be super daunting, so we decided to help our our Open Data &amp;amp; Civic Tech friends with a curated list of relevant events to choose from.&lt;/p&gt;
-
-&lt;p&gt;So far, this list features 38 events pertaining to Open Data, Civic Technology, Policy, and SmartCities. At this time, most of the events on this list are official events, but we encourage you to &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#105;&amp;#110;&amp;#102;&amp;#111;&amp;#064;&amp;#111;&amp;#112;&amp;#101;&amp;#110;&amp;#045;&amp;#097;&amp;#117;&amp;#115;&amp;#116;&amp;#105;&amp;#110;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;shoot us an email&lt;/a&gt; or &lt;a href=&quot;http://twitter.com/openaustin&quot;&gt;tweet us&lt;/a&gt; if you have anything else to add.&lt;/p&gt;
-
-&lt;p&gt;And if you can’t make it to SXSW, we hope we’ll see you at our &lt;a href=&quot;https://www.meetup.com/Open-Austin/events/228334335/&quot;&gt;next event&lt;/a&gt; on March 19th at Urban Co-Lab.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1VnBJafxvbeIkGemBpu_l3UNt7JRV8u5KNnG3tJGpESQ/edit#gid=0&quot;&gt;View the Google Doc here!&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Here are a few highlights, in chronological order:&lt;/p&gt;
-
-&lt;h3 id=&quot;ibm-design-hive-at-sxsw&quot;&gt;IBM Design Hive at SXSW&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Friday, March 11, All Day&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Hotel Van Zandt&lt;/em&gt;&lt;br /&gt;
-&lt;a href=&quot;http://schedule.sxsw.com/2016/events/event_OE04783&quot;&gt;Official SXSW Event&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;At 4PM, Russ Unger of 18F will present. Aside from being friends of Code for America and Open Austin, &lt;em&gt;“18F is a civic consultancy for the government, inside the government, enabling agencies to rapidly deploy tools and services that are easy to operate, cost efficient, and reusable.”&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;voter-technology-a-reimagined-future&quot;&gt;Voter Technology: A Reimagined Future&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Friday, March 11, 9:30 AM&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Old School Bar, 401 E 6th St&lt;/em&gt;&lt;br /&gt;
-&lt;a href=&quot;http://schedule.sxsw.com/2016/events/event_PP58068&quot;&gt;Official SXSW Event&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“Aging voting technology means upcoming elections are more likely than ever to result in inaccurate ballots or in voters being unable to cast a ballot at all. This group of panelists is unafraid to both sound the alarm bells and inspire us all about what is at stake for the 2016 presidential election, what stands in the way of updated voter technology, and what the future of the voter experience could look like given the right tools.”&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;dell-policy-hack&quot;&gt;Dell Policy Hack&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Saturday, March 12, 6:00 PM&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;115 San Jacinto Austin, TX&lt;/em&gt;&lt;br /&gt;
-&lt;strong&gt;No Badge Required&lt;/strong&gt; - &lt;a href=&quot;https://dell-policy-hack.splashthat.com/&quot;&gt;RSVP&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“Join Dell for an interactive hack-a-thon that tasks teams of policymakers, entrepreneurs, venture capitalists and students, along with a “coach”, to design solutions to policy challenges faced by entrepreneurs running growing businesses. The goal is to share the winning solution with the next president, recommending he or she implement them in their first 100 days in office.”&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;civic-tech-hackers-and-advocates-meet-up&quot;&gt;Civic Tech Hackers and Advocates Meet Up&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Monday, March 14th, 11 AM&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;JW Marriott Room 209&lt;/em&gt;&lt;br /&gt;
-&lt;a href=&quot;http://schedule.sxsw.com/2016/events/event_PP55660&quot;&gt;Official SXSW Event&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;In case you don’t know already, Open Austin is hosting an official SXSW meetup to bring civic advocates, hackers, and supporters from all over together to share wins and roadblocks, and discuss ideas to take home.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 07 Mar 2016 00:00:00 -0600</pubDate>
-        <link>http://open-austin.github.io//blog/2016/03/07/sxsw-2016-events</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/03/07/sxsw-2016-events</guid>
         
         
       </item>
