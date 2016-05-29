@@ -28,7 +28,7 @@ This is the point at which a project becomes an "approved" Open Austin project.
 3. Explain
   - what problem the project tries to solve
   - who the users are
-4. List the project on open-austin.org/projects [link to how-to](#)
+4. List the project on open-austin.org/projects [link to how-to](https://github.com/open-austin/open-austin.github.io/wiki/How-to-Add-a-Project-Page)
 5. Go through a code/architecture review
   - What is the architecture of your project? _We may ask you to make changes to the architecture._
   - How do you deploy the project?
