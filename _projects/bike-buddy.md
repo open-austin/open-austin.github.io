@@ -7,6 +7,7 @@ Type: web application
 Status: archival
 Categories: [ transporation, bicycling ]
 Contact: Chip Rosenthal <chip@unicom.com>
+screenshot: bike-buddy.png
 date: 2014-10-02 00:00:00
 ---
 

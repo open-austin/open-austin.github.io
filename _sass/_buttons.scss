@@ -15,7 +15,7 @@
 // TODO this could be refactored into a mixin...
 .btn-experiment-project {
     color: $cfa-experiment-purple;
-    border-color: $cfa-experiment-purple;
+    border: none;
     &:hover {
         background-color: $cfa-experiment-purple;
     }
@@ -23,7 +23,7 @@
 
 .btn-alpha-project {
     color: $cfa-alpha-blue;
-    border-color: $cfa-alpha-blue;
+    border: none;
     &:hover {
         background-color: $cfa-alpha-blue;
     }
@@ -31,8 +31,12 @@
 
 .btn-beta-project {
     color: $cfa-beta-blue;
-    border-color: $cfa-beta-blue;
+    border: none;
     &:hover {
         background-color: $cfa-beta-blue;
     }
+}
+
+.btn-official-project {
+    border: none;
 }
