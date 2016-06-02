@@ -9,7 +9,8 @@ Contact:      Mateo Clarke <info@open-austin.org>
 Categories:   [ open data ]
 date:         2015-11-21 00:00:00
 cfa_stage:    alpha
-thumb:        opendatadeptprogress.png
 screenshot:   opendataprogressreport.jpg
 featured:     true
 ---
+
+The endpoint has major limitations like only allowing you to access seven days of data at a time.
