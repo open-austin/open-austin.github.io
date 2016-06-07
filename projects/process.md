@@ -35,8 +35,19 @@ This is the point at which a project becomes an "approved" Open Austin project.
 
 ### Move to **Beta**
 
-_TODO_
+The theme for beta status is "more users" and "more feedback," the project should be looking for more users and recording more metrics
+
+1. You should look for government or community partners, if applicable
+2. Start polishing the app
+3. Have a sense of what metrics you'll be recording and using to measure impact
+4. Plan some launch event
+
+
 
 ### Move to **Official**
 
-_TODO_
+A project becomes official when it's polished, well known and the project leaders have a good sense of the impact of the project
+
+1. Have a launch event! Congratulations, you've done an awesome job, it's time to enjoy your work
+2. Have your metrics for usage and impact readily available
+
