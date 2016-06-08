@@ -10,7 +10,7 @@ contact:      Augustus Ireland <augustus.ireland@gmail.com>
 cfa_stage:    beta
 date:         2016-06-08 00:00:00
 thumb:        ![](https://cloud.githubusercontent.com/assets/8691910/15906558/01d5d17c-2d7f-11e6-8118-e57a76fdfc8b.png)
-screenshot:   ![](https://files.slack.com/files-pri/T036FLMDN-F15SY7KTM/screen_shot_2016-05-03_at_8.22.15_pm.png)
+screenshot:   ![](https://cloud.githubusercontent.com/assets/8691910/15906666/7cce38ce-2d7f-11e6-9aa8-e500e3d2a542.png)
 featured:     true
 ---
 
@@ -21,7 +21,8 @@ featured:     true
 
 #### [Realtime map of Austin's Recycling habits](http://www.open-austin.org/recycling-atx/)
 
-![](https://files.slack.com/files-pri/T036FLMDN-F15SY7KTM/screen_shot_2016-05-03_at_8.22.15_pm.png)
+![](https://cloud.githubusercontent.com/assets/8691910/15906666/7cce38ce-2d7f-11e6-9aa8-e500e3d2a542.png)
+
 
 ##Frequently Asked Questions
 
