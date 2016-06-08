@@ -57,10 +57,10 @@ For the 4th year, St. Edward's University played host to Austin's National Day o
 
 To see all the projects that were proposed at the 2016 ATX Hack for Change, [visit the issues list](https://github.com/open-austin/atx-hack-for-change-2016/issues).
 
-Here is a listing of all the projects that were presented:
+Here is a listing of all the projects that were presented at the Sunday closing event:
 
-| Project                                                                                     | Code & Other Links                                                               |
-|---------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------:|
+| Project                                                                                     | Code & Other Links                                                               | 
+|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | [Permit Application Wizard](https://permit-wiz.herokuapp.com/) 🏛                           | [Github](https://github.com/open-austin/permit-server)                           |
 | BRAVE Volunteer Rewards App                                                                 | [Github](https://github.com/jamesjackson/braveapp)                               |
 | Texas Veteran Education Benefits                                                            | [Invision Mockup](https://projects.invisionapp.com/share/7G7JFMMCS#/screens/164299780) |
@@ -73,7 +73,7 @@ Here is a listing of all the projects that were presented:
 | BlueChasm Smart Sprinkler System                                                            | [Github](https://github.com/jrriosBC/smart-sprinkler)                            |
 | [Community Open Data Portal aka PANDA](http://amaliebarras.github.io/data-portal-new/)      | [Github](https://github.com/amaliebarras/data-portal-new)                        |
 | [Expunge Texas](http://expungetexas.org/index.html)                                         | [Github](https://github.com/kkarsnia/expunge)                                    |
-| [The Titans Project: Teens in Tech](http://www.thetitansproject.com)                        |                                                                                  |
+| [The Titans Project: Teens in Tech](http://www.thetitansproject.com)                        | [Github](https://github.com/codykeith/TITANS)                                    |
 | Safety Mapping                                                                              | [GH Frontend](https://github.com/Sahedeva/bikePed2) & [GH Backend](https://github.com/Sahedeva/bikePedBackEnd) |
 | [Welcome Basket](http://ludwigmace.github.io/atxbasket/#/)                                  | [Github](https://github.com/ludwigmace/atxbasket)                                |
 | [Food Hero](http://food-donate.herokuapp.com/)                                              | [Github](https://github.com/rubygeek/food_donate)                                |
@@ -89,6 +89,7 @@ Here is a listing of all the projects that were presented:
 | Mapping Austin's Culture 🏛                                                                 | [Google Form Survey](https://docs.google.com/forms/d/1xmzcoGHlqaywWjbFW4DdkNQTUiGVekJ0Su_7ZscAeD4/viewform) |
 
 🏛 _Indicates project led by City of Austin employee_
+
 
 
 ---
