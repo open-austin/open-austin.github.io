@@ -5,14 +5,14 @@ title: Open Austin Project Process
 
 ## We're working on a process for taking projects from an experiment to being official Open Austin projects.
 
-Code for America has the four project stages:
+[Code for America has the four project stages](https://www.codeforamerica.org/brigade/projects/stages):
 
-- experiment
-- alpha
-- beta
-- official
+- [experiment](https://www.codeforamerica.org/brigade/projects/stages#experiment)
+- [alpha](https://www.codeforamerica.org/brigade/projects/stages#alpha)
+- [beta](https://www.codeforamerica.org/brigade/projects/stages#beta)
+- [official](https://www.codeforamerica.org/brigade/projects/stages#official)
 
-But, it is not clear how to move between the stages in terms of Open Austin.
+We would like to clarify what the expectations are and how projects move between these stages within Open Austin.
 
 ### To start an **Experiment** Project:
 
