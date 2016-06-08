@@ -5,7 +5,8 @@ title: Open Austin Project Process
 
 ## We're working on a process for taking projects from an experiment to being official Open Austin projects.
 
-Code for America has the four project stages
+Code for America has the four project stages:
+
 - experiment
 - alpha
 - beta
