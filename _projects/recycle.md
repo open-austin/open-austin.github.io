@@ -2,7 +2,7 @@
 title:        Recycle Please
 description:  Recycle Please is a realtime map of Austin's recycling habits.
 access_at:    http://www.open-austin.org/recycling-atx/
-project_at:   https://github.com/luqmaan/instabus
+project_at:   https://github.com/open-austin/recycling-atx
 type:         web application
 status:       beta
 categories:   [ mapping, environmental, recycling, waste management ]
