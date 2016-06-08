@@ -7,10 +7,10 @@ title: Open Austin Project Process
 
 [Code for America has the four project stages](https://www.codeforamerica.org/brigade/projects/stages):
 
-- [experiment](https://www.codeforamerica.org/brigade/projects/stages#experiment)
-- [alpha](https://www.codeforamerica.org/brigade/projects/stages#alpha)
-- [beta](https://www.codeforamerica.org/brigade/projects/stages#beta)
-- [official](https://www.codeforamerica.org/brigade/projects/stages#official)
+- [Experiment](https://www.codeforamerica.org/brigade/projects/stages#experiment) - Explore the problem/idea. Have lots of these.
+- [Alpha](https://www.codeforamerica.org/brigade/projects/stages#alpha) - Solve a person's/group's problem
+- [Beta](https://www.codeforamerica.org/brigade/projects/stages#beta) - More users
+- [Official](https://www.codeforamerica.org/brigade/projects/stages#official) - Impact
 
 We would like to clarify what the expectations are and how projects move between these stages within Open Austin.
 
