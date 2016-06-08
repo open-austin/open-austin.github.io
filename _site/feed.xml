@@ -5,9 +5,196 @@
     <description>Open Austin is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. We are an official brigade affiliated with the nonprofit Code for America which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.</description>
     <link>http://open-austin.github.io//</link>
     <atom:link href="http://open-austin.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 May 2016 09:10:42 -0500</pubDate>
-    <lastBuildDate>Sun, 29 May 2016 09:10:42 -0500</lastBuildDate>
+    <pubDate>Wed, 08 Jun 2016 00:23:46 -0500</pubDate>
+    <lastBuildDate>Wed, 08 Jun 2016 00:23:46 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>ATX Hack for Change 2016 Recap</title>
+        <description>&lt;h2 id=&quot;the-atx-hack-for-change-2016-is-a-wrap&quot;&gt;The ATX Hack for Change 2016 is a wrap!&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/CkYefPnVAAEz5wT.jpg:large&quot; alt=&quot;Group photo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For the 4th year, St. Edward’s University played host to Austin’s National Day of Civic Hacking Event, &lt;a href=&quot;http://atxhackforchange.org/&quot;&gt;ATX Hack for Change&lt;/a&gt;. The event this year was bigger than ever with over 250 participants! Below are tweets &amp;amp; photos that summarize the energy of the weekend.&lt;/p&gt;
+
+&lt;h3 id=&quot;tweets--photos&quot;&gt;Tweets &amp;amp; Photos&lt;/h3&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;. &lt;a href=&quot;https://twitter.com/markstrama&quot;&gt;@markstrama&lt;/a&gt; speaking at the opening session of &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; &lt;a href=&quot;https://twitter.com/stedwardsu&quot;&gt;@stedwardsu&lt;/a&gt; &lt;a href=&quot;https://t.co/yrVXj2JrlO&quot;&gt;pic.twitter.com/yrVXj2JrlO&lt;/a&gt;&lt;/p&gt;&amp;mdash; David Waldron (@DaveWaldron) &lt;a href=&quot;https://twitter.com/DaveWaldron/status/738878868723896321&quot;&gt;June 3, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Ready to work on projects to help continue to make our city awesome 🤓💻 &lt;a href=&quot;https://twitter.com/hashtag/ATXhack4change?src=hash&quot;&gt;#ATXhack4change&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/austin?src=hash&quot;&gt;#austin&lt;/a&gt; &lt;a href=&quot;https://t.co/N2GkV7tLEg&quot;&gt;pic.twitter.com/N2GkV7tLEg&lt;/a&gt;&lt;/p&gt;&amp;mdash; Samantha Needham (@webalicious) &lt;a href=&quot;https://twitter.com/webalicious/status/738875799802159104&quot;&gt;June 3, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Team &lt;a href=&quot;https://twitter.com/hashtag/permitapp?src=hash&quot;&gt;#permitapp&lt;/a&gt; working hard at &lt;a href=&quot;https://twitter.com/ATXhack4change&quot;&gt;@ATXhack4change&lt;/a&gt;! &lt;a href=&quot;https://twitter.com/hashtag/NDoCH?src=hash&quot;&gt;#NDoCH&lt;/a&gt; &lt;a href=&quot;https://t.co/ohB5g4MvgF&quot;&gt;pic.twitter.com/ohB5g4MvgF&lt;/a&gt;&lt;/p&gt;&amp;mdash; Abridged thoughts (@Victoria_ODell) &lt;a href=&quot;https://twitter.com/Victoria_ODell/status/739178582589595649&quot;&gt;June 4, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/ATXhack4change&quot;&gt;@ATXhack4change&lt;/a&gt; hackers going strong &lt;a href=&quot;https://twitter.com/hashtag/NationalDayOfCivicHacking?src=hash&quot;&gt;#NationalDayOfCivicHacking&lt;/a&gt; &lt;a href=&quot;https://twitter.com/codeforamerica&quot;&gt;@codeforamerica&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/civictech?src=hash&quot;&gt;#civictech&lt;/a&gt; &lt;a href=&quot;https://t.co/cOvtdeiba3&quot;&gt;pic.twitter.com/cOvtdeiba3&lt;/a&gt;&lt;/p&gt;&amp;mdash; Angela@Innovation (@atx_innovation) &lt;a href=&quot;https://twitter.com/atx_innovation/status/739195755273977856&quot;&gt;June 4, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Mason and &lt;a href=&quot;https://twitter.com/pauljstx&quot;&gt;@pauljstx&lt;/a&gt; work on the &lt;a href=&quot;https://twitter.com/hashtag/WelcomeBasket?src=hash&quot;&gt;#WelcomeBasket&lt;/a&gt; project &lt;a href=&quot;https://twitter.com/ATXhack4change&quot;&gt;@ATXhack4change&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/ihackforaustin?src=hash&quot;&gt;#ihackforaustin&lt;/a&gt; &lt;a href=&quot;https://t.co/t6rTHWxQpA&quot;&gt;pic.twitter.com/t6rTHWxQpA&lt;/a&gt;&lt;/p&gt;&amp;mdash; Steven Polunsky (@StevenPolunsky) &lt;a href=&quot;https://twitter.com/StevenPolunsky/status/739183463505354752&quot;&gt;June 4, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; Mapping everything from B-Cycle stations to air quality results in Austinn: &lt;a href=&quot;https://t.co/dELHSi46w2&quot;&gt;https://t.co/dELHSi46w2&lt;/a&gt; &lt;a href=&quot;https://t.co/cw4M7FxTWS&quot;&gt;pic.twitter.com/cw4M7FxTWS&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sean Cascketta (@runthebeans) &lt;a href=&quot;https://twitter.com/runthebeans/status/739511778871123968&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Demos at &lt;a href=&quot;https://twitter.com/ATXhack4change&quot;&gt;@ATXhack4change&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; &lt;a href=&quot;https://t.co/jEDUKmOr61&quot;&gt;pic.twitter.com/jEDUKmOr61&lt;/a&gt;&lt;/p&gt;&amp;mdash; luqmaan (@luqmonster) &lt;a href=&quot;https://twitter.com/luqmonster/status/739507887232278528&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Auction bot makes fundraising for non profits fun and easy with an auction bot. &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/NDoCH?src=hash&quot;&gt;#NDoCH&lt;/a&gt; &lt;a href=&quot;https://t.co/wxImesfuEz&quot;&gt;pic.twitter.com/wxImesfuEz&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/739522764025909249&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Inspiring example of civic tech - IoT solution to measure in-game heart rate for disabled athletes &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; &lt;a href=&quot;https://t.co/nAKtbcNwZk&quot;&gt;pic.twitter.com/nAKtbcNwZk&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jeff Meisel (@jffmsl) &lt;a href=&quot;https://twitter.com/jffmsl/status/739526054050598912&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;HACK A FRAC presents their virtual reality fraction game! &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/NdoCH?src=hash&quot;&gt;#NdoCH&lt;/a&gt; &lt;a href=&quot;https://t.co/ILApGYsVPQ&quot;&gt;pic.twitter.com/ILApGYsVPQ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/739511497496231937&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;OA community lead &lt;a href=&quot;https://twitter.com/AmalieBarras&quot;&gt;@AmalieBarras&lt;/a&gt; presents her groups project for a community open data portal for ATX &amp;quot;Pandas&amp;quot; &lt;a href=&quot;https://t.co/rmFBy64wID&quot;&gt;pic.twitter.com/rmFBy64wID&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/739515983136624640&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Open Austin events lead &lt;a href=&quot;https://twitter.com/MarcoAPineda13&quot;&gt;@MarcoAPineda13&lt;/a&gt; presents his teams project Xeritopia. A Xeriscaping app. &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; &lt;a href=&quot;https://t.co/2DVnTGMx6h&quot;&gt;pic.twitter.com/2DVnTGMx6h&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/739513737309093888&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;YAY!!!! &lt;a href=&quot;https://twitter.com/SaraChicaD&quot;&gt;@SaraChicaD&lt;/a&gt; rockin it in blue!!! AND helping the hungry &lt;a href=&quot;https://twitter.com/hashtag/foodheroes?src=hash&quot;&gt;#foodheroes&lt;/a&gt; &lt;a href=&quot;https://twitter.com/ATXhack4change&quot;&gt;@ATXhack4change&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/RubyonRails?src=hash&quot;&gt;#RubyonRails&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/smartheart?src=hash&quot;&gt;#smartheart&lt;/a&gt; &lt;a href=&quot;https://t.co/Wy6cuUl92K&quot;&gt;pic.twitter.com/Wy6cuUl92K&lt;/a&gt;&lt;/p&gt;&amp;mdash; ChelseaMcC (@ChelseaMcC) &lt;a href=&quot;https://twitter.com/ChelseaMcC/status/739519509732560896&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Titans projects wants to connect students and mentors to learn to code! &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/NDoCH?src=hash&quot;&gt;#NDoCH&lt;/a&gt; &lt;a href=&quot;https://t.co/Na806KXayV&quot;&gt;pic.twitter.com/Na806KXayV&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/739517591706734598&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;❤️ my &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; team - getting to alpha with the open gov partnership pilot! &lt;a href=&quot;https://twitter.com/opengovpart&quot;&gt;@opengovpart&lt;/a&gt; &lt;a href=&quot;https://t.co/SPQ6yfWjVh&quot;&gt;pic.twitter.com/SPQ6yfWjVh&lt;/a&gt;&lt;/p&gt;&amp;mdash; Kerry O&amp;#39;Connor (@kerry_atx) &lt;a href=&quot;https://twitter.com/kerry_atx/status/739525856041701376&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;This project was an awesome way to spend the weekend! Looking forward to what comes next... &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; &lt;a href=&quot;https://t.co/MjTTcZLuUQ&quot;&gt;https://t.co/MjTTcZLuUQ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Julie Montgomery (@juliamontgomery) &lt;a href=&quot;https://twitter.com/juliamontgomery/status/739854471488901120&quot;&gt;June 6, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;This year&amp;#39;s &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; was AMAZING, sincere gratitude to &lt;a href=&quot;https://twitter.com/ATXhack4change&quot;&gt;@ATXhack4change&lt;/a&gt; &amp;amp; everyone who improve our community with their time &amp;amp; talent&lt;/p&gt;&amp;mdash; Julia Byron (@juliazeebee) &lt;a href=&quot;https://twitter.com/juliazeebee/status/739544812349579265&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;projects&quot;&gt;Projects&lt;/h3&gt;
+
+&lt;p&gt;To see all the projects that were proposed at the 2016 ATX Hack for Change, &lt;a href=&quot;https://github.com/open-austin/atx-hack-for-change-2016/issues&quot;&gt;visit the issues list&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here is a listing of all the projects that were presented:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Project&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Code &amp;amp; Other Links&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://permit-wiz.herokuapp.com/&quot;&gt;Permit Application Wizard&lt;/a&gt; 🏛&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/open-austin/permit-server&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;BRAVE Volunteer Rewards App&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/jamesjackson/braveapp&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Texas Veteran Education Benefits&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://projects.invisionapp.com/share/7G7JFMMCS#/screens/164299780&quot;&gt;Invision Mockup&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Internet of Bees&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/chrisdhanaraj/internetofbees/&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://jemrrs.github.io/atxgreenatlas/&quot;&gt;ATX Green Atlas&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://github.com/jemrrs/atxgreenatlas&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Hack-a-Frac Virtual Reality Game&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://dl.dropboxusercontent.com/u/2382871/SLICING%20FOOD%20ACTION%20FLICK%202016.mov&quot;&gt;Demo Video&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Rideshare ATX Co-op&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/rideshareatx&quot;&gt;Github&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://rideshareatx-org.herokuapp.com/mobility.html#/&quot;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Keep Austin Moving ATX&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://rideshareatx-org.herokuapp.com/#/&quot;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Xeritopia&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/mapineda/xeriscape_atxhacks4change_2016&quot;&gt;Github&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://hackpad.com/Xeriscape_ATX-OAvRDE8RYyP&quot;&gt;Hackpad&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;BlueChasm Smart Sprinkler System&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/jrriosBC/smart-sprinkler&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://amaliebarras.github.io/data-portal-new/&quot;&gt;Community Open Data Portal aka PANDA&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/amaliebarras/data-portal-new&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://expungetexas.org/index.html&quot;&gt;Expunge Texas&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/kkarsnia/expunge&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://www.thetitansproject.com&quot;&gt;The Titans Project: Teens in Tech&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Safety Mapping&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/Sahedeva/bikePed2&quot;&gt;GH Frontend&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://github.com/Sahedeva/bikePedBackEnd&quot;&gt;GH Backend&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://ludwigmace.github.io/atxbasket/#/&quot;&gt;Welcome Basket&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/ludwigmace/atxbasket&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://food-donate.herokuapp.com/&quot;&gt;Food Hero&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/rubygeek/food_donate&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://www.rollingwithadvantage.com&quot;&gt;Rolling With Advantage&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/RollingWithAdvantage&quot;&gt;Github&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://www.twitter.com/RollingWAdvantage&quot;&gt;Twitter&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://www.facebook.com/rollingwithadvantage/&quot;&gt;Facebook&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Find My Open Park 🏛&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/wrays/find-my-open-park&quot;&gt;Github&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://docs.google.com/presentation/d/1gH-l33GbELcQlqxIToG8zglRXoZsZBub2sqdzSUMAuE/edit#slide=id.p&quot;&gt;Google Slides&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://cityofaustin.github.io/open-gov-partnership/&quot;&gt;Open Gov Partnership -&amp;gt; Crossfit for Democracy&lt;/a&gt; 🏛&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/cityofaustin/open-gov-partnership/tree/gh-pages&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Auction Bot - Facebook Messenger Bot for Charity Fundraising&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/krismuniz/auctionbot&quot;&gt;GH Frontend&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://github.com/aaronbenz/auctionbot-back&quot;&gt;GH Server&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://docs.google.com/presentation/d/1YHRu6xhLcEZnGyhftL83kgWcwQYARghZmcPnHWNqDZk/edit#slide=id.g128b1b71f0_0_269&quot;&gt;Google Slides&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://dahmos.org/&quot;&gt;Disable Athlete Health/Equipment Monitoring System&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/Bokbot/damn-hardware&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://www.austintexas.gov/dollarsandsense&quot;&gt;Austin Budget Simulator&lt;/a&gt; 🏛&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://Impactmap.us&quot;&gt;Impact Map&lt;/a&gt; - Giving Decisions Based on Big Data&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/deirdrewalsh/Big-Data-4-Giving-&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Billtracker&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/bill-tracker&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tiny Hacker House&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mapping Austin’s Culture 🏛&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1xmzcoGHlqaywWjbFW4DdkNQTUiGVekJ0Su_7ZscAeD4/viewform&quot;&gt;Google Form Survey&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;🏛 &lt;em&gt;Indicates project led by City of Austin employee&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
+&lt;br /&gt;
+RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/events/231148616/&quot;&gt;RSVP&lt;/a&gt;
+&lt;br /&gt;
+Follow us on Twitter: &lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow&lt;/a&gt;
+&lt;br /&gt;
+&amp;amp; Like us on Facebook: &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like&lt;/a&gt;&lt;/p&gt;
+
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Tue, 07 Jun 2016 00:00:00 -0500</pubDate>
+        <link>http://open-austin.github.io//blog/2016/06/07/Recap-ATX-Hack-for-Change-2016</link>
+        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/06/07/Recap-ATX-Hack-for-Change-2016</guid>
+        
+        
+      </item>
     
       <item>
         <title>Designing for Civic Solutions Recap</title>
@@ -436,70 +623,6 @@ use the city council’s data, you can &lt;a href=&quot;https://github.com/open-
         <pubDate>Tue, 29 Mar 2016 00:00:00 -0500</pubDate>
         <link>http://open-austin.github.io//blog/2016/03/29/open-gov-civic-tech-bodycam-recap</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/03/29/open-gov-civic-tech-bodycam-recap</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>CodeAcross Austin 2016 Recap</title>
-        <description>&lt;p&gt;This past Saturday, March 5, 2015, Open Austin had it’s 6th annual CodeAcross Austin event. This national day of action aligns with International Open Data Day.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.codeforamerica.org/events/codeacross-2016/&quot;&gt;CodeAcross&lt;/a&gt; is the first major event of the year that Open Austin organizes as a volunteer brigade affiliated with Code for America. It is a part of a series of events in collaboration with the City of Austin and St. Edward’s leading up to ATX Hack For Change (June 3-5). The purpose of Code Across Austin this year was to identify and frame challenges in Austin that can be solved using technology, data, design and the diverse skills and knowledge of volunteers.&lt;/p&gt;
-
-&lt;p&gt;The morning kicked off at 10:00 am with introductory remarks from Mateo Clarke &amp;amp; Victoria O’Dell of Open Austin. Then, visiting from San Francisco, Monique Baena-Tan, Brigade Program Coordinator from Code for America, spoke about the international reach of the brigade program. The morning presentations ended with Kerry O’Connor, Chief Innovation Officer for the City of Austin sharing inspiring words about the importance of civic hacking events like CodeAcross.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/codeacross-2016-pano.jpg&quot; alt=&quot;Pano view of the crowd during morning presentations&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Favorite quote from &lt;a href=&quot;https://twitter.com/hashtag/codeacrossatx?src=hash&quot;&gt;#codeacrossatx&lt;/a&gt; &amp;quot;Disruption will come to government either as an opportunity or a threat.&amp;quot; &lt;a href=&quot;https://twitter.com/kerry_atx&quot;&gt;@kerry_atx&lt;/a&gt; ⚡️&lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mateo Clarke (@MateoClarke) &lt;a href=&quot;https://twitter.com/MateoClarke/status/706265412795658240&quot;&gt;March 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;&lt;em&gt;Quote from Kerry O’Connor’s presentation&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/cfa-slide.png&quot; alt=&quot;Description of Code for America from slidedeck.&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1INnwL4NGuiIFqIl_N_eLJrxKmhxT_hdULH9uCFW7zTw/edit#slide=id.g11c404532b_4_63&quot;&gt;View Monique’s presentation&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The rest of day was broken into group activities arranged around 8 themes and their relation to the city of Austin.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Health and Human services&lt;/li&gt;
-  &lt;li&gt;Public Safety &amp;amp; Justice&lt;/li&gt;
-  &lt;li&gt;Economic Development&lt;/li&gt;
-  &lt;li&gt;Communication and Engagement&lt;/li&gt;
-  &lt;li&gt;Transportation&lt;/li&gt;
-  &lt;li&gt;Broadband and Digital Opportunities&lt;/li&gt;
-  &lt;li&gt;Sustainability&lt;/li&gt;
-  &lt;li&gt;Planning and Land Use&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Participants with varying backgrounds brainstormed on challenges the city faces and worked on actionable steps that could be taken to tackle them. By the end of the morning, groups focused on each theme had drafted at least three “How might we..” challenge statements.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/how-might-we.jpg&quot; alt=&quot;A participant add a sticky to a how might we challenge&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The second half of the day focused on turning the challenge statements into potential solutions with an actionable plan. Charles Purma, project manager for the City of Austin, presented the &lt;a href=&quot;http://www.open-austin.org/civic-tech-canvas/&quot;&gt;“Civic Tech Canvas”&lt;/a&gt; that groups used to plan out a solution to their chosen challenge statements.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/hack-canvas.jpg&quot; alt=&quot;Two ladies add post it notes to their hack canvas&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;With contributions from around 60 participants of different backgrounds, ages, and professions, &lt;a href=&quot;https://github.com/open-austin/project-ideas/issues?q=is%3Aopen+is%3Aissue+label%3ACodeAcross2016&quot;&gt;11 different project ideas&lt;/a&gt; were presented.&lt;/p&gt;
-
-&lt;p&gt;Code Across is over but the ideas sharing and collaboration that occurred will allow the Austin community and Open Austin to continue to do open source civic tech and design work for the people.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;View &lt;a href=&quot;https://docs.google.com/presentation/d/1aWNB5wWr9ZIjwvMNEZR2uoGJcK9zDKuFw0_B1JIhFBk/edit#slide=id.g11c5e340a8_0_17&quot;&gt;our deck&lt;/a&gt; from event and check out tweets from the event at &lt;a href=&quot;https://twitter.com/search?q=codeacrossatx&amp;amp;src=typd&amp;amp;lang=en&quot;&gt;#codeacrossatx&lt;/a&gt;
-Check out our event &lt;a href=&quot;https://www.facebook.com/media/set/?set=a.962504890492340.1073741830.412390968837071&amp;amp;type=1&amp;amp;l=d32fcb860f&quot;&gt;photo album&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Missed out on this year’s CodeAcross? Come out to our next event.
-&lt;a href=&quot;http://www.meetup.com/Open-Austin/events/228334335/&quot;&gt;Civic Hack Saturday&lt;/a&gt; is on March 19th.&lt;/p&gt;
-
-&lt;p&gt;Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;&lt;br /&gt;
-RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;&lt;br /&gt;
-Follow us on Twitter: &lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow&lt;/a&gt;&lt;br /&gt;
-&amp;amp; Like us on Facebook: &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 10 Mar 2016 00:00:00 -0600</pubDate>
-        <link>http://open-austin.github.io//blog/2016/03/10/codeacross-austin-2016-recap</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/03/10/codeacross-austin-2016-recap</guid>
         
         
       </item>
