@@ -10,7 +10,7 @@ contact:      Augustus Ireland <augustus.ireland@gmail.com>
 cfa_stage:    beta
 date:         2016-06-08 00:00:00
 thumb:        ![](https://cloud.githubusercontent.com/assets/8691910/15906558/01d5d17c-2d7f-11e6-8118-e57a76fdfc8b.png)
-screenshot:   ![](open-austin.github.io/assets/images/projects/screenshots/recycle-map-view.png)
+screenshot:   recycle-map-view.png
 featured:     true
 ---
 
