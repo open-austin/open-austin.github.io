@@ -1,6 +1,6 @@
 ---
 title:        Recycle Please
-description:  Recycle Please is a realtime map of Austin's recycling habits.
+description:  Recycle Please is an app that lets individuals report if their building does not provide recycling
 access_at:    http://www.open-austin.org/recycling-atx/
 project_at:   https://github.com/open-austin/recycling-atx
 type:         web application
