@@ -19,6 +19,6 @@ Importantly, the new bill will require electronic filing not just of registratio
 
 For comparison, on the state level, it's possible to link lobbyists' expenditures to individuals, which at least lets us see communities among lawmakers and legislators. Here's an image of which lobbyists paid for travel for state legislators from 2004 to 2014:
 
-![state legislator travel network graph](/assets/images/TX_lobby_travel_filings_2004-2014.svg)
+[![state legislator travel network graph](/assets/images/TX_lobby_travel_filings_2004-2014.svg)](/assets/images/TX_lobby_travel_filings_2004-2014.svg)
 
 Even on the state level, it's not easy to make the data tell a story. We can't easily infer what the lobbyists are trying to accomplish when they buy lobbyists' meals or pay for their travel. It's too bad the graphs don't show who each lobbyist spoke to on each client's behalf, and which issues they discussed. Still, the more political data the government releases, the more opportunities it creates for useful insights. To learn more about our data exploration, visit Open Austin's [Github repo for lobbyist data](https://github.com/open-austin/lobbying-in-austin).
