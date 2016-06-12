@@ -27,6 +27,6 @@ Even on the state level, it's not easy to make the data tell a story. We can't e
 
 ### What can you do?
 
-Austin City Council is set to vote on Council Member Pool's lobby reform proposal on June 23rd. As the draft stands today, it would make Austin a model city in terms of reporting lobbyist activity. As it stands, the proposal has no problematic provisions but we expect lobbyists, who have been paying for influence at City Hall for years (without reporting), may try to put forth weakining admendments. 
+Austin City Council is set to vote on Council Member Pool's lobby reform proposal on June 23rd. As the draft stands today, it would make Austin a model city in terms of reporting lobbyist activity. As it stands, the proposal has no problematic provisions but we expect lobbyists may try to put forth weakening admendments. 
 
 **Please, between now and 6/23, [call or email the offices of the mayor and your council member](https://www.austintexas.gov/email/all-council-members) to support the bill without amendments.**
