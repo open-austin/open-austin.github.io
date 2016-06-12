@@ -4,7 +4,7 @@ title: Finding a Story in Austin's Lobbying Data
 date: 2016-06-12
 type: post
 published: true
-thumb: travelicon.jpg
+thumb: travelicon.png
 thumbalt: network graph of lobbyist expenditures
 author:
   first_name: Matt
