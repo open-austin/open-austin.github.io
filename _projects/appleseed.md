@@ -11,6 +11,5 @@ cfa_stage:    alpha
 layout:       post
 date:         2016-06-14 00:00:00
 screenshot:   appleseed_map.png
-thumb:        appleseedthumb.png
 featured:     true
 ---
