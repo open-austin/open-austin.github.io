@@ -5,9 +5,152 @@
     <description>Open Austin is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. We are an official brigade affiliated with the nonprofit Code for America which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.</description>
     <link>http://open-austin.github.io//</link>
     <atom:link href="http://open-austin.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Jun 2016 00:23:46 -0500</pubDate>
-    <lastBuildDate>Wed, 08 Jun 2016 00:23:46 -0500</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Mon, 13 Jun 2016 19:24:28 -0500</pubDate>
+    <lastBuildDate>Mon, 13 Jun 2016 19:24:28 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Quantifying Austin&#39;s Housing Supply</title>
+        <description>&lt;p&gt;Austin has a serious problem with access to affordable housing. And &lt;a href=&quot;http://www.lao.ca.gov/Publications/Report/3345&quot;&gt;some research indicates&lt;/a&gt; that increasing the supply of housing can help prevent displacement of lower-income residents from urban areas, even if it’s market-rate housing and not part of an affordable housing program. Researchers in Austin are interested in learning about how the city’s housing supply has changed, and about how those changes have affected the fortunes of individual neighborhoods. Unfortunately, it’s hard to answer that question with the data the city currently releases to the public. A few months ago the city released &lt;a href=&quot;https://data.austintexas.gov/Permitting/Issued-Construction-Permits/3syk-w9eu&quot;&gt;decades of historical building permits on its data portal&lt;/a&gt;, and even more up-to-date records can be found in &lt;a href=&quot;https://github.com/open-austin/construction-permits&quot;&gt;Open Austin’s Github repository&lt;/a&gt;, but there’s still no clear way to see how many housing units have been demolished or created as a result of each building permit the city issues.&lt;/p&gt;
+
+&lt;p&gt;A glance at &lt;a href=&quot;http://www.austintexas.gov/page/building-applications&quot;&gt;Austin’s building permit forms&lt;/a&gt; shows that the city may not have been collecting all the information needed to quantify the housing stock. The forms for single-family homes and duplexes do provide part of the puzzle, because they ask builders what kind of structure was on the land before the construction, and what will be there after construction is finished.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/residential_permit_form.png&quot; alt=&quot;part of a residential building permit application&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The city uses the same form for building multifamily apartment buildings that it uses for nonresidential buildings. This form has a field for “# of units,” but it’s not always clear whether applicants interpreted that to mean the number of units where work will be performed, the number of units that will be added if the permit is granted, or just the total number of units in the building.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/commercial_permit_form.png&quot; alt=&quot;part of a commercial building permit application&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The biggest problem is the separate form for demolition, which doesn’t specifically ask how many units are being eliminated.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/demo_form.png&quot; alt=&quot;part of a demolition permit application&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The table below shows some typical data collected from the city’s permit forms for activities at a single address, 2819 Rio Grande. In 2007, the dormitory that stood there was demolished and replaced with new student housing. The number of “HousingUnits” associated with the demolition is zero, even though it would be more useful to know how many old units were being eliminated. Then there are 85 housing units reported for the “Shell” work on the new building. After that, the builders apparently report the same 85 housing units in the “Finish Out” phase. For a researcher dealing with hundreds of thousands of permit records, it would be tough if not impossible to automate a count of changes in the housing supply based on this dataset.&lt;/p&gt;
+
+&lt;table class=&quot;post-table&quot;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Issued Date&lt;/th&gt;
+&lt;th&gt;Permit Class&lt;/th&gt;
+&lt;th&gt;Work Class&lt;/th&gt;
+&lt;th&gt;Project Name&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;th&gt;Housing Units&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2007-05-03&lt;/td&gt;
+&lt;td&gt;C- 649 Demolition All Other Bldgs Com&lt;/td&gt;
+&lt;td&gt;Demolition&lt;/td&gt;
+&lt;td&gt;2819 RIO GRANDE ST&lt;/td&gt;
+&lt;td&gt;dEMO A DORMITORY&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2007-10-09&lt;/td&gt;
+&lt;td&gt;C- 321 Pkg Garage Bldg &amp;amp; Open Deck&lt;/td&gt;
+&lt;td&gt;New&lt;/td&gt;
+&lt;td&gt;2819 RIO GRANDE ST garage&lt;/td&gt;
+&lt;td&gt;New construction 3 story parking 2 stories below grade 1 story grade&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2007-10-09&lt;/td&gt;
+&lt;td&gt;C- 105 Five or More Family Bldgs&lt;/td&gt;
+&lt;td&gt;Shell&lt;/td&gt;
+&lt;td&gt;2819 RIO GRANDE ST&lt;/td&gt;
+&lt;td&gt;New construction 5 story wood frame apartment over 3 story parking garage&lt;/td&gt;
+&lt;td&gt;85&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2007-10-09&lt;/td&gt;
+&lt;td&gt;C-1001 Commercial Finish Out&lt;/td&gt;
+&lt;td&gt;Remodel&lt;/td&gt;
+&lt;td&gt;2819 RIO GRANDE ST&lt;/td&gt;
+&lt;td&gt;Tenant finish out for unit details 1st Floor&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2007-10-09&lt;/td&gt;
+&lt;td&gt;C-1001 Commercial Finish Out&lt;/td&gt;
+&lt;td&gt;Remodel&lt;/td&gt;
+&lt;td&gt;2819 RIO GRANDE ST&lt;/td&gt;
+&lt;td&gt;Tenant finish out for unit details 2nd Floor&lt;/td&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2007-10-09&lt;/td&gt;
+&lt;td&gt;C-1001 Commercial Finish Out&lt;/td&gt;
+&lt;td&gt;Remodel&lt;/td&gt;
+&lt;td&gt;2819 RIO GRANDE ST&lt;/td&gt;
+&lt;td&gt;Tenant finish out for unit details 3rd Floor&lt;/td&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2007-10-09&lt;/td&gt;
+&lt;td&gt;C-1001 Commercial Finish Out&lt;/td&gt;
+&lt;td&gt;Remodel&lt;/td&gt;
+&lt;td&gt;2819 RIO GRANDE ST&lt;/td&gt;
+&lt;td&gt;Tenant finish out for unit details 4th Floor&lt;/td&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2007-10-09&lt;/td&gt;
+&lt;td&gt;C-1001 Commercial Finish Out&lt;/td&gt;
+&lt;td&gt;Remodel&lt;/td&gt;
+&lt;td&gt;2819 RIO GRANDE ST&lt;/td&gt;
+&lt;td&gt;Tenant finish out for unit details 5th Floor&lt;/td&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2007-10-09&lt;/td&gt;
+&lt;td&gt;C-1001 Commercial Finish Out&lt;/td&gt;
+&lt;td&gt;Remodel&lt;/td&gt;
+&lt;td&gt;2819 RIO GRANDE ST&lt;/td&gt;
+&lt;td&gt;Tenant finish out for unit details 6th Floor&lt;/td&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;To help advance the study of housing availability, Open Austin will make it a priority to convince the city to collect specific data from permit applicants about how many units are being added or removed from the housing supply, and to open up any other data the city has about housing supply from other sources. If you’re interested in improving the permit application process, also visit Open Austin’s &lt;a href=&quot;https://github.com/open-austin/project-ideas/issues/68&quot;&gt;project to improve the city’s building permit website&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Jun 2016 00:00:00 -0500</pubDate>
+        <link>http://open-austin.github.io//blog/2016/06/13/quantifying-austins-housing-supply</link>
+        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/06/13/quantifying-austins-housing-supply</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Finding a Story in Austin&#39;s Lobbying Data</title>
+        <description>&lt;p&gt;Over the past few months, Open Austin members have tried a series of experiments with &lt;a href=&quot;http://data.austintexas.gov/dataset/Lobbyists/bqav-9x6a&quot;&gt;the city’s open lobbying data&lt;/a&gt; to find out how much it tells us about local politics. In one &lt;a href=&quot;http://www.open-austin.org/lobbying-in-austin/&quot;&gt;experimental chart&lt;/a&gt;, we graphed the running totals of lobbyists registered to work for various companies at any given time. On that graph, we can see when various companies hired lobbyists, but we don’t really know why the companies hired them or who the companies were trying to persuade. The reason lobbying data interests us is that it’s supposed to shine a light on how government decisions are made, but we really can’t make out much of a story in that graph. If we already knew the recent history of city politics, maybe we could guess the significance of the dates when AT&amp;amp;T or Uber decided to add a few more lobbyists to their payroll. But clearly, it would take a lot of research or deep expertise in the city’s political scene to put the existing data in context, and it’s not likely to be cost-efficient for anyone to research the story behind every filing.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-solution&quot;&gt;The solution&lt;/h3&gt;
+
+&lt;p&gt;Council Member &lt;a href=&quot;http://www.mystatesman.com/news/news/local/austin-officials-to-create-new-lobbying-registrati/npmr3/&quot;&gt;Leslie Pool&lt;/a&gt; has offered a solution to this problem by introducing &lt;a href=&quot;http://www.lobbyreformnow.com/wp-content/uploads/2016/06/CityOrd-lobby-RR-June-6.pdf&quot;&gt;a new bill&lt;/a&gt; to improve the quality of data available about city lobbying. If it passes, the rules about disclosing lobbying at city hall will be about as strong as the equivalent rules for the state Legislature. One dogged proponent of lobbying reform is attorney &lt;a href=&quot;http://cityhall.blog.statesman.com/2015/08/25/how-one-attorney-made-fixing-austins-lobbying-law-his-personal-crusade/&quot;&gt;Fred Lewis&lt;/a&gt;, who highlights the benefits of reform through his organization, &lt;a href=&quot;http://www.lobbyreformnow.com/whats-happening/&quot;&gt;“Lobby Reform Now!”&lt;/a&gt;. Because current law has an ill-defined exception for lobbying “incidental” to one’s regular job, Lewis decries the existing law as “essentially voluntary and meaningless.”&lt;/p&gt;
+
+&lt;p&gt;Importantly, the new bill will require electronic filing not just of registration forms, but also the lobbying activity forms. Its passage will mean that for the first time, the city will release open data about how much each client paid to each lobbyist, and about how much money each lobbyist spent on each city official. Also, lobbyists will have to report the subject matter of their lobbying and report the addresses of any locations where they’re seeking building permits. Releasing this data would be very helpful for city government transparency.&lt;/p&gt;
+
+&lt;p&gt;For comparison, on the state level, it’s possible to link lobbyists’ expenditures to individuals, which at least lets us see communities among lawmakers and legislators. Here’s an image of which lobbyists paid for travel for state legislators from 2004 to 2014:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/images/TX_lobby_travel_filings_2004-2014.svg&quot;&gt;&lt;img src=&quot;/assets/images/TX_lobby_travel_filings_2004-2014.svg&quot; alt=&quot;state legislator travel network graph&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Even on the state level, it’s not easy to make the data tell a story. We can’t easily infer what the lobbyists are trying to accomplish when they buy lobbyists’ meals or pay for their travel. It’s too bad the graphs don’t show who each lobbyist spoke to on each client’s behalf, and which issues they discussed. Still, the more political data the government releases, the more opportunities it creates for useful insights. To learn more about our data exploration, visit Open Austin’s &lt;a href=&quot;https://github.com/open-austin/lobbying-in-austin&quot;&gt;Github repo for lobbyist data&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-can-you-do&quot;&gt;What can you do?&lt;/h3&gt;
+
+&lt;p&gt;Austin City Council is set to vote on Council Member Pool’s lobby reform proposal on June 23rd. As the draft stands today, it would make Austin a model city in terms of reporting lobbyist activity. As it stands, the proposal has no problematic provisions but we expect lobbyists may try to put forth weakening admendments.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Please, between now and 6/23, &lt;a href=&quot;https://www.austintexas.gov/email/all-council-members&quot;&gt;call or email the offices of the mayor and your council member&lt;/a&gt; to support the bill without amendments.&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Jun 2016 00:00:00 -0500</pubDate>
+        <link>http://open-austin.github.io//blog/2016/06/12/finding-a-story-in-austins-lobbying-data</link>
+        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/06/12/finding-a-story-in-austins-lobbying-data</guid>
+        
+        
+      </item>
     
       <item>
         <title>ATX Hack for Change 2016 Recap</title>
@@ -57,119 +200,119 @@
 
 &lt;p&gt;To see all the projects that were proposed at the 2016 ATX Hack for Change, &lt;a href=&quot;https://github.com/open-austin/atx-hack-for-change-2016/issues&quot;&gt;visit the issues list&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Here is a listing of all the projects that were presented:&lt;/p&gt;
+&lt;p&gt;Here is a listing of all the projects that were presented at the Sunday closing event:&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th&gt;Project&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Code &amp;amp; Other Links&lt;/th&gt;
+      &lt;th&gt;Code &amp;amp; Other Links&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a href=&quot;https://permit-wiz.herokuapp.com/&quot;&gt;Permit Application Wizard&lt;/a&gt; 🏛&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/open-austin/permit-server&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/open-austin/permit-server&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;BRAVE Volunteer Rewards App&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/jamesjackson/braveapp&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/jamesjackson/braveapp&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Texas Veteran Education Benefits&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://projects.invisionapp.com/share/7G7JFMMCS#/screens/164299780&quot;&gt;Invision Mockup&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://projects.invisionapp.com/share/7G7JFMMCS#/screens/164299780&quot;&gt;Invision Mockup&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Internet of Bees&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/chrisdhanaraj/internetofbees/&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/chrisdhanaraj/internetofbees/&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a href=&quot;http://jemrrs.github.io/atxgreenatlas/&quot;&gt;ATX Green Atlas&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://github.com/jemrrs/atxgreenatlas&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://github.com/jemrrs/atxgreenatlas&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Hack-a-Frac Virtual Reality Game&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://dl.dropboxusercontent.com/u/2382871/SLICING%20FOOD%20ACTION%20FLICK%202016.mov&quot;&gt;Demo Video&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://dl.dropboxusercontent.com/u/2382871/SLICING%20FOOD%20ACTION%20FLICK%202016.mov&quot;&gt;Demo Video&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Rideshare ATX Co-op&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/rideshareatx&quot;&gt;Github&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://rideshareatx-org.herokuapp.com/mobility.html#/&quot;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/rideshareatx&quot;&gt;Github&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://rideshareatx-org.herokuapp.com/mobility.html#/&quot;&gt;Slides&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Keep Austin Moving ATX&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://rideshareatx-org.herokuapp.com/#/&quot;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://rideshareatx-org.herokuapp.com/#/&quot;&gt;Slides&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Xeritopia&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/mapineda/xeriscape_atxhacks4change_2016&quot;&gt;Github&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://hackpad.com/Xeriscape_ATX-OAvRDE8RYyP&quot;&gt;Hackpad&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/mapineda/xeriscape_atxhacks4change_2016&quot;&gt;Github&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://hackpad.com/Xeriscape_ATX-OAvRDE8RYyP&quot;&gt;Hackpad&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;BlueChasm Smart Sprinkler System&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/jrriosBC/smart-sprinkler&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/jrriosBC/smart-sprinkler&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a href=&quot;http://amaliebarras.github.io/data-portal-new/&quot;&gt;Community Open Data Portal aka PANDA&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/amaliebarras/data-portal-new&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/amaliebarras/data-portal-new&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a href=&quot;http://expungetexas.org/index.html&quot;&gt;Expunge Texas&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/kkarsnia/expunge&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/kkarsnia/expunge&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a href=&quot;http://www.thetitansproject.com&quot;&gt;The Titans Project: Teens in Tech&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/codykeith/TITANS&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Safety Mapping&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/Sahedeva/bikePed2&quot;&gt;GH Frontend&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://github.com/Sahedeva/bikePedBackEnd&quot;&gt;GH Backend&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/Sahedeva/bikePed2&quot;&gt;GH Frontend&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://github.com/Sahedeva/bikePedBackEnd&quot;&gt;GH Backend&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a href=&quot;http://ludwigmace.github.io/atxbasket/#/&quot;&gt;Welcome Basket&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/ludwigmace/atxbasket&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/ludwigmace/atxbasket&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a href=&quot;http://food-donate.herokuapp.com/&quot;&gt;Food Hero&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/rubygeek/food_donate&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/rubygeek/food_donate&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a href=&quot;http://www.rollingwithadvantage.com&quot;&gt;Rolling With Advantage&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/RollingWithAdvantage&quot;&gt;Github&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://www.twitter.com/RollingWAdvantage&quot;&gt;Twitter&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://www.facebook.com/rollingwithadvantage/&quot;&gt;Facebook&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/RollingWithAdvantage&quot;&gt;Github&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://www.twitter.com/RollingWAdvantage&quot;&gt;Twitter&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://www.facebook.com/rollingwithadvantage/&quot;&gt;Facebook&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Find My Open Park 🏛&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/wrays/find-my-open-park&quot;&gt;Github&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://docs.google.com/presentation/d/1gH-l33GbELcQlqxIToG8zglRXoZsZBub2sqdzSUMAuE/edit#slide=id.p&quot;&gt;Google Slides&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/wrays/find-my-open-park&quot;&gt;Github&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://docs.google.com/presentation/d/1gH-l33GbELcQlqxIToG8zglRXoZsZBub2sqdzSUMAuE/edit#slide=id.p&quot;&gt;Google Slides&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a href=&quot;http://cityofaustin.github.io/open-gov-partnership/&quot;&gt;Open Gov Partnership -&amp;gt; Crossfit for Democracy&lt;/a&gt; 🏛&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/cityofaustin/open-gov-partnership/tree/gh-pages&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/cityofaustin/open-gov-partnership/tree/gh-pages&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Auction Bot - Facebook Messenger Bot for Charity Fundraising&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/krismuniz/auctionbot&quot;&gt;GH Frontend&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://github.com/aaronbenz/auctionbot-back&quot;&gt;GH Server&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://docs.google.com/presentation/d/1YHRu6xhLcEZnGyhftL83kgWcwQYARghZmcPnHWNqDZk/edit#slide=id.g128b1b71f0_0_269&quot;&gt;Google Slides&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/krismuniz/auctionbot&quot;&gt;GH Frontend&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://github.com/aaronbenz/auctionbot-back&quot;&gt;GH Server&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://docs.google.com/presentation/d/1YHRu6xhLcEZnGyhftL83kgWcwQYARghZmcPnHWNqDZk/edit#slide=id.g128b1b71f0_0_269&quot;&gt;Google Slides&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a href=&quot;https://dahmos.org/&quot;&gt;Disable Athlete Health/Equipment Monitoring System&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/Bokbot/damn-hardware&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/Bokbot/damn-hardware&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a href=&quot;http://www.austintexas.gov/dollarsandsense&quot;&gt;Austin Budget Simulator&lt;/a&gt; 🏛&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a href=&quot;http://Impactmap.us&quot;&gt;Impact Map&lt;/a&gt; - Giving Decisions Based on Big Data&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/deirdrewalsh/Big-Data-4-Giving-&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/deirdrewalsh/Big-Data-4-Giving-&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Billtracker&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/bill-tracker&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/bill-tracker&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Tiny Hacker House&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Mapping Austin’s Culture 🏛&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1xmzcoGHlqaywWjbFW4DdkNQTUiGVekJ0Su_7ZscAeD4/viewform&quot;&gt;Google Form Survey&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1xmzcoGHlqaywWjbFW4DdkNQTUiGVekJ0Su_7ZscAeD4/viewform&quot;&gt;Google Form Survey&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -535,94 +678,6 @@ RSVP for our next event on &lt;a href=&quot;http://www.meetup.com/Open-Austin/&q
         <pubDate>Mon, 11 Apr 2016 00:00:00 -0500</pubDate>
         <link>http://open-austin.github.io//blog/2016/04/11/coa-odi-april-meetup-recap</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/04/11/coa-odi-april-meetup-recap</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Austin City Council Agendas Become Open Data</title>
-        <description>&lt;p&gt;Beginning in January 2016, the Austin City Council has been 
-&lt;a href=&quot;https://data.austintexas.gov/Government/Austin-City-Council-Agenda-Items/es7e-878h&quot;&gt;publishing the agenda items from its weekly meetings&lt;/a&gt; 
-on the city data portal at &lt;a href=&quot;https://data.austintexas.gov/&quot;&gt;data.austintexas.gov&lt;/a&gt;, in a structured format with computer-readable dates,
-meeting types, and other details. This new resource was a much-appreciated response to several Open Austin project teams
-who were interested in creating new ways for residents to learn about the city council’s activities, but who discovered that
-data collection involved a prohibitively difficult process of scraping text from PDF files stored in 
-a &lt;a href=&quot;http://austintexas.gov/department/city-council/council-meetings&quot;&gt;confusing directory structure&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;After &lt;a href=&quot;https://makerbase.co/p/uwt239/atxcouncilconn&quot;&gt;an attempt in 2015&lt;/a&gt; to create an 
-agenda item notification system called &lt;a href=&quot;https://github.com/open-austin/council-connect&quot;&gt;ATX Council Connect&lt;/a&gt; had to be abandoned at 
-the prototype phase, Open Austin members made it a priority in 
-our &lt;a href=&quot;http://www.open-austin.org/advocacy/documents/OpenAustinAdvocacyAgenda2016.pdf&quot;&gt;2016 Advocacy Agenda&lt;/a&gt; to ask the city to 
-release data about the council’s activities in a more useable format. Mateo Clarke and Shellee O’Brien, a leader of the original
-Council Connect project, used the city’s interest in soliciting bids for a new agenda management system as an opportunity to
-&lt;a href=&quot;https://docs.google.com/document/d/1FOLuCR6kRRTLQD5dyJCuIquRkEoaGi0aqAVlBFwVuPY/&quot;&gt;draft a new position paper and bring it to the city&lt;/a&gt;,
-asking the city to treat the agendas as a public resource, and to make them reuseable and accessible in bulk.&lt;/p&gt;
-
-&lt;p&gt;Right now there are at least two teams within Open Austin interested in finding uses for the new city council data: &lt;a href=&quot;https://github.com/open-austin/project-ideas/issues/36&quot;&gt;one project to geocode 
-agenda items&lt;/a&gt; and display them on a Google map for an easy overview, and
-&lt;a href=&quot;https://github.com/open-austin/lobbying-in-austin&quot;&gt;another project to integrate the agendas dataset&lt;/a&gt; with the city’s separate &lt;a href=&quot;https://data.austintexas.gov/dataset/Lobbyists/bqav-9x6a&quot;&gt;lobbyist&lt;/a&gt;
-and &lt;a href=&quot;https://data.austintexas.gov/Government/Campaign-Finance-Data-Transaction-Detail-Dataset/g4yx-aw9r&quot;&gt;campaign finance&lt;/a&gt; datasets. When the city chose the solution of publishing the agenda items on data.austintexas.gov, these teams were thrilled and energized 
-to find out they were going to be saved the effort of scraping and parsing the text themselves.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/open-austin/project-ideas/issues/36&quot;&gt;&lt;img src=&quot;/assets/images/agendaGithubComment.jpg&quot; alt=&quot;GitHub comment: &amp;quot;davemcphee commented 16 days ago: * looks at 160 lines of python parser code, eye twitches *&amp;quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you want to get involved, you can &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;join the discussion on Open Austin’s Slack board&lt;/a&gt;, and if you have a new idea about how to
-use the city council’s data, you can &lt;a href=&quot;https://github.com/open-austin/project-ideas&quot;&gt;share it on our Ideas page on GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 02 Apr 2016 00:00:00 -0500</pubDate>
-        <link>http://open-austin.github.io//blog/2016/04/02/austin-city-council-agendas-become-open-data</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/04/02/austin-city-council-agendas-become-open-data</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>March Open Gov &amp; Civic Tech Meetup Recap - APD Body Cameras</title>
-        <description>&lt;h2 id=&quot;body-cams-in-austin&quot;&gt;Body Cams in Austin&lt;/h2&gt;
-
-&lt;p&gt;For our March Open Gov &amp;amp; Civic Tech Meetup, we invited Kathy Mitchell, from the &lt;a href=&quot;http://txepc.org/&quot;&gt;Texas Electronic Privacy Coalition&lt;/a&gt;, to give a presentation on Police Body Cameras and the technology, laws, and advocacy opportunities surrounding their implementation at the Austin Police Department.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/documents/Austin_Body_Cam.pdf&quot;&gt;Here are the slides that Kathy provided.&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Kathy Mitchell presenting to &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; on Austin police body cam policy. &lt;a href=&quot;https://twitter.com/EFFaustin&quot;&gt;@EFFaustin&lt;/a&gt; &lt;a href=&quot;https://t.co/9sVERhbl44&quot;&gt;pic.twitter.com/9sVERhbl44&lt;/a&gt;&lt;/p&gt;&amp;mdash; luqmaan (@luqmonster) &lt;a href=&quot;https://twitter.com/luqmonster/status/712115221783908357&quot;&gt;March 22, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;A key point of Kathy’s presentation was that simply having body cams on police officers does not automatically equal transparency. The current state law that provides funding and the legal framework for body cams incentivizes law enforcement agencies to adopt body cameras, but to not make the data public.&lt;/p&gt;
-
-&lt;p&gt;An innovative idea is to create an opt-in option for citizens that become the subject of police body cam recordings. This would allow the public to access those recordings with the consent of the recorded subject who has either had a really poor experience with the police, a really good interaction, or something in between.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Open Austin members discuss what they would want in police body cam policy. &lt;a href=&quot;https://twitter.com/hashtag/ATX?src=hash&quot;&gt;#ATX&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/OpenGov?src=hash&quot;&gt;#OpenGov&lt;/a&gt; &lt;a href=&quot;https://t.co/1A9Hrf7ggW&quot;&gt;pic.twitter.com/1A9Hrf7ggW&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/712082658218520576&quot;&gt;March 22, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;Kathy asked Open Austin members what they would like to see in a Body Cam Open Data Policy. Members recognized that release of all camera footage would be troubling for privacy reasons, but metadata like geospatial information and length of recordings could be a valuable analysis tool.&lt;/p&gt;
-
-&lt;h2 id=&quot;particpate-in-upcoming-body-cam-actions&quot;&gt;Particpate in upcoming body cam actions&lt;/h2&gt;
-
-&lt;p&gt;To get involved with this issue, we encourage you to sign up for our body cam listserv and/or volunteer for a working group by filling out this form.
-&lt;a href=&quot;http://goo.gl/forms/QN5vZejo2P&quot;&gt;http://goo.gl/forms/QN5vZejo2P&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;more-resources&quot;&gt;More Resources&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Legislation authorizing body cams and setting the legal framework for Texas: &lt;a href=&quot;http://www.capitol.state.tx.us/tlodocs/84R/billtext/html/SB00158F.htm&quot;&gt;84(R) SB 158&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.austintexas.gov/APDbodycam&quot;&gt;City of Austin APD Bodycam page&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;City of Austin body cam vendor &lt;a href=&quot;https://www.austintexas.gov/financeonline/vendor_connection/solicitation/solicitation_details.cfm?sid=110270&quot;&gt;RFP&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://austintexas.gov/sites/default/files/files/Police/APD_Policy_2015-2_Issued_5-1-2015-updated.pdf&quot;&gt;Current body cam policy&lt;/a&gt; to be replaced by one that addresses key issues: (Go to policy 303 at page 125.)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.washingtonpost.com/news/the-watch/wp/2016/02/05/a-new-report-shows-the-limits-of-police-body-cameras/&quot;&gt;Washington Post: A new report shows the limits of police body cameras&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.brennancenter.org/analysis/police-body-camera-policies-privacy-and-first-amendment-protections&quot;&gt;Brennan Center for Justice: Police Body Camera Policies: Privacy and First Amendment Protections&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;Keep up with our future events and join our &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;Meetup group to RSVP&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Also feel free to check out our &lt;a href=&quot;http://www.open-austin.org/events&quot;&gt;calendar&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ready to start working with us? Join us on &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Slack&lt;/a&gt; now or check out our &lt;a href=&quot;https://github.com/open-austin/project-ideas&quot;&gt;Github Idea repo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Tue, 29 Mar 2016 00:00:00 -0500</pubDate>
-        <link>http://open-austin.github.io//blog/2016/03/29/open-gov-civic-tech-bodycam-recap</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/03/29/open-gov-civic-tech-bodycam-recap</guid>
         
         
       </item>
