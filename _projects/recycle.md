@@ -30,6 +30,8 @@ featured:     true
 
 Recycle Please is the coordinated effort of a group of volunteers passionate about improving Austin's recycling process.
 
+This project shows users which buildings in Austin, TX do not recycle. The application was developed in partnership with the City of Austin to enforce the Universal Recycling Ordinance set to go in effect Oct 1st, 2017. The team comprised of volunteers of Open Austin, a Code for America brigade. 
+
 ###What is the Universal Recyling Ordinance?
 
 The Universal Recycling Ordinance supports Austin’s Zero Waste goal by requiring affected property owners to ensure that tenants and employees have access to convenient recycling.
