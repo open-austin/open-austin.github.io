@@ -1,6 +1,6 @@
 ---
 title:        Recycle Please
-description:  Recycle Please is an app that lets individuals report if their building does not provide recycling
+description:  This project shows users which buildings in Austin, TX do not recycle. The application was developed in partnership with the City of Austin to enforce the Universal Recycling Ordinance set to go in effect Oct 1st, 2017. 
 access_at:    http://www.open-austin.org/recycling-atx/
 project_at:   https://github.com/open-austin/recycling-atx
 type:         web application
