@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lightning Talks: June 20 Open Gov & Civic Tech Meetup Recap
+title: "Lightning Talks: June 20 Open Gov & Civic Tech Meetup Recap"
 date: 2016-06-23
 type: post
 published: true
