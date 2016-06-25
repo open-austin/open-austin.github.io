@@ -9,19 +9,19 @@ thumbalt: Diego presents on Sass and color theory
 author:
   first_name: Victoria
   last_name: O'Dell
-  
+
 ---
 
-For this month's Open Gov & Civic Tech Meetup, we had five community members give 10 minute lightning talks on a range of topics. 
+For this month's Open Gov & Civic Tech Meetup, we had five community members give 10 minute lightning talks on a range of topics.
 
 From data portals to GeoJason our presenters introduces both non-technical and technical presentations to a full room. View the the slides from their talks:
 
 
 *   [Paul Serraino](https://github.com/paulserraino) - [GeoJason + React + Leaflet](http://paulserraino.com/geojson-talk/#/Law.on.Web.slides.pdf)
-*   [Diego Hernandez](https://github.com/prestonp) - [The Power of Sass Color Functions](http://dhernandex.github.io/sass-color-functions/presentation/#/)
-*   [Nik Collins](https://github.com/gusIreland) - [Commute.ly](http://gusireland.github.io/urthecast-api-presentation/)
-*   [Victoria O'Dell, Open Austin Marketing Lead](https://twitter.com/Victoria_ODell)[Permitting Application Wizard](https://docs.google.com/presentation/d/1F0jLB3vJsLLRAXzVwLVB0cr0PGwm_2h33GQquZHzkR0/edit?usp=sharing)
-*   [Amalie Barras](https://twitter.com/spatialaustin) - [Community Data Portal](https://drive.google.com/open?id=0BwKb2oghmQldTm9Ec01reHhnSGM)
+*   [Diego Hernandez](https://github.com/dhernandex) - [The Power of Sass Color Functions](http://dhernandex.github.io/sass-color-functions/presentation/#/)
+*   [Nik Collins](https://twitter.com/nikolac88) - [Commute.ly](http://commute.ly/#!/) - [Slides](https://github.com/open-austin/iced-coffee/files/324749/commutely-austin-open.pdf)
+*   [Victoria O'Dell](https://twitter.com/Victoria_ODell)[Permitting Application Wizard](https://docs.google.com/presentation/d/1F0jLB3vJsLLRAXzVwLVB0cr0PGwm_2h33GQquZHzkR0/edit?usp=sharing)
+*   [Amalie Barras](https://twitter.com/AmalieBarras) - [Community Data Portal](https://github.com/open-austin/iced-coffee/files/324766/PANDA.Lightnin.pdf)
 *   _[Open Austin Announcements & Upcoming Events Deck](https://docs.google.com/presentation/d/1aJPnMyh-PBQ0HTfA1dNPRzrZT2949-P5ww5U_2Tab6U/edit?usp=sharing)_
 
 **Highlights from Twitter. [Give us a follow to stay up to date.](https://twitter.com/openaustin)**
@@ -35,7 +35,7 @@ From data portals to GeoJason our presenters introduces both non-technical and t
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Standards leads to accessibility <a href="https://t.co/YFG0L4TytN">pic.twitter.com/YFG0L4TytN</a></p>&mdash; Open Austin (@openaustin) <a href="https://twitter.com/openaustin/status/745055519904169984">June 21, 2016</a></blockquote>
 
 
-##Continue the Conversation
+## Continue the Conversation
 
 Join the Open Austin community on Slack: [Get an invite](http://slack.open-austin.org/)
 <br>

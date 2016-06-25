@@ -5,9 +5,53 @@
     <description>Open Austin is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. We are an official brigade affiliated with the nonprofit Code for America which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.</description>
     <link>http://open-austin.github.io//</link>
     <atom:link href="http://open-austin.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Jun 2016 19:24:28 -0500</pubDate>
-    <lastBuildDate>Mon, 13 Jun 2016 19:24:28 -0500</lastBuildDate>
+    <pubDate>Sat, 25 Jun 2016 11:22:51 -0600</pubDate>
+    <lastBuildDate>Sat, 25 Jun 2016 11:22:51 -0600</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Lightning Talks: June 20 Open Gov &amp; Civic Tech Meetup Recap</title>
+        <description>&lt;p&gt;For this month’s Open Gov &amp;amp; Civic Tech Meetup, we had five community members give 10 minute lightning talks on a range of topics.&lt;/p&gt;
+
+&lt;p&gt;From data portals to GeoJason our presenters introduces both non-technical and technical presentations to a full room. View the the slides from their talks:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/paulserraino&quot;&gt;Paul Serraino&lt;/a&gt; - &lt;a href=&quot;http://paulserraino.com/geojson-talk/#/Law.on.Web.slides.pdf&quot;&gt;GeoJason + React + Leaflet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/dhernandex&quot;&gt;Diego Hernandez&lt;/a&gt; - &lt;a href=&quot;http://dhernandex.github.io/sass-color-functions/presentation/#/&quot;&gt;The Power of Sass Color Functions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/nikolac88&quot;&gt;Nik Collins&lt;/a&gt; - &lt;a href=&quot;http://commute.ly/#!/&quot;&gt;Commute.ly&lt;/a&gt; - &lt;a href=&quot;https://github.com/open-austin/iced-coffee/files/324749/commutely-austin-open.pdf&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Victoria_ODell&quot;&gt;Victoria O’Dell&lt;/a&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1F0jLB3vJsLLRAXzVwLVB0cr0PGwm_2h33GQquZHzkR0/edit?usp=sharing&quot;&gt;Permitting Application Wizard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/AmalieBarras&quot;&gt;Amalie Barras&lt;/a&gt; - &lt;a href=&quot;https://github.com/open-austin/iced-coffee/files/324766/PANDA.Lightnin.pdf&quot;&gt;Community Data Portal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1aJPnMyh-PBQ0HTfA1dNPRzrZT2949-P5ww5U_2Tab6U/edit?usp=sharing&quot;&gt;Open Austin Announcements &amp;amp; Upcoming Events Deck&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Highlights from Twitter. &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;Give us a follow to stay up to date.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/AmalieBarras&quot;&gt;@AmalieBarras&lt;/a&gt; talking about building an open data portal for Austin at &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/jkan?src=hash&quot;&gt;#jkan&lt;/a&gt; &lt;a href=&quot;https://t.co/cHyk4nmMuo&quot;&gt;pic.twitter.com/cHyk4nmMuo&lt;/a&gt;&lt;/p&gt;&amp;mdash; luqmaan (@luqmonster) &lt;a href=&quot;https://twitter.com/luqmonster/status/745067741388800000&quot;&gt;June 21, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;fr&quot; dir=&quot;ltr&quot;&gt;Nik Collins introduces commute.ly &lt;a href=&quot;https://t.co/GskOls1OG0&quot;&gt;pic.twitter.com/GskOls1OG0&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/745063606681669633&quot;&gt;June 21, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Diego starts his presentation on Sass color functions. 🎨 &lt;a href=&quot;https://t.co/UT4ZW0F6xZ&quot;&gt;pic.twitter.com/UT4ZW0F6xZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/745057664422445056&quot;&gt;June 21, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Standards leads to accessibility &lt;a href=&quot;https://t.co/YFG0L4TytN&quot;&gt;pic.twitter.com/YFG0L4TytN&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/745055519904169984&quot;&gt;June 21, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
+
+&lt;p&gt;Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
+&lt;br /&gt;
+RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow us on Twitter&lt;/a&gt;
+&amp;amp; &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like us on Facebook&lt;/a&gt;&lt;/p&gt;
+
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Thu, 23 Jun 2016 00:00:00 -0600</pubDate>
+        <link>http://open-austin.github.io//blog/2016/06/23/lightning-talk-recap</link>
+        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/06/23/lightning-talk-recap</guid>
+        
+        
+      </item>
     
       <item>
         <title>Quantifying Austin&#39;s Housing Supply</title>
@@ -116,7 +160,7 @@
 
 &lt;p&gt;To help advance the study of housing availability, Open Austin will make it a priority to convince the city to collect specific data from permit applicants about how many units are being added or removed from the housing supply, and to open up any other data the city has about housing supply from other sources. If you’re interested in improving the permit application process, also visit Open Austin’s &lt;a href=&quot;https://github.com/open-austin/project-ideas/issues/68&quot;&gt;project to improve the city’s building permit website&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 13 Jun 2016 00:00:00 -0500</pubDate>
+        <pubDate>Mon, 13 Jun 2016 00:00:00 -0600</pubDate>
         <link>http://open-austin.github.io//blog/2016/06/13/quantifying-austins-housing-supply</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/06/13/quantifying-austins-housing-supply</guid>
         
@@ -145,7 +189,7 @@
 
 &lt;p&gt;&lt;strong&gt;Please, between now and 6/23, &lt;a href=&quot;https://www.austintexas.gov/email/all-council-members&quot;&gt;call or email the offices of the mayor and your council member&lt;/a&gt; to support the bill without amendments.&lt;/strong&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 12 Jun 2016 00:00:00 -0500</pubDate>
+        <pubDate>Sun, 12 Jun 2016 00:00:00 -0600</pubDate>
         <link>http://open-austin.github.io//blog/2016/06/12/finding-a-story-in-austins-lobbying-data</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/06/12/finding-a-story-in-austins-lobbying-data</guid>
         
@@ -332,7 +376,7 @@ Follow us on Twitter: &lt;a href=&quot;https://twitter.com/openaustin?lang=en&qu
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 </description>
-        <pubDate>Tue, 07 Jun 2016 00:00:00 -0500</pubDate>
+        <pubDate>Tue, 07 Jun 2016 00:00:00 -0600</pubDate>
         <link>http://open-austin.github.io//blog/2016/06/07/Recap-ATX-Hack-for-Change-2016</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/06/07/Recap-ATX-Hack-for-Change-2016</guid>
         
@@ -397,7 +441,7 @@ Follow us on Twitter: &lt;a href=&quot;https://twitter.com/openaustin?lang=en&qu
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 </description>
-        <pubDate>Sun, 29 May 2016 00:00:00 -0500</pubDate>
+        <pubDate>Sun, 29 May 2016 00:00:00 -0600</pubDate>
         <link>http://open-austin.github.io//blog/2016/05/29/Recap-Designing-for-Civic-Solutions</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/05/29/Recap-Designing-for-Civic-Solutions</guid>
         
@@ -446,7 +490,7 @@ RSVP for our next event on &lt;a href=&quot;http://www.meetup.com/Open-Austin/&q
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 </description>
-        <pubDate>Sat, 28 May 2016 00:00:00 -0500</pubDate>
+        <pubDate>Sat, 28 May 2016 00:00:00 -0600</pubDate>
         <link>http://open-austin.github.io//blog/2016/05/28/may-open-gov-civic-tech-meetup-recap</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/05/28/may-open-gov-civic-tech-meetup-recap</guid>
         
@@ -489,7 +533,7 @@ RSVP for our next event on &lt;a href=&quot;http://www.meetup.com/Open-Austin/&q
 
 &lt;p&gt;In conclusion, I thoroughly enjoyed the workshop, and hope that some of the ideas from attendees might solve the issue of mobility in Austin. It was incredible getting out in the field to conduct research, and listen to Austinites share their stories. Learning and applying AC4D alumni’s human-centered design process was also quite rewarding in many ways.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 04 May 2016 00:00:00 -0500</pubDate>
+        <pubDate>Wed, 04 May 2016 00:00:00 -0600</pubDate>
         <link>http://open-austin.github.io//blog/2016/05/04/my-day-as-a-uxer-designing-for-civic-solutions</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/05/04/my-day-as-a-uxer-designing-for-civic-solutions</guid>
         
@@ -544,7 +588,7 @@ RSVP for our next event on &lt;a href=&quot;http://www.meetup.com/Open-Austin/&q
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 </description>
-        <pubDate>Sun, 24 Apr 2016 00:00:00 -0500</pubDate>
+        <pubDate>Sun, 24 Apr 2016 00:00:00 -0600</pubDate>
         <link>http://open-austin.github.io//blog/2016/04/24/open-gov-civic-tech-austin-atlas-recap</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/04/24/open-gov-civic-tech-austin-atlas-recap</guid>
         
@@ -567,7 +611,7 @@ RSVP for our next event on &lt;a href=&quot;http://www.meetup.com/Open-Austin/&q
 
 &lt;p&gt;&lt;strong&gt;###&lt;/strong&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 18 Apr 2016 00:00:00 -0500</pubDate>
+        <pubDate>Mon, 18 Apr 2016 00:00:00 -0600</pubDate>
         <link>http://open-austin.github.io//blog/2016/04/18/open-austin-collaborates-with-ac4d-alumni-to-host-workshop</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/04/18/open-austin-collaborates-with-ac4d-alumni-to-host-workshop</guid>
         
@@ -625,59 +669,9 @@ RSVP for our next event on &lt;a href=&quot;http://www.meetup.com/Open-Austin/&q
 &lt;p&gt;&lt;br /&gt;Presented by 
 &lt;br /&gt;Open Austin in Collaboration with &lt;a href=&quot;http://www.ac4d.com/&quot;&gt;Austin Center for Design&lt;/a&gt; Alumni&lt;/p&gt;
 </description>
-        <pubDate>Tue, 12 Apr 2016 00:00:00 -0500</pubDate>
+        <pubDate>Tue, 12 Apr 2016 00:00:00 -0600</pubDate>
         <link>http://open-austin.github.io//blog/2016/04/12/designing-for-civic-solutions-workshop</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/04/12/designing-for-civic-solutions-workshop</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>City of Austin Open Data Initiative April Meetup Recap</title>
-        <description>&lt;p&gt;On Wednesday, April 6th, the City of Austin Open Data Initiative Team hosted an educational meetup and update at the City Council Chambers of City Hall.&lt;/p&gt;
-
-&lt;p&gt;The Open Data Initiative (ODI) is moving progress forward internally through a “sprint” model, where each sprint represents a 90-day time frame. The current sprint, ODI sprint 2.1 began on February 16th and will end on May 16th, 2016.&lt;/p&gt;
-
-&lt;p&gt;For an overview of objectives of the current ODI sprint, visit &lt;a href=&quot;http://cityofaustin.github.io/open-data-docs/projects/sprint_2_1/&quot;&gt;http://sprint.opendata.rocks&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;open-data-initiative-sprint-21-updates&quot;&gt;Open Data Initiative Sprint 2.1 Updates&lt;/h2&gt;
-
-&lt;p&gt;Four of the six captains that serve as leads on the sprint objectives presented updates on the progress towards their goals.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Brad McCarty&lt;/strong&gt;, captain of inventory team shared that they are trying to create a process for maintaining the city wide inventory of datasets. They are looking at examples from New York and San Francisco of how they manage their data inventories.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Marbenn Cayetano&lt;/strong&gt;, captains the team working to update the documentation of Austin’s open data assets on the &lt;a href=&quot;http://us-city.census.okfn.org/&quot;&gt;US Open Data Census website&lt;/a&gt;. The team is currently breaking up the census into sections and assigning out tasks. So far, they have submitted one update.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hailey Pate&lt;/strong&gt;, gave an update that the sprint definition document is available to the public at &lt;a href=&quot;http://cityofaustin.github.io/open-data-docs/projects/sprint_2_1/&quot;&gt;http://sprint.opendata.rocks&lt;/a&gt;. She also gave an update on the “Request a Dataset” Workflow. Her team is deciding what do they want the experience for requesting, voting, and filtering dataset request to be like. They met with CoA Enterprise Architect Rob Byrd to design a workflow that is software platform agnostic. By the end of the project, the team hopes to have to built a solution in Github, or at least have requirements to give to a vendor.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Janette Milan&lt;/strong&gt; leads the team working on Open Data Portal Homepage redesign. They recently opened an &lt;a href=&quot;https://austintexas-data.demo.socrata.com/&quot;&gt;alpha preview&lt;/a&gt; of the new landing page design &lt;em&gt;(warning: this demo link is liable to break in the near future)&lt;/em&gt;. Janette’s team also published a &lt;a href=&quot;https://cityofaustin.typeform.com/to/xYOhoz&quot;&gt;user survey&lt;/a&gt; to collect feedback from the community. They will be providing a report to the Open Government Governing Board.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/alpha-preview-socrata.png&quot; alt=&quot;Screenshot of the new data portal landing page&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;At the end of May, there will be another ODI Meetup with presentations on the outcomes of the sprint.&lt;/p&gt;
-
-&lt;h2 id=&quot;guest-speakers&quot;&gt;Guest Speakers&lt;/h2&gt;
-
-&lt;p&gt;In addition to the City of Austin team updates, the majority of the meetup was dedicated to two separate presentations.&lt;/p&gt;
-
-&lt;p&gt;First, &lt;strong&gt;Stuart Gano&lt;/strong&gt;, a solutions architect at &lt;strong&gt;&lt;a href=&quot;http://socrata.com&quot;&gt;Socrata&lt;/a&gt;&lt;/strong&gt; spoke about open data trends he’s seeing across the country. The key insight I took away from Stuart’s presentation is that open government data started with uncontroversial topics, like building permits, or service requests by district. Governments would avoid more touchy topics like police data incident responses and officer involved shootings.&lt;/p&gt;
-
-&lt;p&gt;But within the last year, police data has been a driving force behind open data publication across the country. This data is what citizens are asking for. Additionally, these topics are receiving national attention, for example the &lt;a href=&quot;https://www.whitehouse.gov/blog/2015/10/27/police-data-initiative-5-month-update&quot;&gt;White House Police Data Initiative&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Here is a link to the &lt;a href=&quot;https://data.austintexas.gov/dataset/Officer-Involved-Shootings/xsje-n5tj&quot;&gt;Austin Police Departments’s Office Involved Shootings dataset&lt;/a&gt;, which only went live towards the end of last year.&lt;/p&gt;
-
-&lt;p&gt;Then, &lt;strong&gt;&lt;a href=&quot;https://unmil.ischool.utexas.edu/&quot;&gt;Professor Unmil Karadkar&lt;/a&gt;&lt;/strong&gt; from &lt;strong&gt;UT’s School of Information&lt;/strong&gt; gave a presentation on basics of data visualization, what is the difference between dynamic dashboards and curated infographics, and what types of visualizations are most effective for different datasets.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;Keep up with our future events and join our &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;Meetup group to RSVP&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Also feel free to check out our &lt;a href=&quot;http://www.open-austin.org/events&quot;&gt;calendar&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ready to start working with us? Join us on &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Slack&lt;/a&gt; now or check out our &lt;a href=&quot;https://github.com/open-austin/project-ideas&quot;&gt;Github Idea repo&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 11 Apr 2016 00:00:00 -0500</pubDate>
-        <link>http://open-austin.github.io//blog/2016/04/11/coa-odi-april-meetup-recap</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/04/11/coa-odi-april-meetup-recap</guid>
         
         
       </item>
