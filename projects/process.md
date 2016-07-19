@@ -34,7 +34,7 @@ Open Austin uses [Code for America's four project stages](https://www.codeforame
 
 ### Start an **Experiment**
 
-Explore the problem/idea. Have lots of these.
+The **experiment** stage is all about exploring problems/ideas. Open Austin should have plenty of projects at the experiment stage. Most projects will end at this stage, and thats okay.
 
 1. Do something and tell us about it. Open an issue at https://github.com/open-austin/project-ideas/issues and tag it with experiment.
 2. Tell us if you need any resources to get started (AWS hosting, Cartodb, mockup tools, etc.)
@@ -42,9 +42,9 @@ Explore the problem/idea. Have lots of these.
 
 ### Experiment to **Alpha**
 
-Solve a person's/group's problem
+The **alpha** stage is about making sure your project solves a person's/group's problem.
 
-This is the point at which a project becomes an "approved" Open Austin project.
+:information_source:  This is the point at which a project becomes an "approved" Open Austin project.
 
 1. Identify a project owner(s)
 2. Get approval from an Open Austin coreteam member
@@ -58,7 +58,7 @@ This is the point at which a project becomes an "approved" Open Austin project.
 
 ### Alpha to **Beta**
  
-The theme for the beta stage is "more users" and "more feedback," the project should be looking for more users and recording more metrics
+The theme for the beta stage is "more users" and "more feedback," the project should be looking for more users and recording more metrics.
 
 1. You should look for government or community partners, if applicable
 2. Start polishing the app
@@ -69,6 +69,6 @@ The theme for the beta stage is "more users" and "more feedback," the project sh
 
 A project becomes official when it's polished, well known, has a community partner, and the project leaders have a good sense of the impact of the project. 
 
-1. Have a launch event! Congratulations, you've done an awesome job, it's time to enjoy your work
-2. Have your metrics for usage and impact readily available
+1. Have a launch event! Congratulations, you've done an awesome job, it's time to enjoy your work.
+2. Have your metrics for usage and impact readily available.
 
