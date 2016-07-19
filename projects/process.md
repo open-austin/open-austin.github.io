@@ -27,18 +27,22 @@ Email info@open-austin.org or ask on the [Open Austin Slack](http://slack.open-a
 
 Open Austin uses [Code for America's four project stages](https://www.codeforamerica.org/brigade/projects/stages).
 
-- [Experiment](https://www.codeforamerica.org/brigade/projects/stages#experiment) - Explore the problem/idea. Have lots of these.
-- [Alpha](https://www.codeforamerica.org/brigade/projects/stages#alpha) - Solve a person's/group's problem
-- [Beta](https://www.codeforamerica.org/brigade/projects/stages#beta) - More users
-- [Official](https://www.codeforamerica.org/brigade/projects/stages#official) - Impact
+- [Experiment](https://www.codeforamerica.org/brigade/projects/stages#experiment
+- [Alpha](https://www.codeforamerica.org/brigade/projects/stages#alpha)
+- [Beta](https://www.codeforamerica.org/brigade/projects/stages#beta)
+- [Official](https://www.codeforamerica.org/brigade/projects/stages#official)
 
 ### Start an **Experiment**
 
-1. Do something and tell us about it, specifically open an issue at https://github.com/open-austin/project-ideas/issues and tag it with experiment.
+Explore the problem/idea. Have lots of these.
+
+1. Do something and tell us about it. Open an issue at https://github.com/open-austin/project-ideas/issues and tag it with experiment.
 2. Tell us if you need any resources to get started (AWS hosting, Cartodb, mockup tools, etc.)
 3. Come to an [Open Austin event](/events) and work on share your project
 
 ### Experiment to **Alpha**
+
+Solve a person's/group's problem
 
 This is the point at which a project becomes an "approved" Open Austin project.
 
@@ -53,8 +57,8 @@ This is the point at which a project becomes an "approved" Open Austin project.
   - How do you deploy the project?
 
 ### Alpha to **Beta**
-
-The theme for beta status is "more users" and "more feedback," the project should be looking for more users and recording more metrics
+ 
+The theme for the beta stage is "more users" and "more feedback," the project should be looking for more users and recording more metrics
 
 1. You should look for government or community partners, if applicable
 2. Start polishing the app
@@ -63,7 +67,7 @@ The theme for beta status is "more users" and "more feedback," the project shoul
 
 ### Beta to **Official**
 
-A project becomes official when it's polished, well known and the project leaders have a good sense of the impact of the project
+A project becomes official when it's polished, well known, has a community partner, and the project leaders have a good sense of the impact of the project. 
 
 1. Have a launch event! Congratulations, you've done an awesome job, it's time to enjoy your work
 2. Have your metrics for usage and impact readily available
