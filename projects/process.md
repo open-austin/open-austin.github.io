@@ -17,7 +17,11 @@ Also, Open Austin can do more than just endorse your project. We can provide you
 
 #### Does my project have to be open source?
 
-All Open Austin projects beyond the experiment stage should be open source. As far as choosing a license, choose whichever one fits your project best. Our projects have used the Unlicense (public domain), the MIT License and the GNU GPL. 
+All Open Austin projects beyond the experiment stage should be open source. As far as choosing a license, choose whichever one fits your project best. Our projects have used the Unlicense (public domain), the MIT License and the GNU GPL.
+
+#### I have more questions. Who can I ask?
+
+Email info@open-austin.org or ask on the [Open Austin Slack](http://slack.open-austin.org).
 
 ## Poject stages
 
