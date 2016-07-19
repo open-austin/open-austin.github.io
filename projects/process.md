@@ -67,7 +67,7 @@ The the **beta** stage is about getting "more users" and "more feedback." The pr
 
 ### Beta to **Official**
 
-A project becomes official when it's polished, well known, has a community partner, and the project leaders have a good sense of the impact of the project. 
+A project becomes **official** when it's polished, well known, has a community partner, and the project leaders have a good sense of the impact of the project. 
 
 1. Have a launch event! Congratulations, you've done an awesome job, it's time to enjoy your work.
 2. Have your metrics for usage and impact readily available.
