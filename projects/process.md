@@ -58,7 +58,7 @@ The **alpha** stage is about making sure your project solves a person's/group's 
 
 ### Alpha to **Beta**
  
-The theme for the beta stage is "more users" and "more feedback," the project should be looking for more users and recording more metrics.
+The the **beta** stage is about getting "more users" and "more feedback." The project should be looking for more users and recording more metrics.
 
 1. You should look for government or community partners, if applicable
 2. Start polishing the app
