@@ -27,7 +27,7 @@ Email info@open-austin.org or ask on the [Open Austin Slack](http://slack.open-a
 
 Open Austin uses [Code for America's four project stages](https://www.codeforamerica.org/brigade/projects/stages).
 
-- [Experiment](https://www.codeforamerica.org/brigade/projects/stages#experiment
+- [Experiment](https://www.codeforamerica.org/brigade/projects/stages#experiment)
 - [Alpha](https://www.codeforamerica.org/brigade/projects/stages#alpha)
 - [Beta](https://www.codeforamerica.org/brigade/projects/stages#beta)
 - [Official](https://www.codeforamerica.org/brigade/projects/stages#official)
