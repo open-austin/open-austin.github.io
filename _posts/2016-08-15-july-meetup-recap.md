@@ -18,7 +18,7 @@ Last month Open Austin had a unique lineup of speakers. Our topic was Hacking th
 
 ##Budget Breakdown
 
-Grace Atkins from [Glasshouse Policy](https://www.glasshousepolicy.org/) give a presentation on why education around city budgeting is necessary. Glasshouse policy is a think tank in Austin that works to engage the general public around public policy. They help to create a more responsive and representative government. They notice that critical decisions are being made at the local level and wants others to understand and engage with those decisions.
+Grace Atkins from [Glasshouse Policy](https://www.glasshousepolicy.org/) gave a presentation on why education around city budgeting is necessary. Glasshouse policy is a think tank in Austin that works to engage the general public around public policy. They help to create a more responsive and representative government. They notice that critical decisions are being made at the local level and wants others to understand and engage with those decisions.
 
 [View and/or download the presentation](https://docs.google.com/presentation/d/1xwLwHwfC9cOOSTbM4R2vsFQ_FgT9sdQWJ8UTS_zUT54/edit#slide=id.g151ddb760f_0_6') that Grace gave. 
 
@@ -39,14 +39,14 @@ Past involvment with volunteers, notably the [Budget-in-a-Box](http://www.budget
 
 The game night and newest iteration of a budgeting app that Open Austin is helping to build, ensure that the conversation around participatory budgeting and citizen engagement continues. 
 
-##Mozilla Gigabit Community Fund,
-Robert Friedman came to introduce [Mozilla Gigabit Community Fund](https://www.mozilla.org/en-US/gigabit/) to the community. Friedman said that Mozilla was in town to take advantage of the Google Fiber network in Austin. They hope to Build and fund educational resources that use gigbyte speed connections to advance learning opportunity for young people, explore big data, synchronized collaboration, and more. 
+##Mozilla Gigabit Community Fund
+Robert Friedman came to introduce [Mozilla Gigabit Community Fund](https://www.mozilla.org/en-US/gigabit/) to the community. Friedman said that Mozilla was in town to take advantage of the Google Fiber network in Austin. They hope to Build and fund educational resources that use gigabyte speed connections to advance learning opportunity for young people, explore big data, synchronized collaboration, and more. 
 
 If you're interested in developing in the education sphere then Mozilla has a fund allocated for prototyping and growing projects out.
 
-For more information contact Rober Friedman via email at robert@mozillafoundation.org 
+For more information contact Robert Friedman via email at robert@mozillafoundation.org 
 
-##Open Governmetn Partnership Update
+##Open Government Partnership Update
 Kerry O'Connor from the Innovation Office gave us an update on the Open Gov Partnership that the city accepted earlier this year. Kerry informed the group that we are the only U.S city apart of a subnational pilot program for Open Government and the program currently has us paired with Ireland with whom we support and share knowledge with. Open Austin, Leadership Austin, Vision Zero ATX, and the City of Austin are helping push this program forward.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;This isn&#39;t an imagine Austin kind of thing. This is an implement Austin kind of thing&quot;- <a href="https://twitter.com/kerry_atx">@kerry_atx</a> on the Open Government Partnership</p>&mdash; Open Austin (@openaustin) <a href="https://twitter.com/openaustin/status/755202029467893760">July 19, 2016</a></blockquote>
