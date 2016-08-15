@@ -16,7 +16,7 @@ Last month Open Austin had a unique lineup of speakers. Our topic was Hacking th
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hanging out at <a href="https://twitter.com/openaustin">@openaustin</a>, listening to <a href="https://twitter.com/kerry_atx">@kerry_atx</a> and folks talk about open gov, budgeting and hacking. <a href="https://twitter.com/hashtag/atx?src=hash">#atx</a> 🖥💡 <a href="https://t.co/rEZDToVA6G">pic.twitter.com/rEZDToVA6G</a></p>&mdash; Daniel Ryne Lucio ⚡️ (@danielrynelucio) <a href="https://twitter.com/danielrynelucio/status/755206939399684096">July 19, 2016</a></blockquote>
 
 
-##Budget Breakdown
+## Budget Breakdown
 
 Grace Atkins from [Glasshouse Policy](https://www.glasshousepolicy.org/) gave a presentation on why education around city budgeting is necessary. Glasshouse policy is a think tank in Austin that works to engage the general public around public policy. They help to create a more responsive and representative government. They notice that critical decisions are being made at the local level and wants others to understand and engage with those decisions.
 
@@ -24,11 +24,11 @@ Grace Atkins from [Glasshouse Policy](https://www.glasshousepolicy.org/) gave a 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We've partnered with <a href="https://twitter.com/austinmonitor">@austinmonitor</a> on an exciting new project! Find out more here: <a href="https://t.co/Mj9EVyvSMw">https://t.co/Mj9EVyvSMw</a></p>&mdash; Glasshouse Policy (@OpenPolicyTx) <a href="https://twitter.com/OpenPolicyTx/status/755059943653253120">July 18, 2016</a></blockquote>
 
-###Why the Budget? 
+### Why the Budget? 
 Grace said that decisions around city spending aren't just big, vague, and ignorable. City spending decisions impact our daily lives and go largely unnoticed due to inaccessibility to the general public. To breakdown barriers for understanding the budget, Grace pointed out that we have to be engaged and learning both in-person and online
 
 
-###Working to Gamify the budget
+### Working to Gamify the budget
 With that in mind Glasshouse Policy and Austin Monitor have teamed up for a [budget game night that's happening tomorrow](https://www.eventbrite.com/e/budget-game-night-tickets-26423729085), August 16th at 6:00pm. 
 
 [Austin Monitor](http://www.austinmonitor.com/) is a locally focused government reporting website. They wants to provide locals with a clear picture of what is going on in Austin. They do this by reporting in an intentionally neutral tone that helps readers make their own judgments on local politics.  
@@ -39,14 +39,14 @@ Past involvment with volunteers, notably the [Budget-in-a-Box](http://www.budget
 
 The game night and newest iteration of a budgeting app that Open Austin is helping to build, ensure that the conversation around participatory budgeting and citizen engagement continues. 
 
-##Mozilla Gigabit Community Fund
+## Mozilla Gigabit Community Fund
 Robert Friedman came to introduce [Mozilla Gigabit Community Fund](https://www.mozilla.org/en-US/gigabit/) to the community. Friedman said that Mozilla was in town to take advantage of the Google Fiber network in Austin. They hope to Build and fund educational resources that use gigabyte speed connections to advance learning opportunity for young people, explore big data, synchronized collaboration, and more. 
 
 If you're interested in developing in the education sphere then Mozilla has a fund allocated for prototyping and growing projects out.
 
 For more information contact Robert Friedman via email at robert@mozillafoundation.org 
 
-##Open Government Partnership Update
+## Open Government Partnership Update
 Kerry O'Connor from the Innovation Office gave us an update on the Open Gov Partnership that the city accepted earlier this year. Kerry informed the group that we are the only U.S city apart of a subnational pilot program for Open Government and the program currently has us paired with Ireland with whom we support and share knowledge with. Open Austin, Leadership Austin, Vision Zero ATX, and the City of Austin are helping push this program forward.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;This isn&#39;t an imagine Austin kind of thing. This is an implement Austin kind of thing&quot;- <a href="https://twitter.com/kerry_atx">@kerry_atx</a> on the Open Government Partnership</p>&mdash; Open Austin (@openaustin) <a href="https://twitter.com/openaustin/status/755202029467893760">July 19, 2016</a></blockquote>
@@ -61,7 +61,7 @@ If you're interested in getting involved there is an [OpenGov channel in the Ope
 View [Kerry's Full Presentation](https://docs.google.com/presentation/d/1sWrJSMndCjpB4cJy8IVRB7km4PsTrz6ue74wrj_dYEg/edit#slide=id.g15df7ec05d_0_11)
 
 
-##Direct Democracy
+## Direct Democracy
 Braden Latham-Jones- D4 Outreach Director gave a quick presentation on budgeting.
 
 Braden explained our strong manager, weak mayor system in Austin and described how the manager purposes a budget to city council that is then ameneded and improved. 
