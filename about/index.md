@@ -51,7 +51,7 @@ You can reach us at: info@open-austin.org
 - Victoria O’Dell – Marketing Lead – pr@open-austin.org
 - Amalie Barras – Membership Lead – membership@open-austin.org
 - Marco Pineda – Event Lead
-- Matt Carey – Policy Lead
+- Matt Carey – Policy Lead – policy@open-austin.org
 - _Chip Rosenthal – Director Emeritus_
 
 ---
