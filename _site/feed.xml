@@ -5,9 +5,82 @@
     <description>Open Austin is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. We are an official brigade affiliated with the nonprofit Code for America which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.</description>
     <link>http://open-austin.github.io//</link>
     <atom:link href="http://open-austin.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 Jun 2016 11:22:51 -0600</pubDate>
-    <lastBuildDate>Sat, 25 Jun 2016 11:22:51 -0600</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <pubDate>Tue, 23 Aug 2016 14:57:43 -0500</pubDate>
+    <lastBuildDate>Tue, 23 Aug 2016 14:57:43 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>July Open Gov &amp; Civic Tech Meetup Recap-Hacking the Budget</title>
+        <description>&lt;p&gt;Last month Open Austin had a unique lineup of speakers. Our topic was Hacking the budget and we had Grace Miller with GlassHouse policy explain how the city budget can be influenced by the community. We also had Brandon Latham-Jones the outreach Director for District 4, Kerry O’Connor from the Innovation Office, and Robert Friedman from the Mozilla Foundation.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Hanging out at &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt;, listening to &lt;a href=&quot;https://twitter.com/kerry_atx&quot;&gt;@kerry_atx&lt;/a&gt; and folks talk about open gov, budgeting and hacking. &lt;a href=&quot;https://twitter.com/hashtag/atx?src=hash&quot;&gt;#atx&lt;/a&gt; 🖥💡 &lt;a href=&quot;https://t.co/rEZDToVA6G&quot;&gt;pic.twitter.com/rEZDToVA6G&lt;/a&gt;&lt;/p&gt;&amp;mdash; Daniel Ryne Lucio ⚡️ (@danielrynelucio) &lt;a href=&quot;https://twitter.com/danielrynelucio/status/755206939399684096&quot;&gt;July 19, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;budget-breakdown&quot;&gt;Budget Breakdown&lt;/h2&gt;
+
+&lt;p&gt;Grace Atkins from &lt;a href=&quot;https://www.glasshousepolicy.org/&quot;&gt;Glasshouse Policy&lt;/a&gt; gave a presentation on why education around city budgeting is necessary. Glasshouse policy is a think tank in Austin that works to engage the general public around public policy. They help to create a more responsive and representative government. They notice that critical decisions are being made at the local level and wants others to understand and engage with those decisions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1xwLwHwfC9cOOSTbM4R2vsFQ_FgT9sdQWJ8UTS_zUT54/edit#slide=id.g151ddb760f_0_6&#39;&quot;&gt;View and/or download the presentation&lt;/a&gt; that Grace gave.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;We&#39;ve partnered with &lt;a href=&quot;https://twitter.com/austinmonitor&quot;&gt;@austinmonitor&lt;/a&gt; on an exciting new project! Find out more here: &lt;a href=&quot;https://t.co/Mj9EVyvSMw&quot;&gt;https://t.co/Mj9EVyvSMw&lt;/a&gt;&lt;/p&gt;&amp;mdash; Glasshouse Policy (@OpenPolicyTx) &lt;a href=&quot;https://twitter.com/OpenPolicyTx/status/755059943653253120&quot;&gt;July 18, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;why-the-budget&quot;&gt;Why the Budget?&lt;/h3&gt;
+&lt;p&gt;Grace said that decisions around city spending aren’t just big, vague, and ignorable. City spending decisions impact our daily lives and go largely unnoticed due to inaccessibility to the general public. To breakdown barriers for understanding the budget, Grace pointed out that we have to be engaged and learning both in-person and online&lt;/p&gt;
+
+&lt;h3 id=&quot;working-to-gamify-the-budget&quot;&gt;Working to Gamify the budget&lt;/h3&gt;
+&lt;p&gt;With that in mind Glasshouse Policy and Austin Monitor have teamed up for a &lt;a href=&quot;https://www.eventbrite.com/e/budget-game-night-tickets-26423729085&quot;&gt;budget game night that’s happening tomorrow&lt;/a&gt;, August 16th at 6:00pm.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.austinmonitor.com/&quot;&gt;Austin Monitor&lt;/a&gt; is a locally focused government reporting website. They wants to provide locals with a clear picture of what is going on in Austin. They do this by reporting in an intentionally neutral tone that helps readers make their own judgments on local politics.&lt;/p&gt;
+
+&lt;p&gt;They believe that by collaborating to gamify the budget they can help folks understand where and how city money is spent and where it comes from. This is just one step to allowing more people to get involved and influence decisions that go into make the city budget.&lt;/p&gt;
+
+&lt;p&gt;Past involvment with volunteers, notably the &lt;a href=&quot;http://www.budgetboxapp.com/welcome&quot;&gt;Budget-in-a-Box&lt;/a&gt; app, has made the City of Austin rethink how they present the budget and continued engagement. Currently the city has a different budgeting platform for citizen engagement, &lt;a href=&quot;https://austintx.budgetsimulator.com/&quot;&gt;Dollars &amp;amp; Sense&lt;/a&gt;. Though similar to Budget-in-a Box, Dollars &amp;amp; Sense prompts users to enter home value. An action that the rest of the experience then relies on to illustrate tax and utility bill changes.&lt;/p&gt;
+
+&lt;p&gt;The game night and newest iteration of a budgeting app that Open Austin is helping to build, ensure that the conversation around participatory budgeting and citizen engagement continues.&lt;/p&gt;
+
+&lt;h2 id=&quot;mozilla-gigabit-community-fund&quot;&gt;Mozilla Gigabit Community Fund&lt;/h2&gt;
+&lt;p&gt;Robert Friedman came to introduce &lt;a href=&quot;https://www.mozilla.org/en-US/gigabit/&quot;&gt;Mozilla Gigabit Community Fund&lt;/a&gt; to the community. Friedman said that Mozilla was in town to take advantage of the Google Fiber network in Austin. They hope to Build and fund educational resources that use gigabyte speed connections to advance learning opportunity for young people, explore big data, synchronized collaboration, and more.&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in developing in the education sphere then Mozilla has a fund allocated for prototyping and growing projects out.&lt;/p&gt;
+
+&lt;p&gt;For more information contact Robert Friedman via email at robert@mozillafoundation.org&lt;/p&gt;
+
+&lt;h2 id=&quot;open-government-partnership-update&quot;&gt;Open Government Partnership Update&lt;/h2&gt;
+&lt;p&gt;Kerry O’Connor from the Innovation Office gave us an update on the Open Gov Partnership that the city accepted earlier this year. Kerry informed the group that we are the only U.S city apart of a subnational pilot program for Open Government and the program currently has us paired with Ireland with whom we support and share knowledge with. Open Austin, Leadership Austin, Vision Zero ATX, and the City of Austin are helping push this program forward.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&amp;quot;This isn&amp;#39;t an imagine Austin kind of thing. This is an implement Austin kind of thing&amp;quot;- &lt;a href=&quot;https://twitter.com/kerry_atx&quot;&gt;@kerry_atx&lt;/a&gt; on the Open Government Partnership&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/755202029467893760&quot;&gt;July 19, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;For the partnership the city not only declare its commitments for being more open, it is also held more accountable. Austin have 1 year to put in place any commitments that we come up with and they must be co-created with civil society.&lt;/p&gt;
+
+&lt;p&gt;During &lt;a href=&quot;http://cityofaustin.github.io/open-gov-partnership/&quot;&gt;ATX Hack for Change a site was launched&lt;/a&gt; for the campaign and currently the team needs some help updating it among other task for their campaign to commitment.&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in getting involved there is an [OpenGov channel in the Open Austin Slack] 
+(https://open-austin.slack.com/messages/opengovpartnership/) where you can ask questions and engage.&lt;/p&gt;
+
+&lt;p&gt;View &lt;a href=&quot;https://docs.google.com/presentation/d/1sWrJSMndCjpB4cJy8IVRB7km4PsTrz6ue74wrj_dYEg/edit#slide=id.g15df7ec05d_0_11&quot;&gt;Kerry’s Full Presentation&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;direct-democracy&quot;&gt;Direct Democracy&lt;/h2&gt;
+&lt;p&gt;Braden Latham-Jones- D4 Outreach Director gave a quick presentation on budgeting.&lt;/p&gt;
+
+&lt;p&gt;Braden explained our strong manager, weak mayor system in Austin and described how the manager purposes a budget to city council that is then ameneded and improved.&lt;/p&gt;
+
+&lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
+
+&lt;p&gt;Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
+&lt;br /&gt;
+RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow us on Twitter&lt;/a&gt;
+&amp;amp; &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like us on Facebook&lt;/a&gt;&lt;/p&gt;
+
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Mon, 15 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://open-austin.github.io//blog/2016/08/15/july-meetup-recap</link>
+        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/08/15/july-meetup-recap</guid>
+        
+        
+      </item>
     
       <item>
         <title>Lightning Talks: June 20 Open Gov &amp; Civic Tech Meetup Recap</title>
@@ -46,7 +119,7 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 </description>
-        <pubDate>Thu, 23 Jun 2016 00:00:00 -0600</pubDate>
+        <pubDate>Thu, 23 Jun 2016 00:00:00 -0500</pubDate>
         <link>http://open-austin.github.io//blog/2016/06/23/lightning-talk-recap</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/06/23/lightning-talk-recap</guid>
         
@@ -160,7 +233,7 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
 
 &lt;p&gt;To help advance the study of housing availability, Open Austin will make it a priority to convince the city to collect specific data from permit applicants about how many units are being added or removed from the housing supply, and to open up any other data the city has about housing supply from other sources. If you’re interested in improving the permit application process, also visit Open Austin’s &lt;a href=&quot;https://github.com/open-austin/project-ideas/issues/68&quot;&gt;project to improve the city’s building permit website&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 13 Jun 2016 00:00:00 -0600</pubDate>
+        <pubDate>Mon, 13 Jun 2016 00:00:00 -0500</pubDate>
         <link>http://open-austin.github.io//blog/2016/06/13/quantifying-austins-housing-supply</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/06/13/quantifying-austins-housing-supply</guid>
         
@@ -189,7 +262,7 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
 
 &lt;p&gt;&lt;strong&gt;Please, between now and 6/23, &lt;a href=&quot;https://www.austintexas.gov/email/all-council-members&quot;&gt;call or email the offices of the mayor and your council member&lt;/a&gt; to support the bill without amendments.&lt;/strong&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 12 Jun 2016 00:00:00 -0600</pubDate>
+        <pubDate>Sun, 12 Jun 2016 00:00:00 -0500</pubDate>
         <link>http://open-austin.github.io//blog/2016/06/12/finding-a-story-in-austins-lobbying-data</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/06/12/finding-a-story-in-austins-lobbying-data</guid>
         
@@ -376,7 +449,7 @@ Follow us on Twitter: &lt;a href=&quot;https://twitter.com/openaustin?lang=en&qu
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 </description>
-        <pubDate>Tue, 07 Jun 2016 00:00:00 -0600</pubDate>
+        <pubDate>Tue, 07 Jun 2016 00:00:00 -0500</pubDate>
         <link>http://open-austin.github.io//blog/2016/06/07/Recap-ATX-Hack-for-Change-2016</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/06/07/Recap-ATX-Hack-for-Change-2016</guid>
         
@@ -441,7 +514,7 @@ Follow us on Twitter: &lt;a href=&quot;https://twitter.com/openaustin?lang=en&qu
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 </description>
-        <pubDate>Sun, 29 May 2016 00:00:00 -0600</pubDate>
+        <pubDate>Sun, 29 May 2016 00:00:00 -0500</pubDate>
         <link>http://open-austin.github.io//blog/2016/05/29/Recap-Designing-for-Civic-Solutions</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/05/29/Recap-Designing-for-Civic-Solutions</guid>
         
@@ -490,7 +563,7 @@ RSVP for our next event on &lt;a href=&quot;http://www.meetup.com/Open-Austin/&q
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 </description>
-        <pubDate>Sat, 28 May 2016 00:00:00 -0600</pubDate>
+        <pubDate>Sat, 28 May 2016 00:00:00 -0500</pubDate>
         <link>http://open-austin.github.io//blog/2016/05/28/may-open-gov-civic-tech-meetup-recap</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/05/28/may-open-gov-civic-tech-meetup-recap</guid>
         
@@ -533,7 +606,7 @@ RSVP for our next event on &lt;a href=&quot;http://www.meetup.com/Open-Austin/&q
 
 &lt;p&gt;In conclusion, I thoroughly enjoyed the workshop, and hope that some of the ideas from attendees might solve the issue of mobility in Austin. It was incredible getting out in the field to conduct research, and listen to Austinites share their stories. Learning and applying AC4D alumni’s human-centered design process was also quite rewarding in many ways.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 04 May 2016 00:00:00 -0600</pubDate>
+        <pubDate>Wed, 04 May 2016 00:00:00 -0500</pubDate>
         <link>http://open-austin.github.io//blog/2016/05/04/my-day-as-a-uxer-designing-for-civic-solutions</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/05/04/my-day-as-a-uxer-designing-for-civic-solutions</guid>
         
@@ -588,7 +661,7 @@ RSVP for our next event on &lt;a href=&quot;http://www.meetup.com/Open-Austin/&q
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
 </description>
-        <pubDate>Sun, 24 Apr 2016 00:00:00 -0600</pubDate>
+        <pubDate>Sun, 24 Apr 2016 00:00:00 -0500</pubDate>
         <link>http://open-austin.github.io//blog/2016/04/24/open-gov-civic-tech-austin-atlas-recap</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/04/24/open-gov-civic-tech-austin-atlas-recap</guid>
         
@@ -611,67 +684,9 @@ RSVP for our next event on &lt;a href=&quot;http://www.meetup.com/Open-Austin/&q
 
 &lt;p&gt;&lt;strong&gt;###&lt;/strong&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 18 Apr 2016 00:00:00 -0600</pubDate>
+        <pubDate>Mon, 18 Apr 2016 00:00:00 -0500</pubDate>
         <link>http://open-austin.github.io//blog/2016/04/18/open-austin-collaborates-with-ac4d-alumni-to-host-workshop</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/04/18/open-austin-collaborates-with-ac4d-alumni-to-host-workshop</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Designing for Civic Solutions Workshop</title>
-        <description>&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; Sat, April 23, 2016
-&lt;br /&gt;&lt;strong&gt;Time:&lt;/strong&gt; 10:00 am – 4:45 pm
-&lt;br /&gt;&lt;strong&gt;Location:&lt;/strong&gt; Little Walnut Creek Branch, Austin Public Library - 835 West Rundberg Lane, Austin, TX 78758  (&lt;a href=&quot;https://www.google.com/maps/dir/30.2304666,-97.7374643/30.3636444,-97.6983433/@30.2861351,-97.7667604,12z/data=!4m4!4m3!1m1!4e1!1m0&quot;&gt;map&lt;/a&gt;)
-&lt;br /&gt;&lt;a href=&quot;https://www.eventbrite.com/e/designing-for-civic-solutions-workshop-tickets-24534044989&quot;&gt;&lt;strong&gt;REGISTER NOW&lt;/strong&gt;
-&lt;/a&gt;
-&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Designing for Civic Solutions&lt;/strong&gt; is a one-day workshop and collaboration between Open Austin and Austin Center for Design (AC4D) alumni to teach community members how to use a human-centered design process to focus on social impact.&lt;/p&gt;
-
-&lt;p&gt;Workshop attendees will engage in ethnographic research, synthesis, and rapid ideation centered on the theme of “mobility in Austin”. They will be empowered to use these skills to research, design, and prototype other civic tech and social good projects important to them and their surrounding communities. To learn this process they will form small groups focusing on different aspects of mobility in Austin around the Rundberg neighborhood.&lt;/p&gt;
-
-&lt;p&gt;The event will be free and open to the public. No design or development skills are necessary to attend this workshop.&lt;/p&gt;
-
-&lt;h3 id=&quot;goals-for-this-workshop&quot;&gt;Goals for this workshop&lt;/h3&gt;
-&lt;p&gt;Upon completion of the workshop, Participants will learn how to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Contribute their research and ideas to the existing pressing issue of mobility in Austin&lt;/li&gt;
-  &lt;li&gt;Conduct human-centered research around the theme of mobility&lt;/li&gt;
-  &lt;li&gt;Translate their research into meaningful insights&lt;/li&gt;
-  &lt;li&gt;Practice ideation methods based on their insights from the field&lt;/li&gt;
-  &lt;li&gt;Use storyboarding as a way to prototype ideas&lt;/li&gt;
-  &lt;li&gt;Apply this process and these skills to future projects&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;workshop-facilitators&quot;&gt;Workshop Facilitators&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Eric Boggs&lt;/strong&gt; is an interaction designer at Blackboard in Austin, TX, focused on designing mobile applications for students.  He believes in the power of design to help address large scale social issues, and has completed a variety of research projects on student loan debt, family caregiving, and healthy shopping to inform product and service innovation.  Eric graduated from the Austin Center for Design in 2013.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bhavini Patel&lt;/strong&gt; is a freelance UX Experience Researcher &amp;amp; Interaction Designer.  Bhavini has worked in collaboration with Projekt202, Chaotic Moon Studios, Wondros, Zogotech and Saatchi and Saatchi.  She is a graduate of Austin Center for Design and splits her time between Los Angeles and Austin.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Laura Galos&lt;/strong&gt; is a design researcher at IBM in Austin, Texas. Her past projects include research in aging and family dynamics, service design, and ad technology. She is a 2015 graduate of Austin Center for Design with certification in Interaction Design and Social Entrepreneurship.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;James Lewis&lt;/strong&gt; is a curious, passionate interaction designer who likes to embrace the ambiguity of complex problems, creating clear solutions for both the end user and client. He previously worked to change hearts and minds in the political advocacy and non profit arenas. Now he works as a user experience designer at IBM designing products for developers who work with big data.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Samara Watkiss&lt;/strong&gt; arrived at interaction design as a profession and calling by pursuing the most inspiring aspects of her work as a set designer, pedal-powered machine builder, graphic designer and refugee-liaison and asking how they all connected. After several years of working as an Interaction in Boston, she moved to Austin, TX to complete a degree in Interaction Design and Social Entrepreneurship at the Austin Center for Design. She now leads a human-centered design initiative for a local cyber security company.&lt;/p&gt;
-
-&lt;h3 id=&quot;this-event-is-conducted-under-the-open-austin-code-of-conduct&quot;&gt;This event is conducted under the Open Austin Code of Conduct&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.open-austin.org/about/code-of-conduct&quot;&gt;http://www.open-austin.org/about/code-of-conduct
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;this-event-is-made-possible-by-generous-donations-from&quot;&gt;This event is made possible by generous donations from:&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/images/usaa.png&quot; alt=&quot;USAA Logo&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;/assets/images/austin-cityup.png&quot; alt=&quot;Austin CityUp Logo&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;/assets/images/hubciti.png&quot; alt=&quot;HubCiti Logo&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;/assets/images/austin-b-cycle.png&quot; alt=&quot;Austin B-Cycle Logo&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;/assets/images/ibm-design.png&quot; alt=&quot;IBM Design Logo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;Presented by 
-&lt;br /&gt;Open Austin in Collaboration with &lt;a href=&quot;http://www.ac4d.com/&quot;&gt;Austin Center for Design&lt;/a&gt; Alumni&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Apr 2016 00:00:00 -0600</pubDate>
-        <link>http://open-austin.github.io//blog/2016/04/12/designing-for-civic-solutions-workshop</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/04/12/designing-for-civic-solutions-workshop</guid>
         
         
       </item>

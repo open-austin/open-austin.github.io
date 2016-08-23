@@ -1,0 +1,66 @@
+---
+---
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+  {% include header.html %}
+
+    <div class="page-content">
+    	<div class = "welcome-wrapper">
+    		<div class = "welcome-screen" id = "welcome">
+				<h1>Welcome!</h1>
+				<input placeholder = "email@address.com"></input>
+				<a href = "#thanks"><div class = "btn2">
+				<h4>Continue</h4>
+				</div></a>
+			</div>
+			<div class = "welcome-screen" id = "thanks">
+				<h1>Thanks!</h1>
+				<p>We’re glad you made it today. We’ll get started with today’s meeting soon if we haven’t already.</p>
+				<a href = "../announcements"><div class = "btn2">
+					<h4>View Announcements</h4>
+				</div>
+				</a>
+				<a href = "../about">
+					<div class = "btn2">
+						<h4>Learn More</h4>
+					</div>
+				</a>
+			</div>
+			<div class = "welcome-screen" id = "signup">
+				<h1>Sign Up!</h1>
+				<p>We ask attendees to 
+				fill out this form to
+				help us manage swag,
+				track retention,
+				and improve our 
+				onboarding process.</p>
+				<a href = "#name">
+				<div class = "btn2">
+					<h4>Continue</h4>
+				</div>
+				</a>
+			</div>
+			<div class = "welcome-screen" id = "name">
+				<h1>Name</h1>
+				<input placeholder = "Firstname Lastname"></input>
+				<a href = "#thanks">
+				<div class = "btn2">
+					<h4>Continue</h4>
+				</div>
+				</a>
+			</div>
+		</div>
+    </div>
+
+      {% include footer.html %}
+
+
+  </body>
+
+  {% include google-analytics.html %}
+
+</html>

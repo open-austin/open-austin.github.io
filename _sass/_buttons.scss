@@ -12,6 +12,21 @@
     }
 }
 
+.btn2 {
+    padding: 5px 10px;
+    border-radius: 3px;
+    background-color: $color-primary;
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 10px;
+    &:hover {
+        border: solid 2px $orange-color;
+        text-decoration: none;
+        color: $orange-color;
+        background: #fff;
+    }
+}
+
 // TODO this could be refactored into a mixin...
 .btn-experiment-project {
     color: $cfa-experiment-purple;
