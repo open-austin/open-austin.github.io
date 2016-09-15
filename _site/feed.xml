@@ -5,9 +5,74 @@
     <description>Open Austin is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. We are an official brigade affiliated with the nonprofit Code for America which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.</description>
     <link>http://open-austin.github.io//</link>
     <atom:link href="http://open-austin.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Aug 2016 14:57:43 -0500</pubDate>
-    <lastBuildDate>Tue, 23 Aug 2016 14:57:43 -0500</lastBuildDate>
-    <generator>Jekyll v3.1.2</generator>
+    <pubDate>Tue, 13 Sep 2016 00:05:12 -0500</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2016 00:05:12 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>August Open Gov &amp; Civic Tech Meetup Recap-Transportation &amp; Sensors</title>
+        <description>&lt;h3 id=&quot;ut-center-for-transportation-research&quot;&gt;UT Center for Transportation Research&lt;/h3&gt;
+
+&lt;p&gt;For our August meeting we invited Jen Duthie (&lt;a href=&quot;https://twitter.com/jenduthie?lang=en&quot;&gt;twitter&lt;/a&gt;) &amp;amp; Itamar Gal, from the &lt;a href=&quot;https://ctr.utexas.edu/&quot;&gt;UT Center for Transportation Research Network Modeling Center&lt;/a&gt; to speak about recent initiatives utilizing Austin Transportation Department sensor data.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Dr. &lt;a href=&quot;https://twitter.com/jenduthie&quot;&gt;@JenDuthie&lt;/a&gt; &amp;amp; Itamar Gal of &lt;a href=&quot;https://twitter.com/CTRUTAustin&quot;&gt;@CTRUTAustin&lt;/a&gt; describe the &lt;a href=&quot;https://twitter.com/hashtag/transportation?src=hash&quot;&gt;#transportation&lt;/a&gt; Data Rodeo concept to &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt;  &lt;a href=&quot;https://t.co/ZEdVgDsPFh&quot;&gt;https://t.co/ZEdVgDsPFh&lt;/a&gt;&lt;/p&gt;&amp;mdash; Steven Polunsky (@StevenPolunsky) &lt;a href=&quot;https://twitter.com/StevenPolunsky/status/765347403230621697&quot;&gt;August 16, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;connecting-the-data&quot;&gt;Connecting the Data&lt;/h3&gt;
+
+&lt;p&gt;Duthie shared some of the difficulties in knowing who is collecting what transit data and what tools there are using to understand and share it. Duthie said “the gap [for collaboration] is so big and it doesn’t really need to be there.” She highlighted the need “to cut through the red tape” and make transportation data more accessible.&lt;/p&gt;
+
+&lt;p&gt;Because of this UTCTR is working on &lt;a href=&quot;datarodeo.org&quot;&gt;Data Rodeo&lt;/a&gt;. The idea for Data Rodeo came out the City of Austin’s bid for the Department of Transportation  &lt;a href=&quot;http://kxan.com/2016/06/21/austin-loses-out-on-50-million-smart-city-bid/&quot;&gt;Smart Cities grant&lt;/a&gt; that was ultimately awarded to Pittsburg. It focuses on the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Access to data &amp;amp; Tool&lt;/li&gt;
+  &lt;li&gt;Innovation &amp;amp; Collaboration&lt;/li&gt;
+  &lt;li&gt;Data centric research &amp;amp; Learning&lt;/li&gt;
+  &lt;li&gt;Enabling Smart Cities&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&amp;quot;Getting access to data is slow but we are making huge strides&amp;quot; - Jen Duthie from &lt;a href=&quot;https://twitter.com/CTRUTAustin&quot;&gt;@CTRUTAustin&lt;/a&gt; &lt;a href=&quot;https://t.co/2tsIEdkuzH&quot;&gt;pic.twitter.com/2tsIEdkuzH&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/765348647114465280&quot;&gt;August 16, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;sensors&quot;&gt;Sensors&lt;/h3&gt;
+
+&lt;p&gt;Itamar Gal finished out the the presentation. He stated that although collecting transportation data and collaboration are great, they’re not necessarily a city priority right now. Though this is true, the city currently has sensors that are collecting data at many intersections. He challenged the group to find uses for the data to help push interest and investment in the sensors and data.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Itamar shows a map where current static bluetooth sensors are located in the city. &lt;a href=&quot;https://t.co/eYM3a9e3jf&quot;&gt;pic.twitter.com/eYM3a9e3jf&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/765351053193728002&quot;&gt;August 16, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Itamar showed the group a map that shows all the Bluetooth sensors that the city has. The current Bluetooth sensors are field sensor devices and sit statically at intersections or near them. The Bluetooth sensors look for devices with active Bluetooth (which could be pedestrians, cyclists, cars with Bluetooth-enabled stereo). When an active Bluetooth device is nearby, the sensor logs the time, the location of the sensor, and a hash of the device’s MAC address. Using the hashed MAC address, you could track a device as it travels between sensors to get an idea of the travel time.&lt;/p&gt;
+
+&lt;p&gt;The radar sensors have the potential to be more useful than the Bluetooth sensors because it could not only detect pedestrians, cyclists, and cars without active Bluetooth devices, but could also measure their speed.&lt;/p&gt;
+
+&lt;p&gt;After displaying the data, Itamar highlighted that it would be great to expand the network. Jen Pointed out the city is struggling between starting and maintaining the own network or paying for subscription of data from other entities.&lt;/p&gt;
+
+&lt;p&gt;Itamar concluded with am animated heatmap of the bluetooth sensor reading throughout the day with CardoDB. He believes the community could do interesting things with the data. Jen said that “we put out our reports and show our story but want to give other people the chance to let other stories emerge.”&lt;/p&gt;
+
+&lt;p&gt;To get involved, give feedback, or ask questions then you can email Jen Duthie, Ph.D., PE at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#106;&amp;#100;&amp;#117;&amp;#116;&amp;#104;&amp;#105;&amp;#101;&amp;#064;&amp;#117;&amp;#116;&amp;#101;&amp;#120;&amp;#097;&amp;#115;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&quot;&gt;&amp;#106;&amp;#100;&amp;#117;&amp;#116;&amp;#104;&amp;#105;&amp;#101;&amp;#064;&amp;#117;&amp;#116;&amp;#101;&amp;#120;&amp;#097;&amp;#115;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&lt;/a&gt; or Itamar Gal, Ph.D. at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#105;&amp;#103;&amp;#097;&amp;#108;&amp;#064;&amp;#117;&amp;#116;&amp;#101;&amp;#120;&amp;#097;&amp;#115;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&quot;&gt;&amp;#105;&amp;#103;&amp;#097;&amp;#108;&amp;#064;&amp;#117;&amp;#116;&amp;#101;&amp;#120;&amp;#097;&amp;#115;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;presentation-slides&quot;&gt;Presentation Slides&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/documents/CTR_OpenAustin_081516.pdf&quot;&gt;Center for Transportation Research Presentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1_ZxJEOcp_P1PYRp-fbb82GPT6YiTbn90X5nUb8RAox4/edit?usp=sharing&quot;&gt;Open Austin General Announcement Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
+
+&lt;p&gt;Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
+&lt;br /&gt;
+RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow us on Twitter&lt;/a&gt;
+&amp;amp; &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like us on Facebook&lt;/a&gt;&lt;/p&gt;
+
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Mon, 12 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://open-austin.github.io//blog/2016/09/12/aug-meetup-recap</link>
+        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/09/12/aug-meetup-recap</guid>
+        
+        
+      </item>
     
       <item>
         <title>July Open Gov &amp; Civic Tech Meetup Recap-Hacking the Budget</title>
@@ -53,7 +118,7 @@
 
 &lt;p&gt;During &lt;a href=&quot;http://cityofaustin.github.io/open-gov-partnership/&quot;&gt;ATX Hack for Change a site was launched&lt;/a&gt; for the campaign and currently the team needs some help updating it among other task for their campaign to commitment.&lt;/p&gt;
 
-&lt;p&gt;If you’re interested in getting involved there is an [OpenGov channel in the Open Austin Slack] 
+&lt;p&gt;If you’re interested in getting involved there is an [OpenGov channel in the Open Austin Slack]
 (https://open-austin.slack.com/messages/opengovpartnership/) where you can ask questions and engage.&lt;/p&gt;
 
 &lt;p&gt;View &lt;a href=&quot;https://docs.google.com/presentation/d/1sWrJSMndCjpB4cJy8IVRB7km4PsTrz6ue74wrj_dYEg/edit#slide=id.g15df7ec05d_0_11&quot;&gt;Kerry’s Full Presentation&lt;/a&gt;&lt;/p&gt;
@@ -61,7 +126,7 @@
 &lt;h2 id=&quot;direct-democracy&quot;&gt;Direct Democracy&lt;/h2&gt;
 &lt;p&gt;Braden Latham-Jones- D4 Outreach Director gave a quick presentation on budgeting.&lt;/p&gt;
 
-&lt;p&gt;Braden explained our strong manager, weak mayor system in Austin and described how the manager purposes a budget to city council that is then ameneded and improved.&lt;/p&gt;
+&lt;p&gt;Braden explained our strong manager, weak mayor system in Austin and described how the manager purposes a budget to city council that is then amended and improved.&lt;/p&gt;
 
 &lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
 
@@ -93,7 +158,7 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
   &lt;li&gt;&lt;a href=&quot;https://github.com/dhernandex&quot;&gt;Diego Hernandez&lt;/a&gt; - &lt;a href=&quot;http://dhernandex.github.io/sass-color-functions/presentation/#/&quot;&gt;The Power of Sass Color Functions&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://twitter.com/nikolac88&quot;&gt;Nik Collins&lt;/a&gt; - &lt;a href=&quot;http://commute.ly/#!/&quot;&gt;Commute.ly&lt;/a&gt; - &lt;a href=&quot;https://github.com/open-austin/iced-coffee/files/324749/commutely-austin-open.pdf&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://twitter.com/Victoria_ODell&quot;&gt;Victoria O’Dell&lt;/a&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1F0jLB3vJsLLRAXzVwLVB0cr0PGwm_2h33GQquZHzkR0/edit?usp=sharing&quot;&gt;Permitting Application Wizard&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/AmalieBarras&quot;&gt;Amalie Barras&lt;/a&gt; - &lt;a href=&quot;https://github.com/open-austin/iced-coffee/files/324766/PANDA.Lightnin.pdf&quot;&gt;Community Data Portal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/AmalieBarras&quot;&gt;Amalie Barras&lt;/a&gt; - &lt;a href=&quot;https://github.com/open-austin/iced-coffee/files/324766/PANDA.Lightnin.pdf&quot;&gt;Community Data Portal&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1aJPnMyh-PBQ0HTfA1dNPRzrZT2949-P5ww5U_2Tab6U/edit?usp=sharing&quot;&gt;Open Austin Announcements &amp;amp; Upcoming Events Deck&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -413,7 +478,7 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a href=&quot;http://www.austintexas.gov/dollarsandsense&quot;&gt;Austin Budget Simulator&lt;/a&gt; 🏛&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a href=&quot;http://Impactmap.us&quot;&gt;Impact Map&lt;/a&gt; - Giving Decisions Based on Big Data&lt;/td&gt;
@@ -425,7 +490,7 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Tiny Hacker House&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Mapping Austin’s Culture 🏛&lt;/td&gt;
@@ -664,29 +729,6 @@ RSVP for our next event on &lt;a href=&quot;http://www.meetup.com/Open-Austin/&q
         <pubDate>Sun, 24 Apr 2016 00:00:00 -0500</pubDate>
         <link>http://open-austin.github.io//blog/2016/04/24/open-gov-civic-tech-austin-atlas-recap</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/04/24/open-gov-civic-tech-austin-atlas-recap</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Press Release - Open Austin Collaborates with AC4D Alumni to Host Workshop</title>
-        <description>&lt;h3 id=&quot;collaboration-seeks-to-bring-design-methodology-to-civic-tech-in-austin&quot;&gt;Collaboration seeks to bring design methodology to civic tech in Austin&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Austin, TX:&lt;/strong&gt; Open Austin, a volunteer-driven civic tech organization, will host a one-day workshop on Saturday, April 23rd. The workshop is a day of collaboration between Open Austin and &lt;a href=&quot;ac4d.com&quot;&gt;Austin Center for Design (AC4D)&lt;/a&gt; alumni to teach community members how human-centered design improves social impact when working on civic projects. The workshop is being held at Little Walnut Creek Library at 835 West Rundberg Lane. The event is free and open to the public and attendees must &lt;a href=&quot;https://www.eventbrite.com/e/designing-for-civic-solutions-workshop-tickets-24534044989&quot;&gt;register via Eventbrite&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The theme of the workshop is designing for “Mobility in Austin”. The focus will be on transportation issues in the area. “As mobility discussions are happening all over the city, Open Austin presents a unique model for working collaboratively to solve a community’s pressing mobility challenges,” said Daniela Nuñez, Co-Vice President of the Georgian Acres Neighborhood Association. Nuñez will be giving a short presentation to workshop attendees about the the history of the area and the issues that are most prominent.&lt;/p&gt;
-
-&lt;p&gt;“I believe events like this are important steps towards future collaboration between community leaders, designers, technologists, and interested citizens.” said Eric Boggs, AC4D Alumni Coordinator and host facilitator. “If we’re going to do anything truly innovative or useful beyond the status quo to address our civic issues, it will take a shared understanding of what problem needs solving and for whom. Human Centered Design can provide that framework.”&lt;/p&gt;
-
-&lt;p&gt;Through this collaboration the Open Austin hopes attendees will contribute research and ideas to existing issues of mobility in Austin. Furthermore, the workshop will give attendees the opportunity to learn human-centered design research methodologies, and empower attendees with new skills and knowledge to apply to current and future projects. Donations from local organizations Austin CityUp, HubCiti, Austin B-Cycle, USAA, and IBM Design helped make this event possible.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;About Open Austin:&lt;/strong&gt; Open Austin, is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. They are an official brigade affiliated with the nonprofit Code for America, which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of the community and uses design, technology, and open data to advocate for improved quality of life in Austin, Texas.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;###&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 18 Apr 2016 00:00:00 -0500</pubDate>
-        <link>http://open-austin.github.io//blog/2016/04/18/open-austin-collaborates-with-ac4d-alumni-to-host-workshop</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/04/18/open-austin-collaborates-with-ac4d-alumni-to-host-workshop</guid>
         
         
       </item>
