@@ -4,7 +4,7 @@ title: September Open Gov & Civic Tech Meetup Recap-Data.World
 date: 2016-09-25
 type: post
 published: true
-thumb: /assets/images/september-meetup.jpg
+thumb: /assets/images/september-meetup.png
 thumbalt: Doug Matthews stands at a podium with his slides being displayed behind him. 
 author:
   first_name: Victoria
