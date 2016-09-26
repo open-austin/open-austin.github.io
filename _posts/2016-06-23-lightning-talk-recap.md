@@ -20,7 +20,7 @@ From data portals to GeoJason our presenters introduces both non-technical and t
 *   [Paul Serraino](https://github.com/paulserraino) - [GeoJason + React + Leaflet](http://paulserraino.com/geojson-talk/#/Law.on.Web.slides.pdf)
 *   [Diego Hernandez](https://github.com/dhernandex) - [The Power of Sass Color Functions](http://dhernandex.github.io/sass-color-functions/presentation/#/)
 *   [Nik Collins](https://twitter.com/nikolac88) - [Commute.ly](http://commute.ly/#!/) - [Slides](https://github.com/open-austin/iced-coffee/files/324749/commutely-austin-open.pdf)
-*   [Victoria O'Dell](https://twitter.com/Victoria_ODell)[Permitting Application Wizard](https://docs.google.com/presentation/d/1F0jLB3vJsLLRAXzVwLVB0cr0PGwm_2h33GQquZHzkR0/edit?usp=sharing)
+*   [Victoria O'Dell](https://twitter.com/Victoria_ODell) - [Permitting Application Wizard](https://docs.google.com/presentation/d/1F0jLB3vJsLLRAXzVwLVB0cr0PGwm_2h33GQquZHzkR0/edit?usp=sharing)
 *   [Amalie Barras](https://twitter.com/AmalieBarras) - [Community Data Portal](https://github.com/open-austin/iced-coffee/files/324766/PANDA.Lightnin.pdf)
 *   _[Open Austin Announcements & Upcoming Events Deck](https://docs.google.com/presentation/d/1aJPnMyh-PBQ0HTfA1dNPRzrZT2949-P5ww5U_2Tab6U/edit?usp=sharing)_
 
