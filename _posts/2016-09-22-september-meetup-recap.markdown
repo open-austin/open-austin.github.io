@@ -16,7 +16,7 @@ This past [Monday's Open Government and Civic Technology meetup](https://www.mee
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Getting started! 🙌🏼 <a href="https://t.co/OmIGqIydo5">pic.twitter.com/OmIGqIydo5</a></p>&mdash; Open Austin (@openaustin) <a href="https://twitter.com/openaustin/status/778021336891346945">September 20, 2016</a></blockquote>
 
 
-##Community Registry: an Unexpected Journey
+## Community Registry: an Unexpected Journey
 
 Doug Matthews started the meeting by outlining the current state of the [Austin Community Registry](assets/documents/community_registry_pitch.pdf). As described by [data.gov](http://www.austintexas.gov/page/community-registry-search)—a community registry is a tool that allows for "neighborhoods and others to be notified of issues relating to their area".
 
@@ -31,7 +31,7 @@ There are a lot of challenges and opportunities in working on the community regi
 
 [View and Download Doug Matthews slides.](assets/documents/community_registry_pitch.pdf)
 
-##Open Data Wants to Be Linked
+## Open Data Wants to Be Linked
 
 The night concluded with Jonathan Ortiz, a data scientist from [Data.world](https://data.world/). 
 
