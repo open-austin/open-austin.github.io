@@ -25,7 +25,7 @@ Doug Matthews started the meeting by outlining the current state of the [Austin 
 
 Matthews highlighted the current complexities of filling out the Austin registry and keeping it up to date. His slide examples showed how time consuming and frustrating current processes are. It is clear that a better and more interactive solution is needed. Streamlining the registry application and giving it more interactive capabilities would increase the value and functionality of this important community resource. 
 
-Because of this, Google and the city are partnering up to push this project forward and find help to create the best solution for Austin. 
+Because of this, Google Fiber and the city are partnering up to push this project forward and find help to create the best solution for Austin. 
 
 There are a lot of challenges and opportunities in working on the community registry. You can get engaged and help tackle them by checking out the [open project issue on github](https://github.com/open-austin/project-ideas/issues/78) or reaching out to Doug by emailing douglas.matthews@austintexas.gov.
 
