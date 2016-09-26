@@ -44,7 +44,7 @@ He continued to explain that a lot of the data, though open and available, is be
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Data providers are disconnected from data users. They load it in and you pull it out.&quot;  - Jonathon Ortiz of <a href="https://twitter.com/datadotworld">@datadotworld</a> <a href="https://t.co/z16mIT9iVs">pic.twitter.com/z16mIT9iVs</a></p>&mdash; Open Austin (@openaustin) <a href="https://twitter.com/openaustin/status/778046012560510976">September 20, 2016</a></blockquote>
 
 
-Having a social platform isn't the only way to share data though. Linked data holds many possibilites and it's something the folks at Data.world are working on. [Linked data](http://linkeddata.org/) is what makes up the semantic web, which is also sometimes called a Research Description Network or RDF. When you upload your data to Data.world there is the opportunity to link it. 
+Having a social platform isn't the only way to share data though. Linked data holds many possibilites and it's something the folks at Data.world are working on. [Linked data](http://linkeddata.org/) is what makes up the semantic web, which is also sometimes called a Research Description Framework or RDF. When you upload your data to Data.world there is the opportunity to link it. 
 
 Linking data joins the data sets to others by following a set data model. This enables the data to be better understood by machines and thus allows users to discover more insights. 
 
