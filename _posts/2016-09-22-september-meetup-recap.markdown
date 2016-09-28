@@ -29,7 +29,7 @@ Because of this, Google Fiber and the city are partnering up to push this projec
 
 There are a lot of challenges and opportunities in working on the community registry. You can get engaged and help tackle them by checking out the [open project issue on github](https://github.com/open-austin/project-ideas/issues/78) or reaching out to Doug by emailing douglas.matthews@austintexas.gov.
 
-[View and Download Doug Matthews slides.](assets/documents/community_registry_pitch.pdf)
+[View and Download Doug Matthews slides.](/assets/documents/community_registry_pitch.pdf)
 
 ## Open Data Wants to Be Linked
 
@@ -52,7 +52,7 @@ With the linked data technology, Jonathan and Data.world partnered with the US C
 
 You can get an invite for Data.world and share some of your own data sets by visiting the following link: [https://data.world/preview-signup]
 
-[View and download the full presentation that Jonathan gave.](assets/documents/linked-data-presentation.pdf)
+[View and download the full presentation that Jonathan gave.](/assets/documents/linked-data-presentation.pdf)
 
 ## Continue the Conversation
 
