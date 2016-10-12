@@ -29,6 +29,9 @@
 	- `brew install chruby`
 	- `chruby ruby 2.2.2`
 
+- Install [**jekyll**](https://github.com/postmodern/chruby) to install Jekyll.
+	- `gem install jekyll`
+
 ## Start Jekyll
 
 Once you've got everything installed, run
