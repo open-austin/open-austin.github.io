@@ -20,6 +20,7 @@ The **Open Austin Policy Team** works with local governments and public agencies
 ## Candidate Questionnaires
 Since 2011, in every City of Austin election, Open Austin submitted a policy questionnaire to all the candidates. We ask for their response on a variety of open government and important civic tech issues. We do not endorse candidates, but we do encourage voters to be informed on candidate positions.
 
+*   [2016 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2016-survey.html)
 *   [2014 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2014-austin-city-council.html)
 *   [2012 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2012-austin-city-council.html)
 *   [2011 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2011-austin-city-council.html)
