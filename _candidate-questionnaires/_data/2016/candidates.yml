@@ -1,95 +1,98 @@
 - name: Casey Ramos
   image: images/candidates/casey-ramos.jpg
   district: 2
-  email:
-  twitter: ramos4d2a
-  website:
+  email: tx_boxer1@yahoo.com
+  twitter: Ramos4d2
+  website: https://www.facebook.com/ramos4d2/
 
 - name: Wesley Faulkner
   image: images/candidates/wesley-faulkner.jpg
   district: 2
-  email:
-  twitter: Austin4Everyonea
-  website:
+  email: wesley@austin4everyone.com
+  twitter: Austin4Everyone
+  website: www.austin4everyone.com
 
 - name: Delia Garza
   image: images/candidates/delia-garza.jpg
   district: 2
-  email:
-  twitter: dgarzaforD2a
-  website:
+  email: district2@austintexas.gov
+  twitter: dgarzaforD2
+  website: https://www.facebook.com/deliagarzadistrict2/
 
 - name: Greg Casar
   image: images/candidates/greg-casar.jpg
   district: 4
-  email:
-  twitter: gregcasara
-  website:
+  email: greg@casarforcouncil.com
+  twitter: gregcasar
+  website: casarforcouncil.com
 
 - name: Gonzalo Camacho
   image: images/candidates/gonzalo-camacho.jpg
   district: 4
-  email:
-  twitter: gonzalo_camachoa
-  website:
+  email: info@camachoassociates.com
+  twitter: gonzalo_camacho
+  website: camachoassociates.com
 
 - name: Louis Herrin III
   image: images/candidates/louis-herrin.jpg
   district: 4
-  twitter:
+  email: lchiii@stic.net
+  twitter: herrin_iii
+  website: www.facebook.com/herrinforcitycouncil/
 
 - name: Jimmy Flannigan
   image: images/candidates/jimmy-flannigan.jpg
   district: 6
-  email:
-  twitter: JimmyFlannigana
-  website:
+  email: jimmy@jimmyflannigan.com
+  twitter: JimmyFlannigan
+  website: jimmyflannigan.com
 
 - name: Don Zimmerman
   image: images/candidates/don-zimmerman.jpg
   district: 6
-  email:
-  twitter: DonZimmermanATXa
-  website:
+  email: district6@austintexas.gov
+  twitter: DonZimmermanATX
+  website: austinites-for-zimmerman.com
 
 - name: Leslie Pool
   image: images/candidates/leslie-pool.jpg
   district: 7
-  email:
-  twitter: PoolforAustina
-  website:
+  email: Leslie.Pool@austintexas.gov
+  twitter: PoolforAustin
+  website: LesliePoolCampaign.com
 
 - name: Natalie Gauldin
   image: images/candidates/natalie-gauldin.jpg
   district: 7
-  email:
-  twitter: natalieforatxa
-  website:
+  email: info@natalieforaustin.com
+  twitter: natalieforatx
+  website: natalieforaustin.com
 
 - name: Sheri Gallo
   image: images/candidates/sheri-gallo.jpg
   district: 10
-  email:
-  twitter: sherigallod10a
-  website:
+  email: Campaign@SheriGallo.com
+  twitter: sherigallod10
+  website: SheriGallo.com
 
 - name: Alison Alter
   image: images/candidates/alison-alter.jpg
   district: 10
-  email:
-  twitter: ALTERforATXa
-  website:
+  email: info@alisonalter.com
+  twitter: ALTERforATX
+  website: alisonalter.com
 
 - name: Nicholas Virden
   image: images/candidates/nicholas-virden.jpg
   district: 10
-  email:
+  email: 
   twitter: VirdenForAustin
-  website:
+  website: VirdenForAustin.com
 
 - name: Rob Walker
   image: images/candidates/rob-walker.jpg
   district: 10
-  email:
+  email: district10@rwalker.us
   twitter: WalkerforAustin
-  website:
+  website: walkerforaustin.com
+  
