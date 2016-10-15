@@ -24,52 +24,200 @@ header: true
       <input type="radio" id="tab-1" name="tab-group-1" checked>
       <label for="tab-1">District 2</label>
       <div class="tab-content">
-        <p>District 2 has 3 candidates running for City Council. Wesley Faulkner was the only candidate from District 2 to responde to our survery.</p>
+        <div class="district-candidates">
 
-        {% for candidate in site.data.2016_candidates %}
-          {% if candidate.district == 2 %}
-            <h4>{{ candidate.name }}</h4>
-            <p>{{ candidate.status }}</p>
-            <img src="{{ candidate.image }}" alt="{{ candidate.name }} portrait">
-          {% endif %}
-        {% endfor %}
+          <p>District 2 has 3 candidates running for City Council. Wesley Faulkner was the only candidate from District 2 to responde to our survery.</p>
 
-        {% for response in site.data.2016_responses %}
-          {% if response.district == "District 2" %}
-            {{ response.q1 }}
-          {% endif %}
-        {% endfor %}
+          <div class="candidate-headers">
+            {% for candidate in site.data.2016_candidates %}
+              {% if candidate.district == 2 %}
+                {% include 2016_candidate_survey/intro.html %}
+              {% endif %}
+            {% endfor %}
+          </div>
+
+          <div class="candidate-responses">
+            {% for question_group in site.data.2016_questions %}
+              <p>{{ question_group.topic }}</p>
+              {% for question in question_group.questions %}
+                <p>{{ question.text }}</p>
+
+                {% for candidate in site.data.2016_candidates %}
+                  {% if candidate.district == 2 and candidate.status == "Responded" %}
+                    {{ candidate.name }}
+                    {{ candidate.responses[question.id] }}
+                  {% endif %}
+                {% endfor %}
+
+              {% endfor %}
+            {% endfor %}
+          </div>
+
+        </div>
       </div>
     </div>
 
     <div class="tab">
       <input type="radio" id="tab-2" name="tab-group-1">
-      <label for="tab-2">District 5</label>
+      <label for="tab-2">District 4</label>
       <div class="tab-content">
-        hidasd
+        <div class="district-candidates">
+
+        <p>District 5 has X candidates running for City Council. Person was the only candidate from District % to responde to our survery.</p>
+
+        <div class="candidate-headers">
+          {% for candidate in site.data.2016_candidates %}
+            {% if candidate.district == 4 %}
+              {% include 2016_candidate_survey/intro.html %}
+            {% endif %}
+          {% endfor %}
+        </div>
+
+        <div class="candidate-responses">
+          {% for question_group in site.data.2016_questions %}
+            <p>{{ question_group.topic }}</p>
+            {% for question in question_group.questions %}
+              <p>{{ question.text }}</p>
+
+              {% for candidate in site.data.2016_candidates %}
+                {% if candidate.district == 4 and candidate.status == "Responded" %}
+                  {{ candidate.name }}
+                  {{ candidate.responses[question.id] }}
+                {% endif %}
+              {% endfor %}
+
+            {% endfor %}
+          {% endfor %}
+        </div>
+
+      </div>
       </div>
     </div>
+
+
     <div class="tab">
       <input type="radio" id="tab-3" name="tab-group-1">
-      <label for="tab-3">District 7</label>
+      <label for="tab-3">District 6</label>
       <div class="tab-content">
-        hidfa
+        <div class="district-candidates">
+
+
+        <p>District 6 has 3 candidates running for City Council. Wesley Faulkner was the only candidate from District 6 to responde to our survery.</p>
+
+        <div class="candidate-headers">
+          {% for candidate in site.data.2016_candidates %}
+            {% if candidate.district == 6 %}
+              {% include 2016_candidate_survey/intro.html %}
+            {% endif %}
+          {% endfor %}
+        </div>
+
+        <div class="candidate-responses">
+          {% for question_group in site.data.2016_questions %}
+            <p>{{ question_group.topic }}</p>
+            {% for question in question_group.questions %}
+              <p>{{ question.text }}</p>
+
+              {% for candidate in site.data.2016_candidates %}
+                {% if candidate.district == 6 and candidate.status == "Responded" %}
+                  {{ candidate.name }}
+                  {{ candidate.responses[question.id] }}
+                {% endif %}
+              {% endfor %}
+
+            {% endfor %}
+          {% endfor %}
+        </div>
+
+      </div>
       </div>
     </div>
+
     <div class="tab">
       <input type="radio" id="tab-4" name="tab-group-1">
-      <label for="tab-4">District 8</label>
+      <label for="tab-4">District 7</label>
       <div class="tab-content">
-        hiasd
+        <div class="district-candidates">
+
+        <p>District 7 has 2 candidates running for City Council. Leslie Pool was the only candidate from District 2 to responde to our survery.</p>
+
+        <div class="candidate-headers">
+          {% for candidate in site.data.2016_candidates %}
+            {% if candidate.district == 7 %}
+              {% include 2016_candidate_survey/intro.html %}
+            {% endif %}
+          {% endfor %}
+        </div>
+
+        <div class="candidate-responses">
+          {% for question_group in site.data.2016_questions %}
+            <h3>{{ question_group.topic }}</h3>
+            {% for question in question_group.questions %}
+              <p class="strong">{{ question.text }}</p>
+
+              {% for candidate in site.data.2016_candidates %}
+                {% if candidate.district == 7 and candidate.status == "Responded" %}
+                  {{ candidate.name }}
+                  <p>{{ candidate.responses[question.id] }}</p>
+                {% endif %}
+              {% endfor %}
+
+            {% endfor %}
+          {% endfor %}
+        </div>
+
+      </div>
       </div>
     </div>
     <div class="tab">
       <input type="radio" id="tab-5" name="tab-group-1">
       <label for="tab-5">District 10</label>
       <div class="tab-content">
-        hisdfa
+        <div class="district-candidates">
+
+        <p>District 10 has 3 candidates running for City Council. Wesley Faulkner was the only candidate from District 10 to responde to our survery.</p>
+
+        <div class="candidate-headers">
+          {% for candidate in site.data.2016_candidates %}
+            {% if candidate.district == 10 %}
+              {% include 2016_candidate_survey/intro.html %}
+            {% endif %}
+          {% endfor %}
+        </div>
+
+        <div class="candidate-responses">
+          {% for question_group in site.data.2016_questions %}
+            <p>{{ question_group.topic }}</p>
+            {% for question in question_group.questions %}
+              <p>{{ question.text }}</p>
+
+              {% for candidate in site.data.2016_candidates %}
+                {% if candidate.district == 10 and candidate.status == "Responded" %}
+                  {{ candidate.name }}
+                  {{ candidate.responses[question.id] }}
+                {% endif %}
+              {% endfor %}
+
+            {% endfor %}
+          {% endfor %}
+        </div>
+
+      </div>
       </div>
     </div>
   </div>
 
 </div>
+
+<script   src="http://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+
+<script>
+  var contentHeight = $(".district-candidates").outerHeight();
+  $(".tabs").css("min-height", contentHeight + 100 );
+
+  $(".tab").on("click", function(){
+    var contentHeight = $(this).find(".district-candidates").outerHeight();
+    $(".tabs").css("min-height", contentHeight + 100 );
+  })
+
+</script>
