@@ -1,0 +1,108 @@
+- name: Casey Ramos
+  image: /assets/images/2016-candidates/casey-ramos.jpg
+  district: 2
+  email:
+  twitter: ramos4d2
+  website:
+  status: No Response
+
+- name: Wesley Faulkner
+  image: /assets/images/2016-candidates/wesley-faulkner.jpg
+  district: 2
+  email:
+  twitter: Austin4Everyone
+  website:
+  status: Responded
+
+- name: Delia Garza
+  image: /assets/images/2016-candidates/delia-garza.jpg
+  district: 2
+  email:
+  twitter: dgarzaforD2
+  website:
+  status: No Response
+
+- name: Greg Casar
+  image: /assets/images/2016-candidates/greg-casar.jpg
+  district: 4
+  email:
+  twitter: gregcasar
+  website:
+  status:
+
+- name: Gonzalo Camacho
+  image: /assets/images/2016-candidates/gonzalo-camacho.jpg
+  district: 4
+  email:
+  twitter: gonzalo_camacho
+  website:
+  status:
+
+- name: Louis Herrin III
+  image: /assets/images/2016-candidates/louis-herrin.jpg
+  district: 4
+  twitter:
+
+- name: Jimmy Flannigan
+  image: /assets/images/2016-candidates/jimmy-flannigan.jpg
+  district: 6
+  email:
+  twitter: JimmyFlannigan
+  website:
+  status:
+
+- name: Don Zimmerman
+  image: /assets/images/2016-candidates/don-zimmerman.jpg
+  district: 6
+  email:
+  twitter: DonZimmermanATX
+  website:
+  status:
+
+- name: Leslie Pool
+  image: /assets/images/2016-candidates/leslie-pool.jpg
+  district: 7
+  email:
+  twitter: PoolforAustin
+  website:
+  status:
+
+- name: Natalie Gauldin
+  image: /assets/images/2016-candidates/natalie-gauldin.jpg
+  district: 7
+  email:
+  twitter: natalieforatx
+  website:
+  status:
+
+- name: Sheri Gallo
+  image: /assets/images/2016-candidates/sheri-gallo.jpg
+  district: 10
+  email:
+  twitter: sherigallod10
+  website:
+  status:
+
+- name: Alison Alter
+  image: /assets/images/2016-candidates/alison-alter.jpg
+  district: 10
+  email:
+  twitter: ALTERforATX
+  website:
+  status:
+
+- name: Nicholas Virden
+  image: /assets/images/2016-candidates/nicholas-virden.jpg
+  district: 10
+  email:
+  twitter: VirdenForAustin
+  website:
+  status:
+
+- name: Rob Walker
+  image: /assets/images/2016-candidates/rob-walker.jpg
+  district: 10
+  email:
+  twitter: WalkerforAustin
+  website:
+  status:

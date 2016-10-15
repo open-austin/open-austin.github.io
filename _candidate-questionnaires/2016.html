@@ -19,17 +19,29 @@ header: true
   </div>
 
   <div class="tabs">
+
     <div class="tab">
       <input type="radio" id="tab-1" name="tab-group-1" checked>
       <label for="tab-1">District 2</label>
       <div class="tab-content">
-        {% for response in site.data.2016-responses %}
+        <p>District 2 has 3 candidates running for City Council. Wesley Faulkner was the only candidate from District 2 to responde to our survery.</p>
+
+        {% for candidate in site.data.2016_candidates %}
+          {% if candidate.district == 2 %}
+            <h4>{{ candidate.name }}</h4>
+            <p>{{ candidate.status }}</p>
+            <img src="{{ candidate.image }}" alt="{{ candidate.name }} portrait">
+          {% endif %}
+        {% endfor %}
+
+        {% for response in site.data.2016_responses %}
           {% if response.district == "District 2" %}
             {{ response.q1 }}
           {% endif %}
         {% endfor %}
       </div>
     </div>
+
     <div class="tab">
       <input type="radio" id="tab-2" name="tab-group-1">
       <label for="tab-2">District 5</label>
