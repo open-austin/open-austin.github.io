@@ -12,47 +12,40 @@ title: Projects
         </p>
         <h2>Project Status</h2>
         <p>
-        The project status indicates the maturity and usability of a project. Only beta and deployed projects should be considered ready for general public use. The project status values are:
-        <ul>
-          <li>deployed – provided for public use, may be undergoing further development, feedback and bug reports invited</li>
-          <li>beta – provided for use and feedback, not complete, still in development</li>
-          <li>in development – provided for development use, not fully functional, not intended for public use</li>
-          <li>ideation – proof-of-concept prototype, not robust or fully functional</li>
-          <li>archival – of historical interest, not being actively developed, feedback not invited, may need developer support</li>
-        </ul>
-
-      </p>
+            We are working on defining a process for projects to evolve from the experiment stage to alpha, beta, and official. Here is more information about our <a href="/projects/process">project process</a>.
+        </p>
 
       <h2>Project Gallery</h2>
         <ul class="project-gallery">
             {% assign items = site.projects | sort: 'date' | reverse %}
             {% for project in items %}
             <div class="project-gallery-item">
-            <li class="">
-
+            <li>
+                <div class="project-header">
+                    <a class="post-link" href="{{ project.url }}"><h3>{{ project.title }}</h3></a>
+                </div>
                 {% if project.screenshot %}
                 <div class="project-image-container">
-                    <img class="featured-project-image" src="/assets/images/projects/screenshots/{{ project.screenshot }}" alt="{{ project.title }}">
+                    <a href="{{ project.url }}">
+                        <img class="" src="/assets/images/projects/screenshots/{{ project.screenshot }}" alt="{{ project.title }}">
+                    </a>
                 </div>
                 {% endif %}
-                <div>
-                    <div class="featured-project-header">
-                        <a class="post-link" href="{{ project.url }}"><h3>{{ project.title }}</h3></a>
-                    </div>
-                    <div class="featured-project-links">
+                <div class="project-links">
+                    {% if project.access_at %}
                         <a href="{{ project.access_at }}" class="svg-icon">{% include icons/SVG/link.svg %}</a>
-                        <a href="{{ project.project_at }}" class="svg-icon icon--github">{% include icons/icon-github.svg %}</a>
-                        {% if project.cfa_stage %}
-                        <a class="project-status" href="https://www.codeforamerica.org/brigade/projects/stages">
+                    {% endif %}
+                    {% if project.project_at %}
+                        <a href="{{ project.project_at }}" class="svg-icon icon--github" target="_blank">{% include icons/icon-github.svg %}</a>
+                    {% endif %}
+                    {% if project.cfa_stage %}
+                        <a class="project-status" href="https://www.codeforamerica.org/brigade/projects/stages" target="_blank">
                             <span class="btn btn-{{ project.cfa_stage }}-project">{{ project.cfa_stage }}</span>
                         </a>
-                        {% endif %}
-                    </div>
+                    {% endif %}
                 </div>
-                <div>
-                    <p class="featured-project-summary">
-                        {{ project.description | strip_html }}
-                    </p>
+                <div class="project-summary">
+                    {{ project.description | strip_html }}
                 </div>
             </li>
             </div>

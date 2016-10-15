@@ -5,20 +5,20 @@
         <ul>
             {% for project in site.projects %}
             {% if project.featured == true %}
-            <li class="featured-project flex-container flex-column-on-palm">
+            <li class="featured-project project flex-container flex-column-on-palm">
                 <div class="project-image-container flex-item">
-                    <img class="featured-project-image" src="/assets/images/projects/screenshots/{{ project.screenshot }}" alt="{{ project.title }}">
+                    <img class="project-image" src="/assets/images/projects/screenshots/{{ project.screenshot }}" alt="{{ project.title }}">
                 </div>
-                <div class="featured-project-description flex-item">
-                    <div class="featured-project-header">
+                <div class="project-description flex-item">
+                    <div class="project-header">
                         <a class="post-link" href="{{ project.url }}"><h3>{{ project.title }}</h3></a>
                     </div>
                     <div>
-                      <p class="featured-project-summary">
+                      <p class="project-summary">
                         {{ project.description | strip_html | truncate: 420 }} <!-- blaze it -->
                       </p>
                     </div>
-                    <div class="featured-project-links">
+                    <div class="project-links">
                         <a href="{{ project.access_at }}" class="svg-icon">{% include icons/SVG/link.svg %}</a>
                         <a href="{{ project.project_at }}" class="svg-icon icon--github">{% include icons/icon-github.svg %}</a>
                         <a class="project-status" href="https://www.codeforamerica.org/brigade/projects/stages#{{ project.cfa_stage }}" target="_blank">

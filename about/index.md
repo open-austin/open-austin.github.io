@@ -51,7 +51,7 @@ You can reach us at: info@open-austin.org
 - Victoria O’Dell – Marketing Lead – pr@open-austin.org
 - Amalie Barras – Membership Lead – membership@open-austin.org
 - Marco Pineda – Event Lead
-- Matt Carey – Policy Lead
+- Matt Carey – Policy Lead – policy@open-austin.org
 - _Chip Rosenthal – Director Emeritus_
 
 ---
@@ -99,8 +99,12 @@ We value your attendance and hope that by communicating these expectations widel
 {:.no_toc}
 ### Credits
 
-This code of conduct and anti-harassment policy are based on ones published by Code for America at [https://github.com/open-austin/codeofconduct](https://github.com/open-austin/codeofconduct)
+This code of conduct and anti-harassment policy are based on ones published by Code for America at [https://github.com/codeforamerica/codeofconduct](https://github.com/codeforamerica/codeofconduct)
 
 The Code for America anti-harassment policy is based on [the example policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) from the Geek Feminism wiki, created by the Ada Initiative and other volunteers. It also incorporates aspects from several other policies, including the Ohio LinuxFest anti-harassment policy, written by Esther Filderman and Beth Lynn Eicher, and the Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith, and Donna Benjamin generalized the policies and added supporting material. Many members of LinuxChix, Geek Feminism and other groups contributed to this work.
 
 _This code of conduct was adopted by 11-0 vote of online participants, October 23, 2014._
+
+### Report an Issue
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf37fqeeBV7thNBiAvkY8Sd-pwxjUYSO1FMqUuaYh6d9D_94w/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
