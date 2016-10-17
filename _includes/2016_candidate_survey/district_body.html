@@ -37,7 +37,7 @@
         <p class="strong">{{ question.text }}</p>
 
         {% for candidate in site.data.2016_candidates %}
-          {% if candidate.district == district and candidate.status == "Responded" %}
+          {% if candidate.district == district and candidate.status == "Responded" and candidate.responses[question.id] %}
             <div class="candidate-response">
               <img src="{{ candidate.image }}" alt="{{ candidate.name }} portrait" class="small-candidate">
               <p>
