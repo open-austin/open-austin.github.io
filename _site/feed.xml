@@ -5,9 +5,72 @@
     <description>Open Austin is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. We are an official brigade affiliated with the nonprofit Code for America which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.</description>
     <link>http://open-austin.github.io//</link>
     <atom:link href="http://open-austin.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Sep 2016 00:05:12 -0500</pubDate>
-    <lastBuildDate>Tue, 13 Sep 2016 00:05:12 -0500</lastBuildDate>
+    <pubDate>Sun, 16 Oct 2016 20:53:15 -0500</pubDate>
+    <lastBuildDate>Sun, 16 Oct 2016 20:53:15 -0500</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>September Open Gov &amp; Civic Tech Meetup Recap-Data.World</title>
+        <description>&lt;p&gt;This past &lt;a href=&quot;https://www.meetup.com/Open-Austin/events/233380715/&quot;&gt;Monday’s Open Government and Civic Technology meetup&lt;/a&gt; had 2 guest speakers present. Doug Matthews, Chief Communication Officer, covered the state of the community registry. Jonathan Ortiz, Data Scientist and Knowledge Engineer at Data.world, spoke on the startup, his census project, and linked data.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Getting started! 🙌🏼 &lt;a href=&quot;https://t.co/OmIGqIydo5&quot;&gt;pic.twitter.com/OmIGqIydo5&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/778021336891346945&quot;&gt;September 20, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;community-registry-an-unexpected-journey&quot;&gt;Community Registry: an Unexpected Journey&lt;/h2&gt;
+
+&lt;p&gt;Doug Matthews started the meeting by outlining the current state of the &lt;a href=&quot;assets/documents/community_registry_pitch.pdf&quot;&gt;Austin Community Registry&lt;/a&gt;. As described by &lt;a href=&quot;http://www.austintexas.gov/page/community-registry-search&quot;&gt;data.gov&lt;/a&gt;—a community registry is a tool that allows for “neighborhoods and others to be notified of issues relating to their area”.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Kicking off the Convo on a community registry. &lt;a href=&quot;https://twitter.com/hashtag/civictech?src=hash&quot;&gt;#civictech&lt;/a&gt; &lt;a href=&quot;https://t.co/7jYjw0oKvF&quot;&gt;pic.twitter.com/7jYjw0oKvF&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/778028797610176512&quot;&gt;September 20, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Matthews highlighted the current complexities of filling out the Austin registry and keeping it up to date. His slide examples showed how time consuming and frustrating current processes are. It is clear that a better and more interactive solution is needed. Streamlining the registry application and giving it more interactive capabilities would increase the value and functionality of this important community resource.&lt;/p&gt;
+
+&lt;p&gt;Because of this, Google Fiber and the city are partnering up to push this project forward and find help to create the best solution for Austin.&lt;/p&gt;
+
+&lt;p&gt;There are a lot of challenges and opportunities in working on the community registry. You can get engaged and help tackle them by checking out the &lt;a href=&quot;https://github.com/open-austin/project-ideas/issues/78&quot;&gt;open project issue on github&lt;/a&gt; or reaching out to Doug by emailing douglas.matthews@austintexas.gov.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/documents/community_registry_pitch.pdf&quot;&gt;View and Download Doug Matthews slides.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;open-data-wants-to-be-linked&quot;&gt;Open Data Wants to Be Linked&lt;/h2&gt;
+
+&lt;p&gt;The night concluded with Jonathan Ortiz, a data scientist from &lt;a href=&quot;https://data.world/&quot;&gt;Data.world&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Data.world is a public benefit company working to break down the barriers between data and people. Unlike some companies, they’re not about the visualization or analysis of data. They’re about helping people find the data they need and enabling cross-collaboration.&lt;/p&gt;
+
+&lt;p&gt;Jonathan highlighted the sentiment that Data.world is about more than data though. He said, “It’s about making understanding easier”.  He also emphasized the benefits of social sharing and data by saying,” We should work together. We should collaborate. We should not duplicate our efforts”.&lt;/p&gt;
+
+&lt;p&gt;He continued to explain that a lot of the data, though open and available, is being stood up and posted in silos. This means that other people can’t access it and might not even know about its existence. Having access to more relevant data could allow for more thorough research.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&amp;quot;Data providers are disconnected from data users. They load it in and you pull it out.&amp;quot;  - Jonathon Ortiz of &lt;a href=&quot;https://twitter.com/datadotworld&quot;&gt;@datadotworld&lt;/a&gt; &lt;a href=&quot;https://t.co/z16mIT9iVs&quot;&gt;pic.twitter.com/z16mIT9iVs&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/778046012560510976&quot;&gt;September 20, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Having a social platform isn’t the only way to share data though. Linked data holds many possibilites and it’s something the folks at Data.world are working on. &lt;a href=&quot;http://linkeddata.org/&quot;&gt;Linked data&lt;/a&gt; is what makes up the semantic web, which is also sometimes called a Research Description Framework or RDF. When you upload your data to Data.world there is the opportunity to link it.&lt;/p&gt;
+
+&lt;p&gt;Linking data joins the data sets to others by following a set data model. This enables the data to be better understood by machines and thus allows users to discover more insights.&lt;/p&gt;
+
+&lt;p&gt;With the linked data technology, Jonathan and Data.world partnered with the US Census Bureau. They aim to help data users by enriching the analyses that need US demographic information. They are doing this by working to ingest the &lt;a href=&quot;https://www.census.gov/programs-surveys/acs/&quot;&gt;American Community Survey&lt;/a&gt; in a linked data format. The project is ongoing.&lt;/p&gt;
+
+&lt;p&gt;You can get an invite for Data.world and share some of your own data sets by visiting the following link: [https://data.world/preview-signup]&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/documents/linked-data-presentation.pdf&quot;&gt;View and download the full presentation that Jonathan gave.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
+
+&lt;p&gt;As always:&lt;/p&gt;
+
+&lt;p&gt;Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
+&lt;br /&gt;
+RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow us on Twitter&lt;/a&gt;
+&amp;amp; &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like us on Facebook&lt;/a&gt;&lt;/p&gt;
+
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Sun, 25 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://open-austin.github.io//blog/2016/09/25/september-meetup-recap</link>
+        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/09/25/september-meetup-recap</guid>
+        
+        
+      </item>
     
       <item>
         <title>August Open Gov &amp; Civic Tech Meetup Recap-Transportation &amp; Sensors</title>
@@ -148,7 +211,7 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
       </item>
     
       <item>
-        <title>Lightning Talks: June 20 Open Gov &amp; Civic Tech Meetup Recap</title>
+        <title>June Open Gov &amp; Civic Tech Meetup Recap - Lightning Talks </title>
         <description>&lt;p&gt;For this month’s Open Gov &amp;amp; Civic Tech Meetup, we had five community members give 10 minute lightning talks on a range of topics.&lt;/p&gt;
 
 &lt;p&gt;From data portals to GeoJason our presenters introduces both non-technical and technical presentations to a full room. View the the slides from their talks:&lt;/p&gt;
@@ -157,8 +220,8 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
   &lt;li&gt;&lt;a href=&quot;https://github.com/paulserraino&quot;&gt;Paul Serraino&lt;/a&gt; - &lt;a href=&quot;http://paulserraino.com/geojson-talk/#/Law.on.Web.slides.pdf&quot;&gt;GeoJason + React + Leaflet&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/dhernandex&quot;&gt;Diego Hernandez&lt;/a&gt; - &lt;a href=&quot;http://dhernandex.github.io/sass-color-functions/presentation/#/&quot;&gt;The Power of Sass Color Functions&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://twitter.com/nikolac88&quot;&gt;Nik Collins&lt;/a&gt; - &lt;a href=&quot;http://commute.ly/#!/&quot;&gt;Commute.ly&lt;/a&gt; - &lt;a href=&quot;https://github.com/open-austin/iced-coffee/files/324749/commutely-austin-open.pdf&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Victoria_ODell&quot;&gt;Victoria O’Dell&lt;/a&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1F0jLB3vJsLLRAXzVwLVB0cr0PGwm_2h33GQquZHzkR0/edit?usp=sharing&quot;&gt;Permitting Application Wizard&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/AmalieBarras&quot;&gt;Amalie Barras&lt;/a&gt; - &lt;a href=&quot;https://github.com/open-austin/iced-coffee/files/324766/PANDA.Lightnin.pdf&quot;&gt;Community Data Portal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Victoria_ODell&quot;&gt;Victoria O’Dell&lt;/a&gt; - &lt;a href=&quot;https://docs.google.com/presentation/d/1F0jLB3vJsLLRAXzVwLVB0cr0PGwm_2h33GQquZHzkR0/edit?usp=sharing&quot;&gt;Permitting Application Wizard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/AmalieBarras&quot;&gt;Amalie Barras&lt;/a&gt; - &lt;a href=&quot;https://github.com/open-austin/iced-coffee/files/324766/PANDA.Lightnin.pdf&quot;&gt;Community Data Portal&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1aJPnMyh-PBQ0HTfA1dNPRzrZT2949-P5ww5U_2Tab6U/edit?usp=sharing&quot;&gt;Open Austin Announcements &amp;amp; Upcoming Events Deck&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -478,7 +541,7 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a href=&quot;http://www.austintexas.gov/dollarsandsense&quot;&gt;Austin Budget Simulator&lt;/a&gt; 🏛&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;a href=&quot;http://Impactmap.us&quot;&gt;Impact Map&lt;/a&gt; - Giving Decisions Based on Big Data&lt;/td&gt;
@@ -490,7 +553,7 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Tiny Hacker House&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Mapping Austin’s Culture 🏛&lt;/td&gt;
@@ -674,61 +737,6 @@ RSVP for our next event on &lt;a href=&quot;http://www.meetup.com/Open-Austin/&q
         <pubDate>Wed, 04 May 2016 00:00:00 -0500</pubDate>
         <link>http://open-austin.github.io//blog/2016/05/04/my-day-as-a-uxer-designing-for-civic-solutions</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/05/04/my-day-as-a-uxer-designing-for-civic-solutions</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>April Open Gov &amp; Civic Tech Meetup Recap - Ann Armstrong &amp; Austin&#39;s Atlas</title>
-        <description>&lt;p&gt;For Open Austin’s April Open Gov &amp;amp; Civic Tech Meetup, Ann Armstrong was invited to speak about her collaborative project, &lt;a href=&quot;http://www.austinsatlas.com/&quot;&gt;Austin’s Atlas&lt;/a&gt;, which straddles the intersection of art, cartography, and urban history. Ann is an architect, welder, and artist, living in Austin for 10 years having moved from San Francisco, California for graduate school at the University of Texas.&lt;/p&gt;
-
-&lt;h3 id=&quot;austins-atlas-origin&quot;&gt;Austin’s Atlas Origin&lt;/h3&gt;
-
-&lt;p&gt;When Ann first moved to Austin she felt disconnected from her surroundings. She starting taking walks, not to get anywhere, but to explore a neighborhood. At first, she was frustrated with the city’s poor walkability compared to San Francisco. Austin is not as dense, her walks were less stimulating, and there was not as much street art. But, as she kept walking, she fell more and more in love with Austin, its nooks and crannies, and “urban oddities.” Not before long, Ann realized that her favorites waypoints were rapidly disappearing due to new construction, weather, or other unexplained occurrences.&lt;/p&gt;
-
-&lt;p&gt;“I’ve never lived in a city that was growing so rapidly.” Said Ann, “I’m an architect. I understand that the city has to grow. But it feels like it’s on steroids.” Her exploration of the growing city soon lead to documentation. “My first attempt at documenting Austin was all about the sidewalks” Armstrong continued. Ann documented the sidewalks for 2 years, which evolved into documenting public art. Then she started making and collecting maps. “The first map I made myself was about urban oddities. It was the first map I made to be used by other people.”&lt;/p&gt;
-
-&lt;p&gt;All of these efforts were fueled by the idea of making the city more knowable. Ann said she was trying to, “expand on the existing sense of place by revealing things about it and also understanding how other people see the city.” She pushed the idea further and started to host walks and workshops around different themes, and by collaborating with other mapmakers and urban explorers like Emma Schmidt and Angela Hanson.&lt;/p&gt;
-
-&lt;h3 id=&quot;how-does-austins-atlas-add-new-maps&quot;&gt;How does Austin’s Atlas add new maps?&lt;/h3&gt;
-
-&lt;p&gt;The artifacts of Ann’s walks, workshops, collaborations and exchanges became the foundation for Austin’s Atlas.&lt;/p&gt;
-
-&lt;p&gt;Her first solution for collecting more maps was an exchange system. “I give you a map, you give me map.” It was a simple concept that helped grow the collection. However, Ann knew that in order to increase the amount of maps she collected she would have to create more opportunity for exchange.&lt;/p&gt;
-
-&lt;p&gt;This inspired her to build a cart and show up to &lt;a href=&quot;https://www.facebook.com/events/540975332670526/&quot;&gt;Park(ing) Day 2014&lt;/a&gt; to meet people where they were. She gave out supplies and asked people to draw maps. During an &lt;a href=&quot;http://east.bigmedium.org/&quot;&gt;East Austin Studio Tour (E.A.S.T)&lt;/a&gt; event she set up a “map drive” and collected 120+ drawn maps from people of various backgrounds over the course of 2 weekends in an art studio.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;During an East Austin studio tour Ann set up a map drive and collected over 120 maps over 2 weekends. &lt;a href=&quot;https://t.co/sZTKX4NnMB&quot;&gt;pic.twitter.com/sZTKX4NnMB&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/722227520364421120&quot;&gt;April 19, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;“It’s a process! It’s hard to collect maps from people.” The less than conventional ask has proven to be slow and involved. She said she doesn’t give people a ton of directions for map making but has the request that they title it. Interpretation often depends on how the map maker frames the project.&lt;/p&gt;
-
-&lt;h3 id=&quot;map-making-exercise&quot;&gt;Map Making Exercise&lt;/h3&gt;
-
-&lt;p&gt;To conclude the presentation, Ann handed out sheets of paper with a short questionnaire, a small map of Austin, and an empty space for sketching. She invited Open Austinites to answer some questions about their residence and commute then to mark roughly where they live on the map. Lastly, participants were to draw the scene they see out of a window they look out of the most at their home. Participants said the process was therapeutic. All of the images told a story unique story about disparate residential scenes in Austin.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Open Austinites work on their own maps. &lt;a href=&quot;https://t.co/J9XZVYMZuj&quot;&gt;pic.twitter.com/J9XZVYMZuj&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/722234979707592705&quot;&gt;April 19, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;We maaaaappped! &lt;a href=&quot;https://t.co/TlFlkqChaS&quot;&gt;pic.twitter.com/TlFlkqChaS&lt;/a&gt;&lt;/p&gt;&amp;mdash; Amalie Barras (@AmalieBarras) &lt;a href=&quot;https://twitter.com/AmalieBarras/status/722234618116595713&quot;&gt;April 19, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;Here is a link to a &lt;a href=&quot;/assets/documents/OA_Austin_Atlas_Scans.pdf&quot;&gt;PDF with the maps&lt;/a&gt; that Open Austinites made for Austin’s Atlas.&lt;/p&gt;
-
-&lt;p&gt;Ann shared her &lt;a href=&quot;/assets/documents/April_18_Austins_Atlas_presentation.pdf&quot;&gt;presentation slides here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;For more information about her work, check out &lt;a href=&quot;http://ann-made.org/&quot;&gt;Ann Armstrong’s personal site&lt;/a&gt; and &lt;a href=&quot;http://www.austinsatlas.com/&quot;&gt;view the Austin’s Atlas site&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/157dhPuRQNa4vpyp1YjCY8ao7tWcxs9ma7lQDeIHENpQ/edit?usp=sharing&quot;&gt;Open Austin’s introduction slides for the Meetup are linked here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Continue the conversation by following us on &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;Twitter&lt;/a&gt; and joining our community on &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Slack&lt;/a&gt;.
-RSVP for our next event on &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;Meetup&lt;/a&gt; and like us on &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Facebook&lt;/a&gt; to stay up to date.&lt;/p&gt;
-
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Sun, 24 Apr 2016 00:00:00 -0500</pubDate>
-        <link>http://open-austin.github.io//blog/2016/04/24/open-gov-civic-tech-austin-atlas-recap</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/04/24/open-gov-civic-tech-austin-atlas-recap</guid>
         
         
       </item>

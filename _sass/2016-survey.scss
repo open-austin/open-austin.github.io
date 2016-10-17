@@ -1,0 +1,144 @@
+.survey2016 {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+
+  p {
+    font-size: 18px;
+  }
+
+  h2 {
+    font-size: 26px;
+  }
+
+  small {
+    font-size: 14px;
+  }
+
+  .intro {
+    text-align: center;
+    margin-bottom: 80px;
+  }
+
+  .tabs {
+    position: relative;
+    min-height: 500px; // This sucks
+    clear: both;
+    margin: 25px 0;
+  }
+
+  .tab {
+    float: left;
+    min-width: 20%;
+  }
+
+  .tab label {
+    margin-left: -1px;
+    position: relative;
+    left: 1px;
+    bottom: 14px;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 15px 17px;
+    text-align: center;
+    font-family: Helvetica Neue, serif;
+  }
+
+  .tab [type=radio] {
+    display: none;
+  }
+
+  .tab-content {
+    position: absolute;
+    top: 28px;
+    left: 0;
+    background: white;
+    right: 0;
+    bottom: 0;
+    padding: 20px;
+    overflow: hidden;
+    background-color: #F4F4F4;
+  }
+
+  [type=radio]:checked ~ label {
+    z-index: 2;
+    background-color: #F4F4F4;
+    border-top: 5px solid #F5A623;
+  }
+
+  [type=radio]:checked ~ label ~ .tab-content {
+    z-index: 1;
+  }
+
+  .district-candidates {
+    padding: 20px 5px;
+  }
+
+  .candidate-headers {
+    display: flex;
+    padding: 20px 0 45px;
+  }
+
+  .candidate-circle-img {
+    border-radius: 50%;
+    max-width: 150px;
+    margin: 15px auto;
+  }
+
+  .candidate-info-box {
+    text-align: center;
+    flex: auto;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .contact-items a {
+    padding: 5px;
+  }
+
+  .candidate-responses {
+    border: 1px solid #CCCCCC;
+    box-shadow: 0px 1px 5px 2px #CCCCCC;
+    background: white;
+    padding: 0 25px 25px;
+
+    p {
+      margin: 0;
+    }
+
+    .topic-header {
+      font-family: Helvetica Neue, serif;
+      font-size: 26px;
+      font-weight: bold;
+      border-bottom: 1px solid #CCCCCC;
+      margin: 25px 0;
+    }
+
+    .question {
+      margin-bottom: 30px;
+    }
+
+    .candidate-response {
+      margin-top: 25px;
+      display: flex;
+    }
+
+    .small-candidate {
+      width: 75px;
+      height: 75px;
+      border-radius: 50%;
+      margin-right: 15px;
+    }
+  }
+}
+
+
+.clearfix {
+  *zoom: 1;
+  &:before,
+  &:after {
+    display: table;
+    content: "";
+  }
+  &:after {
+    clear: both;
+  }
+}
