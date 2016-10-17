@@ -10,6 +10,105 @@ tags: []
 header: true
 ---
 
+<style>
+  
+.survey2016 {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif; }
+  .survey2016 p {
+    font-size: 18px; }
+  .survey2016 h2 {
+    font-size: 26px; }
+  .survey2016 small {
+    font-size: 14px; }
+  .survey2016 .intro {
+    text-align: center;
+    margin-bottom: 80px; }
+  .survey2016 .tabs {
+    position: relative;
+    min-height: 500px;
+    clear: both;
+    margin: 25px 0; }
+  .survey2016 .tab {
+    float: left;
+    min-width: 20%; }
+  .survey2016 .tab label {
+    margin-left: -1px;
+    position: relative;
+    left: 1px;
+    bottom: 14px;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 15px 17px;
+    text-align: center;
+    font-family: Helvetica Neue, serif; }
+  .survey2016 .tab [type=radio] {
+    display: none; }
+  .survey2016 .tab-content {
+    position: absolute;
+    top: 28px;
+    left: 0;
+    background: white;
+    right: 0;
+    bottom: 0;
+    padding: 20px;
+    overflow: hidden;
+    background-color: #F4F4F4; }
+  .survey2016 [type=radio]:checked ~ label {
+    z-index: 2;
+    background-color: #F4F4F4;
+    border-top: 5px solid #F5A623; }
+  .survey2016 [type=radio]:checked ~ label ~ .tab-content {
+    z-index: 1; }
+  .survey2016 .district-candidates {
+    padding: 20px 5px; }
+  .survey2016 .candidate-headers {
+    display: flex;
+    padding: 20px 0 45px; }
+  .survey2016 .candidate-circle-img {
+    border-radius: 50%;
+    max-width: 150px;
+    margin: 15px auto; }
+  .survey2016 .candidate-info-box {
+    text-align: center;
+    flex: auto;
+    display: flex;
+    flex-direction: column; }
+  .survey2016 .contact-items a {
+    padding: 5px; }
+  .survey2016 .candidate-responses {
+    border: 1px solid #CCCCCC;
+    box-shadow: 0px 1px 5px 2px #CCCCCC;
+    background: white;
+    padding: 0 25px 25px; }
+    .survey2016 .candidate-responses p {
+      margin: 0; }
+    .survey2016 .candidate-responses .topic-header {
+      font-family: Helvetica Neue, serif;
+      font-size: 26px;
+      font-weight: bold;
+      border-bottom: 1px solid #CCCCCC;
+      margin: 25px 0; }
+    .survey2016 .candidate-responses .question {
+      margin-bottom: 30px; }
+    .survey2016 .candidate-responses .candidate-response {
+      margin-top: 25px;
+      display: flex; }
+    .survey2016 .candidate-responses .small-candidate {
+      width: 75px;
+      height: 75px;
+      border-radius: 50%;
+      margin-right: 15px; }
+
+.clearfix {
+  *zoom: 1; }
+  .clearfix:before, .clearfix:after {
+    display: table;
+    content: ""; }
+  .clearfix:after {
+    clear: both; }
+
+</style>
+
 <div class="survey2016">
   <div class="intro">
     <p>Since 2011, in every City of Austin election, Open Austin submitted a policy questionnaire to all the candidates. We ask for their response on a variety of open government and important civic tech issues. We do not endorse candidates, but we do encourage voters to be informed on candidate positions.</p>
