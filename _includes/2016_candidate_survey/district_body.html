@@ -1,0 +1,54 @@
+<div class="candidate-headers">
+  {% for candidate in site.data.2016_candidates %}
+    {% if candidate.district == district %}
+      <div class="candidate-info-box">
+        <h4 class="strong">{{ candidate.name }}</h4>
+        <small>{{ candidate.status }}</small>
+        <img class="survey2016 candidate-circle-img" src="{{ candidate.image }}" alt="{{ candidate.name }} portrait">
+        <div class="contact-items">
+          {% if candidate.email %}
+            <a href="mailto:{{ candidate.email }}">
+              <img src="/assets/images/2016-candidates/email.svg" alt="email" class="email">
+            </a>
+          {% endif %}
+          {% if candidate.website %}
+            <a href="{{ candidate.website }}">
+              <img src="/assets/images/2016-candidates/link.svg" alt="hyperlink" class="email">
+            </a>
+          {% endif %}
+          {% if candidate.twitter %}
+            <a href="http://twitter.com/{{ candidate.twitter }}">
+              <img src="/assets/images/2016-candidates/twitter.svg" alt="twitter" class="email">
+            </a>
+          {% endif %}
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<div class="candidate-responses">
+  {% for question_group in site.data.2016_questions %}
+    <h3 class="topic-header">{{ question_group.topic }}</h3>
+
+    {% for question in question_group.questions %}
+      <div class="question">
+        <p>Question {{ forloop.index }} of {{ question_group.questions.size }}</p>
+        <p class="strong">{{ question.text }}</p>
+
+        {% for candidate in site.data.2016_candidates %}
+          {% if candidate.district == district and candidate.status == "Responded" %}
+            <div class="candidate-response">
+              <img src="{{ candidate.image }}" alt="{{ candidate.name }} portrait" class="small-candidate">
+              <p>
+                <span class="strong">{{ candidate.name }}:</span>
+                 {{ candidate.responses[question.id] }}
+              </p>
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endfor %}
+
+  {% endfor %}
+</div>

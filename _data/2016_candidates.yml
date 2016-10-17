@@ -12,14 +12,14 @@
   district: 2
   email: wesley@austin4everyone.com
   twitter: Austin4Everyone
-  website: www.austin4everyone.com
+  website: http://www.austin4everyone.com
   status: Responded
   responses:
     q1: Yes, we should structure our government in a way that makes data easier to access.
     q2: Yes, I agree, just as long as the information does not contain sensitive data that could cause harm to its citizens.
     q3: Absolutely.
     q4: I would like to modernize all systems and to leverage the data to find inefficiencies that can be eliminated.
-    q5: We need to make sure that the data, and the stats derived, are extracted by people who are trained in statistical analysis. Also they shouldn''t just record the results, but also the methods they used to get them.
+    q5: We need to make sure that the data, and the stats derived, are extracted by people who are trained in statistical analysis. Also they shouldn't just record the results, but also the methods they used to get them.
     q6: I would like to see a installation similar to the LinkNYC kiosks. It is cost effective and highly successful.
     q7: Yes, and yes. We need to make sure the public can hold elected officials accountable and having the data will bring us most of the way there.
     q8: People generally act better when they know they are being monitored, for this reason the body cams should help with accountability. We should come up with a system to make sure that all video request are handled as quickly as possible.
@@ -39,7 +39,7 @@
   district: 4
   email: greg@casarforcouncil.com
   twitter: gregcasar
-  website: casarforcouncil.com
+  website: http://casarforcouncil.com
   status: Responded
   responses:
     q1: I'm very supportive of open government and open data, and I've authored resolutions to promote this cause on difficult issues such as our police body camera footage. I'm open to the idea of codifying some of our open government and open data in ordinance. It's important to note that by rule of thumb, usually directives to our city staff (internal direction) is in resolution format, and ordinances are usually established as laws that govern private citizens' actions. If we need help getting our city staff to make our open data needs a higher priority, it may be most effective to bring this to the attention of the new city manager, utilize the auditor's authority to review and critique city departments' procedures, and/or make budget amendments.
@@ -58,7 +58,7 @@
   district: 4
   email: info@camachoassociates.com
   twitter: gonzalo_camacho
-  website: camachoassociates.com
+  website: http://camachoassociates.com
   status: No Response
 
 - name: Louis Herrin III
@@ -74,18 +74,18 @@
   district: 6
   email: jimmy@jimmyflannigan.com
   twitter: JimmyFlannigan
-  website: jimmyflannigan.com
+  website: http://jimmyflannigan.com
   status: Responded
   responses:
     q1: Yes.
-    q2: Yes.  Real-time data is so much more valuable than archival data in getting city government and citizens closer to the real-time decision-making happening in the market.  I don''t have specific recommendations on how to implement.
+    q2: Yes.  Real-time data is so much more valuable than archival data in getting city government and citizens closer to the real-time decision-making happening in the market.  I don't have specific recommendations on how to implement.
     q3: Yes.
-    q4: I don''t have any specific recommendations at this time, but I''ve been a web developer and database administrator for over 20 years.  I get very excited about the possibilities and have the technical training to know that nearly every challenge can be overcome and every protest by staff has a solution.
-    q5: I''m a big fan of data-driven decisions.  Coordination with partners (governments, agencies, even the private sector) could reap major benefits.
+    q4: I don't have any specific recommendations at this time, but I've been a web developer and database administrator for over 20 years.  I get very excited about the possibilities and have the technical training to know that nearly every challenge can be overcome and every protest by staff has a solution.
+    q5: I'm a big fan of data-driven decisions.  Coordination with partners (governments, agencies, even the private sector) could reap major benefits.
     q6: We need to revisit municipal wi-fi and ensure that library access to digital resources is reinforced.
-    q7: Yes. It''s been a personal frustration that this data has not been available. Technical challenges are no excuse.
+    q7: Yes. It's been a personal frustration that this data has not been available. Technical challenges are no excuse.
     q8: Body cameras are a good tool, but the devil is in the details.  It requires the proper balance between public access and privacy related to the legal process.  We should allow anyone on video to see it, but public access to video can be problematic for the justice process.
-    q9: Yes.  Frankly, I''m shocked it''s not happening now.
+    q9: Yes.  Frankly, I'm shocked it's not happening now.
     q10: Yes.
 
 - name: Don Zimmerman
@@ -93,7 +93,7 @@
   district: 6
   email: district6@austintexas.gov
   twitter: DonZimmermanATX
-  website: austinites-for-zimmerman.com
+  website: http://austinites-for-zimmerman.com
   status: Declined to Participate
 
 - name: Leslie Pool
@@ -101,7 +101,7 @@
   district: 7
   email: Leslie.Pool@austintexas.gov
   twitter: PoolforAustin
-  website: LesliePoolCampaign.com
+  website: http://LesliePoolCampaign.com
   status: Responded
   responses:
     q1: >
@@ -113,10 +113,10 @@
     q3: Yes.
     q4: I haven’t had much interaction with the Innovation Office, but I know that staff there were part of the Smart Cities grant discussion and application process. It would help, I think, if the IOfcr were more visible to the Council.
     q5: The City can always improve how it functions. Partnering with innovators is a proven way to expand our reach, sustain our programs, and find new approaches to solve problems, and I have no doubt that we can get better at consuming data to inform future decisions. The FY17 budget includes significant investment in CTM expansion for programs and equipment upgrades. The department also needs more FTEs. The City does a pretty good job staying current, but government by its nature and processes moves more slowly than the tech community; we have many more boxes to check and more decision layers, and that’s on purpose to protect and provide transparency for the taxpayers. So of course all this takes longer at the City.\nI’m focused on ensuring that as much data as can be made public is, in fact, made public so that City staff can analyze and learn from the data we and other governmental entities produce.
-    q6: When I was chair of the City''s Telecommunications Commission, back in the early 2000s, we were focused on the digital divide. Sixteen years ago, that meant lack of computer access for low-income residents, primarily in East Austin. Today, we''re still focused on the digital divide but it''s shifted further east and north with our growth, and has to do with inclusion, bandwidth and speed. Google Fiberhoods are a promise still in the formation stages, yet nearly everyone has a cell phone, so we''ve made some progress. The city benefits from partnering with the tech companies in Austin, and they''re developing their role and how they interact with local government. The City will always be limited by resources, so we have to make hard decisions on how and in what areas we invest. I''m committed to forwarding open access and digital inclusion, and have modeled that commitment from the dais. I''m only one vote, though, and it takes six for passage. In the end – and for best success – it has to be a partnership with the private and non-profit sectors. The City cannot sustain these efforts financially by itself, but we can certainly provide policy support and direction. That’s my pledge, and has been since I was elected.
-    q7: I fully support the initiative and have modeled that support and commitment from the dais. I''ve worked with members of the Austin Tech Council (for example) to find support from a majority of the Council to fund the initiatives they''re promoting. This is, again, a resources issue. We''re making progress and I have either led on or supported the progress, but there is a lot more that can be done.
+    q6: When I was chair of the City's Telecommunications Commission, back in the early 2000s, we were focused on the digital divide. Sixteen years ago, that meant lack of computer access for low-income residents, primarily in East Austin. Today, we're still focused on the digital divide but it's shifted further east and north with our growth, and has to do with inclusion, bandwidth and speed. Google Fiberhoods are a promise still in the formation stages, yet nearly everyone has a cell phone, so we've made some progress. The city benefits from partnering with the tech companies in Austin, and they're developing their role and how they interact with local government. The City will always be limited by resources, so we have to make hard decisions on how and in what areas we invest. I'm committed to forwarding open access and digital inclusion, and have modeled that commitment from the dais. I'm only one vote, though, and it takes six for passage. In the end – and for best success – it has to be a partnership with the private and non-profit sectors. The City cannot sustain these efforts financially by itself, but we can certainly provide policy support and direction. That’s my pledge, and has been since I was elected.
+    q7: I fully support the initiative and have modeled that support and commitment from the dais. I've worked with members of the Austin Tech Council (for example) to find support from a majority of the Council to fund the initiatives they're promoting. This is, again, a resources issue. We're making progress and I have either led on or supported the progress, but there is a lot more that can be done.
     q8: Body cameras will provide more information about encounters, certainly, and will give everyone a particular window into those interactions. The City absolutely should have a policy in place to respond to requests for the camera footage and APD staff are working on this with reps from interest groups including the ACLU. I support that collaboration and want to see a procedure (APD calls them policies) that balances the privacy rights of all involved. This is especially important where children are involved – how are we ensuring their rights are respected? – and where victims of rape or domestic abuse (for example) are involved – is it helpful or an invasion of privacy to video that first encounter?\nThese are not easy questions, but they underlie the stakeholder discussions, and answers will guide the relative success I hope to see from the City’s very large investment in body cameras.\nI'd hoped that Open Austin or the Digital Frontier Foundation could help the City with storage and proprietary applications, thereby saving the City significant costs that otherwise were going to Taser, and I made comments along those lines when the body camera storage issue was discussed. The conversation hadn't been had and it was apparently too late to engage it by the time the contract was brought to the Council. I can't comment further because the City is being sued on that contract.
-    q9: Yes, generally I would support having this universe of information. I would want to ensure that revisions that occur throughout the process are tracked, of course, because projects can change substantively as they go through approvals. The housing unit numbers that you start with may not be the numbers you end with or that are ultimately built. I have repeatedly voiced support for having a robust monitoring system in place and online so that whatever the internet looks like in ten – or fifty – years the promises and agreements made during the approval process can be tracked and accessed, and developers and the City be held accountable long after the agreements or promises are forgotten by the public. This is especially important with complex developments like PUDs. We need some kind of monitoring system that''s publicly available to preserve the public record and ensure accountability decades after the decisions are made because it takes years for these complicated projects to be completed.
+    q9: Yes, generally I would support having this universe of information. I would want to ensure that revisions that occur throughout the process are tracked, of course, because projects can change substantively as they go through approvals. The housing unit numbers that you start with may not be the numbers you end with or that are ultimately built. I have repeatedly voiced support for having a robust monitoring system in place and online so that whatever the internet looks like in ten – or fifty – years the promises and agreements made during the approval process can be tracked and accessed, and developers and the City be held accountable long after the agreements or promises are forgotten by the public. This is especially important with complex developments like PUDs. We need some kind of monitoring system that's publicly available to preserve the public record and ensure accountability decades after the decisions are made because it takes years for these complicated projects to be completed.
     q10: Yes, I support a policy of requiring data disclosure in city-funded surveys. The City is getting better at surveying (at least now only one response per device is possible) but people can still game the surveys by responding on multiple devices. \nI want to find a cost-effective way to conduct surveys so the City can afford to move away from self-selection surveying, due to its inherent bias. The kind of surveying that I'm talking about is expensive and requires a specific skill set.\nWe know from experience last year that the kiosk speaker signup system for Council meetings was compromised. However it was done - and we have a good idea who did it and how it happened - that action was inappropriate and goes to the integrity of our systems and the reliability of the resulting information. If we’re to rely on data, then we’re only as good as that data, and if the data can be compromised, then we need to ensure our systems are sufficiently robust to withstand compromise and hackers.\nI support Open Austin's initiatives, as I did when I first ran in 2014, and we’ve made some progress on data access and transparency. As always, the issue is resource allocation and implementation.\nAlso, as an aside, ATXFloods is an award winning app that uses data and literally maps it so people can see in real time what the flood status is in their vicinity; staff with Watershed Protection are building an app to explore our wildlands and water quality protection areas that are not open to the public to educate folks on why we own those lands, explain their history and the key role they play in ensuring water quality & the land as a sustainable resource. These are important public safety and education tools.
 
 - name: Natalie Gauldin
@@ -124,7 +124,7 @@
   district: 7
   email: info@natalieforaustin.com
   twitter: natalieforatx
-  website: natalieforaustin.com
+  website: http://natalieforaustin.com
   status: No Response
 
 - name: Sheri Gallo
@@ -132,7 +132,7 @@
   district: 10
   email: Campaign@SheriGallo.com
   twitter: sherigallod10
-  website: SheriGallo.com
+  website: http://SheriGallo.com
   status: No Response
 
 - name: Alison Alter
@@ -140,7 +140,7 @@
   district: 10
   email: info@alisonalter.com
   twitter: ALTERforATX
-  website: alisonalter.com
+  website: http://alisonalter.com
   status: Responded
   responses:
     q1: Yes, so the policy will have more permanency. I also would use the opportunity in passing the ordinance to strengthen transparency and accessibility.
@@ -159,7 +159,7 @@
   district: 10
   email:
   twitter: VirdenForAustin
-  website: VirdenForAustin.com
+  website: http://VirdenForAustin.com
   status: No Response
 
 - name: Rob Walker
@@ -167,5 +167,5 @@
   district: 10
   email: district10@rwalker.us
   twitter: WalkerforAustin
-  website: walkerforaustin.com
+  website: http://walkerforaustin.com
   status: No Response

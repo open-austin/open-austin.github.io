@@ -3,7 +3,7 @@
     - text: Austin’s open data program currently operates under the city's 2011 Open Government Resolution. Do you think the city should commit to releasing open data to the public by enacting the city’s open data policy as an ordinance?
       id: q1
 
-    - text: The Sunlight Foundation recommends an open data strategy of “real time access,"" in which cities collect information digitally instead of on paper, and then update the public resources they publish on the internet continuously as new information is collected. Do you agree with that strategy? Do you want city agencies to make any particular changes to meet that goal?
+    - text: The Sunlight Foundation recommends an open data strategy of “real time access," in which cities collect information digitally instead of on paper, and then update the public resources they publish on the internet continuously as new information is collected. Do you agree with that strategy? Do you want city agencies to make any particular changes to meet that goal?
       id: q2
 
     - text: Would you support a resolution to require that any software or software services purchased by the city must be accompanied with an open data plan that indicates how public data managed by that system will be made available to the public?
