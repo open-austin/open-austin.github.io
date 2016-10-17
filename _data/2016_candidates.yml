@@ -32,7 +32,18 @@
   email: district2@austintexas.gov
   twitter: dgarzaforD2
   website: https://www.facebook.com/deliagarzadistrict2/
-  status: No Response
+  status: Responded
+  responses:
+    q1: I believe that Austin is on the right track with the Austin Open Data Portal we currently maintain on our City’s website.  I believe we can always find ways to improve these practices.  I would be open to considering a new policy in resolution or ordinance form, but believe we could also be effective simply by reevaluating our progress and practices and working with staff to improve the data sharing approach we’re currently using.  
+    q2: One of the issues I’ve heard feedback from since before being on Council is the need to streamline many of our City processes.  For example, one of the criticisms of our development process before and after the release of the Zucker Report dealt with the fact that many of our development processes were handled on paper rather than digitally.  Since the release of that report, we have taken significant steps and increased funding and staff to improve those processes, which we are still working on today.  I’ll support transforming more processes to digital moving forward to give our residents a better experience working with the City and improve our efficiencies, which after the initial investment for the technology will save our taxpayers money in the long term.
+    q3: I am open to supporting this policy overall.  The City has a lot of sensitive data for our residents that have Austin Energy account, enroll their children in our youth programs, and so forth, and we must be careful that while we’re sharing data in ways that provides transparency and functionality for our citizens that we’re also protecting the privacy of Austinites.  There could be instances where data could be shared, but for privacy issues for customers’ needs an extra layer of review and/or process before releasing information.
+    q4: The Innovation Office should form a strong partnership with the Technology and Regulatory Affairs Department to find effective approaches to sharing City data on our website, as well as conducting effective outreach to ensure that residents know what data is available to them. We certainly have areas where we can expand and improve in our data sharing practices, but I believe that many of our residents aren’t aware of the Austin Open Data Portal that has a wide array of data available today.  We must ensure that as we improve our practices, that we wrap in the public throughout the process to get their feedback and ensure our citizens are informed of the services we’re making available for them.
+    q5: I’m a strong believer in utilizing data when making policy decisions for our City.  We often look at best practices of other Cities, which are often based in data resulting from their experiences.  How data can be used varies widely depending on the type of policies and services being considered, which presents exciting opportunities as well as challenges to finding the most effective way to use data as we create policies to shape our City.  I would welcome any input from your organization or other technology and data experts on how we can improve our data usage practices moving forward.
+    q6: In 2014, Council passed Resolution 20141120-074 which adopted a Digital Inclusion Strategic Plan which largely aimed to make access to electronic resources more widely available for all Austinites, including those who are currently without access.  This ties into the same spirit of open data in trying to be inclusive and open with all of our residents.  I believe enough time has passed that we should proactively evaluate how successful these efforts have been and find ways to improve to ensure digital equity in our City.  Furthermore, when the Southeast Library was in danger of closing last year, I funded out of my office budget close to $50,000 to fund a portable building for the computer lab so that residents would not lose access to the free internet services provided at the Library.
+    q7: In many ways, I feel that we’ve done a fairly good job ensuring that all information about actions taken by Council is available online and is searchable.  With that being said, I do believe that have additional search functions could create a higher degree of ease for working with this information which could engage more residents in processing that information.  I would be open to considering this initiative moving forward after gauging the public interest and the cost required to make these changes in our system.  We did recently make a very similar change to have our campaign finance reports searchable through the Campaign Finance Data Portal, which was a step in the right direction.
+    q8: Police body cameras provide an additional layer of transparency and accountability that benefit our residents and officers alike.  I know that we must also work within the constraints of state law but where we can make strong policy to ensure transparency in these cases, I would be open to supporting that type of policy. Aside from that, I believe Police videos are subject to public information requests just as almost all other City records and documents are available on request.
+    q9: Absolutely.  We should look for efficient and effective ways to improve our data collection and reporting processes wherever possible, and this is definitely an area for opportunity with very little cost or effort involved.  Affordable housing has been one of my top priorities since being elected, and I believe by strengthening the data available in this area we’ll be able to make more impactful decisions in regards to our affordable housing investments.  
+    q10: To my knowledge, a lot of this information is released to the public in some form currently.  I’m open to seeing how we can further improve access to this data for our residents.  I understand the importance of methodology and language when submitting surveys and questionnaires, and believe that releasing this information could help improve our process for gathering public input both on the front and back end.  This would also help with transparency overall, and would also be an invaluable tool for Council in that we would have additional context when making decisions about policies and programs that impact our City and our residents. 
 
 - name: Greg Casar
   image: /assets/images/2016-candidates/greg-casar.jpg
@@ -133,8 +144,19 @@
   email: Campaign@SheriGallo.com
   twitter: sherigallod10
   website: http://SheriGallo.com
-  status: No Response
-
+  status: Responded
+  responses:
+    q1: Yes.
+    q2: Yes, I support that strategy.  We expect the City to continually update their practices and policies to make government and communication more transparent and accessible.  
+    q3: Yes.
+    q4: I would like the Innovation Office to focus more directly on innovation improvements within existing City departments such as Development Services Department.  Hopefully our new City Manager will make it a priority for our departments to not operate in silos and instead share innovative techniques and processes throughout all departments.
+    q5: Investments in both technology and  training of staff to analyze the mountains of data that come back into the City should always be policy priorities for council.  There are enormous benefits ranging from cost efficiencies to better constituent communication.
+    q6: Making the private investment of our Internet providers quicker would be step one.  When it comes to connectivity, ATT, Time Warner, Grande, and now Google Fiber are all stepping up to the plate to make Austin one of the fastest cities in America.  The City has done a good job of making sure those investments are happening equitably.  I believe CodeNext can be another tool we use to make this a priority.
+    q7: Yes.  I support continued measures to make the city’s finances, council discussions, council decisions, and campaign finance data more accessible.  
+    q8: I believe body cameras make Austin safer – for citizens and police officers.  I believe state and federal laws cover most of the policy questions, but once our body cameras are operational – I support reviewing our local rules annually to make sure they reflect our values.
+    q9: Yes.
+    q10: Yes.
+    
 - name: Alison Alter
   image: /assets/images/2016-candidates/alison-alter.jpg
   district: 10
@@ -160,7 +182,11 @@
   email:
   twitter: VirdenForAustin
   website: http://VirdenForAustin.com
-  status: No Response
+  status: Responded
+  responses:
+    q2: As a city council member, I would fully support a government that publishes every possible thing it does online so that the public can see it, as long as it is not *clearly* illegal to do so. Moreover, this information should be intuitively searchable.
+    q6: Regarding questions of citizen connectivity, we have libraries that provide internet access for citizens. 
+    q9: For housing developers, I think it should be the burden of the city to collect pertinent information, not the burden of the developer to provide the information that they want to analyze as long as it doesn't violate any state or federal laws.
 
 - name: Rob Walker
   image: /assets/images/2016-candidates/rob-walker.jpg
