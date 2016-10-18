@@ -56,6 +56,9 @@
     padding: 20px;
     overflow: hidden;
     background-color: #F4F4F4;
+    @include media-query($on-palm) {
+      padding: 0 5px;
+    }
   }
 
   [type=radio]:checked ~ label {
@@ -75,6 +78,9 @@
   .candidate-headers {
     display: flex;
     padding: 20px 0 45px;
+    @include media-query($on-palm) {
+      flex-direction: column;
+    }
   }
 
   .candidate-circle-img {
@@ -88,6 +94,9 @@
     flex: auto;
     display: flex;
     flex-direction: column;
+    @include media-query($on-palm) {
+      margin-bottom: 25px;
+    }
   }
 
   .contact-items a {
@@ -99,6 +108,9 @@
     box-shadow: 0px 1px 5px 2px #CCCCCC;
     background: white;
     padding: 0 25px 25px;
+    @include media-query($on-palm) {
+      flex-direction: column;
+    }
 
     p {
       margin: 0;
@@ -119,6 +131,9 @@
     .candidate-response {
       margin-top: 25px;
       display: flex;
+      @include media-query($on-palm) {
+        flex-direction: column;
+      }
     }
 
     .small-candidate {
@@ -126,10 +141,12 @@
       height: 75px;
       border-radius: 50%;
       margin-right: 15px;
+      @include media-query($on-palm) {
+        margin: 0 auto 10px;
+      }
     }
   }
 }
-
 
 .clearfix {
   *zoom: 1;
