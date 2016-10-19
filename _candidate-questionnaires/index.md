@@ -12,6 +12,7 @@ header: true
 
 Since 2011, in every City of Austin election, Open Austin submitted a policy questionnaire to all the candidates. We asked their response on a variety of open government and public technology issues.
 
+*   [2016 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2016.html)
 *   [2014 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2014-austin-city-council.html)
 *   [2012 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2012-austin-city-council.html)
 *   [2011 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2011-austin-city-council.html)
