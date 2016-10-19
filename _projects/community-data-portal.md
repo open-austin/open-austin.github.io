@@ -30,7 +30,7 @@ The people of Austin's network for data access, or PANDA, was a project complete
 
 ### JUNE
 * Continued working on new features and authentication at ATX Hack4Change
-* Learned about [data.world](data.world), an open data platform, with backend, set to launch in late summer
+* Learned about [data.world](http://data.world), an open data platform, with backend, set to launch in late summer
 * Started planning Panda 2.0, discussed moving off of JKAN
 
 ### JULY
@@ -39,11 +39,11 @@ The people of Austin's network for data access, or PANDA, was a project complete
 
 ### AUGUST 
 * MVP is launched, began collecting feedback
-* [data.world](data.world) opens community to Open Austin
-* Open Austin posts datasets on [data.world](data.world)
+* [data.world](http://data.world) opens community to Open Austin
+* Open Austin posts datasets on [data.world](http://data.world)
 
 ### SEPTEMBER
-* [data.world](data.world) opens registration to all users
+* [data.world](http://data.world) opens registration to all users
 
 ## What We Did Well
 
@@ -75,6 +75,6 @@ Project champion should not equal project manager. But when you're talking about
 Eventually our authentication broke. And I'm not sure why or how, but I have a feeling someone would have fixed it on the main branch.
 
 ## What's Next
-As we alluded to earlier, we will use our org page on [data.world](data.world) to host our open datasets. We will also continue working with them to keep learning how to best utilize the platform for our community (example: adding datasets to organization pages, so all our members can build our org's assets)
+As we alluded to earlier, we will use our org page on [data.world](http://data.world) to host our open datasets. We will also continue working with them to keep learning how to best utilize the platform for our community (example: adding datasets to organization pages, so all our members can build our org's assets)
 
 
