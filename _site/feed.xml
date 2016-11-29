@@ -5,9 +5,46 @@
     <description>Open Austin is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. We are an official brigade affiliated with the nonprofit Code for America which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.</description>
     <link>http://open-austin.github.io//</link>
     <atom:link href="http://open-austin.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Nov 2016 00:22:52 -0600</pubDate>
-    <lastBuildDate>Tue, 29 Nov 2016 00:22:52 -0600</lastBuildDate>
+    <pubDate>Tue, 29 Nov 2016 01:20:49 -0600</pubDate>
+    <lastBuildDate>Tue, 29 Nov 2016 01:20:49 -0600</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Open Austin Honored with Pro Bono Leadership Award from Texas Appleseed</title>
+        <description>&lt;p&gt;Many Texans see the evidence of the school-to-prison pipeline in their daily lives – sometimes because a video goes viral or because they are a parent, grandparent, or advocate for a child they love. Texas Appleseed has long been involved in working to address systemic problems related to zero-tolerance school disciplinary policies and hostile school climates – and they wanted a new forum to reach people and expand the dialogue around the issue.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://texasappleseed.org/&quot;&gt;Texas Appleseed&lt;/a&gt; is a public interest justice center. This nonprofit works to change unjust laws and policies that prevent Texans from realizing their full potential.&lt;/p&gt;
+
+&lt;p&gt;Texas Appleseed approached us at Open Austin with the idea to create a website that would bring together advocates, students, parents, and educators in Texas who are interested in improving educational opportunities and outcomes for youth. Our volunteers stepped up to help donating more than a year of pro bono time by building a new website, &lt;a href=&quot;http://www.texasdisciplinelab.org/&quot;&gt;Texas School Discipline Lab&lt;/a&gt;, from scratch. Volunteers also designed several &lt;a href=&quot;https://txappleseed.github.io/txappleseedmap/&quot;&gt;interactive maps&lt;/a&gt; that feature discipline data from over 1,200 school districts across Texas, while offering their expertise on the best way to present data that would make it easy to understand, visually appealing, and accessible to various audiences.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/good-apple-dinner.jpg&quot; alt=&quot;Good Apple Dinner program header&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On Thursday, November 17, Open Austin representatives were presented with the &lt;em&gt;Pro Bono Leadership Award&lt;/em&gt; at &lt;a href=&quot;https://texasappleseed.org/good-apple-dinner&quot;&gt;Texas Appleseed’s 20th Annual Good Apple Dinner&lt;/a&gt;. Open Austin is honored to support Texas Appleseed in one small aspect of this important work that will improve the lives of children.&lt;/p&gt;
+
+&lt;p&gt;Source Code for the School District Discipline Maps can be found on &lt;a href=&quot;https://github.com/txappleseed/txappleseedmap&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Contributors to this project include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Patricia Silva&lt;/li&gt;
+  &lt;li&gt;John Tyree&lt;/li&gt;
+  &lt;li&gt;Carissa Melanson&lt;/li&gt;
+  &lt;li&gt;Harold Jackson&lt;/li&gt;
+  &lt;li&gt;Diego Hernandez&lt;/li&gt;
+  &lt;li&gt;Michelle Schulze&lt;/li&gt;
+  &lt;li&gt;Matt Carey&lt;/li&gt;
+  &lt;li&gt;David Infortunio&lt;/li&gt;
+  &lt;li&gt;Yamanda Wright&lt;/li&gt;
+  &lt;li&gt;Mateo Clarke&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;and many more&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 18 Nov 2016 00:00:00 -0600</pubDate>
+        <link>http://open-austin.github.io//blog/2016/11/18/texas-appleseed-pro-bono-leadership-award</link>
+        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/11/18/texas-appleseed-pro-bono-leadership-award</guid>
+        
+        
+      </item>
     
       <item>
         <title>October Open Gov &amp; Civic Tech Meetup Recap - Election Themed Lightning Talks</title>
@@ -690,55 +727,6 @@ Follow us on Twitter: &lt;a href=&quot;https://twitter.com/openaustin?lang=en&qu
         <pubDate>Sun, 29 May 2016 00:00:00 -0500</pubDate>
         <link>http://open-austin.github.io//blog/2016/05/29/Recap-Designing-for-Civic-Solutions</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/05/29/Recap-Designing-for-Civic-Solutions</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>May Open Gov &amp; Civic Tech Meetup Recap - Texas Water Planning App by TNRIS</title>
-        <description>&lt;p&gt;For Open Austin’s May Open Gov &amp;amp; Civic Tech Meetup, we hosted two presentations.&lt;/p&gt;
-
-&lt;h3 id=&quot;texas-water-plan-interactive-app--api&quot;&gt;2017 Texas Water Plan Interactive App &amp;amp; API&lt;/h3&gt;
-
-&lt;p&gt;The featured presentation was led by James Seppi (&lt;a href=&quot;http://www.meetup.com/MaptimeATX/&quot;&gt;Maptime ATX&lt;/a&gt;) &amp;amp; Matt Nelson, Director of Water Planning at &lt;a href=&quot;http://www.twdb.texas.gov/&quot;&gt;Texas Water Development Board&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Matt &amp;amp; James shared:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Basics of how Texas does its water planning, including important terminology&lt;/li&gt;
-  &lt;li&gt;Short demo/how to navigate and interpret the 2017 State Water Plan application&lt;/li&gt;
-  &lt;li&gt;Summary of API endpoints in the 2017 State Water Plan application&lt;/li&gt;
-  &lt;li&gt;Technology behind the application&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1bbrVWdT2R6N3qOT6PfIKQUB5myycgszWVg8MJmJg7PI/edit#slide=id.p&quot;&gt;Here is a link to their presentation&lt;/a&gt;.
-Here is a link to the &lt;a href=&quot;https://2017.texasstatewaterplan.org/&quot;&gt;2017 Water Plan App&lt;/a&gt;, the &lt;a href=&quot;https://2017.texasstatewaterplan.org/api/v1&quot;&gt;API&lt;/a&gt;, and their &lt;a href=&quot;https://github.com/TNRIS/iswp2017&quot;&gt;Github repo&lt;/a&gt; with the open-source code.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;At the always interesting &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; hearing about water resources as well as city performance measurement. &lt;a href=&quot;https://t.co/YPa3kIE0pd&quot;&gt;pic.twitter.com/YPa3kIE0pd&lt;/a&gt;&lt;/p&gt;&amp;mdash; david holmes (@texasdnc) &lt;a href=&quot;https://twitter.com/texasdnc/status/732367709728428032&quot;&gt;May 17, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;ditching-pdfs-for-open-data-at-the-city-opm&quot;&gt;Ditching PDFs for Open Data at the City OPM&lt;/h3&gt;
-
-&lt;p&gt;As a bonus presentation, Kimberly Springer-Olivares, Chief Performance Officer at the City of Austin’s newly created Office of Performance Management gave a quick introduction to the new office and previewed plans to ditch PDF reports and make it easier for Austin residents to see how the City is performing using open data and visualizations via new Socrata products offered within data.austintexas.gov.&lt;/p&gt;
-
-&lt;p&gt;Kim discussed how part of their goal is to ask the questions: Why do departments do the things that they do? How does their budget support those goals? One of the goals of her office is to transform the long Annual Budget Perform Report PDFs (&lt;a href=&quot;https://assets.austintexas.gov/budget/13-14/downloads/2013-14_Austin_Annual_Performance_Report_web.pdf&quot;&gt;like this one for 2013-14 that is 216 pages long&lt;/a&gt;), into more digestable and accessible &lt;a href=&quot;https://data.austintexas.gov/stories/s/mfnw-2iaf&quot;&gt;“stories” like this one hosted on the city’s data portal&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/documents/OPM_OpenAustin.pdf&quot;&gt;Here is a link to the Office of Performance Management slides&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Kim Springer-Olivares geeks out with &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; on &lt;a href=&quot;https://twitter.com/hashtag/data?src=hash&quot;&gt;#data&lt;/a&gt; + &lt;a href=&quot;https://twitter.com/hashtag/openperformance?src=hash&quot;&gt;#openperformance&lt;/a&gt; for better government &lt;a href=&quot;https://twitter.com/austintexasgov&quot;&gt;@austintexasgov&lt;/a&gt; &lt;a href=&quot;https://t.co/maTQws87N5&quot;&gt;pic.twitter.com/maTQws87N5&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jill Goodman (@cafejillio) &lt;a href=&quot;https://twitter.com/cafejillio/status/732377364332568576&quot;&gt;May 17, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1czm4VlA9376cmfobLgrxLLwA01_NXFBKs34FcDVrn_I/edit?usp=sharing&quot;&gt;Open Austin event intro slides with announcements&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Continue the conversation by following us on &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;Twitter&lt;/a&gt; and joining our community on &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Slack&lt;/a&gt;.
-RSVP for our next event on &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;Meetup&lt;/a&gt; and like us on &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Facebook&lt;/a&gt; to stay up to date.&lt;/p&gt;
-
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Sat, 28 May 2016 00:00:00 -0500</pubDate>
-        <link>http://open-austin.github.io//blog/2016/05/28/may-open-gov-civic-tech-meetup-recap</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/05/28/may-open-gov-civic-tech-meetup-recap</guid>
         
         
       </item>
