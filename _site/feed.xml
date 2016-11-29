@@ -5,9 +5,54 @@
     <description>Open Austin is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. We are an official brigade affiliated with the nonprofit Code for America which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.</description>
     <link>http://open-austin.github.io//</link>
     <atom:link href="http://open-austin.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Nov 2016 00:53:35 -0600</pubDate>
-    <lastBuildDate>Mon, 28 Nov 2016 00:53:35 -0600</lastBuildDate>
+    <pubDate>Tue, 29 Nov 2016 00:22:52 -0600</pubDate>
+    <lastBuildDate>Tue, 29 Nov 2016 00:22:52 -0600</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>October Open Gov &amp; Civic Tech Meetup Recap - Election Themed Lightning Talks</title>
+        <description>&lt;p&gt;For our pre-election Open Gov &amp;amp; Civic Tech Meetup, we had five community members give 10 minute lightning talks on different topics under the theme of elections and voting.&lt;/p&gt;
+
+&lt;p&gt;View the the slides from their talks:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Matt Carey &amp;amp; Mateo Clarke, Open Austin - &lt;a href=&quot;https://github.com/open-austin/iced-coffee/files/540541/city_council_2016_survey.1.pdf&quot;&gt;2016 City Council Candidate Surveys&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Tommy Miller, Travis County, GIS Coordinator - &lt;a href=&quot;http://tcto.maps.arcgis.com/apps/Minimalist/index.html?appid=c181a61d343b4645aa7c1c3cd445aff6&quot;&gt;Voting Wait Times &amp;amp; Polling Locations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Shellee O’Brien - &lt;a href=&quot;https://docs.google.com/presentation/d/1bewoqrAtTIiToKOZlyGsjCSAc8pIGhM-hwVrsc4J-KE/edit?usp=sharing&quot;&gt;“The Problem with Lazy, Apathetic Non-Voters”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Mina Adame &amp;amp; Dario Fidanza, Ideation League - &lt;a href=&quot;http://www.slideshare.net/DarioFidanza/affecting-civic-space-with-ux-design&quot;&gt;Affecting Civic Spaces with UX Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ed Ireson, FOMO ATX - &lt;a href=&quot;https://fomo.vote/&quot;&gt;FOMO.vote&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Highlights from Twitter. &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;Give us a follow to stay up to date.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Tommy Miller, Travis County GIS coordinator presents voting wait times &amp;amp; polling location on a GIS map. &lt;a href=&quot;https://t.co/ebWi3Yr6dr&quot;&gt;pic.twitter.com/ebWi3Yr6dr&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/788178647815327744&quot;&gt;October 18, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;What do nonvoters care about? Impact, convenience, and community, says &lt;a href=&quot;https://twitter.com/stepwinder&quot;&gt;@stepwinder&lt;/a&gt; at &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/civictech?src=hash&quot;&gt;#civictech&lt;/a&gt; &lt;a href=&quot;https://t.co/65uLcD5KHv&quot;&gt;pic.twitter.com/65uLcD5KHv&lt;/a&gt;&lt;/p&gt;&amp;mdash; Tom O&amp;#39;Connell (@mrtomocon) &lt;a href=&quot;https://twitter.com/mrtomocon/status/788184254089867264&quot;&gt;October 18, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;ED Ireson talks About the inception of &lt;a href=&quot;https://twitter.com/FOMOvote&quot;&gt;@FOMOvote&lt;/a&gt; ! 🙌🏼&lt;br /&gt;🗳&lt;a href=&quot;https://twitter.com/hashtag/civictech?src=hash&quot;&gt;#civictech&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/atx?src=hash&quot;&gt;#atx&lt;/a&gt; &lt;a href=&quot;https://t.co/BK7fXkNGAg&quot;&gt;pic.twitter.com/BK7fXkNGAg&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/788189054353354752&quot;&gt;October 18, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&amp;quot;We have a system error not an individual error when it comes to non-voters.&amp;quot; 👏🏽 &lt;a href=&quot;https://twitter.com/stepwinder&quot;&gt;@stepwinder&lt;/a&gt;  &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/GetouttheVote?src=hash&quot;&gt;#GetouttheVote&lt;/a&gt;&lt;/p&gt;&amp;mdash; Vickie (@Victoria_ODell) &lt;a href=&quot;https://twitter.com/Victoria_ODell/status/788182114751569920&quot;&gt;October 18, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/ideationleague&quot;&gt;@ideationleague&lt;/a&gt; presenting a lightning talk at &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; with &lt;a href=&quot;https://twitter.com/mina_adame&quot;&gt;@mina_adame&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/openaustin?src=hash&quot;&gt;#openaustin&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/latino?src=hash&quot;&gt;#latino&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/vote?src=hash&quot;&gt;#vote&lt;/a&gt; &lt;a href=&quot;https://t.co/Z5XhkRljL1&quot;&gt;pic.twitter.com/Z5XhkRljL1&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dario (@ArtAwake) &lt;a href=&quot;https://twitter.com/ArtAwake/status/788220424140185600&quot;&gt;October 18, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
+
+&lt;p&gt;Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
+&lt;br /&gt;
+RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow us on Twitter&lt;/a&gt;
+&amp;amp; &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like us on Facebook&lt;/a&gt;&lt;/p&gt;
+
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Wed, 19 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://open-austin.github.io//blog/2016/10/19/october-meetup-recap</link>
+        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/10/19/october-meetup-recap</guid>
+        
+        
+      </item>
     
       <item>
         <title>September Open Gov &amp; Civic Tech Meetup Recap-Data.World</title>
@@ -694,49 +739,6 @@ RSVP for our next event on &lt;a href=&quot;http://www.meetup.com/Open-Austin/&q
         <pubDate>Sat, 28 May 2016 00:00:00 -0500</pubDate>
         <link>http://open-austin.github.io//blog/2016/05/28/may-open-gov-civic-tech-meetup-recap</link>
         <guid isPermaLink="true">http://open-austin.github.io//blog/2016/05/28/may-open-gov-civic-tech-meetup-recap</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>My day as a UXer at the Designing for Civic Solutions Workshop</title>
-        <description>&lt;p&gt;As a UX Design student in my final semester at ACC, I was thrilled to have the opportunity to attend the Open Austin’s Designing for Civic Solutions Workshop. It was held at the Little Walnut Creek Branch, Austin Public Library located near the Rundberg and North Lamar intersection. Snacks, refreshments, and lunch were provided to keep us well-fueled for the day’s human-centered design activities.&lt;/p&gt;
-
-&lt;p&gt;The morning started with an introduction by Mateo Clarke and Victoria O’Dell of Open Austin. Next we learned about the Rundberg community, and issues the area faces from Daniela Nuñez, Co-Vice President of the Georgian Acres Neighborhood Association. The human-centered design portion of the workshop was kicked off by Eric Boggs, AC4D alumni, followed by Bhavini Patel, Laura Galos, James Lewis, and Samara Watkiss. Each took turns introducing the room to a different phase of the process we’d utilize for the duration of the workshop.&lt;/p&gt;
-
-&lt;p&gt;As we moved into the &lt;strong&gt;Research&lt;/strong&gt; phase, participants broke up into small teams to choose what they would focus on for the day. I teamed with Lora Rowan and Kayla Kennett to focus on &lt;strong&gt;“what it feels like to be a bicyclist or pedestrian crossing the intersection at North Lamar and Rundberg”&lt;/strong&gt;, one of the most dangerous intersections in the city.&lt;/p&gt;
-
-&lt;p&gt;We collaborated to come up with open-ended questions, and headed out into the field on foot to ask area residents our questions with the goals of gaining empathy and insights. We successfully interviewed a few Austin residents, although we ran into language barriers with a couple of other potential interviewees. We took turns serving as the facilitator, notetaker, and photographer. Soon the heat of the afternoon kicked in, and we headed back to the Library for a break.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/ellen-Contextal-observation.jpg&quot; alt=&quot;Ladies crossing N Lamar in the middle of the street&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Contextual observation - These ladies crossed N Lamar in the middle of the street and seemed very calm. They were standing in the street waiting to cross.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;After the our lunch break concluded, we moved into the &lt;strong&gt;Synthesis&lt;/strong&gt; phase of the workshop. We were led through a series of exercises where we examined what our interviewees shared with our team, and discovered themes and insights. This is the phase where the post-its and scissors were put into heavy use, as we collaborated.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/ellen-mentor.jpg&quot; alt=&quot;4 participants organize sticky notes&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Eric Boggs mentoring, me (left), Lora (middle), Kayla (right)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In the &lt;strong&gt;Ideation&lt;/strong&gt; phase we were encouraged to generate many ideas without censorship in our teams. During this phase we engaged each team member, and openly encouraged the sharing of ideas and opinions. Then we used creative downselection, to identify ideas based on criteria appropriate to the project.&lt;/p&gt;
-
-&lt;p&gt;Finally, we moved into &lt;strong&gt;Storyboarding as a Prototyping tool&lt;/strong&gt;. Each team member created their own storyboard during this phase. We brought our individual design vision to life using a concise and focused approach to introducing the people in our story, showing the problem, the solution, and the result. We also learned some pretty nifty shortcuts to expressing emotion with facial expressions, that help the viewer understand the emotions tied to the experience.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/ellen-storyboard.jpg&quot; alt=&quot;Ellen&#39;s story board&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This was my storyboard.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In conclusion, I thoroughly enjoyed the workshop, and hope that some of the ideas from attendees might solve the issue of mobility in Austin. It was incredible getting out in the field to conduct research, and listen to Austinites share their stories. Learning and applying AC4D alumni’s human-centered design process was also quite rewarding in many ways.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 04 May 2016 00:00:00 -0500</pubDate>
-        <link>http://open-austin.github.io//blog/2016/05/04/my-day-as-a-uxer-designing-for-civic-solutions</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/05/04/my-day-as-a-uxer-designing-for-civic-solutions</guid>
         
         
       </item>
