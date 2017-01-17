@@ -21,7 +21,7 @@ As our 45th President, Donald J Trump, is inaugurated in DC this week, we'd like
 
 ### Events
 
-- We hosted or were invited to present at over 50 [events](https://www.meetup.com/open-austin/) including 17 Civic Hack Nights, 12 Civic Hack Saturdays, and 12 Open Gov & Civic Meetups.
+- We hosted or were invited to present at over [50 events](https://www.meetup.com/open-austin/) including 17 Civic Hack Nights, 12 Civic Hack Saturdays, and 12 Open Gov & Civic Meetups.
 - We co-presented the [4th annual ATX Hack for Change](https://www.open-austin.org/blog/2016/06/07/Recap-ATX-Hack-for-Change-2016) hosted at St. Edward's University.
 - We presented the [6th Code Across Austin](https://www.open-austin.org/blog/2016/03/10/codeacross-austin-2016-recap) at St. Ed's.
 - We hosted two seperate "Design for Civic Solutions" workshops in partnership with Austin Center for Design, Austin Design Week, and the City of Austin Office of Innovation.
