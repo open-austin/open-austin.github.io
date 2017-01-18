@@ -51,7 +51,7 @@ Since the Election of Donald Trump, we've seen an increased hunger in our commun
 
 As an all-volunteer organization, we labored to accomplish the achievements listed above. This year, we want to deepen our impact and try harder to support existing organizations in our community.
 
-In order to do this, our coreteam has chosen three internal projects and we'd like your help with it. [Apply here to join our coreteam].(https://openaustin.typeform.com/to/zyE0a4)
+In order to do this, our coreteam has chosen three internal projects and we'd like your help with it. **[Apply here to join our coreteam.](https://openaustin.typeform.com/to/zyE0a4)**
 
 1. Membership Development Plan
   - We want to make it easier for volunteers to assume roles within the organization, on projects, and in planning. We want to accommodate varying levels of availability.
