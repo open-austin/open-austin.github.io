@@ -13,7 +13,7 @@ author:
 
 When Open Austin was founded in 2009, [Obama's open data initiative](https://www.whitehouse.gov/open) was just getting started. In the eight years since, the world is now a different place. Code for America [sent its Fellows](http://kut.org/post/what-can-code-america-do-austin) to inject tech talent into local government, including Austin as a pilot city in 2012. Five years ago, the White House recognized the first weekend in June as the [National Day of Civic Hacking](https://www.whitehouse.gov/blog/2016/06/03/open-data-and-innovation-national-day-civic-hacking-2016), an event we co-present annually as the [ATX Hack for Change](http://atxhackforchange.org/).
 
-It is interesting to juxtapose the history of Open Austin, and the larger national "Civic Tech" movement, with the Presidential Timeline. It reminds us just how young this work is. In 2017, our organization will experience it's first Presidential Transition.
+It is interesting to juxtapose the history of Open Austin, and the larger national "Civic Tech" movement, with the presidential timeline. It reminds us just how young this work is. In 2017, our organization will experience its first presidential transition.
 
 As our 45th President, Donald J Trump, is inaugurated in DC this week, we'd like to reflect on highlights from last year. Then we will lay out some challenges ahead.
 
