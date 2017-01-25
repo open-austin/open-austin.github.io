@@ -11,11 +11,11 @@ author:
   last_name: Clarke
 ---
 
-When Open Austin was founded in 2009, [Obama's open data initiative](https://www.whitehouse.gov/open) was just getting started. In the eight years since, the world is now a different place.
+When Open Austin was founded in 2009, [Obama's open data initiative](https://www.whitehouse.gov/open) was just getting started. A few years later in 2012, Code for America [announced it would send its Fellows](http://kut.org/post/what-can-code-america-do-austin) to inject tech talent into local government, including Austin as a pilot city. Five years ago, the White House recognized the first weekend in June as the [National Day of Civic Hacking](https://www.whitehouse.gov/blog/2016/06/03/open-data-and-innovation-national-day-civic-hacking-2016), an event we co-present annually as the [ATX Hack for Change](http://atxhackforchange.org/).
 
-Code for America [announced it would send its Fellows](http://kut.org/post/what-can-code-america-do-austin) to inject tech talent into local government, including Austin as a pilot city in 2012. Five years ago, the White House recognized the first weekend in June as the [National Day of Civic Hacking](https://www.whitehouse.gov/blog/2016/06/03/open-data-and-innovation-national-day-civic-hacking-2016), an event we co-present annually as the [ATX Hack for Change](http://atxhackforchange.org/).
+In the eight years since our founding, the world is a different place.
 
-It is interesting to juxtapose the history of Open Austin, and the larger national "Civic Tech" movement, with the presidential timeline. It reminds us just how young this work is. In 2017, our organization will experience its first presidential transition.
+It is interesting to juxtapose the history of Open Austin, and the larger national "Civic Tech" movement, with the presidential timeline. It reminds us just how young this work is. In 2017, our organization is experiencing its first presidential transition.
 
 Our 45th President, Donald J Trump, was inaugurated in DC last week. We'd like to reflect on highlights from 2016. Then we will lay out  our focus ahead for 2017.
 
@@ -69,7 +69,7 @@ In order to do this, our coreteam has chosen three internal projects and we'd li
   ![Group working on asset mapping the resource of our organization](/assets/values_group_2016.png)
   ![An example of 6 values a group choose for Civic Tech](/assets/civic_tech_values_postit.png)
   ![Organizing different values to interpret meaning](/assets/values_2017.png)
-3. Open Austin Labs
+3. Official Partner Projecets (aka: Open Austin Labs)
   - We want to get better and support projects that have:
       - Formal partnerships with external stakeholders (like other non-profits or the City of Austin)
       - Clear goals and deadlines
