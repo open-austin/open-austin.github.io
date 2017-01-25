@@ -5,17 +5,19 @@
     <description>Open Austin is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. We are an official brigade affiliated with the nonprofit Code for America which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.</description>
     <link>http://open-austin.github.io//</link>
     <atom:link href="http://open-austin.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Jan 2017 01:22:59 -0600</pubDate>
-    <lastBuildDate>Tue, 17 Jan 2017 01:22:59 -0600</lastBuildDate>
+    <pubDate>Wed, 25 Jan 2017 00:49:47 -0600</pubDate>
+    <lastBuildDate>Wed, 25 Jan 2017 00:49:47 -0600</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>2017: Our next challenge</title>
-        <description>&lt;p&gt;When Open Austin was founded in 2009, &lt;a href=&quot;https://www.whitehouse.gov/open&quot;&gt;Obama’s open data initiative&lt;/a&gt; was just getting started. In the eight years since, the world is now a different place. Code for America &lt;a href=&quot;http://kut.org/post/what-can-code-america-do-austin&quot;&gt;sent its Fellows&lt;/a&gt; to inject tech talent into local government, including Austin as a pilot city in 2012. Five years ago, the White House recognized the first weekend in June as the &lt;a href=&quot;https://www.whitehouse.gov/blog/2016/06/03/open-data-and-innovation-national-day-civic-hacking-2016&quot;&gt;National Day of Civic Hacking&lt;/a&gt;, an event we co-present annually as the &lt;a href=&quot;http://atxhackforchange.org/&quot;&gt;ATX Hack for Change&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;When Open Austin was founded in 2009, &lt;a href=&quot;https://www.whitehouse.gov/open&quot;&gt;Obama’s open data initiative&lt;/a&gt; was just getting started. In the eight years since, the world is now a different place.&lt;/p&gt;
 
-&lt;p&gt;It is interesting to juxtapose the history of Open Austin, and the larger national “Civic Tech” movement, with the Presidential Timeline. It reminds us just how young this work is. In 2017, our organization will experience it’s first Presidential Transition.&lt;/p&gt;
+&lt;p&gt;Code for America &lt;a href=&quot;http://kut.org/post/what-can-code-america-do-austin&quot;&gt;announced it would send its Fellows&lt;/a&gt; to inject tech talent into local government, including Austin as a pilot city in 2012. Five years ago, the White House recognized the first weekend in June as the &lt;a href=&quot;https://www.whitehouse.gov/blog/2016/06/03/open-data-and-innovation-national-day-civic-hacking-2016&quot;&gt;National Day of Civic Hacking&lt;/a&gt;, an event we co-present annually as the &lt;a href=&quot;http://atxhackforchange.org/&quot;&gt;ATX Hack for Change&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;As our 45th President, Donald J Trump, is inaugurated in DC this week, we’d like to reflect on highlights from last year. Then we will lay out some challenges ahead.&lt;/p&gt;
+&lt;p&gt;It is interesting to juxtapose the history of Open Austin, and the larger national “Civic Tech” movement, with the Presidential Timeline. It reminds us just how young this work is. In 2017, our organization is experiencing it’s first Presidential Transition.&lt;/p&gt;
+
+&lt;p&gt;Our 45th President, Donald J Trump, was inaugurated in DC last week. We’d like to reflect on highlights from 2016. Then we will lay out  our focus ahead for 2017.&lt;/p&gt;
 
 &lt;h2 id=&quot;recap&quot;&gt;2016 Recap&lt;/h2&gt;
 
@@ -45,36 +47,61 @@
 &lt;ul&gt;
   &lt;li&gt;Our community created &lt;a href=&quot;https://github.com/open-austin/project-ideas/issues?utf8=%E2%9C%93&amp;amp;q=is%3Aissue%20created%3A2016-01-01..2016-12-31%20&quot;&gt;42 new project ideas&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;We updated our &lt;a href=&quot;https://www.open-austin.org/blog/2016/01/25/new-logo-same-mission&quot;&gt;logo&lt;/a&gt; and launched a new website.&lt;/li&gt;
-  &lt;li&gt;Texas Appleseed gave us their Pro Bono Leadership Award at the &lt;a href=&quot;https://texasappleseed.org/good-apple-dinner&quot;&gt;Good Apple Dinner&lt;/a&gt; for our work on &lt;a href=&quot;http://www.texasdisciplinelab.org/&quot;&gt;Texas School Discipline Lab&lt;/a&gt; helping to advocate for dismantling the school to prison pipeline&lt;/li&gt;
+  &lt;li&gt;Texas Appleseed gave us their Pro Bono Leadership Award at the &lt;a href=&quot;https://texasappleseed.org/good-apple-dinner&quot;&gt;Good Apple Dinner&lt;/a&gt; for our work on &lt;a href=&quot;http://www.texasdisciplinelab.org/&quot;&gt;Texas School Discipline Lab&lt;/a&gt; helping to advocate for dismantling the school to prison pipeline.&lt;/li&gt;
   &lt;li&gt;Our work in support of the Texas Criminal Justice Coalition, ACLU of Texas, and Texans for Accountable Government in creating &lt;a href=&quot;http://www.atxbodycam.com/&quot;&gt;atxbodycam.com&lt;/a&gt; was recognized on the main stage of the Code for America Summit.&lt;/li&gt;
   &lt;li&gt;The &lt;a href=&quot;https://github.com/open-austin/iced-coffee/issues/130&quot;&gt;Civic Hack Canvas&lt;/a&gt; was forked and used in DC, Japan, and used by the City of Austin in a Transportation Grant challenge.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;section&quot;&gt;2017&lt;/h2&gt;
 
-&lt;p&gt;Since the Election of Donald Trump, we’ve seen an increased hunger in our community for project and advocacy work that meets at the intersection of technology &amp;amp; government.&lt;/p&gt;
+&lt;p&gt;Since the Election of Donald J. Trump, we’ve seen an increased hunger from our community for projects and advocacy work that promotes the civic good. We believe the intersection of technology &amp;amp; government are vital for progress in our experiment in democracy.&lt;/p&gt;
 
 &lt;p&gt;As an all-volunteer organization, we labored to accomplish the achievements listed above. This year, we want to deepen our impact and try harder to support existing organizations in our community.&lt;/p&gt;
 
-&lt;p&gt;In order to do this, our coreteam has chosen three internal projects and we’d like your help with it. [Apply here to join our coreteam].(https://openaustin.typeform.com/to/zyE0a4)&lt;/p&gt;
+&lt;p&gt;In order to do this, our coreteam has chosen three internal projects and we’d like your help with it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://openaustin.typeform.com/to/zyE0a4&quot;&gt;&lt;strong&gt;Apply here to join our coreteam&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Membership Development Plan
     &lt;ul&gt;
       &lt;li&gt;We want to make it easier for volunteers to assume roles within the organization, on projects, and in planning. We want to accommodate varying levels of availability.&lt;/li&gt;
+      &lt;li&gt;We brainstormed about our org model and decided it looks most like a snowflake ❄️. We invite you to imagine where you could plug in.
+&lt;a href=&quot;/assets/snowflake_model_2017.png&quot;&gt;&lt;img src=&quot;/assets/snowflake_model_2017.png&quot; alt=&quot;Snowflake model of distributed leadership&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Formalizing Values
+  &lt;li&gt;Values
     &lt;ul&gt;
-      &lt;li&gt;At our meetup in November, we facilitated a collaborative design exercise to find language that described the core values of Civic Tech. We want to distill these insights into a better reflection of why we do our work on our About Page.&lt;/li&gt;
+      &lt;li&gt;We know that if we want to fight hard battles in the next 4 years, we need to stand on a principled foundation.&lt;/li&gt;
+      &lt;li&gt;At our meetup in November 2016, we facilitated a collaborative design exercise to find language that describes the core values of Civic Tech.&lt;/li&gt;
+      &lt;li&gt;Then we distilled these insights into a better reflection of Why we do our work.&lt;/li&gt;
+      &lt;li&gt;The tangible outcome will be an updated About Page &lt;em&gt;(coming v soon)&lt;/em&gt;.
+  &lt;img src=&quot;/assets/values_group_2016.png&quot; alt=&quot;Group working on asset mapping the resource of our organization&quot; /&gt;
+  &lt;img src=&quot;/assets/civic_tech_values_postit.png&quot; alt=&quot;An example of 6 values a group choose for Civic Tech&quot; /&gt;
+  &lt;img src=&quot;/assets/values_2017.png&quot; alt=&quot;Organizing different values to interpret meaning&quot; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Open Austin Labs
     &lt;ul&gt;
-      &lt;li&gt;We want to prioritize projects that have formal partnerships with external stakeholders (like other non-profits or the City of Austin), clear goals and deadlines, and potential for funding.&lt;/li&gt;
+      &lt;li&gt;We want to get better and support projects that have:&lt;/li&gt;
+      &lt;li&gt;Formal partnerships with external stakeholders (like other non-profits or the City of Austin)&lt;/li&gt;
+      &lt;li&gt;Clear goals and deadlines&lt;/li&gt;
+      &lt;li&gt;Opportunities for funding via grants, contracts, etc.&lt;/li&gt;
+      &lt;li&gt;A plan for open-source maintenance and documentation.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;p&gt;But most importantly, we want to remain a friendly community where people come to learn, share, and collaborate with each other. We will need your help.&lt;/p&gt;
+
+&lt;p&gt;Please consider joining our snowflake ❄️❄️❄️&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://openaustin.typeform.com/to/zyE0a4&quot;&gt;&lt;strong&gt;Apply here to join our coreteam&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;What does &lt;a href=&quot;https://twitter.com/hashtag/democracy?src=hash&quot;&gt;#democracy&lt;/a&gt; look like? A full room of folks learning about &lt;a href=&quot;https://twitter.com/hashtag/opendata?src=hash&quot;&gt;#opendata&lt;/a&gt; at &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@OpenAustin&lt;/a&gt;. Want to check it out? &lt;a href=&quot;https://t.co/6EdbVcV0bO&quot;&gt;https://t.co/6EdbVcV0bO&lt;/a&gt; &lt;a href=&quot;https://t.co/bQ6z9hNVy9&quot;&gt;pic.twitter.com/bQ6z9hNVy9&lt;/a&gt;&lt;/p&gt;&amp;mdash; Daniel Ryne Lucio ⚡️ (@danielrynelucio) &lt;a href=&quot;https://twitter.com/danielrynelucio/status/823711825942302720&quot;&gt;January 24, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;em&gt;~ Mateo Clarke, Brigade Captain&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
 
