@@ -27,7 +27,7 @@ The project will start as an educational pilot curriculum including participatio
 
 The result of this will be a finalized budget that the students would present to the Austin City Council during the formal period of citizen feedback on the proposal annual budget. Conditional upon the success of this pilot, the end product would be a robust curriculum and platform that could scale so that hundreds of students would simultaneously collaborate and learn from their peers all over the City breaking down the barriers of economic segregation.
 
-Using mobile technology solutions and high-speed internet connections, we aim to facilitate a realistic educational simulation where students learn by doing through mobile devices that meet them where they are in the digital world. Our team believe this type of learning experience can transform what has traditionally been possible in a classroom environment.
+Using mobile technology solutions and high-speed internet connections, we aim to facilitate a realistic educational simulation where students learn by doing through mobile devices that meet them where they are in the digital world. Our team believes this type of learning experience can transform what has traditionally been possible in a classroom environment.
 
 If you are interested in following this project more closely or contributing yourself, visit the [project Github repo](https://github.com/open-austin/budgetparty) and join the [#budgetparty Slack channel](http://slack.open-austin.org/).
 
