@@ -15,7 +15,7 @@ Austin Budget Party has been [awarded a Mozilla Gigabit Community Fund grant](ht
 
 The goal of the grant is to create an online, open-source, digital budget debate platform and curriculum designed for middle and high school students to explore civic challenges and priorities.
 
-Open Austin contributors partnered with the [Capital of Texas Media Foundation](https://www.cotmf.org/), publisher of the [Austin Monitor](http://www.austinmonitor.com/), to apply for this $15,000 award to improve the budget app and develop a teaching curriculum, and implement the program in 10 pilots schools in Austin.
+Open Austin contributors partnered with the [Capital of Texas Media Foundation](https://www.cotmf.org/), publisher of the [Austin Monitor](http://www.austinmonitor.com/), to apply for this $15,000 award to improve the budget app, develop a teaching curriculum, and implement the program in 10 pilots schools in Austin.
 
 The grant project builds on two existing initiatives:
 
