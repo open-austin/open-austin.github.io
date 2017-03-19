@@ -19,7 +19,7 @@ If you're interested in contacting your legislators to support open data, you ca
 
 [HB 2596](https://openstates.org/tx/bills/85/HB2596/), among other things, would require home-rule municipalities to provide GIS files of its boundaries and extra-territorial jurisdiction. It would also require the production of a digital map to accompany annexation plans.
 
-[HB 2044](https://openstates.org/tx/bills/85/HB2044/) has openness provisions about traffic stops and police discipline records, as well as provisions dealing with police use of force in other ways.
+[HB 2044](https://openstates.org/tx/bills/85/HB2044/) (authored by Senfronia Thompson, pictured) has openness provisions about traffic stops and police discipline records, as well as provisions dealing with police use of force in other ways.
 
 [SB 407](https://openstates.org/tx/bills/85/SB407/) and [HB 792](https://openstates.org/tx/bills/85/HB792/) would change the Open Records Act's exception for contract bids, which contain competitive information. The bills would change the statute so that the exception didn't apply once a contract was awarded. The Statesman published a Freedom of Information Foundation [editorial strongly supporting these bills](http://www.mystatesman.com/news/opinion/commentary-texas-must-repair-damage-public-information-act/5ZvyZur7pm5HEJqyzb8zDL/), which were introduced in response to a [Texas Supreme Court case called _Boeing v. Paxton_](http://caselaw.findlaw.com/tx-supreme-court/1705303.html). The Texas Tribune [wrote about the _Boeing_ decision](https://www.texastribune.org/2016/08/05/lawmakers-eye-monstrous-loophole-keeps-contract-de/), saying it prevented disclosures about Uber's operations in Houston, among other things.
 
