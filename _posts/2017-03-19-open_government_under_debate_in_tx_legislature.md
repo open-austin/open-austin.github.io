@@ -4,20 +4,22 @@ title: "Open Government Under Debate in TX Legislature"
 date: 2017-03-19
 type: post
 published: true
-thumb: SenfroniaThompson.png
-thumbalt: Senfronia Thompson, author of HB 2044
+thumb: tx-lege.jpg
+thumbalt: Texas Capitol Building
 author:
   first_name: Matt
   last_name: Carey
 ---
 
-Now that more than 60 days have passed since the start of the Texas legislative session, we're past the deadline for legislators to file non-emergency bills. Here's a rundown of bills that could have an effect on transparency and open government this session. 
+Now that more than 60 days have passed since the start of the Texas legislative session, we're past the deadline for legislators to file non-emergency bills. Here's a rundown of bills that could have an effect on transparency and open government this session.
 
 If you're interested in contacting your legislators to support open data, you can use [openstates.org](https://openstates.org/find_your_legislator/) to find out whose districts you're in and get their offices' phone numbers. If you want to alert us to something we missed, or just join Open Austin's discussion about policy, you can join the #policy channel in the [Open Austin community on Slack](https://slack.open-austin.org/)
 
-## Bills that increase openness in government 
+## Bills that increase openness in government
 
-[HB 2044](https://openstates.org/tx/bills/85/HB2044/) (authored by Senfronia Thompson, pictured) has openness provisions about traffic stops and police discipline records, as well as provisions dealing with police use of force in other ways. It's supported by the [Austin Justice Coalition](https://www.austinjustice.org/).
+[HB 2044](https://openstates.org/tx/bills/85/HB2044/) (authored by Senfronia Thompson, pictured below) has openness provisions about traffic stops and police discipline records, as well as provisions dealing with police use of force in other ways. It's supported by the [Austin Justice Coalition](https://www.austinjustice.org/).
+
+<img src="/assets/images/SenfroniaThompson.jpg" alt="Senfronia Thompson, author of HB 2044" style="margin: auto; display: block;">
 
 [HB 2596](https://openstates.org/tx/bills/85/HB2596/), among other things, would require home-rule municipalities to provide GIS files of its boundaries and extra-territorial jurisdiction. It would also require the production of a digital map to accompany annexation plans.
 
