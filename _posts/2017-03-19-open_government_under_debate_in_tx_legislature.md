@@ -4,8 +4,8 @@ title: "Open Government Under Debate in TX Legislature"
 date: 2017-03-19
 type: post
 published: true
-thumb: SenfroniaThompson.png
-thumbalt: Senfronia Thompson, author of HB 2044
+thumb: tx-lege.jpg
+thumbalt: Texas Capitol Building
 author:
   first_name: Matt
   last_name: Carey
