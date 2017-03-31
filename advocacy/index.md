@@ -18,7 +18,7 @@ The **Open Austin Policy Team** works with local governments and public agencies
 ---
 
 ## Candidate Questionnaires
-Since 2011, in every City of Austin election, Open Austin submitted a policy questionnaire to all the candidates. We ask for their response on a variety of open government and important civic tech issues. We do not endorse candidates, but we do encourage voters to be informed on candidate positions.
+In every City of Austin election since 2011, Open Austin submitted a policy questionnaire to all the candidates. We ask for their response on a variety of open government and important civic tech issues. We do not endorse candidates, but we do encourage voters to be informed on candidate positions.
 
 *   [2016 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2016.html)
 *   [2014 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2014-austin-city-council.html)
@@ -65,11 +65,11 @@ In an attempt to clarify the expectations for this office, the Community Technol
 {:.no_toc}
 ### Open Government Audit - Aug 28, 2013
 
-The City of Austin Auditor conducted a performance audit of the Open Government Initiative, and presented their findings to the City Council Audit and Finance Committee. A key finding of the report was:
+The City of Austin Auditor conducted a performance audit of the Open Government Initiative and presented their findings to the City Council Audit and Finance Committee. A key finding of the report was:
 
 > The lack of a defined strategy is impacting the City’s ability to successfully implement the Open Government initiative, as directed by Council resolution.
 
-We attended the committee meeting and expressed our concerns about the state of the Open Government Initiative, with focus on the lack of community engagement in the Civic Innovation Office effort.
+We attended the committee meeting and expressed our concerns about the state of the Open Government Initiative, focussing on the lack of community engagement in the Civic Innovation Office effort.
 
 *   [Report: AustinGO Website Governance and Management Audit](/advocacy/documents/au13006.pdf)
 *   [Presentation by City Auditor: AustinGO Website Governance and Management Audit](/advocacy/documents/AustinGO-83013.pdf)
@@ -88,14 +88,14 @@ Just days before the report on the performance audit of the Open Government Init
 {:.no_toc}
 ### Innovation Office Proposal - Aug 30, 2012
 
-The Austin City Council conducted a Budget Hearing on August 30, 2012, to receive citizen input on the FY2013 budget. At the hearing, we proposed creating a Civic Innovation Office, to provide leadership for the city's Open Government Initiative. The City Council approved adding $250K funds to the FY2013 budget, to pilot a new innovation office.
+The Austin City Council held a Budget Hearing on August 30, 2012 to receive citizen input on the FY2013 budget. At the hearing, we proposed creating a Civic Innovation Office to provide leadership for the city's Open Government Initiative. The City Council approved adding $250K funds to the FY2013 budget to pilot a new innovation office.
 
 *   [Civic Innovation Office Proposal](/advocacy/documents/20120830-civic-innovation-proposal.pdf) by Open Austin
 
 {:.no_toc}
 ### Open Government Resolution - Dec 8, 2011
 
-On December 8, 2011, the Austin City Council adoped an Open Government Resolution, which called for the City Manager to propose an Open Government Framework, including implementation plans and budgets. We provided input to the resolution, and strongly support its adoption.
+On December 8, 2011, the Austin City Council adopted an Open Government Resolution, which called for the City Manager to propose an Open Government Framework, including implementation plans and budgets. We provided input to the resolution and strongly support its adoption.
 
 *   [City of Austin Open Government Resolution](/advocacy/documents/20111208-austin-opengov-resol.pdf)
 

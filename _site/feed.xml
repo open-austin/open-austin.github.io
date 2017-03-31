@@ -3,11 +3,321 @@
   <channel>
     <title>Open Austin - Code for America Brigade - Austin, Texas</title>
     <description>Open Austin is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. We are an official brigade affiliated with the nonprofit Code for America which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.</description>
-    <link>http://open-austin.github.io//</link>
-    <atom:link href="http://open-austin.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Oct 2016 10:28:18 -0500</pubDate>
-    <lastBuildDate>Tue, 18 Oct 2016 10:28:18 -0500</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 19 Mar 2017 23:23:09 -0500</pubDate>
+    <lastBuildDate>Sun, 19 Mar 2017 23:23:09 -0500</lastBuildDate>
+    <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>Open Government Under Debate in TX Legislature</title>
+        <description>&lt;p&gt;Now that more than 60 days have passed since the start of the Texas legislative session, we’re past the deadline for legislators to file non-emergency bills. Here’s a rundown of bills that could have an effect on transparency and open government this session.&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in contacting your legislators to support open data, you can use &lt;a href=&quot;https://openstates.org/find_your_legislator/&quot;&gt;openstates.org&lt;/a&gt; to find out whose districts you’re in and get their offices’ phone numbers. If you want to alert us to something we missed, or just join Open Austin’s discussion about policy, you can join the #policy channel in the &lt;a href=&quot;https://slack.open-austin.org/&quot;&gt;Open Austin community on Slack&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;bills-that-increase-openness-in-government&quot;&gt;Bills that increase openness in government&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://openstates.org/tx/bills/85/HB2044/&quot;&gt;HB 2044&lt;/a&gt; (authored by Senfronia Thompson, pictured below) has openness provisions about traffic stops and police discipline records, as well as provisions dealing with police use of force in other ways. It’s supported by the &lt;a href=&quot;https://www.austinjustice.org/&quot;&gt;Austin Justice Coalition&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/SenfroniaThompson.jpg&quot; alt=&quot;Senfronia Thompson, author of HB 2044&quot; style=&quot;margin: auto; display: block;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://openstates.org/tx/bills/85/HB2596/&quot;&gt;HB 2596&lt;/a&gt;, among other things, would require home-rule municipalities to provide GIS files of its boundaries and extra-territorial jurisdiction. It would also require the production of a digital map to accompany annexation plans.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://openstates.org/tx/bills/85/SB407/&quot;&gt;SB 407&lt;/a&gt; and &lt;a href=&quot;https://openstates.org/tx/bills/85/HB792/&quot;&gt;HB 792&lt;/a&gt; would change the Open Records Act’s exception for contract bids, which contain competitive information. The bills would change the statute so that the exception didn’t apply once a contract was awarded. The Statesman published a Freedom of Information Foundation &lt;a href=&quot;http://www.mystatesman.com/news/opinion/commentary-texas-must-repair-damage-public-information-act/5ZvyZur7pm5HEJqyzb8zDL/&quot;&gt;editorial strongly supporting these bills&lt;/a&gt;, which were introduced in response to a &lt;a href=&quot;http://caselaw.findlaw.com/tx-supreme-court/1705303.html&quot;&gt;Texas Supreme Court case called &lt;em&gt;Boeing v. Paxton&lt;/em&gt;&lt;/a&gt;. The Texas Tribune &lt;a href=&quot;https://www.texastribune.org/2016/08/05/lawmakers-eye-monstrous-loophole-keeps-contract-de/&quot;&gt;wrote about the &lt;em&gt;Boeing&lt;/em&gt; decision&lt;/a&gt;, saying it prevented disclosures about Uber’s operations in Houston, among other things.&lt;/p&gt;
+
+&lt;p&gt;In the &lt;a href=&quot;http://www.mystatesman.com/news/opinion/commentary-texas-must-repair-damage-public-information-act/5ZvyZur7pm5HEJqyzb8zDL/&quot;&gt;same editorial in the Statesman&lt;/a&gt; Kelley Shannon, executive director of the Freedom of Information Foundation of Texas, endorsed two other bills:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The Freedom of Information Foundation of Texas and other open government advocates are pressing for additional transparency measures in the Legislature. &lt;a href=&quot;https://openstates.org/tx/bills/85/HB2670/&quot;&gt;House Bill 2670&lt;/a&gt; attempts to improve access to public records stored in private email accounts and on private electronic devices. &lt;a href=&quot;https://openstates.org/tx/bills/85/HB2710/&quot;&gt;House Bill 2710&lt;/a&gt; seeks to resume access to dates of birth in certain public records, including crime documents and election filings, which fosters accuracy and informs the public.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://openstates.org/tx/bills/85/HB793/&quot;&gt;HB 793&lt;/a&gt; would expand the definition of “governmental body” to particular contractors. This could include private entities that operate toll roads. According to the Statesman editorial, HB 793 would supersede the &lt;a href=&quot;http://caselaw.findlaw.com/tx-supreme-court/1706354.html&quot;&gt;&lt;em&gt;Greater Houston Partnership&lt;/em&gt; Texas Supreme Court decision&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Finally, &lt;a href=&quot;https://openstates.org/tx/bills/85/HB623/&quot;&gt;HB 623&lt;/a&gt; would require the creation of a web portal for state criminal justice data including reports submitted to the Attorney General.&lt;/p&gt;
+
+&lt;h2 id=&quot;bills-that-cut-back-on-open-government&quot;&gt;Bills that cut back on open government&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://openstates.org/tx/bills/85/HB526/&quot;&gt;HB 526&lt;/a&gt; would amend the open-records statute to entitle only residents to public information. (Currently, anyone can submit a public-information request and governmental entities have a duty to fulfill them under the terms of the Government Code.) In addition to restricting the free flow of public information, this could be burdensome to both persons making requests and entities fulfilling them if the residence of the person requesting needs to be verified.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://openstates.org/tx/bills/85/HB1258/&quot;&gt;HB 1258&lt;/a&gt; would prevent anyone, including the state government, from allowing online public access to court records currently held by counties. The &lt;a href=&quot;http://www.mystatesman.com/news/state--regional-govt--politics/texas-clerks-look-derail-web-based-public-access-court-records/pnNpmqoQlwe4s8xfBUZYbJ/&quot;&gt;state Office of Court Administration was planning on allowing access&lt;/a&gt; to the records through the state’s new &lt;a href=&quot;https://www.pacer.gov/&quot;&gt;PACER&lt;/a&gt;-like database called “re:SearchTX”. Even though the fees for the state database will be exorbitant at up to $6 per document, Chief Justice Hecht of the Texas Supreme Court thinks it will be an improvement for people who can’t afford a lawyer. The &lt;a href=&quot;https://www.texastribune.org/2017/03/09/seeing-turf-war-texas-counties-rally-against-statewide-records-portal/&quot;&gt;Texas Tribune quotes Hecht&lt;/a&gt; as saying “We’re talking about tens of thousands of people for whom getting a court record is probably impossible, at least practically…It’s just crucial. It’s important for transparency. The media and the public at large have a very fundamental interest in the public justice system.” A bill that blocks the state’s court record database from becoming available to the public will probably be a negative for open government.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://openstates.org/tx/bills/85/HB3107/&quot;&gt;HB 3107&lt;/a&gt; lets government bodies impose limits on the amount of records they’re required to disclose to a single requestor per month or year. The limits are determined by the amount of staff time used to produce the records, which creates the risk that governments will reduce their obligation to disclose records by using inefficient methods to produce the records. The limits don’t apply to employees of news organizations, but it could be burdensome for people with reasonable records requests to prove their requests are sponsored by a qualified organization.&lt;/p&gt;
+
+&lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
+
+&lt;p&gt;Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
+&lt;br /&gt;
+RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow us on Twitter&lt;/a&gt;
+&amp;amp; &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like us on Facebook&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 19 Mar 2017 00:00:00 -0500</pubDate>
+        <link>http://0.0.0.0:4000/blog/2017/03/19/open_government_under_debate_in_tx_legislature</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2017/03/19/open_government_under_debate_in_tx_legislature</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Announcement: Budget Party Awarded Mozilla Gigabit Community Fund Grant</title>
+        <description>&lt;p&gt;Austin Budget Party has been &lt;a href=&quot;https://learning.mozilla.org/blog/mozilla-awards-241000-to-explore-the-intersection-of-gigabit-technology-and-civics-robotics-farming-and-more&quot;&gt;awarded a Mozilla Gigabit Community Fund grant&lt;/a&gt; to help design and develop a Digital Mock City Council experience with &lt;a href=&quot;https://austinbudget.party/&quot;&gt;austinbudget.party&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The goal of the grant is to create an online, open-source, digital budget debate platform and curriculum designed for middle and high school students to explore civic challenges and priorities.&lt;/p&gt;
+
+&lt;p&gt;Open Austin contributors partnered with the &lt;a href=&quot;https://www.cotmf.org/&quot;&gt;Capital of Texas Media Foundation&lt;/a&gt;, publisher of the &lt;a href=&quot;http://www.austinmonitor.com/&quot;&gt;Austin Monitor&lt;/a&gt;, to apply for this $15,000 award to improve the budget app, develop a teaching curriculum, and implement the program in 10 pilots schools in Austin.&lt;/p&gt;
+
+&lt;p&gt;The grant project builds on two existing initiatives:&lt;/p&gt;
+
+&lt;p&gt;Austin Budget Party is an open-source, mobile friendly, web app designed to engage the citizens of Austin over how city budgets are developed. Open Austin led the design and creation of this project through volunteer Civic Hack Nights.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cotmf.org/austinmonitorintheclassroom/&quot;&gt;Monitor in the Classroom&lt;/a&gt; offers local educators access to Austin Monitor content to create curriculum around current events and the practice of journalism. It is currently funded by Google Fiber’s Austin branch.&lt;/p&gt;
+
+&lt;p&gt;The project will start as an educational pilot curriculum including participation from 10 different classrooms from each council district through a grant from the Mozilla Foundation. Each classroom will use austinbudget.party to craft a budget that meets the needs of their immediate community, elect a mock City Council representative from their peers, and learn about debate and formal proceedings. Then, the ten mock Council Members will create a digital quorum and run a meeting to be hosted over a gigabit powered video conferencing solution.&lt;/p&gt;
+
+&lt;p&gt;The result of this will be a finalized budget that the students would present to the Austin City Council during the formal period of citizen feedback on the proposal annual budget. Conditional upon the success of this pilot, the end product would be a robust curriculum and platform that could scale so that hundreds of students would simultaneously collaborate and learn from their peers all over the City breaking down the barriers of economic segregation.&lt;/p&gt;
+
+&lt;p&gt;Using mobile technology solutions and high-speed internet connections, we aim to facilitate a realistic educational simulation where students learn by doing through mobile devices that meet them where they are in the digital world. Our team believes this type of learning experience can transform what has traditionally been possible in a classroom environment.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in following this project more closely or contributing yourself, visit the &lt;a href=&quot;https://github.com/open-austin/budgetparty&quot;&gt;project Github repo&lt;/a&gt; and join the &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;#budgetparty Slack channel&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
+
+&lt;p&gt;Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
+&lt;br /&gt;
+RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow us on Twitter&lt;/a&gt;
+&amp;amp; &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like us on Facebook&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 08 Feb 2017 00:00:00 -0600</pubDate>
+        <link>http://0.0.0.0:4000/blog/2017/02/08/budget-party-mozilla-gigabit-grant-announcement</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2017/02/08/budget-party-mozilla-gigabit-grant-announcement</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>2017: Our next challenge</title>
+        <description>&lt;p&gt;When Open Austin was founded in 2009, &lt;a href=&quot;https://www.whitehouse.gov/open&quot;&gt;Obama’s open data initiative&lt;/a&gt; was just getting started. A few years later in 2012, Code for America &lt;a href=&quot;http://kut.org/post/what-can-code-america-do-austin&quot;&gt;announced it would send its Fellows&lt;/a&gt; to inject tech talent into local government, including Austin as a pilot city. Five years ago, the White House recognized the first weekend in June as the &lt;a href=&quot;https://www.whitehouse.gov/blog/2016/06/03/open-data-and-innovation-national-day-civic-hacking-2016&quot;&gt;National Day of Civic Hacking&lt;/a&gt;, an event we co-present annually as the &lt;a href=&quot;http://atxhackforchange.org/&quot;&gt;ATX Hack for Change&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the eight years since our founding, the world is a different place.&lt;/p&gt;
+
+&lt;p&gt;It is interesting to juxtapose the history of Open Austin, and the larger national “Civic Tech” movement, with the presidential timeline. It reminds us just how young this work is. In 2017, our organization is experiencing its first presidential transition.&lt;/p&gt;
+
+&lt;p&gt;Our 45th President, Donald J Trump, was inaugurated in DC last week. We’d like to reflect on highlights from 2016. Then we will lay out  our focus ahead for 2017.&lt;/p&gt;
+
+&lt;h2 id=&quot;2016-recap&quot;&gt;2016 Recap&lt;/h2&gt;
+
+&lt;h3 id=&quot;events&quot;&gt;Events&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We hosted or were invited to present at over &lt;a href=&quot;https://www.meetup.com/open-austin/&quot;&gt;50 events&lt;/a&gt; including 17 Civic Hack Nights, 12 Civic Hack Saturdays, and 12 Open Gov &amp;amp; Civic Meetups.&lt;/li&gt;
+  &lt;li&gt;We co-presented the &lt;a href=&quot;https://www.open-austin.org/blog/2016/06/07/Recap-ATX-Hack-for-Change-2016&quot;&gt;4th annual ATX Hack for Change&lt;/a&gt; hosted at St. Edward’s University.&lt;/li&gt;
+  &lt;li&gt;We presented the &lt;a href=&quot;https://www.open-austin.org/blog/2016/03/10/codeacross-austin-2016-recap&quot;&gt;6th Code Across Austin&lt;/a&gt; at St. Ed’s.&lt;/li&gt;
+  &lt;li&gt;We hosted two seperate “Design for Civic Solutions” workshops in partnership with Austin Center for Design, Austin Design Week, and the City of Austin Office of Innovation.&lt;/li&gt;
+  &lt;li&gt;We listened to 16 Lightning Talks and read &lt;a href=&quot;https://www.open-austin.org/blog/2016/06/07/Recap-ATX-Hack-for-Change-2016&quot;&gt;24 blogs posts&lt;/a&gt; presented and written by members of our increasingly diverse community.&lt;/li&gt;
+  &lt;li&gt;We hosted a day long “Women Who Open Data” workshop co-presented with Women Who Code.&lt;/li&gt;
+  &lt;li&gt;We co-presented two Game Nights themed around Budget &amp;amp; Transportation with Glasshouse Policy &amp;amp; the Austin Monitor.&lt;/li&gt;
+  &lt;li&gt;We raised $7,220 from our generous friends at data.world, Ordoro, Cloudera, Google Fiber, Mozilla Hive, Dev Bootcamp, Blue Treble, USAA, Austin B-cyle, HubCiti, Vizias, and Code for America.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;advocacy&quot;&gt;Advocacy&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We wrote a &lt;a href=&quot;https://docs.google.com/document/d/19ipZ3_XVI6_k6K9EpRrV50rlq1RMGFzR9Z-RFG7Gnko/edit?usp=sharing&quot;&gt;Letter of Support&lt;/a&gt; and participated as a civil society partner in the City’s ongoing &lt;a href=&quot;http://www.opengovpartnership.org/node/8960&quot;&gt;OGP Subnational Government Pilot Program&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Our members collaborated to create a &lt;a href=&quot;https://docs.google.com/document/d/1G-2yEphw1igKpaFQfSwPevWH3mMOACav9n-tDBViDro/edit?usp=sharing&quot;&gt;2016 Advocacy Agenda&lt;/a&gt; with input from community&lt;/li&gt;
+  &lt;li&gt;We provided pre-RFP recommendations to CoA Clerk office on Council Meetings &lt;a href=&quot;https://docs.google.com/document/d/1FOLuCR6kRRTLQD5dyJCuIquRkEoaGi0aqAVlBFwVuPY/edit?usp=sharing&quot;&gt;Agenda Management System&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;We continued our tradition of creating a &lt;a href=&quot;https://www.open-austin.org/candidate-questionnaires/2016.html&quot;&gt;Council Candidate Survey&lt;/a&gt; and redesigned how the qualitative information is presented. Content from our 2016 City Council Candidate survey was included in &lt;a href=&quot;https://itunes.apple.com/us/app/austin-tech-alliance/id1164265992?mt=8&quot;&gt;ATA mobile app&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;projects&quot;&gt;Projects&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Our community created &lt;a href=&quot;https://github.com/open-austin/project-ideas/issues?utf8=%E2%9C%93&amp;amp;q=is%3Aissue%20created%3A2016-01-01..2016-12-31%20&quot;&gt;42 new project ideas&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;We updated our &lt;a href=&quot;https://www.open-austin.org/blog/2016/01/25/new-logo-same-mission&quot;&gt;logo&lt;/a&gt; and launched a new website.&lt;/li&gt;
+  &lt;li&gt;Texas Appleseed gave us their Pro Bono Leadership Award at the &lt;a href=&quot;https://texasappleseed.org/good-apple-dinner&quot;&gt;Good Apple Dinner&lt;/a&gt; for our work on &lt;a href=&quot;http://www.texasdisciplinelab.org/&quot;&gt;Texas School Discipline Lab&lt;/a&gt; helping to advocate for dismantling the school to prison pipeline.&lt;/li&gt;
+  &lt;li&gt;Our work in support of the Texas Criminal Justice Coalition, ACLU of Texas, and Texans for Accountable Government in creating &lt;a href=&quot;http://www.atxbodycam.com/&quot;&gt;atxbodycam.com&lt;/a&gt; was recognized on the main stage of the Code for America Summit.&lt;/li&gt;
+  &lt;li&gt;The &lt;a href=&quot;https://github.com/open-austin/iced-coffee/issues/130&quot;&gt;Civic Hack Canvas&lt;/a&gt; was forked and used in DC, Japan, and used by the City of Austin in a Transportation Grant challenge.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2017&quot;&gt;2017&lt;/h2&gt;
+
+&lt;p&gt;Since the Election of Donald J. Trump, we’ve seen an increased hunger from our community for projects and advocacy work that promotes the civic good. We believe the intersection of technology &amp;amp; government are vital for progress in our experiment in democracy.&lt;/p&gt;
+
+&lt;p&gt;As an all-volunteer organization, we labored to accomplish the achievements listed above. This year, we want to deepen our impact and try harder to support existing organizations in our community.&lt;/p&gt;
+
+&lt;p&gt;In order to do this, our coreteam has chosen three internal projects and we’d like your help with it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://openaustin.typeform.com/to/zyE0a4&quot;&gt;&lt;strong&gt;Apply here to join our coreteam&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Membership Development Plan
+    &lt;ul&gt;
+      &lt;li&gt;We want to make it easier for volunteers to assume roles within the organization, on projects, and in planning. We want to accommodate varying levels of availability.&lt;/li&gt;
+      &lt;li&gt;We brainstormed about our org model and decided it looks most like a snowflake ❄️. We invite you to imagine where you could plug in.
+&lt;a href=&quot;/assets/snowflake_model_2017.png&quot;&gt;&lt;img src=&quot;/assets/snowflake_model_2017.png&quot; alt=&quot;Snowflake model of distributed leadership&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Values
+    &lt;ul&gt;
+      &lt;li&gt;We know that if we want to fight hard battles in the next 4 years, we need to stand on a principled foundation.&lt;/li&gt;
+      &lt;li&gt;At our meetup in November 2016, we facilitated a collaborative design exercise to find language that describes the core values of Civic Tech.&lt;/li&gt;
+      &lt;li&gt;Then we distilled these insights into a better reflection of Why we do our work.&lt;/li&gt;
+      &lt;li&gt;The tangible outcome will be an updated About Page &lt;em&gt;(coming v soon)&lt;/em&gt;.
+  &lt;img src=&quot;/assets/values_group_2016.png&quot; alt=&quot;Group working on asset mapping the resource of our organization&quot; /&gt;
+  &lt;img src=&quot;/assets/civic_tech_values_postit.png&quot; alt=&quot;An example of 6 values a group choose for Civic Tech&quot; /&gt;
+  &lt;img src=&quot;/assets/values_2017.png&quot; alt=&quot;Organizing different values to interpret meaning&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Official Partner Projecets (aka: Open Austin Labs)
+    &lt;ul&gt;
+      &lt;li&gt;We want to get better and support projects that have:&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Formal partnerships with external stakeholders (like other non-profits or the City of Austin)&lt;/li&gt;
+      &lt;li&gt;Clear goals and deadlines&lt;/li&gt;
+      &lt;li&gt;Opportunities for funding via grants, contracts, etc.&lt;/li&gt;
+      &lt;li&gt;A plan for open-source maintenance and documentation.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;But most importantly, we want to remain a friendly community where people come to learn, share, and collaborate with each other. We will need your help.&lt;/p&gt;
+
+&lt;p&gt;Please consider joining our snowflake ❄️❄️❄️&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://openaustin.typeform.com/to/zyE0a4&quot;&gt;&lt;strong&gt;Apply here to join our coreteam&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;What does &lt;a href=&quot;https://twitter.com/hashtag/democracy?src=hash&quot;&gt;#democracy&lt;/a&gt; look like? A full room of folks learning about &lt;a href=&quot;https://twitter.com/hashtag/opendata?src=hash&quot;&gt;#opendata&lt;/a&gt; at &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@OpenAustin&lt;/a&gt;. Want to check it out? &lt;a href=&quot;https://t.co/6EdbVcV0bO&quot;&gt;https://t.co/6EdbVcV0bO&lt;/a&gt; &lt;a href=&quot;https://t.co/bQ6z9hNVy9&quot;&gt;pic.twitter.com/bQ6z9hNVy9&lt;/a&gt;&lt;/p&gt;&amp;mdash; Daniel Ryne Lucio ⚡️ (@danielrynelucio) &lt;a href=&quot;https://twitter.com/danielrynelucio/status/823711825942302720&quot;&gt;January 24, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;em&gt;~ Mateo Clarke, Brigade Captain&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
+
+&lt;p&gt;Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
+&lt;br /&gt;
+RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow us on Twitter&lt;/a&gt;
+&amp;amp; &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like us on Facebook&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Jan 2017 00:00:00 -0600</pubDate>
+        <link>http://0.0.0.0:4000/blog/2017/01/17/yearly-review</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2017/01/17/yearly-review</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Time to Back Up the Public's Climate Data</title>
+        <description>&lt;p&gt;With the Obama administration in its last weeks, the Washington Post reported &lt;a href=&quot;https://www.washingtonpost.com/news/energy-environment/wp/2016/12/13/scientists-are-frantically-copying-u-s-climate-data-fearing-it-might-vanish-under-trump/&quot;&gt;“Scientists are frantically copying U.S. climate data, fearing it might vanish under Trump”&lt;/a&gt;. Especially if you have experience working with environmental data or policy, now is a good time to think about whether you’ve encountered any valuable climate or emissions datasets in danger of being swept away in the coming transition. Organizations like &lt;a href=&quot;https://ischool.utoronto.ca/content/guerrilla-archiving-event-saving-environmental-data-trump&quot;&gt;University of Toronto&lt;/a&gt;, &lt;a href=&quot;http://www.ppehlab.org/datarefugefaqs&quot;&gt;University of Pennsylvania&lt;/a&gt;, and &lt;a href=&quot;http://climatemirror.org/&quot;&gt;climatemirror.org&lt;/a&gt; are creating archives to offer permanent mirrors for these climate datasets.&lt;/p&gt;
+
+&lt;p&gt;Datasets held by federal agencies aren’t the only ones that could be at risk. Environmental journalists recently noticed that &lt;a href=&quot;https://www.propublica.org/article/endangered-species-under-gop-climate-change-information-on-the-web&quot;&gt;climate change information had been purged from a Wisconsin state government website&lt;/a&gt;. It’s worth protecting not just environmental information from federal agencies like the EPA and NOAA, but also state agencies like the &lt;a href=&quot;www.tceq.texas.gov&quot;&gt;Texas Commission on Environmental Quality&lt;/a&gt;, and even cities and counties.&lt;/p&gt;
+
+&lt;p&gt;If you want to find out whether a particular dataset is being backed up or what you can do to help, visit &lt;a href=&quot;http://climatemirror.org/&quot;&gt;climatemirror.org&lt;/a&gt; for a list of existing mirrors and a Google Doc showing which datasets are in progress. Some tools for archiving government websites are available from climatemirror and a &lt;a href=&quot;https://github.com/edgi-govdata-archiving&quot;&gt;University of Toronto Github page&lt;/a&gt;. Alternatively, if your dataset is hotter than Texas in 2050 under a business-as-usual emissions projection, maybe you’d prefer to tell archivists about it privately. The &lt;a href=&quot;https://envirodatagov.org/&quot;&gt;Environmental Data &amp;amp; Governance Initiative&lt;/a&gt; is soliciting help accessing “environmental data that is not freely available on the web” via its encrypted email address.&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in a more local dataset that’s outside the scope of the mirroring projects listed here, or if you have a plan to create something with the data beyond just backing it up, consider bringing your project idea to Open Austin. You can submit your idea as an issue on our Github group’s &lt;a href=&quot;https://github.com/open-austin/project-ideas/issues&quot;&gt;project-ideas page&lt;/a&gt; or look for collaborators at one of our &lt;a href=&quot;https://www.meetup.com/Open-Austin/&quot;&gt;Civic Hack Nights&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Open Austin can also be a resource for environmental data consumers who want to encourage governments to release new datasets, or to keep their existing data more timely or accessible. Contact us on the #policy channel of our &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Slack group&lt;/a&gt; if you have an issue you’d like to add to our &lt;a href=&quot;https://www.open-austin.org/advocacy/&quot;&gt;advocacy agenda&lt;/a&gt; for 2017.&lt;/p&gt;
+
+&lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
+
+&lt;p&gt;Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
+&lt;br /&gt;
+RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow us on Twitter&lt;/a&gt;
+&amp;amp; &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like us on Facebook&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Jan 2017 00:00:00 -0600</pubDate>
+        <link>http://0.0.0.0:4000/blog/2017/01/08/time-to-back-up-the-publics-climate-data</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2017/01/08/time-to-back-up-the-publics-climate-data</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Open Austin Honored with Pro Bono Leadership Award from Texas Appleseed</title>
+        <description>&lt;p&gt;Many Texans see the evidence of the school-to-prison pipeline in their daily lives – sometimes because a video goes viral or because they are a parent, grandparent, or advocate for a child they love. Texas Appleseed has long been involved in working to address systemic problems related to zero-tolerance school disciplinary policies and hostile school climates – and they wanted a new forum to reach people and expand the dialogue around the issue.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://texasappleseed.org/&quot;&gt;Texas Appleseed&lt;/a&gt; is a public interest justice center. This nonprofit works to change unjust laws and policies that prevent Texans from realizing their full potential.&lt;/p&gt;
+
+&lt;p&gt;Texas Appleseed approached us at Open Austin with the idea to create a website that would bring together advocates, students, parents, and educators in Texas who are interested in improving educational opportunities and outcomes for youth. Our volunteers stepped up to help, donating more than a year of pro bono time by building a new website, &lt;a href=&quot;http://www.texasdisciplinelab.org/&quot;&gt;Texas School Discipline Lab&lt;/a&gt;, from scratch. Volunteers also designed and gathered data for several &lt;a href=&quot;https://txappleseed.github.io/txappleseedmap/&quot;&gt;interactive maps&lt;/a&gt; that feature discipline data from over 1,200 school districts across Texas, while offering their expertise on the best way to present data that would make it easy to understand, visually appealing, and accessible to various audiences.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/good-apple-dinner.jpg&quot; alt=&quot;Good Apple Dinner program header&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On Thursday, November 17, Open Austin representatives were presented with the &lt;em&gt;Pro Bono Leadership Award&lt;/em&gt; at &lt;a href=&quot;https://texasappleseed.org/good-apple-dinner&quot;&gt;Texas Appleseed’s 20th Annual Good Apple Dinner&lt;/a&gt;. Open Austin is honored to support Texas Appleseed in one small aspect of this important work that will improve the lives of children.&lt;/p&gt;
+
+&lt;p&gt;Source Code for the School District Discipline Maps can be found on &lt;a href=&quot;https://github.com/txappleseed/txappleseedmap&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Contributors to this project include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Patricia Silva&lt;/li&gt;
+  &lt;li&gt;John Tyree&lt;/li&gt;
+  &lt;li&gt;Carissa Melanson&lt;/li&gt;
+  &lt;li&gt;Harold Jackson&lt;/li&gt;
+  &lt;li&gt;Diego Hernandez&lt;/li&gt;
+  &lt;li&gt;Michelle Schulze&lt;/li&gt;
+  &lt;li&gt;Matt Carey&lt;/li&gt;
+  &lt;li&gt;David Infortunio&lt;/li&gt;
+  &lt;li&gt;Yamanda Wright&lt;/li&gt;
+  &lt;li&gt;Mateo Clarke&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;and many more&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 18 Nov 2016 00:00:00 -0600</pubDate>
+        <link>http://0.0.0.0:4000/blog/2016/11/18/texas-appleseed-pro-bono-leadership-award</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2016/11/18/texas-appleseed-pro-bono-leadership-award</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>October Open Gov &amp; Civic Tech Meetup Recap - Election Themed Lightning Talks</title>
+        <description>&lt;p&gt;For our pre-election Open Gov &amp;amp; Civic Tech Meetup, we had five community members give 10 minute lightning talks on different topics under the theme of elections and voting.&lt;/p&gt;
+
+&lt;p&gt;View the the slides from their talks:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Matt Carey &amp;amp; Mateo Clarke, Open Austin - &lt;a href=&quot;https://github.com/open-austin/iced-coffee/files/540541/city_council_2016_survey.1.pdf&quot;&gt;2016 City Council Candidate Surveys&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Tommy Miller, Travis County, GIS Coordinator - &lt;a href=&quot;http://tcto.maps.arcgis.com/apps/Minimalist/index.html?appid=c181a61d343b4645aa7c1c3cd445aff6&quot;&gt;Voting Wait Times &amp;amp; Polling Locations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Shellee O’Brien - &lt;a href=&quot;https://docs.google.com/presentation/d/1bewoqrAtTIiToKOZlyGsjCSAc8pIGhM-hwVrsc4J-KE/edit?usp=sharing&quot;&gt;“The Problem with Lazy, Apathetic Non-Voters”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Mina Adame &amp;amp; Dario Fidanza, Ideation League - &lt;a href=&quot;http://www.slideshare.net/DarioFidanza/affecting-civic-space-with-ux-design&quot;&gt;Affecting Civic Spaces with UX Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ed Ireson, FOMO ATX - &lt;a href=&quot;https://fomo.vote/&quot;&gt;FOMO.vote&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Highlights from Twitter. &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;Give us a follow to stay up to date.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Tommy Miller, Travis County GIS coordinator presents voting wait times &amp;amp; polling location on a GIS map. &lt;a href=&quot;https://t.co/ebWi3Yr6dr&quot;&gt;pic.twitter.com/ebWi3Yr6dr&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/788178647815327744&quot;&gt;October 18, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;What do nonvoters care about? Impact, convenience, and community, says &lt;a href=&quot;https://twitter.com/stepwinder&quot;&gt;@stepwinder&lt;/a&gt; at &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/civictech?src=hash&quot;&gt;#civictech&lt;/a&gt; &lt;a href=&quot;https://t.co/65uLcD5KHv&quot;&gt;pic.twitter.com/65uLcD5KHv&lt;/a&gt;&lt;/p&gt;&amp;mdash; Tom O&amp;#39;Connell (@mrtomocon) &lt;a href=&quot;https://twitter.com/mrtomocon/status/788184254089867264&quot;&gt;October 18, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;ED Ireson talks About the inception of &lt;a href=&quot;https://twitter.com/FOMOvote&quot;&gt;@FOMOvote&lt;/a&gt; ! 🙌🏼&lt;br /&gt;🗳&lt;a href=&quot;https://twitter.com/hashtag/civictech?src=hash&quot;&gt;#civictech&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/atx?src=hash&quot;&gt;#atx&lt;/a&gt; &lt;a href=&quot;https://t.co/BK7fXkNGAg&quot;&gt;pic.twitter.com/BK7fXkNGAg&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/788189054353354752&quot;&gt;October 18, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&amp;quot;We have a system error not an individual error when it comes to non-voters.&amp;quot; 👏🏽 &lt;a href=&quot;https://twitter.com/stepwinder&quot;&gt;@stepwinder&lt;/a&gt;  &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/GetouttheVote?src=hash&quot;&gt;#GetouttheVote&lt;/a&gt;&lt;/p&gt;&amp;mdash; Vickie (@Victoria_ODell) &lt;a href=&quot;https://twitter.com/Victoria_ODell/status/788182114751569920&quot;&gt;October 18, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/ideationleague&quot;&gt;@ideationleague&lt;/a&gt; presenting a lightning talk at &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; with &lt;a href=&quot;https://twitter.com/mina_adame&quot;&gt;@mina_adame&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/openaustin?src=hash&quot;&gt;#openaustin&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/latino?src=hash&quot;&gt;#latino&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/vote?src=hash&quot;&gt;#vote&lt;/a&gt; &lt;a href=&quot;https://t.co/Z5XhkRljL1&quot;&gt;pic.twitter.com/Z5XhkRljL1&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dario (@ArtAwake) &lt;a href=&quot;https://twitter.com/ArtAwake/status/788220424140185600&quot;&gt;October 18, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
+
+&lt;p&gt;Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
+&lt;br /&gt;
+RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow us on Twitter&lt;/a&gt;
+&amp;amp; &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like us on Facebook&lt;/a&gt;&lt;/p&gt;
+
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Wed, 19 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://0.0.0.0:4000/blog/2016/10/19/october-meetup-recap</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2016/10/19/october-meetup-recap</guid>
+        
+        
+      </item>
     
       <item>
         <title>September Open Gov &amp; Civic Tech Meetup Recap-Data.World</title>
@@ -66,8 +376,8 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
 
 </description>
         <pubDate>Sun, 25 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://open-austin.github.io//blog/2016/09/25/september-meetup-recap</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/09/25/september-meetup-recap</guid>
+        <link>http://0.0.0.0:4000/blog/2016/09/25/september-meetup-recap</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2016/09/25/september-meetup-recap</guid>
         
         
       </item>
@@ -109,7 +419,7 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
 
 &lt;p&gt;Itamar concluded with am animated heatmap of the bluetooth sensor reading throughout the day with CardoDB. He believes the community could do interesting things with the data. Jen said that “we put out our reports and show our story but want to give other people the chance to let other stories emerge.”&lt;/p&gt;
 
-&lt;p&gt;To get involved, give feedback, or ask questions then you can email Jen Duthie, Ph.D., PE at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#106;&amp;#100;&amp;#117;&amp;#116;&amp;#104;&amp;#105;&amp;#101;&amp;#064;&amp;#117;&amp;#116;&amp;#101;&amp;#120;&amp;#097;&amp;#115;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&quot;&gt;&amp;#106;&amp;#100;&amp;#117;&amp;#116;&amp;#104;&amp;#105;&amp;#101;&amp;#064;&amp;#117;&amp;#116;&amp;#101;&amp;#120;&amp;#097;&amp;#115;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&lt;/a&gt; or Itamar Gal, Ph.D. at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#105;&amp;#103;&amp;#097;&amp;#108;&amp;#064;&amp;#117;&amp;#116;&amp;#101;&amp;#120;&amp;#097;&amp;#115;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&quot;&gt;&amp;#105;&amp;#103;&amp;#097;&amp;#108;&amp;#064;&amp;#117;&amp;#116;&amp;#101;&amp;#120;&amp;#097;&amp;#115;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To get involved, give feedback, or ask questions then you can email Jen Duthie, Ph.D., PE at &lt;a href=&quot;mailto:jduthie@utexas.edu&quot;&gt;jduthie@utexas.edu&lt;/a&gt; or Itamar Gal, Ph.D. at &lt;a href=&quot;mailto:igal@utexas.edu&quot;&gt;igal@utexas.edu&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;presentation-slides&quot;&gt;Presentation Slides&lt;/h2&gt;
 
@@ -131,8 +441,8 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
 
 </description>
         <pubDate>Mon, 12 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://open-austin.github.io//blog/2016/09/12/aug-meetup-recap</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/09/12/aug-meetup-recap</guid>
+        <link>http://0.0.0.0:4000/blog/2016/09/12/aug-meetup-recap</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2016/09/12/aug-meetup-recap</guid>
         
         
       </item>
@@ -147,9 +457,9 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
 
 &lt;p&gt;Grace Atkins from &lt;a href=&quot;https://www.glasshousepolicy.org/&quot;&gt;Glasshouse Policy&lt;/a&gt; gave a presentation on why education around city budgeting is necessary. Glasshouse policy is a think tank in Austin that works to engage the general public around public policy. They help to create a more responsive and representative government. They notice that critical decisions are being made at the local level and wants others to understand and engage with those decisions.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1xwLwHwfC9cOOSTbM4R2vsFQ_FgT9sdQWJ8UTS_zUT54/edit#slide=id.g151ddb760f_0_6&#39;&quot;&gt;View and/or download the presentation&lt;/a&gt; that Grace gave.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1xwLwHwfC9cOOSTbM4R2vsFQ_FgT9sdQWJ8UTS_zUT54/edit#slide=id.g151ddb760f_0_6'&quot;&gt;View and/or download the presentation&lt;/a&gt; that Grace gave.&lt;/p&gt;
 
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;We&#39;ve partnered with &lt;a href=&quot;https://twitter.com/austinmonitor&quot;&gt;@austinmonitor&lt;/a&gt; on an exciting new project! Find out more here: &lt;a href=&quot;https://t.co/Mj9EVyvSMw&quot;&gt;https://t.co/Mj9EVyvSMw&lt;/a&gt;&lt;/p&gt;&amp;mdash; Glasshouse Policy (@OpenPolicyTx) &lt;a href=&quot;https://twitter.com/OpenPolicyTx/status/755059943653253120&quot;&gt;July 18, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;We've partnered with &lt;a href=&quot;https://twitter.com/austinmonitor&quot;&gt;@austinmonitor&lt;/a&gt; on an exciting new project! Find out more here: &lt;a href=&quot;https://t.co/Mj9EVyvSMw&quot;&gt;https://t.co/Mj9EVyvSMw&lt;/a&gt;&lt;/p&gt;&amp;mdash; Glasshouse Policy (@OpenPolicyTx) &lt;a href=&quot;https://twitter.com/OpenPolicyTx/status/755059943653253120&quot;&gt;July 18, 2016&lt;/a&gt;&lt;/blockquote&gt;
 
 &lt;h3 id=&quot;why-the-budget&quot;&gt;Why the Budget?&lt;/h3&gt;
 &lt;p&gt;Grace said that decisions around city spending aren’t just big, vague, and ignorable. City spending decisions impact our daily lives and go largely unnoticed due to inaccessibility to the general public. To breakdown barriers for understanding the budget, Grace pointed out that we have to be engaged and learning both in-person and online&lt;/p&gt;
@@ -204,8 +514,8 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
 
 </description>
         <pubDate>Mon, 15 Aug 2016 00:00:00 -0500</pubDate>
-        <link>http://open-austin.github.io//blog/2016/08/15/july-meetup-recap</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/08/15/july-meetup-recap</guid>
+        <link>http://0.0.0.0:4000/blog/2016/08/15/july-meetup-recap</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2016/08/15/july-meetup-recap</guid>
         
         
       </item>
@@ -248,495 +558,8 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
 
 </description>
         <pubDate>Thu, 23 Jun 2016 00:00:00 -0500</pubDate>
-        <link>http://open-austin.github.io//blog/2016/06/23/lightning-talk-recap</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/06/23/lightning-talk-recap</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Quantifying Austin&#39;s Housing Supply</title>
-        <description>&lt;p&gt;Austin has a serious problem with access to affordable housing. And &lt;a href=&quot;http://www.lao.ca.gov/Publications/Report/3345&quot;&gt;some research indicates&lt;/a&gt; that increasing the supply of housing can help prevent displacement of lower-income residents from urban areas, even if it’s market-rate housing and not part of an affordable housing program. Researchers in Austin are interested in learning about how the city’s housing supply has changed, and about how those changes have affected the fortunes of individual neighborhoods. Unfortunately, it’s hard to answer that question with the data the city currently releases to the public. A few months ago the city released &lt;a href=&quot;https://data.austintexas.gov/Permitting/Issued-Construction-Permits/3syk-w9eu&quot;&gt;decades of historical building permits on its data portal&lt;/a&gt;, and even more up-to-date records can be found in &lt;a href=&quot;https://github.com/open-austin/construction-permits&quot;&gt;Open Austin’s Github repository&lt;/a&gt;, but there’s still no clear way to see how many housing units have been demolished or created as a result of each building permit the city issues.&lt;/p&gt;
-
-&lt;p&gt;A glance at &lt;a href=&quot;http://www.austintexas.gov/page/building-applications&quot;&gt;Austin’s building permit forms&lt;/a&gt; shows that the city may not have been collecting all the information needed to quantify the housing stock. The forms for single-family homes and duplexes do provide part of the puzzle, because they ask builders what kind of structure was on the land before the construction, and what will be there after construction is finished.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/residential_permit_form.png&quot; alt=&quot;part of a residential building permit application&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The city uses the same form for building multifamily apartment buildings that it uses for nonresidential buildings. This form has a field for “# of units,” but it’s not always clear whether applicants interpreted that to mean the number of units where work will be performed, the number of units that will be added if the permit is granted, or just the total number of units in the building.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/commercial_permit_form.png&quot; alt=&quot;part of a commercial building permit application&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The biggest problem is the separate form for demolition, which doesn’t specifically ask how many units are being eliminated.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/demo_form.png&quot; alt=&quot;part of a demolition permit application&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The table below shows some typical data collected from the city’s permit forms for activities at a single address, 2819 Rio Grande. In 2007, the dormitory that stood there was demolished and replaced with new student housing. The number of “HousingUnits” associated with the demolition is zero, even though it would be more useful to know how many old units were being eliminated. Then there are 85 housing units reported for the “Shell” work on the new building. After that, the builders apparently report the same 85 housing units in the “Finish Out” phase. For a researcher dealing with hundreds of thousands of permit records, it would be tough if not impossible to automate a count of changes in the housing supply based on this dataset.&lt;/p&gt;
-
-&lt;table class=&quot;post-table&quot;&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Issued Date&lt;/th&gt;
-&lt;th&gt;Permit Class&lt;/th&gt;
-&lt;th&gt;Work Class&lt;/th&gt;
-&lt;th&gt;Project Name&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
-&lt;th&gt;Housing Units&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;2007-05-03&lt;/td&gt;
-&lt;td&gt;C- 649 Demolition All Other Bldgs Com&lt;/td&gt;
-&lt;td&gt;Demolition&lt;/td&gt;
-&lt;td&gt;2819 RIO GRANDE ST&lt;/td&gt;
-&lt;td&gt;dEMO A DORMITORY&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2007-10-09&lt;/td&gt;
-&lt;td&gt;C- 321 Pkg Garage Bldg &amp;amp; Open Deck&lt;/td&gt;
-&lt;td&gt;New&lt;/td&gt;
-&lt;td&gt;2819 RIO GRANDE ST garage&lt;/td&gt;
-&lt;td&gt;New construction 3 story parking 2 stories below grade 1 story grade&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2007-10-09&lt;/td&gt;
-&lt;td&gt;C- 105 Five or More Family Bldgs&lt;/td&gt;
-&lt;td&gt;Shell&lt;/td&gt;
-&lt;td&gt;2819 RIO GRANDE ST&lt;/td&gt;
-&lt;td&gt;New construction 5 story wood frame apartment over 3 story parking garage&lt;/td&gt;
-&lt;td&gt;85&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2007-10-09&lt;/td&gt;
-&lt;td&gt;C-1001 Commercial Finish Out&lt;/td&gt;
-&lt;td&gt;Remodel&lt;/td&gt;
-&lt;td&gt;2819 RIO GRANDE ST&lt;/td&gt;
-&lt;td&gt;Tenant finish out for unit details 1st Floor&lt;/td&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2007-10-09&lt;/td&gt;
-&lt;td&gt;C-1001 Commercial Finish Out&lt;/td&gt;
-&lt;td&gt;Remodel&lt;/td&gt;
-&lt;td&gt;2819 RIO GRANDE ST&lt;/td&gt;
-&lt;td&gt;Tenant finish out for unit details 2nd Floor&lt;/td&gt;
-&lt;td&gt;16&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2007-10-09&lt;/td&gt;
-&lt;td&gt;C-1001 Commercial Finish Out&lt;/td&gt;
-&lt;td&gt;Remodel&lt;/td&gt;
-&lt;td&gt;2819 RIO GRANDE ST&lt;/td&gt;
-&lt;td&gt;Tenant finish out for unit details 3rd Floor&lt;/td&gt;
-&lt;td&gt;16&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2007-10-09&lt;/td&gt;
-&lt;td&gt;C-1001 Commercial Finish Out&lt;/td&gt;
-&lt;td&gt;Remodel&lt;/td&gt;
-&lt;td&gt;2819 RIO GRANDE ST&lt;/td&gt;
-&lt;td&gt;Tenant finish out for unit details 4th Floor&lt;/td&gt;
-&lt;td&gt;16&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2007-10-09&lt;/td&gt;
-&lt;td&gt;C-1001 Commercial Finish Out&lt;/td&gt;
-&lt;td&gt;Remodel&lt;/td&gt;
-&lt;td&gt;2819 RIO GRANDE ST&lt;/td&gt;
-&lt;td&gt;Tenant finish out for unit details 5th Floor&lt;/td&gt;
-&lt;td&gt;17&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2007-10-09&lt;/td&gt;
-&lt;td&gt;C-1001 Commercial Finish Out&lt;/td&gt;
-&lt;td&gt;Remodel&lt;/td&gt;
-&lt;td&gt;2819 RIO GRANDE ST&lt;/td&gt;
-&lt;td&gt;Tenant finish out for unit details 6th Floor&lt;/td&gt;
-&lt;td&gt;17&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;To help advance the study of housing availability, Open Austin will make it a priority to convince the city to collect specific data from permit applicants about how many units are being added or removed from the housing supply, and to open up any other data the city has about housing supply from other sources. If you’re interested in improving the permit application process, also visit Open Austin’s &lt;a href=&quot;https://github.com/open-austin/project-ideas/issues/68&quot;&gt;project to improve the city’s building permit website&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 13 Jun 2016 00:00:00 -0500</pubDate>
-        <link>http://open-austin.github.io//blog/2016/06/13/quantifying-austins-housing-supply</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/06/13/quantifying-austins-housing-supply</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Finding a Story in Austin&#39;s Lobbying Data</title>
-        <description>&lt;p&gt;Over the past few months, Open Austin members have tried a series of experiments with &lt;a href=&quot;http://data.austintexas.gov/dataset/Lobbyists/bqav-9x6a&quot;&gt;the city’s open lobbying data&lt;/a&gt; to find out how much it tells us about local politics. In one &lt;a href=&quot;http://www.open-austin.org/lobbying-in-austin/&quot;&gt;experimental chart&lt;/a&gt;, we graphed the running totals of lobbyists registered to work for various companies at any given time. On that graph, we can see when various companies hired lobbyists, but we don’t really know why the companies hired them or who the companies were trying to persuade. The reason lobbying data interests us is that it’s supposed to shine a light on how government decisions are made, but we really can’t make out much of a story in that graph. If we already knew the recent history of city politics, maybe we could guess the significance of the dates when AT&amp;amp;T or Uber decided to add a few more lobbyists to their payroll. But clearly, it would take a lot of research or deep expertise in the city’s political scene to put the existing data in context, and it’s not likely to be cost-efficient for anyone to research the story behind every filing.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-solution&quot;&gt;The solution&lt;/h3&gt;
-
-&lt;p&gt;Council Member &lt;a href=&quot;http://www.mystatesman.com/news/news/local/austin-officials-to-create-new-lobbying-registrati/npmr3/&quot;&gt;Leslie Pool&lt;/a&gt; has offered a solution to this problem by introducing &lt;a href=&quot;http://www.lobbyreformnow.com/wp-content/uploads/2016/06/CityOrd-lobby-RR-June-6.pdf&quot;&gt;a new bill&lt;/a&gt; to improve the quality of data available about city lobbying. If it passes, the rules about disclosing lobbying at city hall will be about as strong as the equivalent rules for the state Legislature. One dogged proponent of lobbying reform is attorney &lt;a href=&quot;http://cityhall.blog.statesman.com/2015/08/25/how-one-attorney-made-fixing-austins-lobbying-law-his-personal-crusade/&quot;&gt;Fred Lewis&lt;/a&gt;, who highlights the benefits of reform through his organization, &lt;a href=&quot;http://www.lobbyreformnow.com/whats-happening/&quot;&gt;“Lobby Reform Now!”&lt;/a&gt;. Because current law has an ill-defined exception for lobbying “incidental” to one’s regular job, Lewis decries the existing law as “essentially voluntary and meaningless.”&lt;/p&gt;
-
-&lt;p&gt;Importantly, the new bill will require electronic filing not just of registration forms, but also the lobbying activity forms. Its passage will mean that for the first time, the city will release open data about how much each client paid to each lobbyist, and about how much money each lobbyist spent on each city official. Also, lobbyists will have to report the subject matter of their lobbying and report the addresses of any locations where they’re seeking building permits. Releasing this data would be very helpful for city government transparency.&lt;/p&gt;
-
-&lt;p&gt;For comparison, on the state level, it’s possible to link lobbyists’ expenditures to individuals, which at least lets us see communities among lawmakers and legislators. Here’s an image of which lobbyists paid for travel for state legislators from 2004 to 2014:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/images/TX_lobby_travel_filings_2004-2014.svg&quot;&gt;&lt;img src=&quot;/assets/images/TX_lobby_travel_filings_2004-2014.svg&quot; alt=&quot;state legislator travel network graph&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Even on the state level, it’s not easy to make the data tell a story. We can’t easily infer what the lobbyists are trying to accomplish when they buy lobbyists’ meals or pay for their travel. It’s too bad the graphs don’t show who each lobbyist spoke to on each client’s behalf, and which issues they discussed. Still, the more political data the government releases, the more opportunities it creates for useful insights. To learn more about our data exploration, visit Open Austin’s &lt;a href=&quot;https://github.com/open-austin/lobbying-in-austin&quot;&gt;Github repo for lobbyist data&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;what-can-you-do&quot;&gt;What can you do?&lt;/h3&gt;
-
-&lt;p&gt;Austin City Council is set to vote on Council Member Pool’s lobby reform proposal on June 23rd. As the draft stands today, it would make Austin a model city in terms of reporting lobbyist activity. As it stands, the proposal has no problematic provisions but we expect lobbyists may try to put forth weakening admendments.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Please, between now and 6/23, &lt;a href=&quot;https://www.austintexas.gov/email/all-council-members&quot;&gt;call or email the offices of the mayor and your council member&lt;/a&gt; to support the bill without amendments.&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 12 Jun 2016 00:00:00 -0500</pubDate>
-        <link>http://open-austin.github.io//blog/2016/06/12/finding-a-story-in-austins-lobbying-data</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/06/12/finding-a-story-in-austins-lobbying-data</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>ATX Hack for Change 2016 Recap</title>
-        <description>&lt;h2 id=&quot;the-atx-hack-for-change-2016-is-a-wrap&quot;&gt;The ATX Hack for Change 2016 is a wrap!&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://pbs.twimg.com/media/CkYefPnVAAEz5wT.jpg:large&quot; alt=&quot;Group photo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;For the 4th year, St. Edward’s University played host to Austin’s National Day of Civic Hacking Event, &lt;a href=&quot;http://atxhackforchange.org/&quot;&gt;ATX Hack for Change&lt;/a&gt;. The event this year was bigger than ever with over 250 participants! Below are tweets &amp;amp; photos that summarize the energy of the weekend.&lt;/p&gt;
-
-&lt;h3 id=&quot;tweets--photos&quot;&gt;Tweets &amp;amp; Photos&lt;/h3&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;. &lt;a href=&quot;https://twitter.com/markstrama&quot;&gt;@markstrama&lt;/a&gt; speaking at the opening session of &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; &lt;a href=&quot;https://twitter.com/stedwardsu&quot;&gt;@stedwardsu&lt;/a&gt; &lt;a href=&quot;https://t.co/yrVXj2JrlO&quot;&gt;pic.twitter.com/yrVXj2JrlO&lt;/a&gt;&lt;/p&gt;&amp;mdash; David Waldron (@DaveWaldron) &lt;a href=&quot;https://twitter.com/DaveWaldron/status/738878868723896321&quot;&gt;June 3, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Ready to work on projects to help continue to make our city awesome 🤓💻 &lt;a href=&quot;https://twitter.com/hashtag/ATXhack4change?src=hash&quot;&gt;#ATXhack4change&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/austin?src=hash&quot;&gt;#austin&lt;/a&gt; &lt;a href=&quot;https://t.co/N2GkV7tLEg&quot;&gt;pic.twitter.com/N2GkV7tLEg&lt;/a&gt;&lt;/p&gt;&amp;mdash; Samantha Needham (@webalicious) &lt;a href=&quot;https://twitter.com/webalicious/status/738875799802159104&quot;&gt;June 3, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Team &lt;a href=&quot;https://twitter.com/hashtag/permitapp?src=hash&quot;&gt;#permitapp&lt;/a&gt; working hard at &lt;a href=&quot;https://twitter.com/ATXhack4change&quot;&gt;@ATXhack4change&lt;/a&gt;! &lt;a href=&quot;https://twitter.com/hashtag/NDoCH?src=hash&quot;&gt;#NDoCH&lt;/a&gt; &lt;a href=&quot;https://t.co/ohB5g4MvgF&quot;&gt;pic.twitter.com/ohB5g4MvgF&lt;/a&gt;&lt;/p&gt;&amp;mdash; Abridged thoughts (@Victoria_ODell) &lt;a href=&quot;https://twitter.com/Victoria_ODell/status/739178582589595649&quot;&gt;June 4, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/ATXhack4change&quot;&gt;@ATXhack4change&lt;/a&gt; hackers going strong &lt;a href=&quot;https://twitter.com/hashtag/NationalDayOfCivicHacking?src=hash&quot;&gt;#NationalDayOfCivicHacking&lt;/a&gt; &lt;a href=&quot;https://twitter.com/codeforamerica&quot;&gt;@codeforamerica&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/civictech?src=hash&quot;&gt;#civictech&lt;/a&gt; &lt;a href=&quot;https://t.co/cOvtdeiba3&quot;&gt;pic.twitter.com/cOvtdeiba3&lt;/a&gt;&lt;/p&gt;&amp;mdash; Angela@Innovation (@atx_innovation) &lt;a href=&quot;https://twitter.com/atx_innovation/status/739195755273977856&quot;&gt;June 4, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Mason and &lt;a href=&quot;https://twitter.com/pauljstx&quot;&gt;@pauljstx&lt;/a&gt; work on the &lt;a href=&quot;https://twitter.com/hashtag/WelcomeBasket?src=hash&quot;&gt;#WelcomeBasket&lt;/a&gt; project &lt;a href=&quot;https://twitter.com/ATXhack4change&quot;&gt;@ATXhack4change&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/ihackforaustin?src=hash&quot;&gt;#ihackforaustin&lt;/a&gt; &lt;a href=&quot;https://t.co/t6rTHWxQpA&quot;&gt;pic.twitter.com/t6rTHWxQpA&lt;/a&gt;&lt;/p&gt;&amp;mdash; Steven Polunsky (@StevenPolunsky) &lt;a href=&quot;https://twitter.com/StevenPolunsky/status/739183463505354752&quot;&gt;June 4, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; Mapping everything from B-Cycle stations to air quality results in Austinn: &lt;a href=&quot;https://t.co/dELHSi46w2&quot;&gt;https://t.co/dELHSi46w2&lt;/a&gt; &lt;a href=&quot;https://t.co/cw4M7FxTWS&quot;&gt;pic.twitter.com/cw4M7FxTWS&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sean Cascketta (@runthebeans) &lt;a href=&quot;https://twitter.com/runthebeans/status/739511778871123968&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;es&quot; dir=&quot;ltr&quot;&gt;Demos at &lt;a href=&quot;https://twitter.com/ATXhack4change&quot;&gt;@ATXhack4change&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; &lt;a href=&quot;https://t.co/jEDUKmOr61&quot;&gt;pic.twitter.com/jEDUKmOr61&lt;/a&gt;&lt;/p&gt;&amp;mdash; luqmaan (@luqmonster) &lt;a href=&quot;https://twitter.com/luqmonster/status/739507887232278528&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Auction bot makes fundraising for non profits fun and easy with an auction bot. &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/NDoCH?src=hash&quot;&gt;#NDoCH&lt;/a&gt; &lt;a href=&quot;https://t.co/wxImesfuEz&quot;&gt;pic.twitter.com/wxImesfuEz&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/739522764025909249&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Inspiring example of civic tech - IoT solution to measure in-game heart rate for disabled athletes &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; &lt;a href=&quot;https://t.co/nAKtbcNwZk&quot;&gt;pic.twitter.com/nAKtbcNwZk&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jeff Meisel (@jffmsl) &lt;a href=&quot;https://twitter.com/jffmsl/status/739526054050598912&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;HACK A FRAC presents their virtual reality fraction game! &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/NdoCH?src=hash&quot;&gt;#NdoCH&lt;/a&gt; &lt;a href=&quot;https://t.co/ILApGYsVPQ&quot;&gt;pic.twitter.com/ILApGYsVPQ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/739511497496231937&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;OA community lead &lt;a href=&quot;https://twitter.com/AmalieBarras&quot;&gt;@AmalieBarras&lt;/a&gt; presents her groups project for a community open data portal for ATX &amp;quot;Pandas&amp;quot; &lt;a href=&quot;https://t.co/rmFBy64wID&quot;&gt;pic.twitter.com/rmFBy64wID&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/739515983136624640&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Open Austin events lead &lt;a href=&quot;https://twitter.com/MarcoAPineda13&quot;&gt;@MarcoAPineda13&lt;/a&gt; presents his teams project Xeritopia. A Xeriscaping app. &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; &lt;a href=&quot;https://t.co/2DVnTGMx6h&quot;&gt;pic.twitter.com/2DVnTGMx6h&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/739513737309093888&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;YAY!!!! &lt;a href=&quot;https://twitter.com/SaraChicaD&quot;&gt;@SaraChicaD&lt;/a&gt; rockin it in blue!!! AND helping the hungry &lt;a href=&quot;https://twitter.com/hashtag/foodheroes?src=hash&quot;&gt;#foodheroes&lt;/a&gt; &lt;a href=&quot;https://twitter.com/ATXhack4change&quot;&gt;@ATXhack4change&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/RubyonRails?src=hash&quot;&gt;#RubyonRails&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/smartheart?src=hash&quot;&gt;#smartheart&lt;/a&gt; &lt;a href=&quot;https://t.co/Wy6cuUl92K&quot;&gt;pic.twitter.com/Wy6cuUl92K&lt;/a&gt;&lt;/p&gt;&amp;mdash; ChelseaMcC (@ChelseaMcC) &lt;a href=&quot;https://twitter.com/ChelseaMcC/status/739519509732560896&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Titans projects wants to connect students and mentors to learn to code! &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/NDoCH?src=hash&quot;&gt;#NDoCH&lt;/a&gt; &lt;a href=&quot;https://t.co/Na806KXayV&quot;&gt;pic.twitter.com/Na806KXayV&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/739517591706734598&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;❤️ my &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; team - getting to alpha with the open gov partnership pilot! &lt;a href=&quot;https://twitter.com/opengovpart&quot;&gt;@opengovpart&lt;/a&gt; &lt;a href=&quot;https://t.co/SPQ6yfWjVh&quot;&gt;pic.twitter.com/SPQ6yfWjVh&lt;/a&gt;&lt;/p&gt;&amp;mdash; Kerry O&amp;#39;Connor (@kerry_atx) &lt;a href=&quot;https://twitter.com/kerry_atx/status/739525856041701376&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;This project was an awesome way to spend the weekend! Looking forward to what comes next... &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; &lt;a href=&quot;https://t.co/MjTTcZLuUQ&quot;&gt;https://t.co/MjTTcZLuUQ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Julie Montgomery (@juliamontgomery) &lt;a href=&quot;https://twitter.com/juliamontgomery/status/739854471488901120&quot;&gt;June 6, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;This year&amp;#39;s &lt;a href=&quot;https://twitter.com/hashtag/ATXHack4Change?src=hash&quot;&gt;#ATXHack4Change&lt;/a&gt; was AMAZING, sincere gratitude to &lt;a href=&quot;https://twitter.com/ATXhack4change&quot;&gt;@ATXhack4change&lt;/a&gt; &amp;amp; everyone who improve our community with their time &amp;amp; talent&lt;/p&gt;&amp;mdash; Julia Byron (@juliazeebee) &lt;a href=&quot;https://twitter.com/juliazeebee/status/739544812349579265&quot;&gt;June 5, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;projects&quot;&gt;Projects&lt;/h3&gt;
-
-&lt;p&gt;To see all the projects that were proposed at the 2016 ATX Hack for Change, &lt;a href=&quot;https://github.com/open-austin/atx-hack-for-change-2016/issues&quot;&gt;visit the issues list&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Here is a listing of all the projects that were presented at the Sunday closing event:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Project&lt;/th&gt;
-      &lt;th&gt;Code &amp;amp; Other Links&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://permit-wiz.herokuapp.com/&quot;&gt;Permit Application Wizard&lt;/a&gt; 🏛&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/open-austin/permit-server&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;BRAVE Volunteer Rewards App&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/jamesjackson/braveapp&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Texas Veteran Education Benefits&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://projects.invisionapp.com/share/7G7JFMMCS#/screens/164299780&quot;&gt;Invision Mockup&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Internet of Bees&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/chrisdhanaraj/internetofbees/&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;http://jemrrs.github.io/atxgreenatlas/&quot;&gt;ATX Green Atlas&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://github.com/jemrrs/atxgreenatlas&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Hack-a-Frac Virtual Reality Game&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://dl.dropboxusercontent.com/u/2382871/SLICING%20FOOD%20ACTION%20FLICK%202016.mov&quot;&gt;Demo Video&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Rideshare ATX Co-op&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/rideshareatx&quot;&gt;Github&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://rideshareatx-org.herokuapp.com/mobility.html#/&quot;&gt;Slides&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Keep Austin Moving ATX&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;http://rideshareatx-org.herokuapp.com/#/&quot;&gt;Slides&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Xeritopia&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/mapineda/xeriscape_atxhacks4change_2016&quot;&gt;Github&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://hackpad.com/Xeriscape_ATX-OAvRDE8RYyP&quot;&gt;Hackpad&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;BlueChasm Smart Sprinkler System&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/jrriosBC/smart-sprinkler&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;http://amaliebarras.github.io/data-portal-new/&quot;&gt;Community Open Data Portal aka PANDA&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/amaliebarras/data-portal-new&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;http://expungetexas.org/index.html&quot;&gt;Expunge Texas&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/kkarsnia/expunge&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;http://www.thetitansproject.com&quot;&gt;The Titans Project: Teens in Tech&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/codykeith/TITANS&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Safety Mapping&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/Sahedeva/bikePed2&quot;&gt;GH Frontend&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://github.com/Sahedeva/bikePedBackEnd&quot;&gt;GH Backend&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;http://ludwigmace.github.io/atxbasket/#/&quot;&gt;Welcome Basket&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/ludwigmace/atxbasket&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;http://food-donate.herokuapp.com/&quot;&gt;Food Hero&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/rubygeek/food_donate&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;http://www.rollingwithadvantage.com&quot;&gt;Rolling With Advantage&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/RollingWithAdvantage&quot;&gt;Github&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://www.twitter.com/RollingWAdvantage&quot;&gt;Twitter&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://www.facebook.com/rollingwithadvantage/&quot;&gt;Facebook&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Find My Open Park 🏛&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/wrays/find-my-open-park&quot;&gt;Github&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://docs.google.com/presentation/d/1gH-l33GbELcQlqxIToG8zglRXoZsZBub2sqdzSUMAuE/edit#slide=id.p&quot;&gt;Google Slides&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;http://cityofaustin.github.io/open-gov-partnership/&quot;&gt;Open Gov Partnership -&amp;gt; Crossfit for Democracy&lt;/a&gt; 🏛&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/cityofaustin/open-gov-partnership/tree/gh-pages&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Auction Bot - Facebook Messenger Bot for Charity Fundraising&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/krismuniz/auctionbot&quot;&gt;GH Frontend&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://github.com/aaronbenz/auctionbot-back&quot;&gt;GH Server&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://docs.google.com/presentation/d/1YHRu6xhLcEZnGyhftL83kgWcwQYARghZmcPnHWNqDZk/edit#slide=id.g128b1b71f0_0_269&quot;&gt;Google Slides&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://dahmos.org/&quot;&gt;Disable Athlete Health/Equipment Monitoring System&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/Bokbot/damn-hardware&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;http://www.austintexas.gov/dollarsandsense&quot;&gt;Austin Budget Simulator&lt;/a&gt; 🏛&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;http://Impactmap.us&quot;&gt;Impact Map&lt;/a&gt; - Giving Decisions Based on Big Data&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/deirdrewalsh/Big-Data-4-Giving-&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Billtracker&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://github.com/bill-tracker&quot;&gt;Github&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Tiny Hacker House&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Mapping Austin’s Culture 🏛&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://docs.google.com/forms/d/1xmzcoGHlqaywWjbFW4DdkNQTUiGVekJ0Su_7ZscAeD4/viewform&quot;&gt;Google Form Survey&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;🏛 &lt;em&gt;Indicates project led by City of Austin employee&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
-&lt;br /&gt;
-RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/events/231148616/&quot;&gt;RSVP&lt;/a&gt;
-&lt;br /&gt;
-Follow us on Twitter: &lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow&lt;/a&gt;
-&lt;br /&gt;
-&amp;amp; Like us on Facebook: &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like&lt;/a&gt;&lt;/p&gt;
-
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Tue, 07 Jun 2016 00:00:00 -0500</pubDate>
-        <link>http://open-austin.github.io//blog/2016/06/07/Recap-ATX-Hack-for-Change-2016</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/06/07/Recap-ATX-Hack-for-Change-2016</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Designing for Civic Solutions Recap</title>
-        <description>&lt;p&gt;On Saturday, April 23, 2016, Open Austin hosted a one-day workshop. The workshop was a first-time collaboration between Open Austin and Austin Center for Design (AC4D) alumni that aimed to help Open Austinites and the greater community understand the design process and how it could be applied to civic projects and application development.&lt;/p&gt;
-
-&lt;p&gt;The day kicked off with a presentation by Open Austin giving an overview of the workshop. Past transportation and mobility projects developed by the community were highlights as examples of success.&lt;/p&gt;
-
-&lt;p&gt;Then, Daniela Nunez, a local activist and community organizer with the Georgian Acres Neighborhood Association gave an overview of the Rundberg community and history. This primed participants on the issues that the neighborhood faces. It also gave context to the research that would be conducted during the workshop.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/community-driven action.png&quot; alt=&quot;Daniela&#39;s Presentation&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A slide from Daniela’s presentation: An outline of the ongoing work in the area&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Eric Boggs, Alumni Coordinator for AC4D, then took over and introduced his team of designers. We had a stellar crew which included Bhavini Patel a freelance UX &amp;amp; interaction Designer who has worked with Projekt202 &amp;amp; Chaotic Moon, Lauara Galos a research designer for IBM, James Lewis a user experience designer from IBM, and Samara Watkiss an interaction designer leading human-centered design efforts at a local cyber security company.&lt;/p&gt;
-
-&lt;p&gt;First, Eric introduced participants to a design methodology taught by AC4D. This method boils down to ethnography and immersion in cultural context, Synthesis which is making meaning through inferences and reframing, and prototyping through storyboarding and storytelling. View a version of &lt;a href=&quot;http://library.ac4d.com/d/AC4D_designlibrary_Ethnographic_research.pdf&quot;&gt;the  presentation on Ethnographic Research here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/Empathy?src=hash&quot;&gt;#Empathy&lt;/a&gt; needed in human-centered design - Eric Boggs, &lt;a href=&quot;https://twitter.com/AC4D&quot;&gt;@AC4D&lt;/a&gt; w/ &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/mobility?src=hash&quot;&gt;#mobility&lt;/a&gt; &lt;a href=&quot;https://t.co/TAtIonPw6P&quot;&gt;pic.twitter.com/TAtIonPw6P&lt;/a&gt;&lt;/p&gt;&amp;mdash; Daniela (@vegangrrl) &lt;a href=&quot;https://twitter.com/vegangrrl/status/723899500662661125&quot;&gt;April 23, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;Afterwards, Bhavani lead the presentation on field research. She primed participants on how to ask the right questions to the right people to gain valuable insight. View the &lt;a href=&quot;http://library.ac4d.com/d/AC4D_designlibrary_worksheet_DesignResearch.pdf&quot;&gt;research planning worksheet here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;After coming back from their field research participants ate their lunch and started to make meaning of their research. They synthesized quotes and the behavioral clues of locals to uncover overarching themes. Laura lead the synthesis phase and helped participants find meaning in the data they gathered. Find a version of her &lt;a href=&quot;http://library.ac4d.com/d/AC4D_designlibrary_worksheet_DesignResearch.pdf&quot;&gt;presentation on syntheses here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Doing some ethnography with Open Austin! &lt;a href=&quot;https://twitter.com/vegangrrl&quot;&gt;@vegangrrl&lt;/a&gt; &lt;a href=&quot;https://twitter.com/ramirezal3&quot;&gt;@ramirezal3&lt;/a&gt; &lt;a href=&quot;https://t.co/taQf9RkFx4&quot;&gt;pic.twitter.com/taQf9RkFx4&lt;/a&gt;&lt;/p&gt;&amp;mdash; mae (@maebees) &lt;a href=&quot;https://twitter.com/maebees/status/723922394889379842&quot;&gt;April 23, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;The rest of the activities were capped off by Samara and James who taught about ideation, down selection, and storyboarding as a prototyping tool. By forcing opposing ideas together and deviating from initial thoughts on potential outcomes, participants were encouraged to diverge and think more broadly about the subjects they were exploring. This encouraged attendees to think of unique ways to solve their problems. From there they picked a solutions and started illustrating what that could look like by storyboarding. By drawing pictures that represented real and imagined situations the participants gained a better idea of what could work, how it could work, and how people may potentially feel and interact with their imagined solutions. Find &lt;a href=&quot;http://library.ac4d.com/&quot;&gt;AC4D presentations on storyboarding and ideation here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Working on loosening up our sketching muscles. &lt;a href=&quot;https://t.co/hAiU6MKa3K&quot;&gt;pic.twitter.com/hAiU6MKa3K&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/723969580138295297&quot;&gt;April 23, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;After wrapping up we encouraged the participants to continue the work at our hack nights and hack Saturdays if they felt strongly about the issue and contributing to mobility in Rundberg or the greater Austin area.&lt;/p&gt;
-
-&lt;p&gt;Since the workshop we’ve had a guest blog post by a local UX designer and member of Open Austin, Ellen Lazaretti. You can &lt;a href=&quot;http://www.open-austin.org/blog/2016/05/04/my-day-as-a-uxer-designing-for-civic-solutions&quot;&gt;read Ellen’s post here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Additionally, participant Alejandro Ramirez published a Medium article about his experience, insights, and suggestions for improvement. View &lt;a href=&quot;https://uxdesign.cc/ux-design-beyond-the-screen-how-design-thinking-can-improve-pedestrian-safety-d886ee3ba638#.1kqumegcp&quot;&gt;Alejandro’s article here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This event was made possible by generous donations from:
-&lt;img src=&quot;http://open-austin.github.io/assets/images/workshopdonors.jpg&quot; alt=&quot;Workshop Donors&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;What we do would not be possible without our community and corporate sponsors. Having supporters such as these makes it possible for civic collaboration, creativity, and solutions.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://drive.google.com/open?id=1_X1nwd5g2EpDGmsf5eVlGs5IOWgPypZ6ZDXdTgi6UoM&quot;&gt;View our deck&lt;/a&gt; from event and Check out our &lt;a href=&quot;https://drive.google.com/open?id=0B1cMlEZm_nJ0YkdHTkF6QWJEejA&quot;&gt;event photo album&lt;/a&gt;.
-&lt;br /&gt;
-Check out AC4D Slides and resources at their &lt;a href=&quot;http://library.ac4d.com/&quot;&gt;design library&lt;/a&gt;
-&lt;br /&gt;
-Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
-&lt;br /&gt;
-RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/events/231148616/&quot;&gt;RSVP&lt;/a&gt;
-&lt;br /&gt;
-Follow us on Twitter: &lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow&lt;/a&gt;
-&lt;br /&gt;
-&amp;amp; Like us on Facebook: &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like&lt;/a&gt;&lt;/p&gt;
-
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Sun, 29 May 2016 00:00:00 -0500</pubDate>
-        <link>http://open-austin.github.io//blog/2016/05/29/Recap-Designing-for-Civic-Solutions</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/05/29/Recap-Designing-for-Civic-Solutions</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>May Open Gov &amp; Civic Tech Meetup Recap - Texas Water Planning App by TNRIS</title>
-        <description>&lt;p&gt;For Open Austin’s May Open Gov &amp;amp; Civic Tech Meetup, we hosted two presentations.&lt;/p&gt;
-
-&lt;h3 id=&quot;texas-water-plan-interactive-app--api&quot;&gt;2017 Texas Water Plan Interactive App &amp;amp; API&lt;/h3&gt;
-
-&lt;p&gt;The featured presentation was led by James Seppi (&lt;a href=&quot;http://www.meetup.com/MaptimeATX/&quot;&gt;Maptime ATX&lt;/a&gt;) &amp;amp; Matt Nelson, Director of Water Planning at &lt;a href=&quot;http://www.twdb.texas.gov/&quot;&gt;Texas Water Development Board&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Matt &amp;amp; James shared:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Basics of how Texas does its water planning, including important terminology&lt;/li&gt;
-  &lt;li&gt;Short demo/how to navigate and interpret the 2017 State Water Plan application&lt;/li&gt;
-  &lt;li&gt;Summary of API endpoints in the 2017 State Water Plan application&lt;/li&gt;
-  &lt;li&gt;Technology behind the application&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1bbrVWdT2R6N3qOT6PfIKQUB5myycgszWVg8MJmJg7PI/edit#slide=id.p&quot;&gt;Here is a link to their presentation&lt;/a&gt;.
-Here is a link to the &lt;a href=&quot;https://2017.texasstatewaterplan.org/&quot;&gt;2017 Water Plan App&lt;/a&gt;, the &lt;a href=&quot;https://2017.texasstatewaterplan.org/api/v1&quot;&gt;API&lt;/a&gt;, and their &lt;a href=&quot;https://github.com/TNRIS/iswp2017&quot;&gt;Github repo&lt;/a&gt; with the open-source code.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;At the always interesting &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; hearing about water resources as well as city performance measurement. &lt;a href=&quot;https://t.co/YPa3kIE0pd&quot;&gt;pic.twitter.com/YPa3kIE0pd&lt;/a&gt;&lt;/p&gt;&amp;mdash; david holmes (@texasdnc) &lt;a href=&quot;https://twitter.com/texasdnc/status/732367709728428032&quot;&gt;May 17, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;ditching-pdfs-for-open-data-at-the-city-opm&quot;&gt;Ditching PDFs for Open Data at the City OPM&lt;/h3&gt;
-
-&lt;p&gt;As a bonus presentation, Kimberly Springer-Olivares, Chief Performance Officer at the City of Austin’s newly created Office of Performance Management gave a quick introduction to the new office and previewed plans to ditch PDF reports and make it easier for Austin residents to see how the City is performing using open data and visualizations via new Socrata products offered within data.austintexas.gov.&lt;/p&gt;
-
-&lt;p&gt;Kim discussed how part of their goal is to ask the questions: Why do departments do the things that they do? How does their budget support those goals? One of the goals of her office is to transform the long Annual Budget Perform Report PDFs (&lt;a href=&quot;https://assets.austintexas.gov/budget/13-14/downloads/2013-14_Austin_Annual_Performance_Report_web.pdf&quot;&gt;like this one for 2013-14 that is 216 pages long&lt;/a&gt;), into more digestable and accessible &lt;a href=&quot;https://data.austintexas.gov/stories/s/mfnw-2iaf&quot;&gt;“stories” like this one hosted on the city’s data portal&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/documents/OPM_OpenAustin.pdf&quot;&gt;Here is a link to the Office of Performance Management slides&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Kim Springer-Olivares geeks out with &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; on &lt;a href=&quot;https://twitter.com/hashtag/data?src=hash&quot;&gt;#data&lt;/a&gt; + &lt;a href=&quot;https://twitter.com/hashtag/openperformance?src=hash&quot;&gt;#openperformance&lt;/a&gt; for better government &lt;a href=&quot;https://twitter.com/austintexasgov&quot;&gt;@austintexasgov&lt;/a&gt; &lt;a href=&quot;https://t.co/maTQws87N5&quot;&gt;pic.twitter.com/maTQws87N5&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jill Goodman (@cafejillio) &lt;a href=&quot;https://twitter.com/cafejillio/status/732377364332568576&quot;&gt;May 17, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1czm4VlA9376cmfobLgrxLLwA01_NXFBKs34FcDVrn_I/edit?usp=sharing&quot;&gt;Open Austin event intro slides with announcements&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Continue the conversation by following us on &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;Twitter&lt;/a&gt; and joining our community on &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Slack&lt;/a&gt;.
-RSVP for our next event on &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;Meetup&lt;/a&gt; and like us on &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Facebook&lt;/a&gt; to stay up to date.&lt;/p&gt;
-
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Sat, 28 May 2016 00:00:00 -0500</pubDate>
-        <link>http://open-austin.github.io//blog/2016/05/28/may-open-gov-civic-tech-meetup-recap</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/05/28/may-open-gov-civic-tech-meetup-recap</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>My day as a UXer at the Designing for Civic Solutions Workshop</title>
-        <description>&lt;p&gt;As a UX Design student in my final semester at ACC, I was thrilled to have the opportunity to attend the Open Austin’s Designing for Civic Solutions Workshop. It was held at the Little Walnut Creek Branch, Austin Public Library located near the Rundberg and North Lamar intersection. Snacks, refreshments, and lunch were provided to keep us well-fueled for the day’s human-centered design activities.&lt;/p&gt;
-
-&lt;p&gt;The morning started with an introduction by Mateo Clarke and Victoria O’Dell of Open Austin. Next we learned about the Rundberg community, and issues the area faces from Daniela Nuñez, Co-Vice President of the Georgian Acres Neighborhood Association. The human-centered design portion of the workshop was kicked off by Eric Boggs, AC4D alumni, followed by Bhavini Patel, Laura Galos, James Lewis, and Samara Watkiss. Each took turns introducing the room to a different phase of the process we’d utilize for the duration of the workshop.&lt;/p&gt;
-
-&lt;p&gt;As we moved into the &lt;strong&gt;Research&lt;/strong&gt; phase, participants broke up into small teams to choose what they would focus on for the day. I teamed with Lora Rowan and Kayla Kennett to focus on &lt;strong&gt;“what it feels like to be a bicyclist or pedestrian crossing the intersection at North Lamar and Rundberg”&lt;/strong&gt;, one of the most dangerous intersections in the city.&lt;/p&gt;
-
-&lt;p&gt;We collaborated to come up with open-ended questions, and headed out into the field on foot to ask area residents our questions with the goals of gaining empathy and insights. We successfully interviewed a few Austin residents, although we ran into language barriers with a couple of other potential interviewees. We took turns serving as the facilitator, notetaker, and photographer. Soon the heat of the afternoon kicked in, and we headed back to the Library for a break.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/ellen-Contextal-observation.jpg&quot; alt=&quot;Ladies crossing N Lamar in the middle of the street&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Contextual observation - These ladies crossed N Lamar in the middle of the street and seemed very calm. They were standing in the street waiting to cross.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;After the our lunch break concluded, we moved into the &lt;strong&gt;Synthesis&lt;/strong&gt; phase of the workshop. We were led through a series of exercises where we examined what our interviewees shared with our team, and discovered themes and insights. This is the phase where the post-its and scissors were put into heavy use, as we collaborated.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/ellen-mentor.jpg&quot; alt=&quot;4 participants organize sticky notes&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Eric Boggs mentoring, me (left), Lora (middle), Kayla (right)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In the &lt;strong&gt;Ideation&lt;/strong&gt; phase we were encouraged to generate many ideas without censorship in our teams. During this phase we engaged each team member, and openly encouraged the sharing of ideas and opinions. Then we used creative downselection, to identify ideas based on criteria appropriate to the project.&lt;/p&gt;
-
-&lt;p&gt;Finally, we moved into &lt;strong&gt;Storyboarding as a Prototyping tool&lt;/strong&gt;. Each team member created their own storyboard during this phase. We brought our individual design vision to life using a concise and focused approach to introducing the people in our story, showing the problem, the solution, and the result. We also learned some pretty nifty shortcuts to expressing emotion with facial expressions, that help the viewer understand the emotions tied to the experience.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/ellen-storyboard.jpg&quot; alt=&quot;Ellen&#39;s story board&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This was my storyboard.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In conclusion, I thoroughly enjoyed the workshop, and hope that some of the ideas from attendees might solve the issue of mobility in Austin. It was incredible getting out in the field to conduct research, and listen to Austinites share their stories. Learning and applying AC4D alumni’s human-centered design process was also quite rewarding in many ways.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 04 May 2016 00:00:00 -0500</pubDate>
-        <link>http://open-austin.github.io//blog/2016/05/04/my-day-as-a-uxer-designing-for-civic-solutions</link>
-        <guid isPermaLink="true">http://open-austin.github.io//blog/2016/05/04/my-day-as-a-uxer-designing-for-civic-solutions</guid>
+        <link>http://0.0.0.0:4000/blog/2016/06/23/lightning-talk-recap</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2016/06/23/lightning-talk-recap</guid>
         
         
       </item>
