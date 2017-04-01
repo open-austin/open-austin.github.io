@@ -54,7 +54,7 @@
         font-family: $font-primary;
         font-weight: 500;
         text-shadow: 0 2px 1px rgba(0, 0, 0, 0.8);
-        padding-top: $spacing-unit * 3;
+        padding-top: $spacing-unit * 1.8;
         font-size: $base-font-size * 5;
         margin-bottom: $spacing-unit * .5;
         @include media-query($on-palm) {

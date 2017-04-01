@@ -5,6 +5,7 @@
     color: $color-primary;
     text-decoration: none;
     margin-bottom: 10px;
+    background: #fff;
     &:hover {
         text-decoration: none;
         color: #fff;
@@ -24,6 +25,24 @@
         text-decoration: none;
         color: $orange-color;
         background: #fff;
+    }
+}
+
+.btn-welcome {
+    font-size: 1.2rem;
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    padding: .6rem 1rem;
+    border-radius: 6px;
+    border: 1px solid $oa-blue;
+    text-decoration: none;
+    color: #fff !important;
+    background: $oa-blue !important;
+    &:hover {
+        text-decoration: none;
+        color: $oa-blue !important;
+        background: #fff !important;
+        border: 1px solid $oa-blue;
     }
 }
 
