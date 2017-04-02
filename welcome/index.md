@@ -44,12 +44,12 @@ Hack events occur throughout the month and allow attendees to collaborate on pro
 ## Want to help an existing project or suggest a new project?
 We keep track of our projects on [GitHub](https://github.com/open-austin ).
 
-You can browse projects by [label](https://github.com/open-austin/project-ideas/labels) or view the [entire list](https://github.com/open-austin/project-ideas/issues).
+You can browse proposals for new Open Austin projects by [label](https://github.com/open-austin/project-ideas/labels) or view the [entire list](https://github.com/open-austin/project-ideas/issues). This is where you can suggest your own project ideas.
 
-For details visit [Projects](/projects).
+We also have a showcase of [projects that have reached a useable stage](/projects).
 
 ## Want to learn more about Open Austin?
-[Read about](https://www.open-austin.org/about/) our history and leadership team.
+Read [about our history and leadership team](https://www.open-austin.org/about/).
 
 ## Keep up with us on social media
 Follow us on [Twitter](https://twitter.com/openaustin) or [Facebook](https://www.facebook.com/Open-Austin-412390968837071/).
