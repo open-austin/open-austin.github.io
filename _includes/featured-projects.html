@@ -3,7 +3,8 @@
         <h2>Featured Projects</h2>
 
         <ul>
-            {% for project in site.projects %}
+            {% assign sorted = (site.projects | sort: 'date') | reverse %}
+            {% for project in sorted %}
             {% if project.featured == true %}
             <li class="featured-project project flex-container flex-column-on-palm">
                 <div class="project-image-container flex-item">
