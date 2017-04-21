@@ -8,6 +8,8 @@ Status:       Alpha
 Contact:      code@mateoclarke.com
 Categories:   [ civic engagement, Finance, Javascript ]
 date:         2017-04-20 00:00:00
+thumb:        budget-party.png
+screenshot:   budget-party.png
 ---
 
 *****************
