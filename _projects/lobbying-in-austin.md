@@ -8,8 +8,8 @@ Status:       Alpha
 Contact:      https://open-austin.slack.com/team/mscarey
 Categories:   [ civic engagement, Finance, Javascript ]
 date:         2017-04-20 00:00:00
-thumb:        X_lobby_travel_filings_2004-2014.svg
-screenshot:   X_lobby_travel_filings_2004-2014.svg
+thumb:        TX_lobby_travel_filings_2004-2014.svg
+screenshot:   TX_lobby_travel_filings_2004-2014.svg
 ---
 
 *****************
