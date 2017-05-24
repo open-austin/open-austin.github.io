@@ -42,11 +42,13 @@ Once a month we get together to discuss local open government and civic technolo
 Hack events occur throughout the month and allow attendees to collaborate on projects or pitch a new project idea.
 
 ## Want to help an existing project or suggest a new project?
-We keep track of our projects on [GitHub](https://github.com/open-austin ).
+We keep track of our projects on [GitHub](https://github.com/open-austin).
 
 You can browse proposals for new Open Austin projects by [label](https://github.com/open-austin/project-ideas/labels) or view the [entire list](https://github.com/open-austin/project-ideas/issues). This is where you can suggest your own project ideas.
 
 We also have a showcase of [projects that have reached a useable stage](/projects).
+
+For more details visit the [project ideas repo](https://github.com/open-austin/project-ideas).
 
 ## Want to learn more about Open Austin?
 Read [about our history and leadership team](https://www.open-austin.org/about/).
