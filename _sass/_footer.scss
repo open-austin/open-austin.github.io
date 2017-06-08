@@ -1,23 +1,20 @@
 // debugging CSS
-
-*:nth-child(n) {
-  background-color: rgba(255,0,0,0.1);
-}
-
+// *:nth-child(n) {
+//   background-color: rgba(255,0,0,0.1);
+// }
 
 /**
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    -border-top: 1px solid $grey-color-light;
+    padding: $spacing-unit * 1.5;
     background: $grey-color-dark;
     position: relative;
-h3 {
-  // text-align: left;
-  margin: 1rem 0;
-}
-
+  h3 {
+    font-size: 1rem;
+    margin: 0rem 0 1rem 0;
+  }
 }
 
 .footer-heading {
@@ -27,9 +24,20 @@ h3 {
 
 .footer-list ul {
   list-style: none;
-  margin-left: 0;
-  text-align: left;
+  margin: 0 0 3rem 0;
+  text-align: center;
+  li {
+    margin-bottom: 8px;
+  }
 }
+
+.footer-list ul:last-of-type {
+  margin-bottom: 0;
+  @include media-query($on-palm) {
+    margin-bottom: 3rem;
+  }
+}
+
 
 .hide {
   display: none;
@@ -41,6 +49,7 @@ h3 {
     list-style: none;
     margin-left: 0;
     display: flex;
+    flex-direction: column;
 }
 
 .footer-social-media {
@@ -54,14 +63,14 @@ h3 {
   width: 30%;
   li {
     padding: 15px 5%;
+    flex-direction: column;
     @include media-query($on-palm) {
       flex: 1;
     }
   }
   img {
-    @include media-query($on-palm) {
-      max-height: 50px;
-    }
+    max-width: 160px;
+    margin: 0 0 1.5rem 0;
   }
   @include media-query($on-palm) {
     padding: 0 25%;
@@ -162,7 +171,7 @@ h3 {
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color-light;
-    margin-left: -$spacing-unit / 2;
+    // margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
 
@@ -185,6 +194,7 @@ h3 {
 .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
+
 }
 
 @include media-query($on-laptop) {

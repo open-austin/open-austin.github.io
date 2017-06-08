@@ -5,9 +5,212 @@
     <description>Open Austin is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. We are an official brigade affiliated with the nonprofit Code for America which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.</description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Mar 2017 23:23:09 -0500</pubDate>
-    <lastBuildDate>Sun, 19 Mar 2017 23:23:09 -0500</lastBuildDate>
-    <generator>Jekyll v3.4.0</generator>
+    <pubDate>Wed, 07 Jun 2017 20:16:19 -0500</pubDate>
+    <lastBuildDate>Wed, 07 Jun 2017 20:16:19 -0500</lastBuildDate>
+    <generator>Jekyll v3.4.1</generator>
+    
+      <item>
+        <title>Kirk Watson Advances Open Government Bills</title>
+        <description>&lt;p&gt;The &lt;a href=&quot;https://www.texastribune.org/2017/05/11/texas-senate-unticks-proposals-plug-public-records-loopholes/&quot;&gt;Texas Tribune has reported&lt;/a&gt; that Sen. Kirk Watson, D-Austin, has attached several open government initiatives to a single bill designated &lt;a href=&quot;http://www.capitol.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=HB2328&quot;&gt;HB 2328&lt;/a&gt;, which has passed the Texas Senate. The amended bill now goes back to the House for its approval. The provisions now attached to HB 2328 include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;getting rid of the requirement for a governmental body to get an attorney general opinion before withholding information under the Public Information Act, if it makes a good faith determination that an exception applies.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;changing the Public Information Act’s exception for contract bids, so that the exception doesn’t apply once a contract is awarded.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;including some contractors in the definition of a “governmental body” obligated to respond to record requests.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;mandating public access to government information stored on privately-owned accounts and devices.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;providing that public records containing dates of birth can still be disclosed.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;creating a procedure for the Attorney General to compel a response to a public records request.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.texastribune.org/2017/05/11/texas-senate-unticks-proposals-plug-public-records-loopholes/&quot;&gt;The Tribune&lt;/a&gt; has the full story.&lt;/p&gt;
+
+&lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
+
+&lt;p&gt;Join the #policy channel of the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
+&lt;br /&gt;
+RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow us on Twitter&lt;/a&gt;
+&amp;amp; &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like us on Facebook&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 13 May 2017 00:00:00 -0500</pubDate>
+        <link>http://0.0.0.0:4000/blog/2017/05/13/kirk-watson-advances-open-government-bills</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2017/05/13/kirk-watson-advances-open-government-bills</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mozilla’s Open Leadership Training can work for Open Austin projects</title>
+        <description>&lt;p&gt;When I joined the Open Austin leadership team, one of my first goals was to identify specific problems in our project management that might impact members’ ability or motivation to contribute. Early on we defined that problem to be that most project ideas are never completed. However, recently we took a good look at what we are as a community and what we want to facilitate. In doing so, we realized that it’s okay for &lt;em&gt;ideas&lt;/em&gt; to not be completed; they’re just ideas after all. Rather, it’s a problem when a &lt;em&gt;project&lt;/em&gt; that has made commitments or set expectations never gets completed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://andyhub.com/wordpress/wp-content/uploads/project-ideas-750x582.png&quot; alt=&quot;A snapshot of recently updated project ideas on Open Austin’’s Github&quot; /&gt;&lt;em&gt;A snapshot of recently updated project ideas on Open Austin’’s Github&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We have completed &lt;a href=&quot;https://www.open-austin.org/projects&quot;&gt;dozens of projects&lt;/a&gt; over the years, and there are &lt;a href=&quot;https://github.com/open-austin/project-ideas/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22Active+Project%22&quot;&gt;many more&lt;/a&gt; actively worked on today. However, there are all together still more ideas that have been abandoned, shelved for later, or need leadership. We decided that it’s okay for ideas to be this way, in fact it’s great to have pages of unled or abandoned ideas that a newcomer could pick up and run with. However, it becomes a problem when that newcomer doesn’t have the initiative to start on a new project with no help or to continue working on a project that nobody else wants to participate in.&lt;/p&gt;
+
+&lt;h2 id=&quot;project-management-issues&quot;&gt;Project management issues&lt;/h2&gt;
+
+&lt;p&gt;Another problem is when projects that have progressed past just an idea or that have commitments, funding, or external stakeholders are not satisfactorily completed. From some less than rigorous study and experience with this over some years, I’ve identified five causes that have prevented projects from being completed:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Unmet technical requirements&lt;/li&gt;
+  &lt;li&gt;Lost client or target group&lt;/li&gt;
+  &lt;li&gt;Analysis paralysis&lt;/li&gt;
+  &lt;li&gt;Lost interest or commitment&lt;/li&gt;
+  &lt;li&gt;Dropped out of the community&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;unmet-technical-requirements&quot;&gt;Unmet technical requirements&lt;/h3&gt;
+
+&lt;p&gt;This is the most clear problem that often has an easy to understand solution: you get the right technology, right person, or right information to move forward or pivot. For example, Rails (and thus Ruby) was a &lt;a href=&quot;https://github.com/blog/2047-language-trends-on-github&quot;&gt;popular&lt;/a&gt; new language for web development around the time Code for America started up. This led to a lot of new projects in our communities being developed with Rails. But it didn’t last, and now as other languages and tools have usurped its trendiness, Rails projects may struggle a little harder than others as new members are less interested in contributing to them.&lt;/p&gt;
+
+&lt;p&gt;Having the right person with technical knowledge and techniques can be just as important as the project’s tools. It can mean the difference between a &lt;a href=&quot;https://en.wikipedia.org/wiki/Technical_debt&quot;&gt;tech-debted&lt;/a&gt; prototype and a well-engineered project that requires less attention over time, which helps for volunteer projects like ours. Having the right person with the insider technical knowledge also falls under this category. For example, a project for a government body will likely move extremely slowly without the technical knowledge of its legal or procurement matters.&lt;/p&gt;
+
+&lt;h3 id=&quot;lost-client-or-target-group&quot;&gt;Lost client or target group&lt;/h3&gt;
+
+&lt;p&gt;Many of our completed projects had at least one external stakeholder, including government workers, nonprofits, and community groups. Without dedicated support and communication affordances to maintain that relationship, a project can easily lose steam. Maintaining relationships is hard, but it affects nearly all aspects of a project for better or worse.&lt;/p&gt;
+
+&lt;p&gt;A client can provide direction, a target group can provide research, a stakeholder can provide technical resources, and it can be too hard to replace them before volunteers move on to something more fulfilling.&lt;/p&gt;
+
+&lt;h3 id=&quot;analysis-paralysis&quot;&gt;Analysis paralysis&lt;/h3&gt;
+
+&lt;p&gt;A challenge to all agile teams is keeping track of their own time and project management. A team practicing waterfall might work well by seeking volunteers only for the near term objectives and then different volunteers for later objectives, but that requires strong leadership over a long time. An agile, iterative project requires shorter management terms but also means the team must know how and when to observe, reflect, make, and repeat over and over again.&lt;/p&gt;
+
+&lt;p&gt;Overcoming paralysis requires the agency to continue even if they lose the ability to seek clarification from a client or target group. Or if the client provides this but not strong direction, a team may spend too much time observing and reflecting. Then they risk never &lt;em&gt;making&lt;/em&gt; anything. Having the discipline to prototype and potentially throw it all away after testing is critical to iterative work with less managerial overhead.&lt;/p&gt;
+
+&lt;h3 id=&quot;lost-interest-or-commitment&quot;&gt;Lost interest or commitment&lt;/h3&gt;
+
+&lt;p&gt;On a more personal level, it’s just hard to stay engaged in a project that loses its novelty. A new project idea to someone is a great motivator to learn, but depending on what they did or did not learn, that motivation can fizzle out. Time management is also critical here as we are a volunteer organization that is focused on personal projects over business-driven projects. Those who don’t align themselves accordingly may suffer from how they perceive the community and vice-versa. This can happen to regular members, leaders, and external stakeholders, each with their own repercussions to their project and the whole community.&lt;/p&gt;
+
+&lt;h3 id=&quot;dropped-out-of-the-community&quot;&gt;Dropped out of the community&lt;/h3&gt;
+
+&lt;p&gt;Finally, churn is the greatest enemy to any subscription-based endeavor. When people leave something, it’s extremely difficult to get them back, and sometimes they leave with something of great value to the community. That can be replaced in time usually, but in the meantime the consequences can cascade. If someone just ghosted, that also draws concern on a more personal level. As an intentional community based on personal projects, it can affect folks on a more emotional level that isn’t so replaceable. Maintaining a personable level of engagement is critical to a healthy community that significantly affects the other four issues I’ve described.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*duMR4WTab-dVqkH8xYUdpw.jpeg&quot; alt=&quot;Image by Mozilla.&quot; /&gt;&lt;em&gt;Image by Mozilla.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;learning-from-mozilla&quot;&gt;Learning from Mozilla&lt;/h2&gt;
+
+&lt;p&gt;At Open Austin’s core are our values of open source work and open participation. We share a lot of that with Mozilla, who’s also a great example of getting things done themselves and by enabling others in their own efforts.&lt;/p&gt;
+
+&lt;p&gt;As a leader in open project leadership, they offer this as a sort of service via their &lt;a href=&quot;https://mozilla.github.io/open-leadership-training-series/&quot;&gt;open leadership training series&lt;/a&gt; (OLTS). I enrolled with my &lt;a href=&quot;https://andyhub.com/concepts/mobile-reporting/&quot;&gt;Mobile-Map-IO&lt;/a&gt; project in their third cohort, which included a couple dozen other participants from around the world. One of the first activities we did was align our values for our individual projects with the community’s values, particularly with Mozilla’s &lt;a href=&quot;https://internethealthreport.org/v01/&quot;&gt;internet health report&lt;/a&gt; categories.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://blog.mozilla.org/blog/2017/03/15/five-issues-that-will-determine-the-future-of-internet-health/&quot;&gt;&lt;img src=&quot;https://andyhub.com/wordpress/wp-content/uploads/Internet_Health_issues_march_2017_cover-1400x770-750x413.jpg&quot; alt=&quot;Mozilla’s Internet Health Report (image by Mozilla)&quot; /&gt;&lt;/a&gt;&lt;em&gt;Mozilla’s Internet Health Report (image by Mozilla)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The training series overall is about learning the best practices for working in the open, specifically people who are starting up or leading a project. It’s a mix of a few things, mostly captured by a sort of multimedia &lt;a href=&quot;https://mozilla.github.io/open-leadership-training-series/&quot;&gt;readme&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://andyhub.com/wordpress/wp-content/uploads/olts-readme-750x422.png&quot; alt=&quot;Screenshot of the OLTS readme&quot; /&gt;&lt;em&gt;Screenshot of the OLTS readme&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We reference this readme at nearly every cohort check-in, where we all meet virtually via Vidyo and type on Etherpad, a real-time collaborative notepad, when we have questions or are responding to prompts provided by our lead &lt;a href=&quot;https://acabunoc.github.io/&quot;&gt;Abby&lt;/a&gt;. Before we meet, she sends two options for the whole cohort to meet, giving us a chance to schedule one or the the other.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://andyhub.com/wordpress/wp-content/uploads/olt3week4convoscreenshot-750x422.png&quot; alt=&quot;A usual video chat with the whole OLTS cohort&quot; /&gt;&lt;em&gt;A usual video chat with the whole OLTS cohort&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In the meantime, she prepares &lt;a href=&quot;https://public.etherpad-mozilla.org/p/olt3-trainings&quot;&gt;our cohort Etherpad&lt;/a&gt; with the meeting outline and spaces for us to respond to questions. This gives us chances to participate verbally as well as textually in the conversation, engaging individuals from what they type directly instead of relying on individuals who choose to speak.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://andyhub.com/wordpress/wp-content/uploads/etherpadscreenshot-750x422.png&quot; alt=&quot;Screenshot of how we use Etherpad&quot; /&gt;&lt;em&gt;Screenshot of how we use Etherpad&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As leaders, it’s important that we learn from and motivate each other. This live document editing is bolstered by more in-depth artifacts developed from these prompts and those listed on the readme.&lt;/p&gt;
+
+&lt;p&gt;For example, we crafted vision statements, articulated the problems we want to address, and more so that others in the community can better understand the motivation, expected outcomes, and progress without the leaders being present. My Mobile Map IO artifacts are all available on my &lt;a href=&quot;https://andyhub.com/concepts/mobile-reporting/&quot;&gt;project page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;applying-this-with-open-austin&quot;&gt;Applying this with Open Austin&lt;/h2&gt;
+
+&lt;p&gt;The artifacts are also something we can use to check ourselves, as this is generally only what we spend about 20% of our free time on. Keeping tabs on what commitments we can make in our 20% time is something I think we at Open Austin do well by using &lt;a href=&quot;https://github.com/open-austin/cheatsheet-basedef&quot;&gt;BASEDEF&lt;/a&gt;. &lt;strong&gt;B&lt;/strong&gt; logging, &lt;strong&gt;A&lt;/strong&gt; pplying, &lt;strong&gt;S&lt;/strong&gt; uggesting, &lt;strong&gt;E&lt;/strong&gt; xtending, &lt;strong&gt;D&lt;/strong&gt; ocumenting, &lt;strong&gt;E&lt;/strong&gt; vangelizing, and &lt;strong&gt;F&lt;/strong&gt; ixing are all ways folks can get involved in an idea for civic innovation. What I’m doing now for example is the B, for blogging, to share what I learned and how I could contribute to our process for improving the issues I’ve outlined. These artifacts we created are examples of the BASEDEF spec.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://andyhub.com/wordpress/wp-content/uploads/MMIO-Open-Canvas-750x422.png&quot; alt=&quot;The Open Canvas for my project, similar to the popular Lean and Business Model Canvases.&quot; /&gt;&lt;em&gt;The Open Canvas for my project, similar to the popular Lean and Business Model Canvases.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Another artifact we in OLTS used for maintaining a project is the &lt;a href=&quot;https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/&quot;&gt;Open Canvas&lt;/a&gt;, something similar to what Open Austin has iterated on with the &lt;a href=&quot;https://www.open-austin.org/civic-tech-canvas/&quot;&gt;Civic Tech Project Planning Canvas&lt;/a&gt;. The canvas can also inform a roadmap, which we started building from day one to guide our direction. In order to deliver (i.e. complete to a degree) a minimally viable experience to a stakeholder, the project team must align on some near- and long-term goals that are defined in a way that stakeholders would care about. Instead of defining technical requirements or jargon-laden statements, an experience-based roadmap should define what a stakeholder would be able to do or experience at each milestone. Defining this way may help with keeping them engaged and acting as good designers, not just good hackers. And this is important, because it’s hard as a stakeholder or user to wait for volunteer―&lt;a href=&quot;https://www.academia.edu/8728551/Hack_for_good_Speculative_labor_app_development_and_the_burden_of_austerity&quot;&gt;often speculative&lt;/a&gt;―labor to yield a desirable experience.&lt;/p&gt;
+
+&lt;p&gt;Finally, one last OLTS artifact that I felt was important was understanding what we would find welcoming or helpful when first reading about a project. Community is at the center of leading an open project, and without a welcoming experience to that community, a project therein may fail to catch new members. This makes well-designed and welcoming documentation a very high priority.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/sanfranannie/4136379024&quot;&gt;&lt;img src=&quot;https://andyhub.com/wordpress/wp-content/uploads/sanfranannie-750x563.jpg&quot; alt=&quot;Photo by Ann Larie Valentine.&quot; /&gt;&lt;/a&gt;&lt;em&gt;Photo by Ann Larie Valentine.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A common way of providing this is with a &lt;a href=&quot;https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/&quot;&gt;readme&lt;/a&gt;, a pleasant way of greeting someone into your project’s home, like the OLTS website. Removing the jargon from our roadmap, readme, and other artifacts is especially important for us because Open Austin is &lt;a href=&quot;https://www.eventbrite.com/e/lunch-and-learn-with-the-austin-innovation-office-designing-for-the-100-tickets-32426014081&quot;&gt;designing for the 100%&lt;/a&gt;: everyone in our city. And like any house’s rules defined on their doormat, we could also define a code of conduct and contribution guidelines to entice folks to start making contributions in any BASEDEF way.&lt;/p&gt;
+
+&lt;p&gt;Finally, half of the experience of OLTS is having my mentor &lt;a href=&quot;https://github.com/MinnSoe&quot;&gt;Minn&lt;/a&gt; who knows my name, knows my project, and wants to help me succeed. Even though I may start losing motivation, having someone asking me questions and injecting enthusiasm is hugely helpful to staying on point. Part of his goal is to get me ready for Mozilla’s &lt;a href=&quot;https://mozilla.github.io/global-sprint/&quot;&gt;Global Sprint&lt;/a&gt;. Knowing that my project’s going to be part of some big thing way in advance is a great motivator. Open Austin does something similar with &lt;a href=&quot;http://atxhackforchange.org/&quot;&gt;ATX Hack for Change&lt;/a&gt;, but we don’t really talk it up until the weeks leading up to the event. With a more personal welcoming experience, a constant personal peer presence, and a long-term goal to set, we might see some improvements in membership retention and engagement levels.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-suggestions&quot;&gt;Some suggestions&lt;/h2&gt;
+
+&lt;p&gt;Overall, I have six big takeaways from Mozilla’s OLTS for Open Austin. These are the things I’d like to help lead in our organization:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Motivation and alignment with shared community values&lt;/li&gt;
+  &lt;li&gt;Framework for starting a project from an idea&lt;/li&gt;
+  &lt;li&gt;Regular engagement with the whole community&lt;/li&gt;
+  &lt;li&gt;Ample community technology and resources&lt;/li&gt;
+  &lt;li&gt;Mentor who knows you and provides 1-on-1 experience&lt;/li&gt;
+  &lt;li&gt;High-exposure events to nudge long-term goal setting&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Originally published at &lt;a href=&quot;https://andyhub.com/archive/mozillas-open-leadership-training-can-work-for-open-austin-projects/&quot;&gt;https://andyhub.com/archive/mozillas-open-leadership-training-can-work-for-open-austin-projects/&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 23 Apr 2017 00:00:00 -0500</pubDate>
+        <link>http://0.0.0.0:4000/blog/2017/04/23/mozillas-open-leadership-training-can-work-for-open-austin-projects</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2017/04/23/mozillas-open-leadership-training-can-work-for-open-austin-projects</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Lege Schedules Transparency Bills for Public Hearings</title>
+        <description>&lt;p&gt;Since last month when we published an &lt;a href=&quot;https://www.open-austin.org/blog/2017/03/19/open_government_under_debate_in_tx_legislature&quot;&gt;overview of open government bills&lt;/a&gt; in the state Legislature, one of the bills we’ve been watching has passed the House, one has passed the Senate, one has been rewritten, and seven have been scheduled for public hearings to be held on Monday and Tuesday.&lt;/p&gt;
+
+&lt;h3 id=&quot;passed&quot;&gt;Passed:&lt;/h3&gt;
+
+&lt;p&gt;Last Thursday, the House passed &lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=HB3107&quot;&gt;HB 3107&lt;/a&gt;, which lets government bodies impose limits on the amount of records they’re required to disclose to a single requestor per month or year (unless the requestors prove they’re employees of news organizations).&lt;/p&gt;
+
+&lt;p&gt;On March 29, the Senate passed &lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=SB407&quot;&gt;SB 407&lt;/a&gt;, which would allow disclosure of contract bids under the Public Information Act after the contract was awarded.&lt;/p&gt;
+
+&lt;h3 id=&quot;out-of-committee&quot;&gt;Out of Committee:&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=HB2328&quot;&gt;HB 2328&lt;/a&gt; is an important bill that’s now out of committee. It would get rid of the requirement for a governmental body to get an attorney general opinion before withholding information under the Public Information Act, if it makes a good faith determination that an exception applies.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=HB1258&quot;&gt;HB 1258&lt;/a&gt;, which previously would have prevented anyone from setting up online access to court records currently held by counties, has now been &lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=HB1258&quot;&gt;rewritten and toned down&lt;/a&gt;. The current version appears to apply only to the state government. It would allow the state to add new court documents to its database, but it would require the state to get permission from the counties to add the backlog of old documents. Also, when the state collects a fee for public access to court documents, it would have to hand the money over to the counties. This bill &lt;a href=&quot;https://openstates.org/tx/bills/85/HB1258/?show_all_sponsors=True&quot;&gt;now has 44 sponsors&lt;/a&gt; out of the 150 total representatives, and it is out of committee.&lt;/p&gt;
+
+&lt;h3 id=&quot;scheduled-for-hearing&quot;&gt;Scheduled for Hearing:&lt;/h3&gt;
+
+&lt;p&gt;On Monday, the House Government Transparency and Operation Committee &lt;a href=&quot;http://www.legis.state.tx.us/Committees/MeetingsUpcoming.aspx?Chamber=H&quot;&gt;will hold public hearings&lt;/a&gt; on six open records bills:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=HB526&quot;&gt;HB 526&lt;/a&gt;, which would amend the Public Information Act to entitle only residents to public information.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/Actions.aspx?LegSess=85R&amp;amp;Bill=HB793&quot;&gt;HB 792&lt;/a&gt;, which is similar to &lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=SB407&quot;&gt;SB 407&lt;/a&gt;, and would allow disclosure of contract bids under the Public Information Act after the contract was awarded.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/Actions.aspx?LegSess=85R&amp;amp;Bill=HB793&quot;&gt;HB 793&lt;/a&gt;, extending the Public Information Act to cover some privately-owned government contractors.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=HB2670&quot;&gt;HB 2670&lt;/a&gt;, supporting public access to government information stored on privately-owned accounts and devices.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=HB2710&quot;&gt;HB 2710&lt;/a&gt;, providing that public records containing dates of birth can still be disclosed.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=HB3581&quot;&gt;HB 3581&lt;/a&gt;, a helpful-sounding law requiring agencies to publish a data dictionary and instructions for using any databases that they disclose in response to a public records request, and also requiring them to provide more explanation of why it’s necessary to charge for programming work to fulfill a records request.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Also, on Tuesday, the House Homeland Security and Public Safety Committee &lt;a href=&quot;http://www.legis.state.tx.us/Committees/MeetingsUpcoming.aspx?Chamber=H&quot;&gt;will hold a public hearing&lt;/a&gt; on &lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/Actions.aspx?LegSess=85R&amp;amp;Bill=HB2044&quot;&gt;HB 2044&lt;/a&gt;, which includes some open records provisions among many other provisions relating to police misconduct.&lt;/p&gt;
+
+&lt;p&gt;If you have an opinion about a bill that’s up for public hearing, testifying at the committee meeting is the best way to speak up! You just need to &lt;a href=&quot;https://www.mytxlegis.legis.state.tx.us/hwrspublic/about.aspx&quot;&gt;register to testify (at the Capitol)&lt;/a&gt; and then say why you support or oppose the bill.&lt;/p&gt;
+
+&lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
+
+&lt;p&gt;Join the #policy channel of the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
+&lt;br /&gt;
+RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow us on Twitter&lt;/a&gt;
+&amp;amp; &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like us on Facebook&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(&lt;a href=&quot;https://www.flickr.com/photos/truthout/4039479403&quot;&gt;“Texas Justice” Photo Illustration&lt;/a&gt; by: Lance Page / t r u t h o u t; Adapted From: Alcately / Flickr) &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/2.0/&quot;&gt;(CC BY-NC-SA 2.0)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Apr 2017 00:00:00 -0500</pubDate>
+        <link>http://0.0.0.0:4000/blog/2017/04/22/lege-schedules-transparency-bills-for-public-hearings</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2017/04/22/lege-schedules-transparency-bills-for-public-hearings</guid>
+        
+        
+      </item>
     
       <item>
         <title>Open Government Under Debate in TX Legislature</title>
@@ -23,7 +226,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://openstates.org/tx/bills/85/HB2596/&quot;&gt;HB 2596&lt;/a&gt;, among other things, would require home-rule municipalities to provide GIS files of its boundaries and extra-territorial jurisdiction. It would also require the production of a digital map to accompany annexation plans.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://openstates.org/tx/bills/85/SB407/&quot;&gt;SB 407&lt;/a&gt; and &lt;a href=&quot;https://openstates.org/tx/bills/85/HB792/&quot;&gt;HB 792&lt;/a&gt; would change the Open Records Act’s exception for contract bids, which contain competitive information. The bills would change the statute so that the exception didn’t apply once a contract was awarded. The Statesman published a Freedom of Information Foundation &lt;a href=&quot;http://www.mystatesman.com/news/opinion/commentary-texas-must-repair-damage-public-information-act/5ZvyZur7pm5HEJqyzb8zDL/&quot;&gt;editorial strongly supporting these bills&lt;/a&gt;, which were introduced in response to a &lt;a href=&quot;http://caselaw.findlaw.com/tx-supreme-court/1705303.html&quot;&gt;Texas Supreme Court case called &lt;em&gt;Boeing v. Paxton&lt;/em&gt;&lt;/a&gt;. The Texas Tribune &lt;a href=&quot;https://www.texastribune.org/2016/08/05/lawmakers-eye-monstrous-loophole-keeps-contract-de/&quot;&gt;wrote about the &lt;em&gt;Boeing&lt;/em&gt; decision&lt;/a&gt;, saying it prevented disclosures about Uber’s operations in Houston, among other things.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://openstates.org/tx/bills/85/SB407/&quot;&gt;SB 407&lt;/a&gt; and &lt;a href=&quot;https://openstates.org/tx/bills/85/HB792/&quot;&gt;HB 792&lt;/a&gt; would change the Public Information Act’s exception for contract bids, which contain competitive information. The bills would change the statute so that the exception didn’t apply once a contract was awarded. The Statesman published a Freedom of Information Foundation &lt;a href=&quot;http://www.mystatesman.com/news/opinion/commentary-texas-must-repair-damage-public-information-act/5ZvyZur7pm5HEJqyzb8zDL/&quot;&gt;editorial strongly supporting these bills&lt;/a&gt;, which were introduced in response to a &lt;a href=&quot;http://caselaw.findlaw.com/tx-supreme-court/1705303.html&quot;&gt;Texas Supreme Court case called &lt;em&gt;Boeing v. Paxton&lt;/em&gt;&lt;/a&gt;. The Texas Tribune &lt;a href=&quot;https://www.texastribune.org/2016/08/05/lawmakers-eye-monstrous-loophole-keeps-contract-de/&quot;&gt;wrote about the &lt;em&gt;Boeing&lt;/em&gt; decision&lt;/a&gt;, saying it prevented disclosures about Uber’s operations in Houston, among other things.&lt;/p&gt;
 
 &lt;p&gt;In the &lt;a href=&quot;http://www.mystatesman.com/news/opinion/commentary-texas-must-repair-damage-public-information-act/5ZvyZur7pm5HEJqyzb8zDL/&quot;&gt;same editorial in the Statesman&lt;/a&gt; Kelley Shannon, executive director of the Freedom of Information Foundation of Texas, endorsed two other bills:&lt;/p&gt;
 
@@ -378,188 +581,6 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
         <pubDate>Sun, 25 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://0.0.0.0:4000/blog/2016/09/25/september-meetup-recap</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/blog/2016/09/25/september-meetup-recap</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>August Open Gov &amp; Civic Tech Meetup Recap-Transportation &amp; Sensors</title>
-        <description>&lt;h3 id=&quot;ut-center-for-transportation-research&quot;&gt;UT Center for Transportation Research&lt;/h3&gt;
-
-&lt;p&gt;For our August meeting we invited Jen Duthie (&lt;a href=&quot;https://twitter.com/jenduthie?lang=en&quot;&gt;twitter&lt;/a&gt;) &amp;amp; Itamar Gal, from the &lt;a href=&quot;https://ctr.utexas.edu/&quot;&gt;UT Center for Transportation Research Network Modeling Center&lt;/a&gt; to speak about recent initiatives utilizing Austin Transportation Department sensor data.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Dr. &lt;a href=&quot;https://twitter.com/jenduthie&quot;&gt;@JenDuthie&lt;/a&gt; &amp;amp; Itamar Gal of &lt;a href=&quot;https://twitter.com/CTRUTAustin&quot;&gt;@CTRUTAustin&lt;/a&gt; describe the &lt;a href=&quot;https://twitter.com/hashtag/transportation?src=hash&quot;&gt;#transportation&lt;/a&gt; Data Rodeo concept to &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt;  &lt;a href=&quot;https://t.co/ZEdVgDsPFh&quot;&gt;https://t.co/ZEdVgDsPFh&lt;/a&gt;&lt;/p&gt;&amp;mdash; Steven Polunsky (@StevenPolunsky) &lt;a href=&quot;https://twitter.com/StevenPolunsky/status/765347403230621697&quot;&gt;August 16, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;connecting-the-data&quot;&gt;Connecting the Data&lt;/h3&gt;
-
-&lt;p&gt;Duthie shared some of the difficulties in knowing who is collecting what transit data and what tools there are using to understand and share it. Duthie said “the gap [for collaboration] is so big and it doesn’t really need to be there.” She highlighted the need “to cut through the red tape” and make transportation data more accessible.&lt;/p&gt;
-
-&lt;p&gt;Because of this UTCTR is working on &lt;a href=&quot;datarodeo.org&quot;&gt;Data Rodeo&lt;/a&gt;. The idea for Data Rodeo came out the City of Austin’s bid for the Department of Transportation  &lt;a href=&quot;http://kxan.com/2016/06/21/austin-loses-out-on-50-million-smart-city-bid/&quot;&gt;Smart Cities grant&lt;/a&gt; that was ultimately awarded to Pittsburg. It focuses on the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Access to data &amp;amp; Tool&lt;/li&gt;
-  &lt;li&gt;Innovation &amp;amp; Collaboration&lt;/li&gt;
-  &lt;li&gt;Data centric research &amp;amp; Learning&lt;/li&gt;
-  &lt;li&gt;Enabling Smart Cities&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&amp;quot;Getting access to data is slow but we are making huge strides&amp;quot; - Jen Duthie from &lt;a href=&quot;https://twitter.com/CTRUTAustin&quot;&gt;@CTRUTAustin&lt;/a&gt; &lt;a href=&quot;https://t.co/2tsIEdkuzH&quot;&gt;pic.twitter.com/2tsIEdkuzH&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/765348647114465280&quot;&gt;August 16, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;sensors&quot;&gt;Sensors&lt;/h3&gt;
-
-&lt;p&gt;Itamar Gal finished out the the presentation. He stated that although collecting transportation data and collaboration are great, they’re not necessarily a city priority right now. Though this is true, the city currently has sensors that are collecting data at many intersections. He challenged the group to find uses for the data to help push interest and investment in the sensors and data.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Itamar shows a map where current static bluetooth sensors are located in the city. &lt;a href=&quot;https://t.co/eYM3a9e3jf&quot;&gt;pic.twitter.com/eYM3a9e3jf&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/765351053193728002&quot;&gt;August 16, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;Itamar showed the group a map that shows all the Bluetooth sensors that the city has. The current Bluetooth sensors are field sensor devices and sit statically at intersections or near them. The Bluetooth sensors look for devices with active Bluetooth (which could be pedestrians, cyclists, cars with Bluetooth-enabled stereo). When an active Bluetooth device is nearby, the sensor logs the time, the location of the sensor, and a hash of the device’s MAC address. Using the hashed MAC address, you could track a device as it travels between sensors to get an idea of the travel time.&lt;/p&gt;
-
-&lt;p&gt;The radar sensors have the potential to be more useful than the Bluetooth sensors because it could not only detect pedestrians, cyclists, and cars without active Bluetooth devices, but could also measure their speed.&lt;/p&gt;
-
-&lt;p&gt;After displaying the data, Itamar highlighted that it would be great to expand the network. Jen Pointed out the city is struggling between starting and maintaining the own network or paying for subscription of data from other entities.&lt;/p&gt;
-
-&lt;p&gt;Itamar concluded with am animated heatmap of the bluetooth sensor reading throughout the day with CardoDB. He believes the community could do interesting things with the data. Jen said that “we put out our reports and show our story but want to give other people the chance to let other stories emerge.”&lt;/p&gt;
-
-&lt;p&gt;To get involved, give feedback, or ask questions then you can email Jen Duthie, Ph.D., PE at &lt;a href=&quot;mailto:jduthie@utexas.edu&quot;&gt;jduthie@utexas.edu&lt;/a&gt; or Itamar Gal, Ph.D. at &lt;a href=&quot;mailto:igal@utexas.edu&quot;&gt;igal@utexas.edu&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;presentation-slides&quot;&gt;Presentation Slides&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/assets/documents/CTR_OpenAustin_081516.pdf&quot;&gt;Center for Transportation Research Presentation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1_ZxJEOcp_P1PYRp-fbb82GPT6YiTbn90X5nUb8RAox4/edit?usp=sharing&quot;&gt;Open Austin General Announcement Slides&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
-
-&lt;p&gt;Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
-&lt;br /&gt;
-RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow us on Twitter&lt;/a&gt;
-&amp;amp; &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like us on Facebook&lt;/a&gt;&lt;/p&gt;
-
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Mon, 12 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/blog/2016/09/12/aug-meetup-recap</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2016/09/12/aug-meetup-recap</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>July Open Gov &amp; Civic Tech Meetup Recap-Hacking the Budget</title>
-        <description>&lt;p&gt;Last month Open Austin had a unique lineup of speakers. Our topic was Hacking the budget and we had Grace Miller with GlassHouse policy explain how the city budget can be influenced by the community. We also had Brandon Latham-Jones the outreach Director for District 4, Kerry O’Connor from the Innovation Office, and Robert Friedman from the Mozilla Foundation.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Hanging out at &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt;, listening to &lt;a href=&quot;https://twitter.com/kerry_atx&quot;&gt;@kerry_atx&lt;/a&gt; and folks talk about open gov, budgeting and hacking. &lt;a href=&quot;https://twitter.com/hashtag/atx?src=hash&quot;&gt;#atx&lt;/a&gt; 🖥💡 &lt;a href=&quot;https://t.co/rEZDToVA6G&quot;&gt;pic.twitter.com/rEZDToVA6G&lt;/a&gt;&lt;/p&gt;&amp;mdash; Daniel Ryne Lucio ⚡️ (@danielrynelucio) &lt;a href=&quot;https://twitter.com/danielrynelucio/status/755206939399684096&quot;&gt;July 19, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;budget-breakdown&quot;&gt;Budget Breakdown&lt;/h2&gt;
-
-&lt;p&gt;Grace Atkins from &lt;a href=&quot;https://www.glasshousepolicy.org/&quot;&gt;Glasshouse Policy&lt;/a&gt; gave a presentation on why education around city budgeting is necessary. Glasshouse policy is a think tank in Austin that works to engage the general public around public policy. They help to create a more responsive and representative government. They notice that critical decisions are being made at the local level and wants others to understand and engage with those decisions.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1xwLwHwfC9cOOSTbM4R2vsFQ_FgT9sdQWJ8UTS_zUT54/edit#slide=id.g151ddb760f_0_6'&quot;&gt;View and/or download the presentation&lt;/a&gt; that Grace gave.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;We've partnered with &lt;a href=&quot;https://twitter.com/austinmonitor&quot;&gt;@austinmonitor&lt;/a&gt; on an exciting new project! Find out more here: &lt;a href=&quot;https://t.co/Mj9EVyvSMw&quot;&gt;https://t.co/Mj9EVyvSMw&lt;/a&gt;&lt;/p&gt;&amp;mdash; Glasshouse Policy (@OpenPolicyTx) &lt;a href=&quot;https://twitter.com/OpenPolicyTx/status/755059943653253120&quot;&gt;July 18, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;why-the-budget&quot;&gt;Why the Budget?&lt;/h3&gt;
-&lt;p&gt;Grace said that decisions around city spending aren’t just big, vague, and ignorable. City spending decisions impact our daily lives and go largely unnoticed due to inaccessibility to the general public. To breakdown barriers for understanding the budget, Grace pointed out that we have to be engaged and learning both in-person and online&lt;/p&gt;
-
-&lt;h3 id=&quot;working-to-gamify-the-budget&quot;&gt;Working to Gamify the budget&lt;/h3&gt;
-&lt;p&gt;With that in mind Glasshouse Policy and Austin Monitor have teamed up for a &lt;a href=&quot;https://www.eventbrite.com/e/budget-game-night-tickets-26423729085&quot;&gt;budget game night that’s happening tomorrow&lt;/a&gt;, August 16th at 6:00pm.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.austinmonitor.com/&quot;&gt;Austin Monitor&lt;/a&gt; is a locally focused government reporting website. They wants to provide locals with a clear picture of what is going on in Austin. They do this by reporting in an intentionally neutral tone that helps readers make their own judgments on local politics.&lt;/p&gt;
-
-&lt;p&gt;They believe that by collaborating to gamify the budget they can help folks understand where and how city money is spent and where it comes from. This is just one step to allowing more people to get involved and influence decisions that go into make the city budget.&lt;/p&gt;
-
-&lt;p&gt;Past involvment with volunteers, notably the &lt;a href=&quot;http://www.budgetboxapp.com/welcome&quot;&gt;Budget-in-a-Box&lt;/a&gt; app, has made the City of Austin rethink how they present the budget and continued engagement. Currently the city has a different budgeting platform for citizen engagement, &lt;a href=&quot;https://austintx.budgetsimulator.com/&quot;&gt;Dollars &amp;amp; Sense&lt;/a&gt;. Though similar to Budget-in-a Box, Dollars &amp;amp; Sense prompts users to enter home value. An action that the rest of the experience then relies on to illustrate tax and utility bill changes.&lt;/p&gt;
-
-&lt;p&gt;The game night and newest iteration of a budgeting app that Open Austin is helping to build, ensure that the conversation around participatory budgeting and citizen engagement continues.&lt;/p&gt;
-
-&lt;h2 id=&quot;mozilla-gigabit-community-fund&quot;&gt;Mozilla Gigabit Community Fund&lt;/h2&gt;
-&lt;p&gt;Robert Friedman came to introduce &lt;a href=&quot;https://www.mozilla.org/en-US/gigabit/&quot;&gt;Mozilla Gigabit Community Fund&lt;/a&gt; to the community. Friedman said that Mozilla was in town to take advantage of the Google Fiber network in Austin. They hope to Build and fund educational resources that use gigabyte speed connections to advance learning opportunity for young people, explore big data, synchronized collaboration, and more.&lt;/p&gt;
-
-&lt;p&gt;If you’re interested in developing in the education sphere then Mozilla has a fund allocated for prototyping and growing projects out.&lt;/p&gt;
-
-&lt;p&gt;For more information contact Robert Friedman via email at robert@mozillafoundation.org&lt;/p&gt;
-
-&lt;h2 id=&quot;open-government-partnership-update&quot;&gt;Open Government Partnership Update&lt;/h2&gt;
-&lt;p&gt;Kerry O’Connor from the Innovation Office gave us an update on the Open Gov Partnership that the city accepted earlier this year. Kerry informed the group that we are the only U.S city apart of a subnational pilot program for Open Government and the program currently has us paired with Ireland with whom we support and share knowledge with. Open Austin, Leadership Austin, Vision Zero ATX, and the City of Austin are helping push this program forward.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&amp;quot;This isn&amp;#39;t an imagine Austin kind of thing. This is an implement Austin kind of thing&amp;quot;- &lt;a href=&quot;https://twitter.com/kerry_atx&quot;&gt;@kerry_atx&lt;/a&gt; on the Open Government Partnership&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/755202029467893760&quot;&gt;July 19, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;For the partnership the city not only declare its commitments for being more open, it is also held more accountable. Austin have 1 year to put in place any commitments that we come up with and they must be co-created with civil society.&lt;/p&gt;
-
-&lt;p&gt;During &lt;a href=&quot;http://cityofaustin.github.io/open-gov-partnership/&quot;&gt;ATX Hack for Change a site was launched&lt;/a&gt; for the campaign and currently the team needs some help updating it among other task for their campaign to commitment.&lt;/p&gt;
-
-&lt;p&gt;If you’re interested in getting involved there is an [OpenGov channel in the Open Austin Slack]
-(https://open-austin.slack.com/messages/opengovpartnership/) where you can ask questions and engage.&lt;/p&gt;
-
-&lt;p&gt;View &lt;a href=&quot;https://docs.google.com/presentation/d/1sWrJSMndCjpB4cJy8IVRB7km4PsTrz6ue74wrj_dYEg/edit#slide=id.g15df7ec05d_0_11&quot;&gt;Kerry’s Full Presentation&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;direct-democracy&quot;&gt;Direct Democracy&lt;/h2&gt;
-&lt;p&gt;Braden Latham-Jones- D4 Outreach Director gave a quick presentation on budgeting.&lt;/p&gt;
-
-&lt;p&gt;Braden explained our strong manager, weak mayor system in Austin and described how the manager purposes a budget to city council that is then amended and improved.&lt;/p&gt;
-
-&lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
-
-&lt;p&gt;Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
-&lt;br /&gt;
-RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow us on Twitter&lt;/a&gt;
-&amp;amp; &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like us on Facebook&lt;/a&gt;&lt;/p&gt;
-
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Mon, 15 Aug 2016 00:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/blog/2016/08/15/july-meetup-recap</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2016/08/15/july-meetup-recap</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>June Open Gov &amp; Civic Tech Meetup Recap - Lightning Talks </title>
-        <description>&lt;p&gt;For this month’s Open Gov &amp;amp; Civic Tech Meetup, we had five community members give 10 minute lightning talks on a range of topics.&lt;/p&gt;
-
-&lt;p&gt;From data portals to GeoJason our presenters introduces both non-technical and technical presentations to a full room. View the the slides from their talks:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/paulserraino&quot;&gt;Paul Serraino&lt;/a&gt; - &lt;a href=&quot;http://paulserraino.com/geojson-talk/#/Law.on.Web.slides.pdf&quot;&gt;GeoJason + React + Leaflet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/dhernandex&quot;&gt;Diego Hernandez&lt;/a&gt; - &lt;a href=&quot;http://dhernandex.github.io/sass-color-functions/presentation/#/&quot;&gt;The Power of Sass Color Functions&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/nikolac88&quot;&gt;Nik Collins&lt;/a&gt; - &lt;a href=&quot;http://commute.ly/#!/&quot;&gt;Commute.ly&lt;/a&gt; - &lt;a href=&quot;https://github.com/open-austin/iced-coffee/files/324749/commutely-austin-open.pdf&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Victoria_ODell&quot;&gt;Victoria O’Dell&lt;/a&gt; - &lt;a href=&quot;https://docs.google.com/presentation/d/1F0jLB3vJsLLRAXzVwLVB0cr0PGwm_2h33GQquZHzkR0/edit?usp=sharing&quot;&gt;Permitting Application Wizard&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/AmalieBarras&quot;&gt;Amalie Barras&lt;/a&gt; - &lt;a href=&quot;https://github.com/open-austin/iced-coffee/files/324766/PANDA.Lightnin.pdf&quot;&gt;Community Data Portal&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1aJPnMyh-PBQ0HTfA1dNPRzrZT2949-P5ww5U_2Tab6U/edit?usp=sharing&quot;&gt;Open Austin Announcements &amp;amp; Upcoming Events Deck&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Highlights from Twitter. &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;Give us a follow to stay up to date.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/AmalieBarras&quot;&gt;@AmalieBarras&lt;/a&gt; talking about building an open data portal for Austin at &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/jkan?src=hash&quot;&gt;#jkan&lt;/a&gt; &lt;a href=&quot;https://t.co/cHyk4nmMuo&quot;&gt;pic.twitter.com/cHyk4nmMuo&lt;/a&gt;&lt;/p&gt;&amp;mdash; luqmaan (@luqmonster) &lt;a href=&quot;https://twitter.com/luqmonster/status/745067741388800000&quot;&gt;June 21, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;fr&quot; dir=&quot;ltr&quot;&gt;Nik Collins introduces commute.ly &lt;a href=&quot;https://t.co/GskOls1OG0&quot;&gt;pic.twitter.com/GskOls1OG0&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/745063606681669633&quot;&gt;June 21, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Diego starts his presentation on Sass color functions. 🎨 &lt;a href=&quot;https://t.co/UT4ZW0F6xZ&quot;&gt;pic.twitter.com/UT4ZW0F6xZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/745057664422445056&quot;&gt;June 21, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Standards leads to accessibility &lt;a href=&quot;https://t.co/YFG0L4TytN&quot;&gt;pic.twitter.com/YFG0L4TytN&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/745055519904169984&quot;&gt;June 21, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
-
-&lt;p&gt;Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
-&lt;br /&gt;
-RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow us on Twitter&lt;/a&gt;
-&amp;amp; &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like us on Facebook&lt;/a&gt;&lt;/p&gt;
-
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Thu, 23 Jun 2016 00:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/blog/2016/06/23/lightning-talk-recap</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2016/06/23/lightning-talk-recap</guid>
         
         
       </item>
