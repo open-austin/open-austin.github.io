@@ -8,6 +8,9 @@
         }
         ul {
             margin: 20px 30px;
+            @include media-query($on-palm) {
+              margin: 20px 0;
+            };
         }
     }
     .upcoming-events {

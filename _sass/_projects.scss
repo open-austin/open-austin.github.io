@@ -66,6 +66,9 @@ ul.project-gallery {
 
 .project-description {
     padding-left: 30px;
+    @include media-query($on-palm) {
+      padding-left: 0;
+    }
 }
 
 .project-header {
