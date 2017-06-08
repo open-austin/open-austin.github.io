@@ -16,3 +16,31 @@
     display: none;
   };
 }
+
+$breakpoint-small:  36rem;
+$breakpoint-medium: 48rem;
+$breakpoint-large:  64rem;
+$breakpoint-huge:   72rem;
+
+@mixin media-query($label) {
+  @if $label == huge {
+   @media screen and (min-width: $breakpoint-huge) {
+      @content;
+   }
+  }
+  @else if $label == large {
+   @media screen and (min-width: $breakpoint-large) {
+      @content;
+   }
+  }
+   @else if $label == medium {
+      @media screen and (min-width: $breakpoint-small) and (max-width: $breakpoint-large - 1) {
+       @content;
+    }
+  }
+  @else if $label == small {
+     @media screen and (max-width: $breakpoint-small) and (max-width: $breakpoint-medium - 1) {
+      @content;
+    }
+  }
+}

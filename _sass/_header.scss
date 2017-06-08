@@ -92,6 +92,8 @@
     }
 
     @include media-query($on-palm) {
+      @include media-query($on-medium) {
+
         position: absolute;
         top: 9px;
         right: $spacing-unit / 2;
@@ -149,7 +151,7 @@
         }
     }
 }
-
+}
 /**
  * Icons
  */
