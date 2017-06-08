@@ -1,3 +1,9 @@
+// debugging CSS
+
+*:nth-child(n) {
+  background-color: rgba(255,0,0,0.1);
+}
+
 
 /**
  * Site footer
@@ -7,11 +13,26 @@
     padding: $spacing-unit 0;
     background: $grey-color-dark;
     position: relative;
+h3 {
+  // text-align: left;
+  margin: 1rem 0;
+}
+
 }
 
 .footer-heading {
     font-size: 18px;
     margin-bottom: $spacing-unit / 2;
+}
+
+.footer-list ul {
+  list-style: none;
+  margin-left: 0;
+  text-align: left;
+}
+
+.hide {
+  display: none;
 }
 
 .contact-list,
@@ -54,6 +75,10 @@
   @include media-query($on-palm) {
     width: 100%;
   };
+}
+
+.footer-special-thanks {
+  float: right;
 }
 
 .social-media-list {
