@@ -32,11 +32,12 @@ Here's some of the activity that's occurred during our advocacy for open governm
 
 {:.no_toc}
 
-### 2016 Advocacy Agenda
+### Advocacy Agendas
 
 Open Austin members brainstormed a list of priorities for using data to improve public services, mostly at the city level.
 
 *  [Open Austin Advocacy Agenda 2016](/advocacy/documents/OpenAustinAdvocacyAgenda2016.pdf)
+*  a [new advocacy agenda for 2017](https://docs.google.com/document/d/1ll7mp8XrJ5744WS2GUiBblh6mGQOnFN25n3Tkcxk4jY/edit) is in the discussion stage. Suggestions are welcome from everyone.
 
 {:.no_toc}
 ### Open Data Initiative 2.0 - Apr 8, 2015
