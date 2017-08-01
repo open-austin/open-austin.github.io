@@ -28,7 +28,7 @@ Here's some of the activity that's occurred during our advocacy for open governm
 
 Open Austin members brainstormed a list of priorities for using data to improve public services, mostly at the city level.
 
-*  A [new advocacy agenda for engagement with city government](https://docs.google.com/document/d/1nJZ1y4YPiNpuHpoduCIPpF-oF_qOPp8UmDswiEbN-Ts/) is in the draft stage. [Share suggestions and comments here.](https://docs.google.com/document/d/1ll7mp8XrJ5744WS2GUiBblh6mGQOnFN25n3Tkcxk4jY/)
+*  A [new advocacy agenda for engagement with city government](https://docs.google.com/document/d/1nJZ1y4YPiNpuHpoduCIPpF-oF_qOPp8UmDswiEbN-Ts/) is in the draft stage. These objectives should be aligned with Austin's [Open Government Partnership commitments](https://www.opengovpartnership.org/about/working-groups/austin-united-states-ogp-subnational-pioneers) to transparency, accountability, citizen engagement, and international engagement. [Share suggestions and comments here.](https://docs.google.com/document/d/1ll7mp8XrJ5744WS2GUiBblh6mGQOnFN25n3Tkcxk4jY/)
 *  [Open Austin 2016 Advocacy Agenda](/advocacy/documents/OpenAustinAdvocacyAgenda2016.pdf)
 
 {:.no_toc}
