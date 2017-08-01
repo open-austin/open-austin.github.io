@@ -17,29 +17,22 @@ The **Open Austin Policy Team** works with local governments and public agencies
 
 ---
 
-## Documents and Activity
-
-Here's some of the activity that's occurred during our advocacy for open government.
-
-
-{:.no_toc}
-
-### Advocacy Agendas
+## Advocacy Agendas
 
 Open Austin members brainstormed a list of priorities for using data to improve public services, mostly at the city level.
 
 *  A [new advocacy agenda for engagement with city government](https://docs.google.com/document/d/1nJZ1y4YPiNpuHpoduCIPpF-oF_qOPp8UmDswiEbN-Ts/) is in the draft stage. These objectives should be aligned with Austin's [Open Government Partnership commitments](https://www.opengovpartnership.org/about/working-groups/austin-united-states-ogp-subnational-pioneers) to transparency, accountability, citizen engagement, and international engagement. [Share suggestions and comments here.](https://docs.google.com/document/d/1ll7mp8XrJ5744WS2GUiBblh6mGQOnFN25n3Tkcxk4jY/)
 *  [Open Austin 2016 Advocacy Agenda](/advocacy/documents/OpenAustinAdvocacyAgenda2016.pdf)
 
-{:.no_toc}
-
-### Candidate Questionnaires
+## Candidate Questionnaires
 In every City of Austin election since 2011, Open Austin submitted a policy questionnaire to all the candidates. We ask for their response on a variety of open government and important civic tech issues. We do not endorse candidates, but we do encourage voters to be informed on candidate positions.
 
 *   [2016 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2016.html)
 *   [2014 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2014-austin-city-council.html)
 *   [2012 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2012-austin-city-council.html)
 *   [2011 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2011-austin-city-council.html)
+
+## City Initiatives
 
 ### Open Data Initiative 2.0 - Apr 8, 2015
 
@@ -101,6 +94,7 @@ On December 8, 2011, the Austin City Council adopted an Open Government Resoluti
 
 *   [City of Austin Open Government Resolution](/advocacy/documents/20111208-austin-opengov-resol.pdf)
 
+{:.no_toc}
 ## Government Data
 
 *   [City of Austin Open Data Portal](https://data.austintexas.gov/) (data.austintexas.gov) - Provides datasets published by the City, as well as reporting and visualization tools that operate on these datasets.
