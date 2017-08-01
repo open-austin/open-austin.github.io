@@ -17,14 +17,6 @@ The **Open Austin Policy Team** works with local governments and public agencies
 
 ---
 
-## Candidate Questionnaires
-In every City of Austin election since 2011, Open Austin submitted a policy questionnaire to all the candidates. We ask for their response on a variety of open government and important civic tech issues. We do not endorse candidates, but we do encourage voters to be informed on candidate positions.
-
-*   [2016 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2016.html)
-*   [2014 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2014-austin-city-council.html)
-*   [2012 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2012-austin-city-council.html)
-*   [2011 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2011-austin-city-council.html)
-
 ## Documents and Activity
 
 Here's some of the activity that's occurred during our advocacy for open government.
@@ -36,10 +28,19 @@ Here's some of the activity that's occurred during our advocacy for open governm
 
 Open Austin members brainstormed a list of priorities for using data to improve public services, mostly at the city level.
 
-*  [Open Austin Advocacy Agenda 2016](/advocacy/documents/OpenAustinAdvocacyAgenda2016.pdf)
-*  a [new advocacy agenda for 2017](https://docs.google.com/document/d/1ll7mp8XrJ5744WS2GUiBblh6mGQOnFN25n3Tkcxk4jY/edit) is in the discussion stage. Suggestions are welcome from everyone.
+*  A [new advocacy agenda for engagement with city government](https://docs.google.com/document/d/1nJZ1y4YPiNpuHpoduCIPpF-oF_qOPp8UmDswiEbN-Ts/) is in the draft stage. [Share suggestions and comments here.](https://docs.google.com/document/d/1ll7mp8XrJ5744WS2GUiBblh6mGQOnFN25n3Tkcxk4jY/)
+*  [Open Austin 2016 Advocacy Agenda](/advocacy/documents/OpenAustinAdvocacyAgenda2016.pdf)
 
 {:.no_toc}
+
+### Candidate Questionnaires
+In every City of Austin election since 2011, Open Austin submitted a policy questionnaire to all the candidates. We ask for their response on a variety of open government and important civic tech issues. We do not endorse candidates, but we do encourage voters to be informed on candidate positions.
+
+*   [2016 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2016.html)
+*   [2014 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2014-austin-city-council.html)
+*   [2012 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2012-austin-city-council.html)
+*   [2011 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2011-austin-city-council.html)
+
 ### Open Data Initiative 2.0 - Apr 8, 2015
 
 The city launched its open data initiative with the creation of its new website and open data portal. To increase department participation and open data availability, city management relaunched the effort with the _Open Data Initiative 2.0_.
