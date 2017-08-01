@@ -34,6 +34,7 @@ In every City of Austin election since 2011, Open Austin submitted a policy ques
 
 ## City Initiatives
 
+{:.no_toc}
 ### Open Data Initiative 2.0 - Apr 8, 2015
 
 The city launched its open data initiative with the creation of its new website and open data portal. To increase department participation and open data availability, city management relaunched the effort with the _Open Data Initiative 2.0_.
