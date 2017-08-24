@@ -9,7 +9,7 @@ Open Austin is an all volunteer citizen brigade affiliated with Code for America
 
 - Become a [Donor Partner](https://secure.codeforamerica.org/page/contribute/?brigade=Open%20Austin) for an event.
 - Jam on a [civic hack project]({{site.basure}}/projects/).
-- Volunteer to speak at an event. <a href="mailto:info@open-austin.org">Email Mateo!</a>
+- Volunteer to speak at an event. <a href="mailto:info@open-austin.org">Email us!</a>
 - [Advocate]({{site.basure}}/advocacy/) for Open Gov at City Hall.
 
 ## Donate to a specific event
