@@ -59,7 +59,15 @@ Our leadership team met to first tackle our problem of value definition: what sh
 
 We then [iterated on our organization values](https://github.com/open-austin/iced-coffee/issues/215), aligning on our dedication to community-driven policy setting and idea generation, both in terms of what we will and won't do. The results of these policies and ideas would then be scoped to projects we can accomplish, which then begs the question of management. Following from our civic hacking ethos, our form of management is born from our collective values and [cultural organization](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwigruzgvuHSAhUB24MKHU75CbkQFggcMAA&url=https%3A%2F%2Ffaculty.nipissingu.ca%2Flindap%2FORGS3706%2Fresources%2FOrganizations_as_Cultures_UV.ppt&usg=AFQjCNGR1NR9cKgS-Z9XWm9hadtsO4ObVQ&sig2=yN81HLr_5ekYw-kltM8hXg) rather than the political or mechanical organizations of governments and corporations that we also participate in.
 
-To better understand this, we researched how [similar](http://www.openoakland.org/wp-content/uploads/2015/11/OpenOakland-Projects-04.pdf) [organizations](http://www.smartchicagocollaborative.org/collaborative-project-management/) managed projects so that we could [design and test our own](https://github.com/open-austin/iced-coffee/issues/224) process. Without our own process, we were not fully realizing our capabilities and opportunities, affecting our mission to quickly and creatively innovate civic services.
+To better understand this, we researched how similar organizations managed projects so that we could [design and test our own](https://github.com/open-austin/iced-coffee/issues/224) process, including the following:
+
+*   [Open Oakland's "Leading a Project"](http://www.openoakland.org/wp-content/uploads/2015/11/OpenOakland-Projects-04.pdf)
+*   [Smart Chicago's "Collaborative Project Management"](http://www.smartchicagocollaborative.org/collaborative-project-management/)
+*   [Code for America's "Civic Tech Patterns"](https://github.com/codeforamerica/civic-tech-patterns)
+*   [U.S. Digital Service's "Playbook"](https://playbook.cio.gov/)
+*   [U.K. Government Design Service's "Design Principles"](https://www.gov.uk/design-principles)
+
+Without our own process, we were not fully realizing our capabilities and opportunities, affecting our mission to quickly and creatively innovate civic services.
 
 
 ## Our project management framework
