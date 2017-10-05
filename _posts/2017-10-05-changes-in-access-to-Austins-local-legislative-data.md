@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Austin's Local Legislative Data: Not Yet Easier to Use
+title: Changes in Access to Austin's Local Legislative Data
 date: 2017-10-05
 type: post
 published: true
@@ -22,12 +22,12 @@ Around the same time, Open Austin members noticed that another dataset we had be
 ## Continue the Conversation
 
 Do you have a project that makes use of Austin's city council or lobbyist datasets? Tell us about it in the #p-lobbyist-campaign channel of the Open Austin community on Slack: [Get an invite](http://slack.open-austin.org/)
-<br>
+
 To see an example of a (non-open source) visualization of city council data that grew out of an Open Austin project, visit [minutes.city](http://minutes.city/#/city/austin).
-<br>
+
 RSVP for our future events on Meetup: [RSVP](http://www.meetup.com/Open-Austin/)
-<br>
+
 [Follow us on Twitter](https://twitter.com/openaustin?lang=en)
 & [Like us on Facebook](https://www.facebook.com/Open-Austin-412390968837071/)
-<br>
+
 Photo credit: ["Austin City Hall" by Dave Wilson](https://www.flickr.com/photos/dawilson/3017994876) ([CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/))
