@@ -28,17 +28,25 @@ author:
 ---
 
 ### Our Roots
-Open Austin was formed in 2009 by citizens interested in the City of Austin web strategy and approach to the procurement of a new website management system [(link to Austin Chronicle article)](http://www.austinchronicle.com/news/2009-06-05/789960/). Through a series of conversations, common ground was developed between the City and Open Austin to partner on civic technology issues. Open Austin has served as an advisor and advocate for community technology issues ever since. The outcome of this process was when, at the end of 2011, the City of Austin unveiled its [new website](http://www.austintexas.gov/). The new site developed by city staff, working in conjunction with local technology companies, based on a [free and open source content publishing platform](http://drupal.org/). Also, a dedicated open government [data portal](https://data.austintexas.gov/), was released. Further, the City announced that Austin would sponsor a [Code for America open government fellowship](http://codeforamerica.org/austin/).
+The mission of Open Austin is to help communities and governments exchange ideas through the use of data, technology, and design.
 
-Presently, Open Austin focuses on ensuring that all local public sector agencies embrace open data and open government principles, provide adequate oversight over public information, and support civic software developers.
+We do this by hosting educational events and workshops, facilitating community workspaces, advocating for open data and government policy, and providing support and resources for projects and research.
+We are here because we value:
 
-In 2011, we advocated for the creation of an "Open Government" policy.
-In December 2011, the Austin City Council adopted an open government resolution.
-In 2012, we advocated for the creation of a "Civic Innovation Office" in the city.
-In September 2012, the Austin City Council approved "seed funding" to create a civic innovation office.
+#### Open Community Spaces
+Allowing citizens from all backgrounds and skill levels to get involved and engaged in the process of bettering their community through technology and design by providing space both in person or online.
 
-We continue to actively engage the city on open government issues. We coordinate our efforts online, through an open [email list](http://groups.google.com/group/openaustin) and periodic in-person meetups. You can contact us at: info@open-austin.org
+#### Open Government
+Supporting initiatives and policies to provide clearer paths for residents to engage with government.
 
+#### Open Data
+Being stewards, evangelists, and a resource for learning about, finding, using, and freeing public data.
+
+#### Open Research
+Supporting data management and publishing practices that help governments, journalists, scientists, and members of the community share their interpretations of open data, from raw datasets to published conclusions.
+
+#### Open Source Technology
+Creating and using free and open tools to expand public knowledge and civic engagement.
 ---
 
 ## Our Leadership
