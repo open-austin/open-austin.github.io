@@ -18,6 +18,7 @@ All four of these policy objectives relate to disclosures of data that Open Aust
 ## City Council meeting agendas and vote data
 
 > What: City Council agendas and minutes should be easily navigable and searchable with persistent ID codes for items that come under consideration in multiple meetings and public meeting information for each phase of decision making. Council members’ votes should be released in an open data format. 
+>
 > Why: With improved navigation and ease of accessing vote histories, residents will better be able to follow an issue or specific policy debate as it progresses through the policy making process.
 
 Open Austin's efforts to publish data about items on the city council agenda included a 2015 hackathon prototype called [Council Connect](https://github.com/open-austin/council-connect), which failed because it was hard to collect the needed data from the city's website. The problem has attracted [continued interest](https://github.com/open-austin/project-ideas/issues/94) among Open Austin members. Data collection is already easier than it used to be, as [explained in a recent Open Austin blog post](https://www.open-austin.org/blog/2017/10/05/changes-in-access-to-Austins-local-legislative-data).
@@ -25,6 +26,7 @@ Open Austin's efforts to publish data about items on the city council agenda inc
 ## Lobbyist activity reports and registration data
 
 > What: The lobbyist registration dataset on the city data portal at data.austintexas.gov was recently modified to delete most records prior to 2017 and omit the names of the clients that hired the lobbyists. The city should restore access to those records. Also, recent lobbyist activity reports are now available online only in PDF format. The city should extract the contents of those reports and post them on the data portal.
+>
 > Why: Disclosure of lobbying datasets allows public access to information showing who is influencing decision makers, providing residents with a more complete picture of the public policy process.
 
 Open Austin produced a few, mostly experimental, [visualizations from the available data](https://www.open-austin.org/projects/lobbying-in-austin.html) about lobbyists on the city and state level. Those experiments led us to conclude that Council Member Pool's 2016 lobby reform proposal [would help the data published by the city form an accurate portrayal of actual lobbyist activity](https://www.open-austin.org/blog/2016/06/12/finding-a-story-in-austins-lobbying-data).
@@ -32,6 +34,7 @@ Open Austin produced a few, mostly experimental, [visualizations from the availa
 ## Raw data from city surveys
 
 > What: Survey data, such as the City of Austin Community Survey, should be made publicly accessible in appropriate formats, including raw data, data maps, questionnaires, and details about survey methodology. Survey data should include demographic questions but not capture any personally identifiable information, preserving the anonymity of individual respondents. For instance, when the city uses an online platform for public deliberation about the city budget, anonymized feedback captured by the tool should be downloadable as open data for analysis by the public. 
+>
 > Why: Transparent survey methods and data can help to determine whether the survey reached a representative sample of respondents. Researchers might also use them to determine whether the results can be merged together with other datasets to support a larger study, such as a study comparing community services in multiple cities.
 
 [Budget Party](http://austinbudget.party/home) is an Open Austin application used to help people understand and augment a city budget for Austin. Best used in context of an in-person "Budget Party" event, the Budget Party application is intended to facilitate deliberation and collect residents' opinions as structured data. Also, Open Austin supports access to government data for social science research in general.
@@ -39,6 +42,7 @@ Open Austin produced a few, mostly experimental, [visualizations from the availa
 ## Greenhouse gas emissions data
 
 > What: The City should release the data underlying the Community Climate Plan Progress Updates and the City’s calculated progress on its goal of net-zero community-wide greenhouse gas emissions by 2050. This could include site-specific estimates of energy consumption or resulting emissions, or estimates of the emissions reductions from implementing efficiency programs at particular sites.
+>
 > Why: Disclosure would give residents enough information to evaluate the city’s estimates of the amount of emissions avoided by various categories of efficiency programs. It would also help evaluate the city’s projections of future emissions and identify emissions policy priorities for the future.
 
 Mayor Adler recently reaffirmed the city's goal to have a [cumulative net zero carbon footprint by 2050](http://kxan.com/2017/11/28/austin-and-georgetown-mayors-talk-renewable-impacts-and-climate-change/), and a sense of crisis about environmental issues is one common reason that Open Austin members give for their interest in open data. Despite that, no civic technolocy project about climate change has ever moved beyond the early experimental phase in Open Austin. One reason for that absence could be that the city hasn't yet released the best possible data for measuring the city's progress on its Community Climate Plan.
