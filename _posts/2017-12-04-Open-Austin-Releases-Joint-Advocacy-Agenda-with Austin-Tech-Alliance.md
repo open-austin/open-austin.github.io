@@ -1,17 +1,17 @@
- ---
- layout: post
- title: Open Austin Releases Joint Advocacy Agenda with Austin Tech Alliance
- date: 2017-12-04
- type: post
- published: true
- thumb: austin-1022943_250.jpg
- thumbalt: View from Congress Avenue Bridge
- author:
+---
+layout: post
+title: Open Austin Releases Joint Advocacy Agenda with Austin Tech Alliance
+date: 2017-12-04
+type: post
+published: true
+thumb: austin-1022943_250.jpg
+thumbalt: View from Congress Avenue Bridge
+author:
    first_name: Matt
    last_name: Carey
- ---
+---
 
-Today, [Austin Tech Alliance(https://www.austintech.org/) and Open Austin [released a joint policy agenda](https://www.austintech.org/austin-tech-alliance-open-austin-release-joint-advocacy-agenda/) with four requests for data transparency from the City of Austin. The requests are "Make City Council meeting agendas and vote data more accessible," "Publish lobbyist activity reports and registration data," "Support researchers’ access to raw data from city surveys," and "Publish data used to produce the greenhouse gas emissions inventories under the Austin Community Climate Plan."
+Today, [Austin Tech Alliance](https://www.austintech.org/) and Open Austin [released a joint policy agenda](https://www.austintech.org/austin-tech-alliance-open-austin-release-joint-advocacy-agenda/) with four requests for data transparency from the City of Austin. The requests are "Make City Council meeting agendas and vote data more accessible," "Publish lobbyist activity reports and registration data," "Support researchers’ access to raw data from city surveys," and "Publish data used to produce the greenhouse gas emissions inventories under the Austin Community Climate Plan."
 
 All four of these policy objectives relate to disclosures of data that Open Austin volunteers have been interested in helping to share with the public. A common theme is that we've hit some roadblocks with projects in these areas, and we think that further action by the city could have a positive impact. Here's the text of the requests we presented to the city, along with some background information about the work that people in the Open Austin community have been doing with the four categories of data.
 
