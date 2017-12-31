@@ -54,12 +54,15 @@ We are an all-volunteer organization. The Core Team helps coordinate Open Austin
 
 You can reach us at: info@open-austin.org
 
-- Victoria O’Dell – Brigade Captain – chair@open-austin.org
-- Andrew Nelson – Co-Captain & Projects Lead – hack@open-austin.org
-- [_Open! Apply for this position_](https://openaustin.typeform.com/to/zyE0a4) – Marketing Lead – pr@open-austin.org
-- Sean Dellis – Membership Lead – membership@open-austin.org
+- Victoria O’Dell – Brigade Co-Captain
+- Sarah Shields – Brigade Co-Captain
 - Marco Pineda – Event Lead
-- Matt Carey – Policy Lead – policy@open-austin.org
+- Matt Carey – Project Co-Lead
+- Marcos Vanetta – Project co-Lead
+- John Placa – Finance Lead
+- [_Open! Apply for this position_](https://openaustin.typeform.com/to/zyE0a4) – Policy Lead
+- [_Open! Apply for this position_](https://openaustin.typeform.com/to/zyE0a4) – Marketing Lead
+- [_Open! Apply for this position_](https://openaustin.typeform.com/to/zyE0a4) – Membership Lead
 - _Chip Rosenthal – Director Emeritus_
 
 Interested in joining the team? Learn about the [ways you can lead](https://docs.google.com/document/d/1kbS0wJj9o_Xr5yKBJ2oF9_wAPscZ2gksnOyMMuqVHk4/edit), and then [let us know](https://openaustin.typeform.com/to/zyE0a4).
