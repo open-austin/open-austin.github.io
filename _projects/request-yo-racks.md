@@ -8,7 +8,6 @@ status:       in development
 categories:   [ government, transportation ]
 contact:      Rémy Greinhofer, @rgreinho
 cfa_stage:    experiment
-layout:       post
 date:         2018-01-10 00:00:00
 thumb:        
 screenshot:   requeststhumb.jpeg
