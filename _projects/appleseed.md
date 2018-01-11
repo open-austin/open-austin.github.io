@@ -8,7 +8,6 @@ status:       in development
 categories:   [ education, justice ]
 contact:      Yamanda Wright <	ywright@texasappleseed.net>
 cfa_stage:    alpha
-layout:       post
 date:         2016-06-14 00:00:00
 thumb:        appleseedthumb.png
 screenshot:   appleseed_map.jpg
