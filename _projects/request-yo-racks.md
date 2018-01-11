@@ -10,7 +10,7 @@ contact:      Rémy Greinhofer, @rgreinho
 cfa_stage:    experiment
 layout:       post
 date:         2018-01-10 00:00:00
-thumb:        requeststhumb.jpeg
+thumb:        
 screenshot:   requeststhumb.jpeg
 featured:     true
 ---
