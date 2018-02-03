@@ -10,27 +10,41 @@
 ------------------
 
 # Development Instructions
-
-## Installing Jekyll/Ruby on OS X
 - *(Optional)* Install [**iTerm**](https://www.iterm2.com/) for a better Command Line App in OS X.
-
 - _(Optional)_ Install [**oh-my-zsh**](https://github.com/robbyrussell/oh-my-zsh
 ) for a prettier command line interface and easier zsh configuration than bash.
 	- `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 
-- Install [**homebrew**](http://brew.sh/) (for better installation of OS X packages)
-	- `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
-- Install [**ruby-install**](https://github.com/postmodern/ruby-install#readme) for installing Ruby versions. (OS X comes with 2.0.0, but its not the latest version and you may have to use the `sudo` command to do anything. Best to install a version manager like ruby-install + chruby to help with that.)
-	- `brew install ruby-install`
-	- `ruby-install ruby 2.2.2`
+Jekyll requires at least Ruby 2.1 but we recommend Ruby 2.4+
 
-- Install [**chruby**](https://github.com/postmodern/chruby) to switch ruby versions.
-	- `brew install chruby`
-	- `chruby ruby 2.2.2`
+You can install a proper version of Ruby via homebrew and rbenv.
 
+# Install command line tools if you haven't
+xcode-select --install
+
+# Install Homebrew if you haven't
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+# Install rbenv and ruby
+brew install rbenv ruby-build
+rbenv init
+rbenv install 2.4.2
+rbenv global 2.4.2
+rbenv shell 2.4.2
+
+# Install bundler and jekyll
 - Install [**jekyll**](https://github.com/postmodern/chruby) to install Jekyll.
 	- `gem install jekyll`
+
+gem install jekyll bundler
+
+# update rbenv config
+rbenv rehash
+eval "$(rbenv init -)
+
+# Run all of the above using one command:
+curl https://gist.githubusercontent.com/DirtyF/5d2bde5c682101b7b5d90708ad333bf3/raw/bbac59647ac66016cf443caf7d48c6ae173ae57f/setup-rbenv.sh | bash
 
 ## Start Jekyll
 
@@ -59,6 +73,11 @@ ruby -rubygems -e 'require "jekyll-import";
     })'
 ```
 
+## Troubleshooting
+* if you get permissions errors, run the command again with 'sudo'
+```
+sudo <your> <command here>
+```
 --------------------
 
 # Planning
