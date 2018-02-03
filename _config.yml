@@ -41,4 +41,5 @@ markdown: kramdown
 exclude:
   - import
 
-gems: [jekyll-paginate]
+plugins:
+  - jekyll-paginate

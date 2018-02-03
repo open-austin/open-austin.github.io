@@ -5,9 +5,255 @@
     <description>Open Austin is a volunteer citizen brigade advocating for open government, open data, and civic application development since 2009. We are an official brigade affiliated with the nonprofit Code for America which believes government can work for the people, by the people in the 21st century. Open Austin is focused on the needs of our own community and we use design, technology, and open data to improve the quality of life in our city.</description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Sep 2017 11:34:09 -0500</pubDate>
-    <lastBuildDate>Thu, 07 Sep 2017 11:34:09 -0500</lastBuildDate>
-    <generator>Jekyll v3.5.2</generator>
+    <pubDate>Sat, 03 Feb 2018 12:54:09 -0600</pubDate>
+    <lastBuildDate>Sat, 03 Feb 2018 12:54:09 -0600</lastBuildDate>
+    <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Open Austin Releases Joint Advocacy Agenda with Austin Tech Alliance</title>
+        <description>&lt;p&gt;Today, &lt;a href=&quot;https://www.austintech.org/&quot;&gt;Austin Tech Alliance&lt;/a&gt; and Open Austin &lt;a href=&quot;https://www.austintech.org/austin-tech-alliance-open-austin-release-joint-advocacy-agenda/&quot;&gt;released a joint policy agenda&lt;/a&gt; with four requests for data transparency from the City of Austin. The requests are “Make City Council meeting agendas and vote data more accessible,” “Publish lobbyist activity reports and registration data,” “Support researchers’ access to raw data from city surveys,” and “Publish data used to produce the greenhouse gas emissions inventories under the Austin Community Climate Plan.”&lt;/p&gt;
+
+&lt;p&gt;All four of these policy objectives relate to disclosures of data that Open Austin volunteers have been interested in helping to share with the public. A common theme is that we’ve hit some roadblocks with projects in these areas, and we think that further action by the city could have a positive impact. Here’s the text of the requests we presented to the city, along with some background information about the work that people in the Open Austin community have been doing with the four categories of data.&lt;/p&gt;
+
+&lt;h2 id=&quot;city-council-meeting-agendas-and-vote-data&quot;&gt;City Council meeting agendas and vote data&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What: City Council agendas and minutes should be easily navigable and searchable with persistent ID codes for items that come under consideration in multiple meetings and public meeting information for each phase of decision making. Council members’ votes should be released in an open data format.&lt;/p&gt;
+
+  &lt;p&gt;Why: With improved navigation and ease of accessing vote histories, residents will better be able to follow an issue or specific policy debate as it progresses through the policy making process.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Open Austin’s efforts to publish data about items on the city council agenda included a 2015 hackathon prototype called &lt;a href=&quot;https://github.com/open-austin/council-connect&quot;&gt;Council Connect&lt;/a&gt;, which failed because it was hard to collect the needed data from the city’s website. The problem has attracted &lt;a href=&quot;https://github.com/open-austin/project-ideas/issues/94&quot;&gt;continued interest&lt;/a&gt; among Open Austin members. Data collection is already easier than it used to be, as &lt;a href=&quot;https://www.open-austin.org/blog/2017/10/05/changes-in-access-to-Austins-local-legislative-data&quot;&gt;explained in a recent Open Austin blog post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;lobbyist-activity-reports-and-registration-data&quot;&gt;Lobbyist activity reports and registration data&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What: The lobbyist registration dataset on the city data portal at data.austintexas.gov was recently modified to delete most records prior to 2017 and omit the names of the clients that hired the lobbyists. The city should restore access to those records. Also, recent lobbyist activity reports are now available online only in PDF format. The city should extract the contents of those reports and post them on the data portal.&lt;/p&gt;
+
+  &lt;p&gt;Why: Disclosure of lobbying datasets allows public access to information showing who is influencing decision makers, providing residents with a more complete picture of the public policy process.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Open Austin produced a few, mostly experimental, &lt;a href=&quot;https://www.open-austin.org/projects/lobbying-in-austin.html&quot;&gt;visualizations from the available data&lt;/a&gt; about lobbyists on the city and state level. Those experiments led us to conclude that Council Member Pool’s 2016 lobby reform proposal &lt;a href=&quot;https://www.open-austin.org/blog/2016/06/12/finding-a-story-in-austins-lobbying-data&quot;&gt;would help the data published by the city form an accurate portrayal of actual lobbyist activity&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;raw-data-from-city-surveys&quot;&gt;Raw data from city surveys&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What: Survey data, such as the City of Austin Community Survey, should be made publicly accessible in appropriate formats, including raw data, data maps, questionnaires, and details about survey methodology. Survey data should include demographic questions but not capture any personally identifiable information, preserving the anonymity of individual respondents. For instance, when the city uses an online platform for public deliberation about the city budget, anonymized feedback captured by the tool should be downloadable as open data for analysis by the public.&lt;/p&gt;
+
+  &lt;p&gt;Why: Transparent survey methods and data can help to determine whether the survey reached a representative sample of respondents. Researchers might also use them to determine whether the results can be merged together with other datasets to support a larger study, such as a study comparing community services in multiple cities.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://austinbudget.party/home&quot;&gt;Budget Party&lt;/a&gt; is an Open Austin application used to help people understand and augment a city budget for Austin. Best used in context of an in-person “Budget Party” event, the Budget Party application is intended to facilitate deliberation and collect residents’ opinions as structured data. Also, Open Austin supports access to government data for social science research in general.&lt;/p&gt;
+
+&lt;h2 id=&quot;greenhouse-gas-emissions-data&quot;&gt;Greenhouse gas emissions data&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What: The City should release the data underlying the Community Climate Plan Progress Updates and the City’s calculated progress on its goal of net-zero community-wide greenhouse gas emissions by 2050. This could include site-specific estimates of energy consumption or resulting emissions, or estimates of the emissions reductions from implementing efficiency programs at particular sites.&lt;/p&gt;
+
+  &lt;p&gt;Why: Disclosure would give residents enough information to evaluate the city’s estimates of the amount of emissions avoided by various categories of efficiency programs. It would also help evaluate the city’s projections of future emissions and identify emissions policy priorities for the future.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Mayor Adler recently reaffirmed the city’s goal to have a &lt;a href=&quot;http://kxan.com/2017/11/28/austin-and-georgetown-mayors-talk-renewable-impacts-and-climate-change/&quot;&gt;cumulative net zero carbon footprint by 2050&lt;/a&gt;, and a sense of crisis about environmental issues is one common reason that Open Austin members give for their interest in open data. Despite that, no civic technolocy project about climate change has ever moved beyond the early experimental phase in Open Austin. One reason for that absence could be that the city hasn’t yet released the best possible data for measuring the city’s progress on its Community Climate Plan.&lt;/p&gt;
+
+&lt;p&gt;To determine whether the city is making progress on reducing emissions, a researcher needs to measure not just the actual emissions, but also the emissions that have been avoided due to the city’s environmental policies. The city has four good datasets about actual emissions:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://data.austintexas.gov/Utilities-and-City-Services/Emissions-By-Plant/ukf5-i76d/data&quot;&gt;emissions by plant&lt;/a&gt;, which is aggregated into &lt;a href=&quot;https://data.austintexas.gov/Utilities-and-City-Services/CO2-emissions-by-year/e25g-t5zh&quot;&gt;emissions by year&lt;/a&gt;, calculated as metric tons of carbon dioxide equivalents (CO2-eq).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://data.austintexas.gov/Utilities-and-City-Services/Carbon-Intensity/hetr-8wqd&quot;&gt;carbon intensity&lt;/a&gt;, calculated as the average CO2-eq per kilowatt-hour generated.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://data.austintexas.gov/City-Government/Municipal-Carbon-Footprint/acyh-8suc&quot;&gt;Carbon footprint for nine categories of municipal operations&lt;/a&gt;, as CO2-eq.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://data.austintexas.gov/City-Government/Travis-County-Community-wide-Greenhouse-Gas-Emissi/3maj-7ecz&quot;&gt;Travis County Community-wide Greenhouse Gas Emissions Inventory&lt;/a&gt;. This dataset contains just three rows of summary statistics, but it covers eight broad categories, it’s calculated as CO2-eq, and it’s not limited to municipal operations.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The other side of the calculation is emissions avoided by following different parts of the climate plan. The city reports:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://data.austintexas.gov/Utilities-and-City-Services/Energy-Efficiency-Avoided-Emissions-2012/69ir-67ws&quot;&gt;Emissions avoided in 2012 by various categories of efficiency programs&lt;/a&gt;. This appears to be in real tons of emissions, not CO2 equivalents.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://data.austintexas.gov/City-Government/Economy-Creativity-Avoided-emissions-from-plug-in-/wqg5-bweh&quot;&gt;Avoided emissions from plug-in network charges&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A very small dataset about &lt;a href=&quot;https://data.austintexas.gov/Utilities-and-City-Services/Austin-Resource-Recovery-Telework-Pilot/ac5x-csd7&quot;&gt;emissions prevented by a telework pilot program&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The dataset about emissions avoided through efficiency programs has a lot of useful information, but it only covers the year 2012, which was prior to the adoption of the Community Climate Plan in 2015. (In 2012, Austin Energy was operating under the earlier “&lt;a href=&quot;https://austinenergy.com/ae/about/environment/austin-climate-protection-plan&quot;&gt;Austin Climate Protection Plan&lt;/a&gt;.”) Also, some of the dataset’s categories of efficiency programs are broad or vague, and it’s not clear what methodology was used for attributing emissions reductions to various categories. It would also be helpful for the city to clarify when each efficiency program began so researchers could try to isolate the impact from each program.&lt;/p&gt;
+
+&lt;p&gt;It’s understandable that the city can’t afford to commission exhaustive studies on every aspect of Austin’s greenhouse gas emissions. But when the city publishes summary statistics like the ones in the &lt;a href=&quot;https://data.austintexas.gov/City-Government/Travis-County-Community-wide-Greenhouse-Gas-Emissi/3maj-7ecz&quot;&gt;Community-wide Greenhouse Gas Emissions Inventory&lt;/a&gt;, it appears that the information being published might be just the tip of the iceberg, and that the city must possess much more supporting data that it used to calculate the summary statistics. If more of that kind of data was available to the public, it could spark civic technologists’ creativity in finding new ways to measure Austin’s carbon efficiency, and help climate sustainability become a more quantifiable part of local policy discussions.&lt;/p&gt;
+
+&lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
+
+&lt;p&gt;Are you interested in a civic project involving the transparency issues in our policy agenda? Or do you know of available data that we’re missing? Get in touch if you think you can help.&lt;/p&gt;
+
+&lt;p&gt;Join the discussion in the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To join one of our civic projects or work on one of your own, come to one of our Civic Hack Night or Civic Hack Saturday events. For policy and community discussion, come to an “Open Gov &amp;amp; Civic Tech” meetup. &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP for these events on Meetup&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow us on Twitter&lt;/a&gt;
+&amp;amp; &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like us on Facebook&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Dec 2017 00:00:00 -0600</pubDate>
+        <link>http://0.0.0.0:4000/blog/2017/12/04/Open-Austin-Releases-Joint-Advocacy-Agenda-With-Austin-Tech-Alliance</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2017/12/04/Open-Austin-Releases-Joint-Advocacy-Agenda-With-Austin-Tech-Alliance</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Changes in Access to Austin's Local Legislative Data</title>
+        <description>&lt;p&gt;When newcomers to Open Austin decide they’re interested in taking on a civic hacking project, one of the most common suggestions they offer is to make our city council’s agendas more accessible. It has the potential to be a very visible and impactful project, but the people who have worked on it have found that it’s harder than it seems it needs to be. Austin has historically managed its council agenda with an old software tool called &lt;a href=&quot;https://austin.siretechnologies.com/sirepub/mtgviewer.aspx?meetid=1541&amp;amp;doctype=Agenda&quot;&gt;SIRE&lt;/a&gt;. Collecting the agenda text and supporting was a matter of navigating through a network of links to PDFs: not an easy task to automate. And change in this area was somewhat hard to achieve because responsibility for city legislative records was divided between the council itself, the &lt;a href=&quot;http://www.austintexas.gov/department/city-clerk&quot;&gt;city clerk’s office&lt;/a&gt;, and the &lt;a href=&quot;http://www.austintexas.gov/department/supporting-city-councils-work-agenda-office&quot;&gt;agenda office&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The city took a step toward accessibility last year when it began &lt;a href=&quot;https://data.austintexas.gov/City-Government/Austin-City-Council-Agenda-Items/es7e-878h&quot;&gt;posting the text of the agenda items&lt;/a&gt; to the city data portal. But the data portal isn’t always a welcoming place for residents who just want easy access to information about civic issues. When the city had an opportunity to solicit bids for a new agenda management system, Open Austin &lt;a href=&quot;https://docs.google.com/document/d/1FOLuCR6kRRTLQD5dyJCuIquRkEoaGi0aqAVlBFwVuPY/edit?usp=sharing&quot;&gt;sent a letter&lt;/a&gt; recommending a set of features the city should look for: an open API or bulk downloads, use of a widely accepted data format such as &lt;a href=&quot;https://opencivicdata.readthedocs.io/en/latest/index.html&quot;&gt;the “Open Civic Data” standard&lt;/a&gt;, and easy exports to calendar client formats like iCal, Outlook, and Google Calendar. The city took action to improve the council’s website by selecting a new software vendor called &lt;a href=&quot;https://granicus.com/solutions/meeting-agenda-suite/peak-agenda-management/&quot;&gt;Granicus&lt;/a&gt;, but technical problems have bogged down that project and the new system (called Legistar) still isn’t live.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, the new system still isn’t expected to have all the features available on some other Legistar systems, like &lt;a href=&quot;http://legistar.council.nyc.gov/&quot;&gt;New York’s&lt;/a&gt;: it won’t reveal how each council member voted on the matters before the council, and it won’t assign unique ID numbers to the agenda items for readers to track them from one council meeting to another. Also, an apparent miscommunication led the city to stop updating the dataset on the data portal even though the new system hadn’t yet come online to replace it. David Edmonson of &lt;a href=&quot;https://www.austintech.org/&quot;&gt;Austin Tech Alliance&lt;/a&gt; stepped in and spoke with the city clerk’s office about restoring access to the agenda dataset. The city was very helpful, and they restored access to the missing data with ongoing updates.&lt;/p&gt;
+
+&lt;p&gt;Around the same time, Open Austin members noticed that another dataset we had been exploring had been taken offline: this time, it was the identities of the entities who hired lobbyists to lobby the city government. This information was once disclosed as part of the city’s &lt;a href=&quot;https://data.austintexas.gov/City-Government/Lobbyists-Master-List-of-Lobbyists/96z6-upac/data&quot;&gt;lobbyist registration dataset&lt;/a&gt;. Today, that dataset only identifies the people registered with the city as lobbyists, but it no longer identifies whom they’re working for. Finding the identities of the clients requires navigating a &lt;a href=&quot;http://www.ci.austin.tx.us/cityclerk/lobbyist/index.cfm&quot;&gt;web database&lt;/a&gt;, which is much more challenging than just clicking a single download button. (And as &lt;a href=&quot;https://docs.google.com/document/d/1nJZ1y4YPiNpuHpoduCIPpF-oF_qOPp8UmDswiEbN-Ts/edit?usp=sharing&quot;&gt;Open Austin’s policy agenda&lt;/a&gt; points out, we’d like for the published dataset to include not just the identities of the clients, but the entire lobbyist activity reports.) Although Austinites are lucky enough to have a city government that’s serious about the quality of the web services it offers to the public, Austin is still several steps away from offering comprehensive accessible data about the local legislative process.&lt;/p&gt;
+
+&lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
+
+&lt;p&gt;Do you have a project that makes use of Austin’s city council or lobbyist datasets? Tell us about it in the #p-lobbyist-campaign channel of the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To see an example of a (non-open source) visualization of city council data that grew out of an Open Austin project, visit &lt;a href=&quot;http://minutes.city/#/city/austin&quot;&gt;minutes.city&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow us on Twitter&lt;/a&gt;
+&amp;amp; &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like us on Facebook&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Photo credit: &lt;a href=&quot;https://www.flickr.com/photos/dawilson/3017994876&quot;&gt;“Austin City Hall” by Dave Wilson&lt;/a&gt; (&lt;a href=&quot;https://creativecommons.org/licenses/by-nc-nd/2.0/&quot;&gt;CC BY-NC-ND 2.0&lt;/a&gt;)&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Oct 2017 00:00:00 -0500</pubDate>
+        <link>http://0.0.0.0:4000/blog/2017/10/05/changes-in-access-to-Austins-local-legislative-data</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2017/10/05/changes-in-access-to-Austins-local-legislative-data</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Projects and management</title>
+        <description>&lt;p&gt;We need to overhaul our project management. To get there, and to work in the open, let’s start by clearly defining the problem, the fundamental challenges, and our circumstances.&lt;/p&gt;
+
+&lt;p&gt;At Open Austin, our projects are for public good and made in the open. Compared to many open source projects that are often for developers, by developers, our projects often involve a more diverse roster of stakeholders like:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Advocates&lt;/em&gt;: people who are passionate about a subject and act as an intermediary between those affected and other (potential) stakeholders&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Designers&lt;/em&gt;: people who improve or make new experiences and things through human-centered methods&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Programmers&lt;/em&gt;: people who make old machines learn new tricks with high-level markup, low-level assembly, and everything in between&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Researchers&lt;/em&gt;: people who focus on understanding and articulating subjects, problems, and ways to achieve a goal&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Subject matter experts (SMEs)&lt;/em&gt;: people who have a deep or broad knowledge about a subject or specific problem&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As a Code for America brigade, we share the common value of &lt;em&gt;civic hacking&lt;/em&gt;: &lt;a href=&quot;https://www.codeforamerica.org/blog/2013/06/07/defining-civic-hacking/&quot;&gt;working quickly and creatively to help improve government&lt;/a&gt;. As a member of that brigade, though, I would like to challenge that a little, in that we ought to help improve &lt;em&gt;governance&lt;/em&gt;, not government. That is, we could be slightly more focused on how individuals, things, and societies self-govern or do work themselves toward a &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=1900448&quot;&gt;public thing&lt;/a&gt; (not necessarily government-managed).&lt;/p&gt;
+
+&lt;p&gt;How might that shift in organizational focus, and subsequent work, affect government apparatus and how people interact with them? Our stakeholder interaction so far reaches mostly to municipal levels of government and individuals interested in civic work. Perhaps our less conventional processes are not palatable enough yet for more direct intervention in government business, but one important feature of our process is changing how people perceive and interact with public things through &lt;em&gt;hacking&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;As a community, we consider any of these stakeholders as civic hackers―quick and creative folks who innovate and push boundaries. However that may not lend well to achieving goals that are more specifically scoped or more &lt;a href=&quot;http://www.niftycom.org/uploads/5/8/8/9/5889962/wicked_problems_design_thinking.pdf&quot;&gt;wicked&lt;/a&gt;. Achieving these goals requires some management to integrate an often variable alliance of people, things, actions, and environments as &lt;a href=&quot;http://www.mitpressjournals.org/doi/pdf/10.1162/desi.2009.25.1.48&quot;&gt;publics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The trouble is many of our projects don’t have project management help, though many have requested it. Without it, those projects could (and have) fall into an unrecoverable state. Whereas one stakeholder might only need to know the particulars of their own work, managing projects requires some degree of knowledge to all work. Fortunately, managing isn’t something only a human can do. We do specialize in technology after all, and project management tech is welcome to take the load off the organization’s leaders.&lt;/p&gt;
+
+&lt;p&gt;Notably, across all Code for America and Open Austin materials, all signs point members to tools for project management rather than people. While we have project leads, they are often primarily one of the five aforementioned types of stakeholders rather than a “manager.” Instead, our project management has been developed over the last year based on various frameworks that informed our own &lt;a href=&quot;https://www.open-austin.org/civic-tech-canvas/&quot;&gt;Civic Tech Project Planning Canvas&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This canvas is a framework for users to articulate their problem, proposed solution, and logistics required to realize it. Essentially, it helped define the &lt;em&gt;what&lt;/em&gt;, &lt;em&gt;who&lt;/em&gt;, and &lt;em&gt;how&lt;/em&gt; of a project. The problems often come from SMEs and advocates, who may also come to the table with a proposed solution that is then articulated through collaborating with other stakeholders at Open Austin meetings.&lt;/p&gt;
+
+&lt;p&gt;Following this initial canvas-building, we suggest teams borrow from the &lt;a href=&quot;https://begriffs.com/posts/2016-01-29-making-twenty-percent-time-work.html&quot;&gt;BASEDEF&lt;/a&gt; framework to consider how to do work incrementally instead of over-scoping or working privately for so long others forget what they’re doing. This is important considering the asynchronous, remote, and variable work that often loses information from meeting to meeting.&lt;/p&gt;
+
+&lt;h1 id=&quot;issues-and-improvements&quot;&gt;Issues and improvements&lt;/h1&gt;
+
+&lt;p&gt;Many projects at Open Austin are never completed or delivered to external stakeholders, and many others languish after contributors, champions, or material support are disengaged. This is to be expected from a volunteer group, and it’s actually not too big of a deal when it comes to our values. When I first joined the team, I actually poked people a little too hard to figure out why they hadn’t shared their progress (or any update) with the community.&lt;/p&gt;
+
+&lt;p&gt;I toned it down a bit after we discussed what our values were and what we commit, as an organization, to members and friends in the community. However, we would like to have more of an impact on our communities, which requires us to build trust with them, which requires more discipline in how we manage to complete projects.&lt;/p&gt;
+
+&lt;p&gt;Early in 2017, after discussing this issue &lt;a href=&quot;https://github.com/open-austin/iced-coffee/issues/69&quot;&gt;among our leadership team&lt;/a&gt; and other &lt;a href=&quot;https://docs.google.com/document/d/19HncsnlAR5reLH0iul7oi-_tX7Cer-6Y0WCEZ_kkYTU/edit&quot;&gt;Code for America leaders&lt;/a&gt;, we put together an agenda to change how we might be more effective at managing our projects and, more fundamentally, our organization itself:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Define what services we offer as an organization and how&lt;/li&gt;
+  &lt;li&gt;Develop a project management framework that better articulates expectations with stakeholders and builds trust&lt;/li&gt;
+  &lt;li&gt;Research legal structures required to accept more impactful work&lt;/li&gt;
+  &lt;li&gt;Pilot our nonprofit capabilities with a highly impactful project&lt;/li&gt;
+  &lt;li&gt;Pilot our nonprofit organization with a government project&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;services-and-values&quot;&gt;Services and values&lt;/h2&gt;
+
+&lt;p&gt;Our leadership team met to first tackle our problem of value definition: what should we offer, and how do we create value of that to others? We first &lt;a href=&quot;https://github.com/open-austin/iced-coffee/issues/218&quot;&gt;reconsidered&lt;/a&gt; how the leadership team itself is organized as a community-driven entity. This helped us to more quickly and effectively &lt;a href=&quot;https://github.com/open-austin/iced-coffee/issues/233&quot;&gt;analyze&lt;/a&gt; and &lt;a href=&quot;https://github.com/open-austin/iced-coffee/issues/235&quot;&gt;implement&lt;/a&gt; improvements to our core processes that would help us identify issues with projects and enable their leads to resolve them with or without our help.&lt;/p&gt;
+
+&lt;p&gt;We then &lt;a href=&quot;https://github.com/open-austin/iced-coffee/issues/215&quot;&gt;iterated on our organization values&lt;/a&gt;, aligning on our dedication to community-driven policy setting and idea generation, both in terms of what we will and won’t do. The results of these policies and ideas would then be scoped to projects we can accomplish, which then begs the question of management. Following from our civic hacking ethos, our form of management is born from our collective values and &lt;a href=&quot;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;cad=rja&amp;amp;uact=8&amp;amp;ved=0ahUKEwigruzgvuHSAhUB24MKHU75CbkQFggcMAA&amp;amp;url=https%3A%2F%2Ffaculty.nipissingu.ca%2Flindap%2FORGS3706%2Fresources%2FOrganizations_as_Cultures_UV.ppt&amp;amp;usg=AFQjCNGR1NR9cKgS-Z9XWm9hadtsO4ObVQ&amp;amp;sig2=yN81HLr_5ekYw-kltM8hXg&quot;&gt;cultural organization&lt;/a&gt; rather than the political or mechanical organizations of governments and corporations that we also participate in.&lt;/p&gt;
+
+&lt;p&gt;To better understand this, we researched how similar organizations managed projects so that we could &lt;a href=&quot;https://github.com/open-austin/iced-coffee/issues/224&quot;&gt;design and test our own&lt;/a&gt; process, including the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.openoakland.org/wp-content/uploads/2015/11/OpenOakland-Projects-04.pdf&quot;&gt;Open Oakland’s “Leading a Project”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.smartchicagocollaborative.org/collaborative-project-management/&quot;&gt;Smart Chicago’s “Collaborative Project Management”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/codeforamerica/civic-tech-patterns&quot;&gt;Code for America’s “Civic Tech Patterns”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://playbook.cio.gov/&quot;&gt;U.S. Digital Service’s “Playbook”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/design-principles&quot;&gt;U.K. Government Design Service’s “Design Principles”&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Without our own process, we were not fully realizing our capabilities and opportunities, affecting our mission to quickly and creatively innovate civic services.&lt;/p&gt;
+
+&lt;h2 id=&quot;our-project-management-framework&quot;&gt;Our project management framework&lt;/h2&gt;
+
+&lt;p&gt;In addition to seeking out peer organizations’ management techniques, we also conducted a more academic literature review. From research by &lt;a href=&quot;https://academic.oup.com/icc/article-lookup/doi/10.1093/icc/dtw004&quot;&gt;Lakemond et al.&lt;/a&gt; and &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1111/jpim.12125/full&quot;&gt;Wake and Bogers&lt;/a&gt; we found an interesting parallel between their open innovation practices in enterprise and our civic innovation in a volunteer organization. In particular they found that project management is quickly supplanted in importance by knowledge matching.&lt;/p&gt;
+
+&lt;p&gt;Lakemond et al. found that project management had a strong impact on performance in the early stages of a project, such as collaborating during ideation. It was especially important when there were many different stakeholders and contributors, but less so for later stages of a project’s completion. Rather, at these late stages “knowledge matching” may have been more important than project management.&lt;/p&gt;
+
+&lt;p&gt;Knowledge matching in our case could mean sharing Open Austin’s and our partners’ technological competencies and knowledge resources. That might be in the form of workshops, consultations, or training. The function of it though is bidirectional learning and collaboration, which could determine performance on a project at all stages. It may be more determinant, though, at later stages as project management becomes less effective, as Lakemond et al. suggested. For the early stages of projects, including finding problems and ideating around them, we could borrow the expertise of companies that employ people dedicated to project management.&lt;/p&gt;
+
+&lt;p&gt;Wake and Bogers described how companies often seek external sources to help them innovate in the open, including some who turn to the &lt;a href=&quot;https://www.researchgate.net/profile/Christopher_Tucci/publication/267027676_Crowdsourcing_As_A_Solution_To_Distant_Search/links/54416fff0cf2a6a049a584a0/Crowdsourcing-As-A-Solution-To-Distant-Search.pdf&quot;&gt;crowd&lt;/a&gt; or &lt;a href=&quot;https://pdfs.semanticscholar.org/9209/70ac89da9ecd24e567d5d3b90a35ad279b5f.pdf&quot;&gt;intermediaries&lt;/a&gt;.  An example of both are members of Open Austin and other Code for America brigades, as we are a large and diverse group of people who do both &lt;a href=&quot;https://smartech.gatech.edu/bitstream/handle/1853/56292/MENG-DISSERTATION-2016.pdf?sequence=1&amp;amp;isAllowed=y&quot;&gt;technical and social&lt;/a&gt; work. And we regularly work together, often at hack nights, hackathons, and other types of &lt;a href=&quot;http://publications.lib.chalmers.se/records/fulltext/245365/245365.pdf&quot;&gt;innovation jams&lt;/a&gt; to offer this environment to entities in the civic tech space. However, companies often don’t just hop right into this sort of hack environment. They often require an intermediary to guide them and operate in new environments like these.&lt;/p&gt;
+
+&lt;p&gt;By providing that environmental savviness along with the requisite subject and technical knowledge, we can trade for their project management skills in a project’s early stage, allowing us to at least structure it through some scheduled completion. While this might not be as “complete” as we may expect, it is a step toward that. We and other brigades already do engage companies like this to some degree, but we don’t earn as much in long-term commitment. For example, many companies participate in ATX Hack for Change, but we don’t get quite the same result from that as we do with our community partners like Austin Tech Alliance.&lt;/p&gt;
+
+&lt;p&gt;We can do better in the former space by making clear requests for time, artifacts, and communication before we break from jam environments. Increasing engagement in general with those management-savvy hackathon-curious companies may also improve their chances at participating individually as a member or visitor, as well as future organization-level work. This is something to be explored, and presently, companies may not yet be incentivized adequately to work with us on an organizational level. Some outright refuse unless we are legally organized in particular ways.&lt;/p&gt;
+
+&lt;p&gt;All things considered, we can better ensure our projects reach some measure of completion by organizing projects for knowledge matching with external stakeholders. Project management could use more structure in early stages to help organize, while as the project progresses we supplant that structured management with a bespoke &lt;a href=&quot;http://digilib.gmu.edu/jspui/bitstream/handle/1920/10609/Novak_gmu_0883E_11283.pdf?sequence=1&amp;amp;isAllowed=y&quot;&gt;knowledge commons&lt;/a&gt;. We would need to describe that commons policy on an abstract level, involving project governance and knowledge sharing.&lt;/p&gt;
+
+&lt;p&gt;Our first step in this direction has been &lt;a href=&quot;https://docs.google.com/presentation/d/1OP1Atz3q5GnzjiEJ2JeExKOUrD_oQFzx0HLlopDdxgw/edit#slide=id.p&quot;&gt;a presentation&lt;/a&gt; to our members at a civic tech night. In this, I described how we have managed projects so far and some skills and techniques I learned from Mozilla’s Open Leadership Training. From there, we developed a &lt;a href=&quot;https://github.com/open-austin/project-ideas/blob/master/ISSUE_TEMPLATE.md&quot;&gt;guide and checklist&lt;/a&gt; for sharing project ideas, both for the first time and for progress as the project develops. I also set &lt;a href=&quot;https://github.com/open-austin/iced-coffee/wiki/Projects&quot;&gt;policies and checkpoints&lt;/a&gt; for the projects lead position to best facilitate and, if necessary, intervene in a project’s management to fully realize its potential.&lt;/p&gt;
+
+&lt;h2 id=&quot;legal-structure&quot;&gt;Legal structure&lt;/h2&gt;
+
+&lt;p&gt;We do impactful work. We engage with multiple communities year-round, culminating in ATX Hack for Change, and we engage with companies through partnerships like Austin Tech Alliance and CityUp. We also interact with more loosely organized groups like Data for Democracy and other meetups.&lt;/p&gt;
+
+&lt;p&gt;However, more structured entities like businesses, nonprofits, and government may present opportunities that a civic-conscious hacker may not have the visibility and resources for. Those entities, though, often require some legal assurance we’re not going to run off with their money, make them look bad, or come off as unprofessional.&lt;/p&gt;
+
+&lt;p&gt;To make this happen, we need to organize Open Austin more formally, particularly as a 501c3 nonprofit corporation.&lt;/p&gt;
+
+&lt;p&gt;For about four months we gathered our core values and practices into a &lt;a href=&quot;https://docs.google.com/document/d/1HwgQ9lDcJohBLZPyRVvMqvf282mGJOGM17KFNkvBmfA/edit&quot;&gt;bylaws document&lt;/a&gt;. Using this, we are now in the process of submitting our paperwork to formally incorporate. As a 501c3, we would be able to do business and participate in other nonprofit programs from corporations and government that require incorporation. We also join a network of other Code For America brigades that have incorporated to share management experience. The process has also been a test for our values, both in the decision to incorporate and how to incorporate our membership.&lt;/p&gt;
+
+&lt;p&gt;Keep in mind that “the corporation” is the entity that owns assets, manages work on behalf of the whole organization, and directs group activities. Practically speaking, it is both inclusive of, but distinct from, what would be called “Open Austin” as has existed as a group of friends, a Meetup group, a civic hacking organization, etc.&lt;/p&gt;
+
+&lt;p&gt;Considering our previous issues with helping Open Austin members, including project leads, manage projects and facilitate their other efforts, we had some trouble deciding whether to include members who weren’t on the leadership team in the corporation. While members would of course intrinsically comprise Open Austin forever, the corporation does not include members other than the board of directors (also known as the “leadership team” or “core team”). Indeed, even our current practices on the leadership team haven’t required oversight by the general membership.&lt;/p&gt;
+
+&lt;p&gt;Still, there is much to test from here. The incorporation itself takes some months, and we likely wouldn’t take on any major projects in the interim. For example, we also need to consider that major risks come with major opportunities. As such, we are currently working on ways to set indemnification policy such that, if we are sued for unintended or fringe effects of one of our projects, what are our legal and fiscal options? Similarly, if a private or public organization that does not sit well with us asks us to work on a project, how much should our organizational values affect the decision?&lt;/p&gt;
+
+&lt;h2 id=&quot;piloting-the-nonprofit-model&quot;&gt;Piloting the nonprofit model&lt;/h2&gt;
+
+&lt;p&gt;One successful project from Open Austin is Budget Party, a gamified experience that helps people understand and augment a city budget for Austin. As a pilot for our new organization, how can we test our values, project management, and new organizational structure by working on this?&lt;/p&gt;
+
+&lt;p&gt;Having demonstrated we can operate normally as a nonprofit, and also having discovered new ways we can do civic work, we can then try directly influencing our city government itself. How can we break into this space, how might we change Open Austin in the experience, and what will we find about how government might turn to hacking as a way to improve life for Austinites?&lt;/p&gt;
+
+&lt;p&gt;These are open questions that I’d like to leave as an exercise for the reader. Consider it a prompt that anyone may contribute to (i.e. we will retweet you or even host your post).&lt;/p&gt;
+
+&lt;h1 id=&quot;what-do-you-think&quot;&gt;What do you think?&lt;/h1&gt;
+
+&lt;p&gt;Hopefully having this article around will help other organizations, like other Code for America brigades, organize themselves in a way that innovates how civic hacking communities effectively innovate and collaborate. Let us know if it did or even if this doesn’t sound right at all.&lt;/p&gt;
+
+&lt;p&gt;What are your stories of organizing a volunteer group, managing open source projects, and incorporating a nonprofit? We’re always curious and always open. Respond and join the discussion on our &lt;a href=&quot;https://slack.open-austin.org/&quot;&gt;Slack team&lt;/a&gt;!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 13 Sep 2017 00:00:00 -0500</pubDate>
+        <link>http://0.0.0.0:4000/blog/2017/09/13/project-management</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2017/09/13/project-management</guid>
+        
+        
+      </item>
     
       <item>
         <title>Kirk Watson Advances Open Government Bills</title>
@@ -180,13 +426,15 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
 
 &lt;h3 id=&quot;scheduled-for-hearing&quot;&gt;Scheduled for Hearing:&lt;/h3&gt;
 
-&lt;p&gt;On Monday, the House Government Transparency and Operation Committee &lt;a href=&quot;http://www.legis.state.tx.us/Committees/MeetingsUpcoming.aspx?Chamber=H&quot;&gt;will hold public hearings&lt;/a&gt; on six open records bills:
-* &lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=HB526&quot;&gt;HB 526&lt;/a&gt;, which would amend the Public Information Act to entitle only residents to public information.
-* &lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/Actions.aspx?LegSess=85R&amp;amp;Bill=HB793&quot;&gt;HB 792&lt;/a&gt;, which is similar to &lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=SB407&quot;&gt;SB 407&lt;/a&gt;, and would allow disclosure of contract bids under the Public Information Act after the contract was awarded. 
-* &lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/Actions.aspx?LegSess=85R&amp;amp;Bill=HB793&quot;&gt;HB 793&lt;/a&gt;, extending the Public Information Act to cover some privately-owned government contractors.
-* &lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=HB2670&quot;&gt;HB 2670&lt;/a&gt;, supporting public access to government information stored on privately-owned accounts and devices.
-* &lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=HB2710&quot;&gt;HB 2710&lt;/a&gt;, providing that public records containing dates of birth can still be disclosed.
-* &lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=HB3581&quot;&gt;HB 3581&lt;/a&gt;, a helpful-sounding law requiring agencies to publish a data dictionary and instructions for using any databases that they disclose in response to a public records request, and also requiring them to provide more explanation of why it’s necessary to charge for programming work to fulfill a records request.&lt;/p&gt;
+&lt;p&gt;On Monday, the House Government Transparency and Operation Committee &lt;a href=&quot;http://www.legis.state.tx.us/Committees/MeetingsUpcoming.aspx?Chamber=H&quot;&gt;will hold public hearings&lt;/a&gt; on six open records bills:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=HB526&quot;&gt;HB 526&lt;/a&gt;, which would amend the Public Information Act to entitle only residents to public information.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/Actions.aspx?LegSess=85R&amp;amp;Bill=HB793&quot;&gt;HB 792&lt;/a&gt;, which is similar to &lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=SB407&quot;&gt;SB 407&lt;/a&gt;, and would allow disclosure of contract bids under the Public Information Act after the contract was awarded.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/Actions.aspx?LegSess=85R&amp;amp;Bill=HB793&quot;&gt;HB 793&lt;/a&gt;, extending the Public Information Act to cover some privately-owned government contractors.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=HB2670&quot;&gt;HB 2670&lt;/a&gt;, supporting public access to government information stored on privately-owned accounts and devices.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=HB2710&quot;&gt;HB 2710&lt;/a&gt;, providing that public records containing dates of birth can still be disclosed.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/History.aspx?LegSess=85R&amp;amp;Bill=HB3581&quot;&gt;HB 3581&lt;/a&gt;, a helpful-sounding law requiring agencies to publish a data dictionary and instructions for using any databases that they disclose in response to a public records request, and also requiring them to provide more explanation of why it’s necessary to charge for programming work to fulfill a records request.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Also, on Tuesday, the House Homeland Security and Public Safety Committee &lt;a href=&quot;http://www.legis.state.tx.us/Committees/MeetingsUpcoming.aspx?Chamber=H&quot;&gt;will hold a public hearing&lt;/a&gt; on &lt;a href=&quot;http://www.legis.state.tx.us/BillLookup/Actions.aspx?LegSess=85R&amp;amp;Bill=HB2044&quot;&gt;HB 2044&lt;/a&gt;, which includes some open records provisions among many other provisions relating to police misconduct.&lt;/p&gt;
 
@@ -308,7 +556,7 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
 
 &lt;p&gt;Our 45th President, Donald J Trump, was inaugurated in DC last week. We’d like to reflect on highlights from 2016. Then we will lay out  our focus ahead for 2017.&lt;/p&gt;
 
-&lt;h2 id=&quot;recap&quot;&gt;2016 Recap&lt;/h2&gt;
+&lt;h2 id=&quot;2016-recap&quot;&gt;2016 Recap&lt;/h2&gt;
 
 &lt;h3 id=&quot;events&quot;&gt;Events&lt;/h3&gt;
 
@@ -341,7 +589,7 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
   &lt;li&gt;The &lt;a href=&quot;https://github.com/open-austin/iced-coffee/issues/130&quot;&gt;Civic Hack Canvas&lt;/a&gt; was forked and used in DC, Japan, and used by the City of Austin in a Transportation Grant challenge.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;section&quot;&gt;2017&lt;/h2&gt;
+&lt;h2 id=&quot;2017&quot;&gt;2017&lt;/h2&gt;
 
 &lt;p&gt;Since the Election of Donald J. Trump, we’ve seen an increased hunger from our community for projects and advocacy work that promotes the civic good. We believe the intersection of technology &amp;amp; government are vital for progress in our experiment in democracy.&lt;/p&gt;
 
@@ -373,6 +621,8 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
   &lt;li&gt;Official Partner Projecets (aka: Open Austin Labs)
     &lt;ul&gt;
       &lt;li&gt;We want to get better and support projects that have:&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;ul&gt;
       &lt;li&gt;Formal partnerships with external stakeholders (like other non-profits or the City of Austin)&lt;/li&gt;
       &lt;li&gt;Clear goals and deadlines&lt;/li&gt;
       &lt;li&gt;Opportunities for funding via grants, contracts, etc.&lt;/li&gt;
@@ -432,151 +682,6 @@ RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Ope
         <pubDate>Sun, 08 Jan 2017 00:00:00 -0600</pubDate>
         <link>http://0.0.0.0:4000/blog/2017/01/08/time-to-back-up-the-publics-climate-data</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/blog/2017/01/08/time-to-back-up-the-publics-climate-data</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Open Austin Honored with Pro Bono Leadership Award from Texas Appleseed</title>
-        <description>&lt;p&gt;Many Texans see the evidence of the school-to-prison pipeline in their daily lives – sometimes because a video goes viral or because they are a parent, grandparent, or advocate for a child they love. Texas Appleseed has long been involved in working to address systemic problems related to zero-tolerance school disciplinary policies and hostile school climates – and they wanted a new forum to reach people and expand the dialogue around the issue.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://texasappleseed.org/&quot;&gt;Texas Appleseed&lt;/a&gt; is a public interest justice center. This nonprofit works to change unjust laws and policies that prevent Texans from realizing their full potential.&lt;/p&gt;
-
-&lt;p&gt;Texas Appleseed approached us at Open Austin with the idea to create a website that would bring together advocates, students, parents, and educators in Texas who are interested in improving educational opportunities and outcomes for youth. Our volunteers stepped up to help, donating more than a year of pro bono time by building a new website, &lt;a href=&quot;http://www.texasdisciplinelab.org/&quot;&gt;Texas School Discipline Lab&lt;/a&gt;, from scratch. Volunteers also designed and gathered data for several &lt;a href=&quot;https://txappleseed.github.io/txappleseedmap/&quot;&gt;interactive maps&lt;/a&gt; that feature discipline data from over 1,200 school districts across Texas, while offering their expertise on the best way to present data that would make it easy to understand, visually appealing, and accessible to various audiences.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/good-apple-dinner.jpg&quot; alt=&quot;Good Apple Dinner program header&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On Thursday, November 17, Open Austin representatives were presented with the &lt;em&gt;Pro Bono Leadership Award&lt;/em&gt; at &lt;a href=&quot;https://texasappleseed.org/good-apple-dinner&quot;&gt;Texas Appleseed’s 20th Annual Good Apple Dinner&lt;/a&gt;. Open Austin is honored to support Texas Appleseed in one small aspect of this important work that will improve the lives of children.&lt;/p&gt;
-
-&lt;p&gt;Source Code for the School District Discipline Maps can be found on &lt;a href=&quot;https://github.com/txappleseed/txappleseedmap&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Contributors to this project include:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Patricia Silva&lt;/li&gt;
-  &lt;li&gt;John Tyree&lt;/li&gt;
-  &lt;li&gt;Carissa Melanson&lt;/li&gt;
-  &lt;li&gt;Harold Jackson&lt;/li&gt;
-  &lt;li&gt;Diego Hernandez&lt;/li&gt;
-  &lt;li&gt;Michelle Schulze&lt;/li&gt;
-  &lt;li&gt;Matt Carey&lt;/li&gt;
-  &lt;li&gt;David Infortunio&lt;/li&gt;
-  &lt;li&gt;Yamanda Wright&lt;/li&gt;
-  &lt;li&gt;Mateo Clarke&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;and many more&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 18 Nov 2016 00:00:00 -0600</pubDate>
-        <link>http://0.0.0.0:4000/blog/2016/11/18/texas-appleseed-pro-bono-leadership-award</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2016/11/18/texas-appleseed-pro-bono-leadership-award</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>October Open Gov &amp; Civic Tech Meetup Recap - Election Themed Lightning Talks</title>
-        <description>&lt;p&gt;For our pre-election Open Gov &amp;amp; Civic Tech Meetup, we had five community members give 10 minute lightning talks on different topics under the theme of elections and voting.&lt;/p&gt;
-
-&lt;p&gt;View the the slides from their talks:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Matt Carey &amp;amp; Mateo Clarke, Open Austin - &lt;a href=&quot;https://github.com/open-austin/iced-coffee/files/540541/city_council_2016_survey.1.pdf&quot;&gt;2016 City Council Candidate Surveys&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Tommy Miller, Travis County, GIS Coordinator - &lt;a href=&quot;http://tcto.maps.arcgis.com/apps/Minimalist/index.html?appid=c181a61d343b4645aa7c1c3cd445aff6&quot;&gt;Voting Wait Times &amp;amp; Polling Locations&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Shellee O’Brien - &lt;a href=&quot;https://docs.google.com/presentation/d/1bewoqrAtTIiToKOZlyGsjCSAc8pIGhM-hwVrsc4J-KE/edit?usp=sharing&quot;&gt;“The Problem with Lazy, Apathetic Non-Voters”&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Mina Adame &amp;amp; Dario Fidanza, Ideation League - &lt;a href=&quot;http://www.slideshare.net/DarioFidanza/affecting-civic-space-with-ux-design&quot;&gt;Affecting Civic Spaces with UX Design&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Ed Ireson, FOMO ATX - &lt;a href=&quot;https://fomo.vote/&quot;&gt;FOMO.vote&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Highlights from Twitter. &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;Give us a follow to stay up to date.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Tommy Miller, Travis County GIS coordinator presents voting wait times &amp;amp; polling location on a GIS map. &lt;a href=&quot;https://t.co/ebWi3Yr6dr&quot;&gt;pic.twitter.com/ebWi3Yr6dr&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/788178647815327744&quot;&gt;October 18, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;What do nonvoters care about? Impact, convenience, and community, says &lt;a href=&quot;https://twitter.com/stepwinder&quot;&gt;@stepwinder&lt;/a&gt; at &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/civictech?src=hash&quot;&gt;#civictech&lt;/a&gt; &lt;a href=&quot;https://t.co/65uLcD5KHv&quot;&gt;pic.twitter.com/65uLcD5KHv&lt;/a&gt;&lt;/p&gt;&amp;mdash; Tom O&amp;#39;Connell (@mrtomocon) &lt;a href=&quot;https://twitter.com/mrtomocon/status/788184254089867264&quot;&gt;October 18, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;ED Ireson talks About the inception of &lt;a href=&quot;https://twitter.com/FOMOvote&quot;&gt;@FOMOvote&lt;/a&gt; ! 🙌🏼&lt;br /&gt;🗳&lt;a href=&quot;https://twitter.com/hashtag/civictech?src=hash&quot;&gt;#civictech&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/atx?src=hash&quot;&gt;#atx&lt;/a&gt; &lt;a href=&quot;https://t.co/BK7fXkNGAg&quot;&gt;pic.twitter.com/BK7fXkNGAg&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/788189054353354752&quot;&gt;October 18, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&amp;quot;We have a system error not an individual error when it comes to non-voters.&amp;quot; 👏🏽 &lt;a href=&quot;https://twitter.com/stepwinder&quot;&gt;@stepwinder&lt;/a&gt;  &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/GetouttheVote?src=hash&quot;&gt;#GetouttheVote&lt;/a&gt;&lt;/p&gt;&amp;mdash; Vickie (@Victoria_ODell) &lt;a href=&quot;https://twitter.com/Victoria_ODell/status/788182114751569920&quot;&gt;October 18, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/ideationleague&quot;&gt;@ideationleague&lt;/a&gt; presenting a lightning talk at &lt;a href=&quot;https://twitter.com/openaustin&quot;&gt;@openaustin&lt;/a&gt; with &lt;a href=&quot;https://twitter.com/mina_adame&quot;&gt;@mina_adame&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/openaustin?src=hash&quot;&gt;#openaustin&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/latino?src=hash&quot;&gt;#latino&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/vote?src=hash&quot;&gt;#vote&lt;/a&gt; &lt;a href=&quot;https://t.co/Z5XhkRljL1&quot;&gt;pic.twitter.com/Z5XhkRljL1&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dario (@ArtAwake) &lt;a href=&quot;https://twitter.com/ArtAwake/status/788220424140185600&quot;&gt;October 18, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
-
-&lt;p&gt;Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
-&lt;br /&gt;
-RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow us on Twitter&lt;/a&gt;
-&amp;amp; &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like us on Facebook&lt;/a&gt;&lt;/p&gt;
-
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Wed, 19 Oct 2016 00:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/blog/2016/10/19/october-meetup-recap</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2016/10/19/october-meetup-recap</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>September Open Gov &amp; Civic Tech Meetup Recap-Data.World</title>
-        <description>&lt;p&gt;This past &lt;a href=&quot;https://www.meetup.com/Open-Austin/events/233380715/&quot;&gt;Monday’s Open Government and Civic Technology meetup&lt;/a&gt; had 2 guest speakers present. Doug Matthews, Chief Communication Officer, covered the state of the community registry. Jonathan Ortiz, Data Scientist and Knowledge Engineer at Data.world, spoke on the startup, his census project, and linked data.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Getting started! 🙌🏼 &lt;a href=&quot;https://t.co/OmIGqIydo5&quot;&gt;pic.twitter.com/OmIGqIydo5&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/778021336891346945&quot;&gt;September 20, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;community-registry-an-unexpected-journey&quot;&gt;Community Registry: an Unexpected Journey&lt;/h2&gt;
-
-&lt;p&gt;Doug Matthews started the meeting by outlining the current state of the &lt;a href=&quot;assets/documents/community_registry_pitch.pdf&quot;&gt;Austin Community Registry&lt;/a&gt;. As described by &lt;a href=&quot;http://www.austintexas.gov/page/community-registry-search&quot;&gt;data.gov&lt;/a&gt;—a community registry is a tool that allows for “neighborhoods and others to be notified of issues relating to their area”.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Kicking off the Convo on a community registry. &lt;a href=&quot;https://twitter.com/hashtag/civictech?src=hash&quot;&gt;#civictech&lt;/a&gt; &lt;a href=&quot;https://t.co/7jYjw0oKvF&quot;&gt;pic.twitter.com/7jYjw0oKvF&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/778028797610176512&quot;&gt;September 20, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;Matthews highlighted the current complexities of filling out the Austin registry and keeping it up to date. His slide examples showed how time consuming and frustrating current processes are. It is clear that a better and more interactive solution is needed. Streamlining the registry application and giving it more interactive capabilities would increase the value and functionality of this important community resource.&lt;/p&gt;
-
-&lt;p&gt;Because of this, Google Fiber and the city are partnering up to push this project forward and find help to create the best solution for Austin.&lt;/p&gt;
-
-&lt;p&gt;There are a lot of challenges and opportunities in working on the community registry. You can get engaged and help tackle them by checking out the &lt;a href=&quot;https://github.com/open-austin/project-ideas/issues/78&quot;&gt;open project issue on github&lt;/a&gt; or reaching out to Doug by emailing douglas.matthews@austintexas.gov.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/documents/community_registry_pitch.pdf&quot;&gt;View and Download Doug Matthews slides.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;open-data-wants-to-be-linked&quot;&gt;Open Data Wants to Be Linked&lt;/h2&gt;
-
-&lt;p&gt;The night concluded with Jonathan Ortiz, a data scientist from &lt;a href=&quot;https://data.world/&quot;&gt;Data.world&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Data.world is a public benefit company working to break down the barriers between data and people. Unlike some companies, they’re not about the visualization or analysis of data. They’re about helping people find the data they need and enabling cross-collaboration.&lt;/p&gt;
-
-&lt;p&gt;Jonathan highlighted the sentiment that Data.world is about more than data though. He said, “It’s about making understanding easier”.  He also emphasized the benefits of social sharing and data by saying,” We should work together. We should collaborate. We should not duplicate our efforts”.&lt;/p&gt;
-
-&lt;p&gt;He continued to explain that a lot of the data, though open and available, is being stood up and posted in silos. This means that other people can’t access it and might not even know about its existence. Having access to more relevant data could allow for more thorough research.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&amp;quot;Data providers are disconnected from data users. They load it in and you pull it out.&amp;quot;  - Jonathon Ortiz of &lt;a href=&quot;https://twitter.com/datadotworld&quot;&gt;@datadotworld&lt;/a&gt; &lt;a href=&quot;https://t.co/z16mIT9iVs&quot;&gt;pic.twitter.com/z16mIT9iVs&lt;/a&gt;&lt;/p&gt;&amp;mdash; Open Austin (@openaustin) &lt;a href=&quot;https://twitter.com/openaustin/status/778046012560510976&quot;&gt;September 20, 2016&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;Having a social platform isn’t the only way to share data though. Linked data holds many possibilites and it’s something the folks at Data.world are working on. &lt;a href=&quot;http://linkeddata.org/&quot;&gt;Linked data&lt;/a&gt; is what makes up the semantic web, which is also sometimes called a Research Description Framework or RDF. When you upload your data to Data.world there is the opportunity to link it.&lt;/p&gt;
-
-&lt;p&gt;Linking data joins the data sets to others by following a set data model. This enables the data to be better understood by machines and thus allows users to discover more insights.&lt;/p&gt;
-
-&lt;p&gt;With the linked data technology, Jonathan and Data.world partnered with the US Census Bureau. They aim to help data users by enriching the analyses that need US demographic information. They are doing this by working to ingest the &lt;a href=&quot;https://www.census.gov/programs-surveys/acs/&quot;&gt;American Community Survey&lt;/a&gt; in a linked data format. The project is ongoing.&lt;/p&gt;
-
-&lt;p&gt;You can get an invite for Data.world and share some of your own data sets by visiting the following link: [https://data.world/preview-signup]&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/documents/linked-data-presentation.pdf&quot;&gt;View and download the full presentation that Jonathan gave.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;continue-the-conversation&quot;&gt;Continue the Conversation&lt;/h2&gt;
-
-&lt;p&gt;As always:&lt;/p&gt;
-
-&lt;p&gt;Join the Open Austin community on Slack: &lt;a href=&quot;http://slack.open-austin.org/&quot;&gt;Get an invite&lt;/a&gt;
-&lt;br /&gt;
-RSVP for our future events on Meetup: &lt;a href=&quot;http://www.meetup.com/Open-Austin/&quot;&gt;RSVP&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;https://twitter.com/openaustin?lang=en&quot;&gt;Follow us on Twitter&lt;/a&gt;
-&amp;amp; &lt;a href=&quot;https://www.facebook.com/Open-Austin-412390968837071/&quot;&gt;Like us on Facebook&lt;/a&gt;&lt;/p&gt;
-
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-</description>
-        <pubDate>Sun, 25 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/blog/2016/09/25/september-meetup-recap</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2016/09/25/september-meetup-recap</guid>
         
         
       </item>
