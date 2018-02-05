@@ -11,14 +11,13 @@ Yes! Follow the steps listed in moving from [experiment to alpha](#experiment-to
 
 Also, Open Austin can do more than just endorse your project. We can provide you with:
 
-- Technical resources like Amazon Web Services, Azure, CartoDB, and [many other resources Code for America provides](https://www.codeforamerica.org/brigade/tools/) us with.
+- Access to discounted or free technical resources like Heroku, Azure, and CartoDB [through Code for America's brigade program](http://brigade.codeforamerica.org/software/).
 - Feedback and user testing.
 - Code and technical architecture reviews. 
 
 #### Does my project have to be open source?
 
 All Open Austin projects beyond the experiment stage should be open source. As far as choosing a license, choose whichever one fits your project best. Our projects have used the Unlicense (public domain), the MIT License and the GNU GPL.
-
 
 #### I have an idea for a project, but don't know how to make it or don't have the time to make it.
 
@@ -37,19 +36,21 @@ Email info@open-austin.org or ask on the [Open Austin Slack](http://slack.open-a
 
 ## Project stages
 
-Open Austin uses [Code for America's four project stages](https://www.codeforamerica.org/brigade/projects/stages).
+Open Austin categorizes projects into four stages:
 
-- [Experiment](https://www.codeforamerica.org/brigade/projects/stages#experiment)
-- [Alpha](https://www.codeforamerica.org/brigade/projects/stages#alpha)
-- [Beta](https://www.codeforamerica.org/brigade/projects/stages#beta)
-- [Official](https://www.codeforamerica.org/brigade/projects/stages#official)
+- [Experiment](#start-an-experiment)
+- [Alpha](#experiment-to-alpha)
+- [Beta](#alpha-to-beta)
+- [Official](#beta-to-official)
+
+Open Austin also supports community members who act as [outside contributors](#or-make-an-outside-contribution) to ongoing open source projects whose leadership teams aren't part of Open Austin.
 
 ### Start an **Experiment**
 
-The **experiment** stage is all about exploring problems/ideas. Open Austin should have plenty of projects at the experiment stage. Most projects will end at this stage, and that's okay.
+The **experiment** stage is all about exploring problems or ideas. Open Austin should have plenty of projects at the experiment stage. Most projects will end at this stage, and that's okay.
 
-1. Do something and tell us about it. Open an issue at https://github.com/open-austin/project-ideas/issues and tag it with experiment.
-2. Tell us if you need any resources to get started (AWS hosting, Cartodb, mockup tools, etc.)
+1. Do something and tell us about it. Open an issue at https://github.com/open-austin/project-ideas/issues and tag it with Experiment.
+2. Tell us if you need any resources to get started (hosting, mockup tools, etc.)
 3. Come to an [Open Austin event](/events) and work on share your project
 
 ### Experiment to **Alpha**
@@ -84,3 +85,8 @@ A project becomes **official** when it's polished, well known, has a community p
 1. Have a launch event! Congratulations, you've done an awesome job, and now it's time to enjoy your work.
 2. Have your metrics for usage and impact readily available.
 
+### Or Make an **Outside Contribution**
+
+Often the best way to use open source technology to solve a civic problem is by improving a tool that's already being managed or developed by someone outside Open Austin. When you make **outside contributions to open source projects**, you may not want to use Open Austin's project management process, or you might want to choose only the parts that make sense for your work. In that case, Open Austin is still available as a setting to share ideas and seek collaborators.
+
+When you bring an outside project to an Open Austin event, it should still be consistent with Open Austin's [code of conduct](https://open-austin.org/about/#code-of-conduct).
