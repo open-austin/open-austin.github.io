@@ -55,9 +55,7 @@ The **experiment** stage is all about exploring problems or ideas. Open Austin s
 
 ### Experiment to **Alpha**
 
-The **alpha** stage is about making sure your project solves a person's/group's problem.
-
-:information_source:  This is the point at which a project becomes an "approved" Open Austin project.
+The **alpha** stage is about making sure your project solves a person's/group's problem. This is the point at which a project becomes an "approved" Open Austin project.
 
 1. Identify a project's owner(s)
 2. Get approval from an Open Austin coreteam member
