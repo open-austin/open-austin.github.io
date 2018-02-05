@@ -7,6 +7,7 @@ Type:         web application
 Contact:      hack@open-austin.com
 Categories:   [ Advocacy, Civic Engagement, Data Liberation, Data wrangling, Democracy, Programming, Python, Texas ]
 date:         2017-09-29 00:00:00
+cfa_stage:    outside
 thumb:        openstates.png
 screenshot:   openstates.png
 ---

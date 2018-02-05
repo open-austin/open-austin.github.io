@@ -7,7 +7,7 @@ type:         web application
 status:       deployed
 categories:   [ openstreetmap, austin, data ]
 contact:      Andy Wilson <wilson.andrew.j@gmail.com>
-cfa_stage:    official
+cfa_stage:    outside
 date:         2015-11-05 00:00:00
 screenshot:   osmimport.jpg
 ---

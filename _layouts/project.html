@@ -20,7 +20,7 @@ layout: default
                         <a href="{{ page.access_at }}" class="svg-icon">{% include icons/SVG/link.svg %}</a>
                         <a href="{{ page.project_at }}" class="svg-icon icon--github">{% include icons/icon-github.svg %}</a>
                         {% if page.cfa_stage %}
-                        <a class="project-status" href="https://www.codeforamerica.org/brigade/projects/stages">
+                        <a class="project-status" href="/projects/process#{{ page.cfa_stage }}">
                             <span class="btn btn-{{ page.cfa_stage }}-project">{{ page.cfa_stage }}</span>
                         </a>
                         {% endif %}

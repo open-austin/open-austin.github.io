@@ -39,7 +39,7 @@ title: Projects
                         <a href="{{ project.project_at }}" class="svg-icon icon--github" target="_blank">{% include icons/icon-github.svg %}</a>
                     {% endif %}
                     {% if project.cfa_stage %}
-                        <a class="project-status" href="https://www.codeforamerica.org/brigade/projects/stages" target="_blank">
+                        <a class="project-status" href="/projects/process#{{ project.cfa_stage }}" target="_blank">
                             <span class="btn btn-{{ project.cfa_stage }}-project">{{ project.cfa_stage }}</span>
                         </a>
                     {% endif %}

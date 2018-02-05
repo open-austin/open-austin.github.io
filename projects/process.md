@@ -7,7 +7,7 @@ title: Open Austin Project Process
 
 #### I have a project that I'm already working on. Can Open Austin endorse my project?
 
-Yes! Follow the steps listed in moving from [experiment to alpha](#experiment-to-alpha).
+Yes! Follow the steps listed in moving from [experiment to alpha](#alpha).
 
 Also, Open Austin can do more than just endorse your project. We can provide you with:
 
@@ -38,14 +38,14 @@ Email info@open-austin.org or ask on the [Open Austin Slack](http://slack.open-a
 
 Open Austin categorizes projects into four stages:
 
-- [Experiment](#start-an-experiment)
-- [Alpha](#experiment-to-alpha)
-- [Beta](#alpha-to-beta)
-- [Official](#beta-to-official)
+- [Experiment](#experiment)
+- [Alpha](#alpha)
+- [Beta](#beta)
+- [Official](#official)
 
-Open Austin also supports community members who act as [outside contributors](#or-make-an-outside-contribution) to ongoing open source projects whose leadership teams aren't part of Open Austin.
+Open Austin also supports community members who act as [outside contributors](#outside) to ongoing open source projects whose leadership teams aren't part of Open Austin.
 
-### Start an **Experiment**
+### <a name="experiment"></a>Start an **Experiment**
 
 The **experiment** stage is all about exploring problems or ideas. Open Austin should have plenty of projects at the experiment stage. Most projects will end at this stage, and that's okay.
 
@@ -53,7 +53,7 @@ The **experiment** stage is all about exploring problems or ideas. Open Austin s
 2. Tell us if you need any resources to get started (hosting, mockup tools, etc.)
 3. Come to an [Open Austin event](/events) and work on share your project
 
-### Experiment to **Alpha**
+### <a name="alpha"></a>Experiment to **Alpha**
 
 The **alpha** stage is about making sure your project solves a person's/group's problem. This is the point at which a project becomes an "approved" Open Austin project.
 
@@ -67,7 +67,7 @@ The **alpha** stage is about making sure your project solves a person's/group's 
   - What is the architecture of your project? _We may ask you to make changes to the architecture._
   - How do you deploy the project?
 
-### Alpha to **Beta**
+### <a name="beta"></a>Alpha to **Beta**
  
 The **beta** stage is about getting "more users" and "more feedback." The project should be looking for more users and recording more metrics.
 
@@ -76,14 +76,14 @@ The **beta** stage is about getting "more users" and "more feedback." The projec
 3. Have a sense of what metrics you'll be recording and using to measure impact
 4. Plan some launch event
 
-### Beta to **Official**
+### <a name="official"></a>Beta to **Official**
 
 A project becomes **official** when it's polished, well known, has a community partner, and the project leaders have a good sense of the impact of the project. 
 
 1. Have a launch event! Congratulations, you've done an awesome job, and now it's time to enjoy your work.
 2. Have your metrics for usage and impact readily available.
 
-### Or Make an **Outside Contribution**
+### <a name="outside"></a>Or Make an **Outside Contribution**
 
 Often the best way to use open source technology to solve a civic problem is by improving a tool that's already being managed or developed by someone outside Open Austin. When you make **outside contributions to open source projects**, you may not want to use Open Austin's project management process, or you might want to choose only the parts that make sense for your work. In that case, Open Austin is still available as a setting to share ideas and seek collaborators.
 
