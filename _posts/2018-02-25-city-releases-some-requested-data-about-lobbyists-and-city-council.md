@@ -3,7 +3,7 @@ layout: post
 title: City Releases Some Requested Data about Lobbyists and City Council 
 date: 2018-02-25
 type: post
-published: false
+published: true
 thumb: city-hall-solar-thumbnail.jpg
 thumbalt: Photo of Austin City Hall
 author:
