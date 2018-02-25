@@ -57,7 +57,7 @@ To determine whether the city is making progress on reducing emissions, a resear
 
 4. [Travis County Community-wide Greenhouse Gas Emissions Inventory](https://data.austintexas.gov/City-Government/Travis-County-Community-wide-Greenhouse-Gas-Emissi/3maj-7ecz). This dataset contains just three rows of summary statistics, but it covers eight broad categories, it's calculated as CO2-eq, and it's not limited to municipal operations.
 
-5. As the [Office of Sustainability told us](https://www.open-austin.org/blog/2017/12/04/Open-Austin-Releases-Joint-Advocacy-Agenda-With-Austin-Tech-Alliance) after this post was originally written, there are also several [ECAD (Energy Conservation Audit and Disclosure) datasets](https://data.austintexas.gov/browse?q=ECAD&sortBy=relevance&page=1), which include energy audits for large commercial buildings.
+5. As the [Office of Sustainability told us](https://medium.com/open-austin/office-of-sustainability-offers-guidance-for-civic-climate-data-2faf348efef4) after this post was originally written, there are also several [ECAD (Energy Conservation Audit and Disclosure) datasets](https://data.austintexas.gov/browse?q=ECAD&sortBy=relevance&page=1), which include energy audits for large commercial buildings.
 
 The other side of the calculation is emissions avoided by following different parts of the climate plan. The city reports:
 
