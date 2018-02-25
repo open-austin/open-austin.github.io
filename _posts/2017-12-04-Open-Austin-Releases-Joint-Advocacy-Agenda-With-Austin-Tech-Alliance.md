@@ -47,7 +47,7 @@ Open Austin produced a few, mostly experimental, [visualizations from the availa
 
 Mayor Adler recently reaffirmed the city's goal to have a [cumulative net zero carbon footprint by 2050](http://kxan.com/2017/11/28/austin-and-georgetown-mayors-talk-renewable-impacts-and-climate-change/), and a sense of crisis about environmental issues is one common reason that Open Austin members give for their interest in open data. Despite that, no civic technolocy project about climate change has ever moved beyond the early experimental phase in Open Austin. One reason for that absence could be that the city hasn't yet released the best possible data for measuring the city's progress on its Community Climate Plan.
 
-To determine whether the city is making progress on reducing emissions, a researcher needs to measure not just the actual emissions, but also the emissions that have been avoided due to the city's environmental policies. The city has four good datasets about actual emissions:
+To determine whether the city is making progress on reducing emissions, a researcher needs to measure not just the actual emissions, but also the emissions that have been avoided due to the city's environmental policies. The city has several good datasets about actual emissions:
 
 1. [emissions by plant](https://data.austintexas.gov/Utilities-and-City-Services/Emissions-By-Plant/ukf5-i76d/data), which is aggregated into [emissions by year](https://data.austintexas.gov/Utilities-and-City-Services/CO2-emissions-by-year/e25g-t5zh), calculated as metric tons of carbon dioxide equivalents (CO2-eq).
 
@@ -57,13 +57,15 @@ To determine whether the city is making progress on reducing emissions, a resear
 
 4. [Travis County Community-wide Greenhouse Gas Emissions Inventory](https://data.austintexas.gov/City-Government/Travis-County-Community-wide-Greenhouse-Gas-Emissi/3maj-7ecz). This dataset contains just three rows of summary statistics, but it covers eight broad categories, it's calculated as CO2-eq, and it's not limited to municipal operations.
 
+5. As the [Office of Sustainability told us](https://www.open-austin.org/blog/2017/12/04/Open-Austin-Releases-Joint-Advocacy-Agenda-With-Austin-Tech-Alliance) after this post was originally written, there are also several [ECAD (Energy Conservation Audit and Disclosure) datasets](https://data.austintexas.gov/browse?q=ECAD&sortBy=relevance&page=1), which include energy audits for large commercial buildings.
+
 The other side of the calculation is emissions avoided by following different parts of the climate plan. The city reports:
 
-5. [Emissions avoided in 2012 by various categories of efficiency programs](https://data.austintexas.gov/Utilities-and-City-Services/Energy-Efficiency-Avoided-Emissions-2012/69ir-67ws). This appears to be in real tons of emissions, not CO2 equivalents.
+1. [Emissions avoided in 2012 by various categories of efficiency programs](https://data.austintexas.gov/Utilities-and-City-Services/Energy-Efficiency-Avoided-Emissions-2012/69ir-67ws). This appears to be in real tons of emissions, not CO2 equivalents.
 
-6. [Avoided emissions from plug-in network charges](https://data.austintexas.gov/City-Government/Economy-Creativity-Avoided-emissions-from-plug-in-/wqg5-bweh)
+2. [Avoided emissions from plug-in network charges](https://data.austintexas.gov/City-Government/Economy-Creativity-Avoided-emissions-from-plug-in-/wqg5-bweh)
 
-7. A very small dataset about [emissions prevented by a telework pilot program](https://data.austintexas.gov/Utilities-and-City-Services/Austin-Resource-Recovery-Telework-Pilot/ac5x-csd7)
+3. A very small dataset about [emissions prevented by a telework pilot program](https://data.austintexas.gov/Utilities-and-City-Services/Austin-Resource-Recovery-Telework-Pilot/ac5x-csd7)
 
 The dataset about emissions avoided through efficiency programs has a lot of useful information, but it only covers the year 2012, which was prior to the adoption of the Community Climate Plan in 2015. (In 2012, Austin Energy was operating under the earlier "[Austin Climate Protection Plan](https://austinenergy.com/ae/about/environment/austin-climate-protection-plan).") Also, some of the dataset's categories of efficiency programs are broad or vague, and it's not clear what methodology was used for attributing emissions reductions to various categories. It would also be helpful for the city to clarify when each efficiency program began so researchers could try to isolate the impact from each program.
 
