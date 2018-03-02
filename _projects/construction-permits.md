@@ -9,6 +9,7 @@ contact:      Luqmaan Dawoodjee <ldawoodjee@gmail.com>
 cfa_stage:    alpha
 date:         2015-06-25 00:00:00
 screenshot:   constructionpermits.jpg
+archived:     true
 ---
 
 Scrapes the City of Austin's Construction Permits endpoint and stores the data on GitHub. The endpoint has major limitations like only allowing you to access seven days of data at a time. Data is scraped from http://www.austintexas.gov/oss_permits/permit_report.cfm on a daily basis.

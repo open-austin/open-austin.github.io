@@ -10,6 +10,7 @@ contact:      Andy Wilson <wilson.andrew.j@gmail.com>
 cfa_stage:    outside
 date:         2015-11-05 00:00:00
 screenshot:   osmimport.jpg
+archived:     true
 ---
 
 OpenStreetMap is a collaborative map of the world that is free to edit and use.

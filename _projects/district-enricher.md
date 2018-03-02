@@ -8,4 +8,5 @@ Status:       ideation
 Contact:      Chip Rosenthal <chip@unicom.com>
 Categories:   [ category, ... ]
 date:         2014-10-02 00:00:00
+archived:     true
 ---

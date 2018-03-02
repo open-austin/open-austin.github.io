@@ -9,6 +9,7 @@ Categories: [ transporation, bicycling ]
 Contact: Chip Rosenthal <chip@unicom.com>
 screenshot: bike-buddy.png
 date: 2014-10-02 00:00:00
+archived: true  
 ---
 
 Bike Buddy was created in support of Bike Month in Austin in 2013. Although the application is still running, it's in sustaining mode and is not being actively supported.

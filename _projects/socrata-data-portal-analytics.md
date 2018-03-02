@@ -8,4 +8,5 @@ Status:       in development
 Contact:      Nick Hadjigeorge <nghadjigeorge@gmail.com>
 Categories:   [ open data ]
 date:         2015-08-09 00:00:00
+archived:     true
 ---

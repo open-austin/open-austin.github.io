@@ -12,13 +12,14 @@ title: Projects
         </p>
         <h2>Project Status</h2>
         <p>
-            We are working on defining a process for projects to evolve from the experiment stage to alpha, beta, and official. Here is more information about our <a href="/projects/process">project process</a>.
+            We are defining a process for projects to evolve from the experiment stage to alpha, beta, and official. Here is more information about our <a href="/projects/process">project process</a>.
         </p>
 
       <h2>Project Gallery</h2>
         <ul class="project-gallery">
             {% assign items = site.projects | sort: 'date' | reverse %}
             {% for project in items %}
+            {% unless project.archived == true %}
             <div class="project-gallery-item">
             <li>
                 <div class="project-header">
@@ -49,6 +50,7 @@ title: Projects
                 </div>
             </li>
             </div>
+            {% endunless %} 
             {% endfor %}
         </ul>
     </div>

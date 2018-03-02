@@ -9,4 +9,5 @@ Categories: [ environment, recycle, waste management ]
 Contact: hack@open-austin.org
 date: 2014-10-01 00:00:00
 screenshot: austinrecycles.jpg
+archived: true
 ---

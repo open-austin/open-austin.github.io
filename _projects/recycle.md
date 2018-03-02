@@ -11,7 +11,7 @@ cfa_stage:    beta
 date:         2016-06-08 00:00:00
 thumb:        ![](https://cloud.githubusercontent.com/assets/8691910/15906558/01d5d17c-2d7f-11e6-8118-e57a76fdfc8b.png)
 screenshot:   recycle-map-view.png
-featured:     true
+featured:     false
 ---
 
 [**Recycle Please**](http://www.open-austin.org/recycling-atx/)

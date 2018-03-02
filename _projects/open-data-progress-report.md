@@ -10,7 +10,7 @@ Categories:   [ open data ]
 date:         2015-11-21 00:00:00
 cfa_stage:    alpha
 screenshot:   opendataprogressreport.jpg
-featured:     true
+featured:     false
 ---
 
 The endpoint has major limitations like only allowing you to access seven days of data at a time.

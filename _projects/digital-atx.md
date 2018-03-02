@@ -9,4 +9,5 @@ Contact:      Sharla Chamberlain
 Categories:   [ digital, divide, community, inclusion ]
 date:         2013-07-18 00:00:00
 screenshot:   digitalatx.jpg
+archived: true
 ---

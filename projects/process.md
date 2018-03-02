@@ -27,7 +27,8 @@ Open an issue at https://github.com/open-austin/project-ideas.
 
 #### I don't have a project. How can I help?
 
-Check out the ideas at https://github.com/open-austin/project-ideas/issues.
+Check out the ideas at https://github.com/open-austin/project-ideas/issues, or check our experimental issues list at [helpwanted.team](helpwanted.team/open-austin).
+
 
 #### I have more questions. Who can I ask?
 

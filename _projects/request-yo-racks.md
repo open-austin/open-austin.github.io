@@ -10,6 +10,6 @@ contact:      Rémy Greinhofer, @rgreinho
 cfa_stage:    experiment
 date:         2018-01-10 00:00:00
 thumb:        
-screenshot:   requeststhumb.jpeg
-featured:     true
+screenshot:   RequestYoRacks-thumb.jpg
+featured:     false
 ---

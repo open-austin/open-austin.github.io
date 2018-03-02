@@ -8,4 +8,5 @@ Status: deployed
 Categories: [ project management, civic hacking ]
 Contact: hack@open-austin.org
 date: 2014-10-01 00:00:00
+archived:     true
 ---

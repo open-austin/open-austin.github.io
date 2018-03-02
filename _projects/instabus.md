@@ -11,7 +11,7 @@ cfa_stage:    beta
 date:         2015-04-09 00:00:00
 thumb:        instabus.png
 screenshot:   instabus.jpg
-featured:     true
+featured:     false
 ---
 
 [**www.Instabus.org**](http://instabus.org)

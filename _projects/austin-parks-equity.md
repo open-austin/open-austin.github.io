@@ -10,5 +10,5 @@ Categories:   [ GIS, mapping, parks, inequity, green-space ]
 date:         2015-05-18 00:00:00
 cfa_stage:    alpha
 screenshot:   austinparkequity.jpg
-featured:     true
+featured:     false
 ---
