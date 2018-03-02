@@ -32,6 +32,43 @@ In every City of Austin election since 2011, Open Austin submitted a policy ques
 *   [2012 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2012-austin-city-council.html)
 *   [2011 Austin City Council Candidate Questionnaire](/candidate-questionnaires/2011-austin-city-council.html)
 
+## Resources for Advocacy
+
+
+{:.no_toc}
+### Government Data
+
+*   [City of Austin Open Data Portal](https://data.austintexas.gov/) (data.austintexas.gov) - Provides datasets published by the City, as well as reporting and visualization tools that operate on these datasets.
+*   [City of Austin GIS](http://austintexas.gov/department/gis-and-maps) (Geographic Information Systems) - Downloadable GIS datasets, plus links to various maps and viewers.
+*   [Capital Metro Geospatial Data](http://www.capmetro.org/stats/) - GIS datasets published by the local transit authority.
+*   [CAPCOG Data, Maps, and Reports](http://www.capcog.org/data-maps-and-reports/) - Published by the Capital Area Council of Governments
+*   [TNRIS Maps & Data](http://www.tnris.org/get-data?quicktabs_maps_data=1) - Published by the Texas Natural Resources Information System, part of the Texas Water Development Board.
+
+{:.no_toc}
+### Open Records
+
+*   [Public Information Handbook](https://www.texasattorneygeneral.gov/files/og/publicinfo_hb.pdf)
+*   [City of Austin Open Records](http://www.austintexas.gov/department/open-records)
+
+{:.no_toc}
+### City of Austin
+
+*   [Austin Government Online](http://austintexas.gov/austingo2.0) (AustinGO) - Updates from the City of Austin "AustinGO" team.
+*   [@atxgo](https://twitter.com/atxgo) - AustinGO2.0 Twitter feed
+*   [City Council Open Government Resources](http://www.austintexas.gov/ogcr)
+
+{:.no_toc}
+### Texas
+
+*   [Texas Ethics Commission Campaign Finance Data](https://www.ethics.state.tx.us/main/search.htm)
+*   [Texas Attorney General Open Government](https://www.texasattorneygeneral.gov/og/open-government)
+
+{:.no_toc}
+### Other Resources
+
+*   [Code for America / Austin](https://www.codeforamerica.org/why-government/our-partners/austin-tx) - In 2012, Austin participated in a _Code for America_ fellowship.
+*   [Austin Monitor: The Basics](https://www.austinmonitor.com/basics/)
+
 ## City Initiatives
 
 {:.no_toc}
@@ -94,21 +131,3 @@ The Austin City Council held a Budget Hearing on August 30, 2012 to receive citi
 On December 8, 2011, the Austin City Council adopted an Open Government Resolution, which called for the City Manager to propose an Open Government Framework, including implementation plans and budgets. We provided input to the resolution and strongly support its adoption.
 
 *   [City of Austin Open Government Resolution](/advocacy/documents/20111208-austin-opengov-resol.pdf)
-
-{:.no_toc}
-## Government Data
-
-*   [City of Austin Open Data Portal](https://data.austintexas.gov/) (data.austintexas.gov) - Provides datasets published by the City, as well as reporting and visualization tools that operate on these datasets.
-*   [City of Austin GIS](http://austintexas.gov/department/gis-and-maps) (Geographic Information Systems) - Downloadable GIS datasets, plus links to various maps and viewers.
-*   [Capital Metro Geospatial Data](http://www.capmetro.org/stats/) - GIS datasets published by the local transit authority.
-*   [CAPCOG Data, Maps, and Reports](http://www.capcog.org/data-maps-and-reports/) - Published by the Capital Area Council of Governments
-*   [TNRIS Maps & Data](http://www.tnris.org/get-data?quicktabs_maps_data=1) - Published by the Texas Natural Resources Information System, part of the Texas Water Development Board.
-
-## City of Austin
-
-*   [Austin Government Online](http://austintexas.gov/austingo2.0) (AustinGO) - Updates from the City of Austin "AustinGO" team.
-*   [@atxgo](https://twitter.com/atxgo) - AustinGO2.0 Twitter feed
-
-## Other Resources
-
-*   [Code for America / Austin](https://www.codeforamerica.org/why-government/our-partners/austin-tx) - In 2012, Austin participated in a _Code for America_ fellowship.
