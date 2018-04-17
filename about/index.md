@@ -56,13 +56,9 @@ You can reach us at: info@open-austin.org
 
 - Victoria O’Dell – Brigade Co-Captain
 - Sarah Shields – Brigade Co-Captain
-- Marco Pineda – Event Lead
 - Matt Carey – Project Co-Lead
-- Marcos Vanetta – Project co-Lead
 - John Placa – Finance Lead
-- [_Open! Apply for this position_](https://openaustin.typeform.com/to/zyE0a4) – Policy Lead
-- [_Open! Apply for this position_](https://openaustin.typeform.com/to/zyE0a4) – Marketing Lead
-- [_Open! Apply for this position_](https://openaustin.typeform.com/to/zyE0a4) – Membership Lead
+- Shellee O'Brien – Community Outreach Lead
 - _Chip Rosenthal – Director Emeritus_
 
 Interested in joining the team? Learn about the [ways you can lead](https://docs.google.com/document/d/1kbS0wJj9o_Xr5yKBJ2oF9_wAPscZ2gksnOyMMuqVHk4/edit), and then [let us know](https://openaustin.typeform.com/to/zyE0a4).
