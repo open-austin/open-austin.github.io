@@ -99,7 +99,7 @@ Harassment includes but is not limited to: offensive verbal or written comments 
 
 If a participant engages in harassing behavior, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from Open Austin events and network activities.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately. You can contact them at [info@open-austin.org](mailto:info@open-austin.org) or 210-837-3353 (Mateo Clarke, mobile). Event staff will help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately. You can contact them at [info@open-austin.org](mailto:info@open-austin.org) or 469-951-1576 (Victoria O'Dell, mobile). Event staff will help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 If you cannot reach an event organizer and/or it is an emergency, please call 911 and/or remove yourself from the situation.
 
