@@ -25,21 +25,18 @@ author:
 ## Attending an event and need to Sign In?
 [**Sign In here**](https://docs.google.com/forms/d/e/1FAIpQLSd799C8EF7cCXmuSM9jfYPFSlPGPReFOao_GTaI58QD_w5FPg/viewform?embedded=true) We'll keep you informed about upcoming events and projects. Don't worry, we hate spam too.
 
-Signing in at five events will get you one of our awesome Open Austin t-shirts. Was this your fifth event? Contact @seand on [Slack](https://open-austin.slack.com/messages/) with your shirt size.
+Signing in at five events will get you one of our awesome Open Austin t-shirts. Was this your fifth event? Contact @leadership on [Slack](https://open-austin.slack.com/messages/) with your shirt size.
 
 ## What is Civic Hacking?
-Our brigade captain Mateo Clarke gives a rundown on [Civic Hacking 101](https://www.youtube.com/embed/sxrgxDF4FJ0).
+Our formger brigade co-captain Mateo Clarke gives a rundown on [Civic Hacking 101](https://www.youtube.com/embed/sxrgxDF4FJ0).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sxrgxDF4FJ0" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
 ## Interested in attending an upcoming event?
-You can RSVP for upcoming events on [Meetup](https://www.meetup.com/Open-Austin/). We have two types of events, both are free and open to the public. For details visit [Events](/events).
+You can RSVP and stay up to date on our upcoming events on [Meetup](https://www.meetup.com/Open-Austin/).  For details about our 3 monthly events visit [Events](/events). 
 
-Once a month we get together to discuss local open government and civic technology issues. They often feature a guest presentation and Q&A session.
-
-Hack events occur throughout the month and allow attendees to collaborate on projects or pitch a new project idea.
 
 ## Want to help an existing project or suggest a new project?
 We keep track of our projects on [GitHub](https://github.com/open-austin).
