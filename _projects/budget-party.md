@@ -6,6 +6,7 @@ project_at:   https://github.com/open-austin/budgetparty
 Type:         web application
 Status:       Alpha
 Contact:      code@mateoclarke.com
+cfa_stage:    Alpha
 Categories:   [ civic engagement, Finance, Javascript ]
 date:         2017-04-20 00:00:00
 thumb:        budget-party.png

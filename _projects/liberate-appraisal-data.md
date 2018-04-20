@@ -5,6 +5,7 @@ project_at:   https://github.com/open-austin/liberate-appraisal-data
 Type:         Discussion
 Status:       Alpha
 Contact:      john.clary@austintexas.gov
+cfa_stage:    Alpha
 Categories:   [ Data Liberation, Data wrangling, DevOps/Infrastructure, Housing, Open data, Policy, Urban Planning ]
 date:         2017-04-20 00:00:00
 thumb:        liberate-appraisal-data.png

@@ -4,7 +4,7 @@ description:  An experiment with data visualization for the city's lobbyists reg
 access_at:    https://www.open-austin.org/lobbying-in-austin/
 project_at:   https://github.com/open-austin/lobbying-in-austin
 Type:         web application
-Status:       Alpha
+cfa_stage:    alpha
 Contact:      https://open-austin.slack.com/team/mscarey
 Categories:   [ civic engagement, Finance, Javascript ]
 date:         2017-04-20 00:00:00
