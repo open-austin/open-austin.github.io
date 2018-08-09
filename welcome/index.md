@@ -35,7 +35,7 @@ Our formger brigade co-captain Mateo Clarke gives a rundown on [Civic Hacking 10
 <br>
 
 ## Interested in attending an upcoming event?
-You can RSVP and stay up to date on our upcoming events on [Meetup](https://www.meetup.com/Open-Austin/).  For details about our 3 monthly events visit [Events](/events). 
+You can RSVP and stay up to date on our upcoming events on [Meetup](https://www.meetup.com/Open-Austin/).  For details about our monthly events visit [Events](/events). 
 
 
 ## Want to help an existing project or suggest a new project?
