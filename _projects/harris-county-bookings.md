@@ -3,7 +3,8 @@ title:        Harris County Bookings
 description:  Scraper that runs daily to aggregate data from the Harris County Justice Information and Management System reports
 project_at:   https://github.com/open-austin/harris-county-bookings
 Type:         data
-Status:       Alpha
+cfa_stage:    alpha
+status:       archival
 Contact:      kmitchell@TexasCJC.org
 Categories:   [ policy, open data, crime ]
 date:         2017-04-20 00:00:00

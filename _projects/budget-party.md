@@ -4,7 +4,7 @@ description:  Web app that teaches about the City Budget and invites you to remi
 access_at:    https://austinbudget.party
 project_at:   https://github.com/open-austin/budgetparty
 Type:         web application
-Status:       Alpha
+Status:       deployed
 Contact:      code@mateoclarke.com
 cfa_stage:    Alpha
 Categories:   [ civic engagement, Finance, Javascript ]
