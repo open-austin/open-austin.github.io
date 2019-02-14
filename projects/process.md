@@ -78,14 +78,11 @@ All Open Austin projects beyond the experiment stage should be open source. As f
 
 #### I have an idea for a project, but don't know how to make it or don't have the time to make it.
 
-Even if you don't have the resources to make your project, you should still tell us about it.
-
-Open an issue at https://github.com/open-austin/project-ideas.
+Even if you don't have the resources to make your project, you can still invite other people to work on it by opening an issue at https://github.com/open-austin/project-ideas.
 
 #### I don't have a project. How can I help?
 
 Check out the ideas at https://github.com/open-austin/project-ideas/issues, or check our experimental issues list at [helpwanted.team](helpwanted.team/open-austin).
-
 
 #### I have more questions. Who can I ask?
 

@@ -65,6 +65,11 @@ Interested in joining the team? Learn about the [ways you can lead](https://docs
 
 ---
 
+### Our Nonprofit Governance
+Open Austin is a nonprofit entity. You can read our [bylaws](https://drive.google.com/open?id=1yvs5w4h8DslTdi3dHRRggJs26u4MZWoY) and [board meeting minutes](https://drive.google.com/open?id=163C2dsaa-dYH45gUfy9t3Uql5XUfTc4A).
+
+---
+
 ## Code of Conduct
 Open Austin is committed to broad community participation, and making our events enjoyable and rewarding for everybody who participates. We provide this Code of Conduct In the interest of facilitating a positive, nurturing experience for all.
 
