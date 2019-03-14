@@ -7,7 +7,7 @@ type:         website
 status:       deployed
 categories:   [ politics, campaign finance ]
 contact:      Amy Mosley <	influencetexas@gmail.com >
-cfa_stage:    beta
+cfa_stage:    Beta
 date:         2018-09-13 00:00:00
 thumb:        influenceTX.png
 screenshot:   influenceTX-screenshot.png

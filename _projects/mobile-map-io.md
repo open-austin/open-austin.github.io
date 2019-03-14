@@ -5,7 +5,7 @@ access_at:    https://andyhub.com/concepts/mobile-reporting/
 project_at:   https://github.com/werdnanoslen/mobile-map-io
 Type:         web application
 Contact:      https://andyhub.com/
-cfa_stage:    experiment
+cfa_stage: Experiment
 Categories:   [ civic engagement, Mobile, Javascript ]
 date:         2017-06-04 00:00:00
 thumb: mobile-map-io.png

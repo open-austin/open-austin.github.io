@@ -5,7 +5,7 @@ access_at:    http://open-austin.github.io/austingreenmap/
 project_at:   https://github.com/open-austin/austingreenmap
 Type:         web application
 Status:       deployed
-cfa_stage:    alpha
+cfa_stage:    Alpha
 Contact:      Luqmaan Dawoodjee <ldawoodjee@gmail.com>
 Categories:   [ map, parks, austin, pard ]
 date:         2015-08-02 00:00:00
@@ -21,4 +21,3 @@ Inspired by https://github.com/codeforboston/bostongreenmap.
 On the web: http://www.open-austin.org/austingreenmap/.
 
 On the app store: https://itunes.apple.com/us/app/green-map-interactive-map/id1022734155?mt=8
-

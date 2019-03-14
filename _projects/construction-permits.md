@@ -6,7 +6,7 @@ type:         web application
 status:       deployed
 categories:   [ data, construction, permits, city ]
 contact:      Luqmaan Dawoodjee <ldawoodjee@gmail.com>
-cfa_stage:    alpha
+cfa_stage:    Alpha
 date:         2015-06-25 00:00:00
 screenshot:   constructionpermits.jpg
 archived:     true

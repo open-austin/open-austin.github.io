@@ -8,7 +8,7 @@ Status:       in development
 Contact:      Mateo Clarke <code@mateoclarke.com>
 Categories:   [ GIS, mapping, parks, inequity, green-space ]
 date:         2015-05-18 00:00:00
-cfa_stage:    alpha
+cfa_stage:    Beta
 screenshot:   austinparkequity.jpg
 featured:     false
 ---

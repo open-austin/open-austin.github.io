@@ -7,7 +7,7 @@ type:         web application
 status:       deployed
 categories:   [ transit, transportation, bus, train ]
 contact:      Luqmaan Dawoodjee <ldawoodjee@gmail.com>
-cfa_stage:    beta
+cfa_stage:    Beta
 date:         2015-04-09 00:00:00
 thumb:        instabus.png
 screenshot:   instabus.jpg

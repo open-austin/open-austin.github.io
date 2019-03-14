@@ -7,9 +7,9 @@ type:         website
 status:       in development
 categories:   [ government, transportation ]
 contact:      Rémy Greinhofer, @rgreinho
-cfa_stage:    experiment
+cfa_stage: Experiment
 date:         2018-01-10 00:00:00
-thumb:        
-screenshot:   RequestYoRacks-thumb.jpg
+thumb:
+screenshot:   RequestYoRacks.jpg
 featured:     false
 ---

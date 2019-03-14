@@ -6,7 +6,7 @@ type:         web application
 status:       deployed
 categories:   [ transit, capmetro, austin, statistics, data, github ]
 contact:      Sean Cascketta <scascketta@gmail.com>
-cfa_stage:    alpha
+cfa_stage:    Alpha
 date:         2015-06-25 00:00:00
 screenshot:   capmetrics.png
 ---

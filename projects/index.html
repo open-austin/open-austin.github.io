@@ -19,7 +19,7 @@ title: Projects
         <ul class="project-gallery">
             {% assign items = site.projects | sort: 'date' | reverse %}
             {% for project in items %}
-            {% unless project.archived == true %}
+            {% unless project.archived %}
             <div class="project-gallery-item">
             <li>
                 <div class="project-header">
@@ -50,7 +50,7 @@ title: Projects
                 </div>
             </li>
             </div>
-            {% endunless %} 
+            {% endunless %}
             {% endfor %}
         </ul>
     </div>

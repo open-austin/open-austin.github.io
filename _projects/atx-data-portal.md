@@ -8,6 +8,6 @@ Status:       deployed
 Contact:      hack@open-austin.org
 Categories:   [ open data ]
 date:         2014-10-02 00:00:00
-cfa_status:   beta
+cfa_status:   Beta
 screenshot:   howtousethedataportal.jpg
 ---

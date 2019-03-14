@@ -7,9 +7,9 @@ type:         website
 status:       in development
 categories:   [ education, justice ]
 contact:      Ellen Stone <	estone@texasappleseed.net>
-cfa_stage:    beta
+cfa_stage:    Beta
 date:         2015-07-15 00:00:00
 thumb:        appleseedthumb.png
 screenshot:   appleseed_map.jpg
-featured:     true
+featured:     false
 ---

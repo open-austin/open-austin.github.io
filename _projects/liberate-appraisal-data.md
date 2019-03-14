@@ -3,7 +3,7 @@ title:        Liberate Appraisal Data
 description:  An effort to open up the Travis County Appraisal District (TCAD) appraisal roll data
 project_at:   https://github.com/open-austin/liberate-appraisal-data
 Type:         Discussion
-Status:       Alpha
+Status:       inactive
 Contact:      john.clary@austintexas.gov
 cfa_stage:    Alpha
 Categories:   [ Data Liberation, Data wrangling, DevOps/Infrastructure, Housing, Open data, Policy, Urban Planning ]

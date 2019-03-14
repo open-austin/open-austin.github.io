@@ -1,13 +1,13 @@
 ---
 title:        Recycle Please
-description:  This project shows users which buildings in Austin, TX do not recycle. The application was developed in partnership with the City of Austin to enforce the Universal Recycling Ordinance set to go in effect Oct 1st, 2017. 
+description:  This project shows users which buildings in Austin, TX do not recycle. The application was developed in partnership with the City of Austin to enforce the Universal Recycling Ordinance set to go in effect Oct 1st, 2017.
 access_at:    http://www.open-austin.org/recycling-atx/
 project_at:   https://github.com/open-austin/recycling-atx
 type:         web application
-status:       beta
+status:       inactive
 categories:   [ mapping, environmental, recycling, waste management ]
 contact:      Augustus Ireland <augustus.ireland@gmail.com>
-cfa_stage:    beta
+cfa_stage:    Beta
 date:         2016-06-08 00:00:00
 thumb:        ![](https://cloud.githubusercontent.com/assets/8691910/15906558/01d5d17c-2d7f-11e6-8118-e57a76fdfc8b.png)
 screenshot:   recycle-map-view.png
@@ -30,7 +30,7 @@ featured:     false
 
 Recycle Please is the coordinated effort of a group of volunteers passionate about improving Austin's recycling process.
 
-This project shows users which buildings in Austin, TX do not recycle. The application was developed in partnership with the City of Austin to enforce the Universal Recycling Ordinance set to go in effect Oct 1st, 2017. The team comprised of volunteers of Open Austin, a Code for America brigade. 
+This project shows users which buildings in Austin, TX do not recycle. The application was developed in partnership with the City of Austin to enforce the Universal Recycling Ordinance set to go in effect Oct 1st, 2017. The team comprised of volunteers of Open Austin, a Code for America brigade.
 
 ###What is the Universal Recyling Ordinance?
 
@@ -63,7 +63,7 @@ git clone git@github.com:open-austin/recycling-atx.gi
 npm install
 ```
 
-3. Gulp 
+3. Gulp
 
 ```
 gulp build
