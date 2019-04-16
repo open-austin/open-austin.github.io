@@ -21,4 +21,6 @@ Current opportunities to donate:
 
 ## How to Donate?
 
-Use [this donation form](https://secure.codeforamerica.org/page/contribute/?brigade=Open%20Austin) to submit an electronic payment via by our fiscal sponsor, Code for America.
+We maintain full transparency of our finances with [Open Collective](https://opencollective.com/). View Open Austin's [page](https://opencollective.com/open-austin) or donate directly by clicking the button below.
+
+<script src="https://opencollective.com/open-austin/donate/button.js" color="blue"></script>
