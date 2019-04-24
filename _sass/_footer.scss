@@ -8,24 +8,24 @@
  */
 .site-footer {
   -border-top: 1px solid $grey-color-light;
-  padding    : $spacing-unit * 1.5;
-  background : $grey-color-dark;
-  position   : relative;
+  padding: $spacing-unit * 1.5;
+  background: $grey-color-dark;
+  position: relative;
 
   h3 {
     font-size: 1rem;
-    margin   : 0 0 1rem;
+    margin: 0 0 1rem;
   }
 }
 
 .footer-heading {
-  font-size    : 18px;
+  font-size: 18px;
   margin-bottom: $spacing-unit / 2;
 }
 
 .footer-list ul {
   list-style: none;
-  margin    : 0 0 3rem;
+  margin: 0 0 3rem;
   text-align: center;
 
   li {
@@ -35,6 +35,7 @@
 
 .footer-list ul:last-of-type {
   margin-bottom: 0;
+
   @include media-query($on-palm) {
     margin-bottom: 3rem;
   }
@@ -47,17 +48,30 @@
 .contact-list,
 .social-media-list,
 .sponsor-list {
-  list-style    : none;
-  margin-left   : 0;
-  display       : flex;
+  list-style: none;
+  margin-left: 0;
+  display: flex;
   flex-direction: column;
 }
 
 .footer-social-media {
+
   // width: 70%;
   @include media-query($on-palm) {
     padding-bottom: 20px;
-  };
+  }
+
+  ;
+}
+
+.site-footer .donate-button-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 3rem;
+
+  a {
+    margin-top: 1rem;
+  }
 }
 
 .footer-special-thanks {
@@ -70,17 +84,20 @@
 
   img {
     max-width: 160px;
-    margin   : 0 0 1.5rem;
+    margin: 0 0 1.5rem;
   }
 }
 
 .footer-social-media,
 .footer-special-thanks {
-  float     : left;
+  float: left;
   text-align: center;
+
   @include media-query($on-palm) {
     width: 100%;
-  };
+  }
+
+  ;
 }
 
 .footer-special-thanks {
@@ -88,21 +105,25 @@
 }
 
 .social-media-list {
-  margin-top : 10px;
+  margin-top: 10px;
   align-items: center;
-  padding    : 0 25px;
+  padding: 0 25px;
 
   li {
-    flex : 1;
+    flex: 1;
     float: left;
+
     @include media-query($on-palm) {
       padding: 0 15px;
-      float  : none;
+      float: none;
     }
   }
+
   @include media-query($on-palm) {
     flex-direction: column;
-  };
+  }
+
+  ;
 
   .list-row-mobile {
     @include media-query($on-palm) {
@@ -113,17 +134,18 @@
 
 .footer-svg {
   svg {
-    max-width   : 200px;
-    fill        : $color-neutral-light-gray;
-    height      : 50px;
+    max-width: 200px;
+    fill: $color-neutral-light-gray;
+    height: 50px;
     margin-right: 15px;
+
     @include media-query($on-palm) {
       margin-right: 0;
-      max-width   : 100px;
+      max-width: 100px;
     }
 
     path {
-      fill      : $color-neutral-light-gray;
+      fill: $color-neutral-light-gray;
       max-height: 50px;
     }
 
@@ -131,6 +153,7 @@
       path {
         fill: $oa-blue;
       }
+
       fill: $oa-blue;
     }
   }
@@ -146,13 +169,13 @@
 
 .footer-svg-github {
   svg {
-    width     : 120px;
+    width: 120px;
     margin-top: 5px;
   }
 }
 
 .footer-svg-slack svg {
-  width     : 130px;
+  width: 130px;
   margin-top: 2px;
 }
 
@@ -165,21 +188,21 @@
 }
 
 .footer-svg-email svg {
-  width       : 50px;
+  width: 50px;
   margin-right: 0;
 }
 
 .footer-col-wrapper {
   font-size: 15px;
-  color    : $grey-color-light;
+  color: $grey-color-light;
   // margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
 
 .footer-col {
-  float        : left;
+  float: left;
   margin-bottom: $spacing-unit / 2;
-  padding-left : $spacing-unit / 2;
+  padding-left: $spacing-unit / 2;
 }
 
 .footer-col-1 {
@@ -196,7 +219,9 @@
   width: -webkit-calc(45% - (#{$spacing-unit} / 2));
   width: calc(45% - (#{$spacing-unit} / 2));
 }
+
 @include media-query($on-laptop) {
+
   .footer-col-1,
   .footer-col-2 {
     width: -webkit-calc(50% - (#{$spacing-unit} / 2));
@@ -208,6 +233,7 @@
     width: calc(100% - (#{$spacing-unit} / 2));
   }
 }
+
 @include media-query($on-palm) {
   .footer-col {
     float: none;
