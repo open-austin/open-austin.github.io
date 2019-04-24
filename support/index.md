@@ -23,4 +23,6 @@ Current opportunities to donate:
 
 We maintain full transparency of our finances with [Open Collective](https://opencollective.com/). View Open Austin's [page](https://opencollective.com/open-austin) or donate directly by clicking the button below.
 
-<script src="https://opencollective.com/open-austin/donate/button.js" color="blue"></script>
+<a href="https://opencollective.com/open-austin/donate" target="_blank" class="btn-welcome">
+  Donate
+</a>
