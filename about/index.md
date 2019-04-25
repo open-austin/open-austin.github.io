@@ -54,20 +54,23 @@ We are an all-volunteer organization. The Core Team helps coordinate Open Austin
 
 You can reach us at: info@open-austin.org
 
-- Victoria O’Dell – Brigade Co-Captain
-- Sarah Shields – Brigade Co-Captain
-- Matt Carey – Project Co-Lead
+- Victoria O’Dell – Brigade Captain
+- Matt Carey – Projects Lead
 - James Mensch - Technology Lead
-- Shellee O'Brien – Community Outreach Lead
-- _Chip Rosenthal – Director Emeritus_
+- _Courtney Rosenthal and Mateo Clarke – Directors Emeritus_
 
 Interested in joining the team? Learn about the [ways you can lead](https://docs.google.com/document/d/1kbS0wJj9o_Xr5yKBJ2oF9_wAPscZ2gksnOyMMuqVHk4/edit) and email us at info@open-austin.org.
 
 ---
 
 ### Our Nonprofit Governance
-Open Austin is a nonprofit entity. You can read our [bylaws](https://drive.google.com/open?id=1yvs5w4h8DslTdi3dHRRggJs26u4MZWoY) and [board meeting minutes](https://drive.google.com/open?id=163C2dsaa-dYH45gUfy9t3Uql5XUfTc4A).
+Open Austin is a nonprofit entity. You can read our [bylaws](https://docs.google.com/document/d/1hRG_yf0XWz4b-PwQ265R0TaIXtuuQ516N-kkBKDg1k8/edit?usp=sharing) and [board meeting minutes](https://drive.google.com/open?id=163C2dsaa-dYH45gUfy9t3Uql5XUfTc4A).
 
+The board members of our nonprofit are:
+- Matt Carey – President
+- Victoria O’Dell – Vice President
+- James Mensch - Treasurer
+- Mateo Clarke – Secretary
 ---
 
 ## Code of Conduct
