@@ -54,9 +54,10 @@ We are an all-volunteer organization. The Core Team helps coordinate Open Austin
 
 You can reach us at: info@open-austin.org
 
-- Victoria O’Dell – Brigade Captain
+- James Mensch - Co-Captain
+- Mateo Clarke - Co-Captain
 - Matt Carey – Projects Lead
-- James Mensch - Technology Lead
+- Victoria O’Dell – Partnership Lead
 - _Courtney Rosenthal and Mateo Clarke – Directors Emeritus_
 
 Interested in joining the team? Learn about the [ways you can lead](https://docs.google.com/document/d/1kbS0wJj9o_Xr5yKBJ2oF9_wAPscZ2gksnOyMMuqVHk4/edit) and email us at info@open-austin.org.
