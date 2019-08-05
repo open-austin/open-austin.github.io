@@ -28,7 +28,7 @@ author:
 Signing in at five events will get you one of our awesome Open Austin t-shirts. Was this your fifth event? Contact @leadership on [Slack](https://open-austin.slack.com/messages/) with your shirt size.
 
 ## What is Civic Hacking?
-Our formger brigade co-captain Mateo Clarke gives a rundown on [Civic Hacking 101](https://www.youtube.com/embed/sxrgxDF4FJ0).
+Our former brigade co-captain Mateo Clarke gives a rundown on [Civic Hacking 101](https://www.youtube.com/embed/sxrgxDF4FJ0).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sxrgxDF4FJ0" frameborder="0" allowfullscreen></iframe>
 
