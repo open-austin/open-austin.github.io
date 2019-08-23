@@ -10,6 +10,7 @@ Categories:   [ policy, open data, crime ]
 date:         2017-04-20 00:00:00
 thumb:        harris-county-bookings.png
 screenshot:   harris-county-bookings.png
+archived:     true
 ---
 
 *****************

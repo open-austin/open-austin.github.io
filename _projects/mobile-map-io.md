@@ -10,7 +10,7 @@ Categories:   [ civic engagement, Mobile, Javascript ]
 date:         2017-06-04 00:00:00
 thumb: mobile-map-io.png
 screenshot: mobile-map-io.png
-archived: false
+archived: true
 ---
 
 There are many apps that have very similar functions. One of the most common interaction sets for civic media is reporting things on a map, such as [SeeClickFix](http://seeclickfix.com/). At civic hackathons, former Open Austin co-captain Andy Nelson often saw people spending far more time reinventing this wheel than solving problems.
