@@ -12,4 +12,5 @@ date:         2018-01-10 00:00:00
 thumb:
 screenshot:   requestyoracks.jpg
 featured:     false
+archived:     true
 ---
