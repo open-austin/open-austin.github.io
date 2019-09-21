@@ -31,6 +31,7 @@ _If you already use [rbenv](https://github.com/rbenv/rbenv) or another Ruby vers
 - Install [**chruby**](https://github.com/postmodern/chruby) to switch ruby versions.	
 	- `brew install chruby`	
 	- `chruby ruby 2.4.2`
+  - Copy `source /usr/local/share/chruby/chruby.sh` into your ~/.bashrc file (or if you use Zsh, .zshrc). Save that file and start a new terminal.
 
 - Install [**jekyll**](https://github.com/postmodern/chruby) to install Jekyll.	- Install [**jekyll**](https://github.com/postmodern/chruby) to install Jekyll.
 	- `gem install jekyll`
@@ -65,7 +66,7 @@ http://localhost:4000/
   - https://github.com/postmodern/chruby/blob/master/README.md#configuration
   - https://unix.stackexchange.com/questions/129143/what-is-the-purpose-of-bashrc-and-how-does-it-work
 
-  
+
 - If you get permissions errors, run the command again with 'sudo'
 
 ```
