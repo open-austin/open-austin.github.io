@@ -11,41 +11,34 @@
 
 # Development Instructions
 
-- _(Optional)_ Install [**iTerm**](https://www.iterm2.com/) for a better Command Line App in OS X.
-- _(Optional)_ Install [**oh-my-zsh**](https://github.com/robbyrussell/oh-my-zsh) for a prettier command line interface and easier zsh configuration than bash. - `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+## Required System Installs (if you haven't already)
 
-Jekyll requires at least Ruby 2.1 but we recommend Ruby 2.4+
+-  Install [**homebrew**](http://brew.sh/) (for better installation of OS X packages)	
+	- `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+- Install OSX Xcode command line tools if you haven't
+  - `xcode-select --install`
 
-You can install a proper version of Ruby via homebrew and rbenv.
+## Installing Jekyll/Ruby on OS X
 
-# Install command line tools if you haven't
+_OS X comes with Ruby 2.0.0, but its not the latest version and you may have to use the `sudo` command to do anything. Best to install a version manager like ruby-install + chruby to help with that._
 
-xcode-select --install
+_If you already use [rbenv](https://github.com/rbenv/rbenv) or another Ruby version manager, you should be good as long as you use ruby 2.4.2+._ 
 
-# Install Homebrew if you haven't
+- Install [**ruby-install**](https://github.com/postmodern/ruby-install#readme) for installing Ruby versions.	Jekyll requires at least Ruby 2.1 but we recommend Ruby 2.4+
+	- `brew install ruby-install`	
+	- `ruby-install ruby 2.4.2`
 
-/usr/bin/ruby -e "\$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+- Install [**chruby**](https://github.com/postmodern/chruby) to switch ruby versions.	
+	- `brew install chruby`	
+	- `chruby ruby 2.4.2`
+  - Copy `source /usr/local/share/chruby/chruby.sh` into your ~/.bashrc file (or if you use Zsh, .zshrc). Save that file and start a new terminal.
 
-# Install rbenv and ruby
+- Install [**jekyll**](https://github.com/postmodern/chruby) to install Jekyll.	- Install [**jekyll**](https://github.com/postmodern/chruby) to install Jekyll.
+	- `gem install jekyll`
 
-brew install rbenv ruby-build
-rbenv init
-rbenv install 2.4.2
-rbenv global 2.4.2
-rbenv shell 2.4.2
+- Install [Ruby Bundler](https://bundler.io/), the best way to manage Ruby gems (packages)
+  - `gem install bundler`
 
-# Install Ruby Bundler
-
-- `gem install bundler`
-
-# update rbenv config
-
-rbenv rehash
-eval "\$(rbenv init -)
-
-# Run all of the above using one command:
-
-curl https://gist.githubusercontent.com/DirtyF/5d2bde5c682101b7b5d90708ad333bf3/raw/bbac59647ac66016cf443caf7d48c6ae173ae57f/setup-rbenv.sh | bash
 
 ## Start Jekyll
 
@@ -67,6 +60,20 @@ Then go to
 http://localhost:4000/
 ```
 
+## Troubleshooting
+
+- If you run into errors that look like `zsh: command not found: chruby` you may need to update your `.bashrc` or `.zshrc` file which is a shell script that runs and initializes your shell whenever you open a new terminal.
+  - https://github.com/postmodern/chruby/blob/master/README.md#configuration
+  - https://unix.stackexchange.com/questions/129143/what-is-the-purpose-of-bashrc-and-how-does-it-work
+
+
+- If you get permissions errors, run the command again with 'sudo'
+
+```
+sudo <your> <command here>
+```
+
+
 ### Instructions for exporting content from Wordpress
 
 ```
@@ -79,13 +86,6 @@ ruby -rubygems -e 'require "jekyll-import";
     })'
 ```
 
-## Troubleshooting
-
-- if you get permissions errors, run the command again with 'sudo'
-
-```
-sudo <your> <command here>
-```
 
 ---
 
