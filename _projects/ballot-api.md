@@ -12,4 +12,5 @@ date:         2019-03-14 00:00:00
 thumb:
 screenshot:   ballotapi.jpg
 featured:     false
+stack:        Python, Jekyll, PostgreSQL
 ---
