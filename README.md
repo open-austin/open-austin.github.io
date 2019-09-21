@@ -11,11 +11,6 @@
 
 # Development Instructions
 
-## _Optional_ Terminal Installs
-- _(Optional)_ Install [**iTerm**](https://www.iterm2.com/) for a better Command Line App in OS X.
-- _(Optional)_ Install [**oh-my-zsh**](https://github.com/robbyrussell/oh-my-zsh) for a prettier command line interface and easier zsh configuration than bash. 
-  - `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
-
 ## Required System Installs (if you haven't already)
 
 -  Install [**homebrew**](http://brew.sh/) (for better installation of OS X packages)	
@@ -64,6 +59,20 @@ Then go to
 http://localhost:4000/
 ```
 
+## Troubleshooting
+
+- If you run into errors that look like `zsh: command not found: chruby` you may need to update your `.bashrc` or `.zshrc` file which is a shell script that runs and initializes your shell whenever you open a new terminal.
+  - https://github.com/postmodern/chruby/blob/master/README.md#configuration
+  - https://unix.stackexchange.com/questions/129143/what-is-the-purpose-of-bashrc-and-how-does-it-work
+
+  
+- If you get permissions errors, run the command again with 'sudo'
+
+```
+sudo <your> <command here>
+```
+
+
 ### Instructions for exporting content from Wordpress
 
 ```
@@ -76,13 +85,6 @@ ruby -rubygems -e 'require "jekyll-import";
     })'
 ```
 
-## Troubleshooting
-
-- if you get permissions errors, run the command again with 'sudo'
-
-```
-sudo <your> <command here>
-```
 
 ---
 
