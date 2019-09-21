@@ -27,6 +27,8 @@
 
 _OS X comes with Ruby 2.0.0, but its not the latest version and you may have to use the `sudo` command to do anything. Best to install a version manager like ruby-install + chruby to help with that._
 
+_If you already use [rbenv](https://github.com/rbenv/rbenv) or another Ruby version manager, you should be good as long as you use ruby 2.4.2+._ 
+
 - Install [**ruby-install**](https://github.com/postmodern/ruby-install#readme) for installing Ruby versions.	Jekyll requires at least Ruby 2.1 but we recommend Ruby 2.4+
 	- `brew install ruby-install`	
 	- `ruby-install ruby 2.4.2`
