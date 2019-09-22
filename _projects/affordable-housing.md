@@ -12,5 +12,5 @@ date:         2018-11-14 00:00:00
 thumb:
 screenshot:   affordable_housing.jpg
 featured:     true
-stack:        [ Node, React, SQL, Python, Excel ]
+stack:        [ "Node", "React", "SQL", "Python", "Excel" ]
 ---
