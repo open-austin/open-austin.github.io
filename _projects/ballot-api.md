@@ -1,6 +1,6 @@
 ---
 title:        BallotAPI
-description:  Ballots for developers
+description:  Free, public-domain database of every ballot in the U.S.
 access_at:    https://ballotapi.org/
 project_at:   https://github.com/open-austin/ballotapi
 type:         web service
