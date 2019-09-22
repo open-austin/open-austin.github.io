@@ -6,11 +6,11 @@ project_at:   https://github.com/cityofaustin/AffordableHousingDataHub
 type:         web service
 status:       in development
 categories:   [ government, housing ]
-contact:      [ Britney Lyons < @britney_lyons >, Rohan Mathur < @rohanmathur101 >]
+contact:      [ Rohan Mathur < @rohanmathur101 >]
 cfa_stage:    Alpha
 date:         2018-11-14 00:00:00
 thumb:
 screenshot:   affordable_housing.jpg
 featured:     true
-stack:        Node, React, SQL, Python, Excel
+stack:        [ Node, React, SQL, Python, Excel ]
 ---
