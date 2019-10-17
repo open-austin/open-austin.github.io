@@ -1,6 +1,6 @@
 ---
 title:        Influence Texas
-description:  Campaign finance, lobbying, and voting records all in one app.
+description:  Provide a complete resource for info about TX legislators, bills, donors, and policy areas.  Enable citizens to scrutinize how lawmakers are serving them.
 access_at:    https://www.influencetexas.com/
 project_at:   https://github.com/open-austin/influence-texas/
 type:         website
