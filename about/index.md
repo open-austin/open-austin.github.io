@@ -72,6 +72,7 @@ The board members of our nonprofit are:
 - Victoria O’Dell – Vice President
 - James Mensch - Treasurer
 - Mateo Clarke – Secretary
+
 ---
 
 ## Code of Conduct
