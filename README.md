@@ -41,8 +41,15 @@ _If you already use [rbenv](https://github.com/rbenv/rbenv) or another Ruby vers
 
 
 ## Start Jekyll
-
-Once you've got everything installed, run
+Next, clone down this repo with
+```
+git clone https://github.com/open-austin/open-austin.github.io.git
+```
+Then, navigate to that directory using
+```
+cd open-austin.github.io
+```
+After everything is correctly installed and you are in the home directory, run
 
 ```
 bundle install
