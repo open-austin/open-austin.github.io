@@ -10,6 +10,7 @@ author:
   first_name: Matt
   last_name: Carey
 ---
+
 When the Open Austin core team met in 2017 to write a [statement of the values](https://www.open-austin.org/about/#our-roots) that would define Open Austin as an organization, including "Open Data," "Open Research," and "Open Source Technology," nothing in that mission statement referenced environmental sustainability. That omission reflected the reasonable point of view that the climate and open data were basically separate issues, and an organization dedicated to working on one issue didn't need to think much about the other.
 
 But sometimes new information requires a different outlook. The recent [United Nations "Emissions Gap" report](https://www.unenvironment.org/resources/emissions-gap-report-2019) has revealed that the harms from global warming are happening faster than projected, most countries are falling short of their commitments to cut emissions, and that "fundamental structural changes" are now needed to meet the crisis. According to one striking section of the report:
