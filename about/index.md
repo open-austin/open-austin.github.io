@@ -67,10 +67,12 @@ Interested in joining the team? Learn about the [ways you can lead](https://docs
 Open Austin is a nonprofit entity. You can read our [bylaws](https://docs.google.com/document/d/1hRG_yf0XWz4b-PwQ265R0TaIXtuuQ516N-kkBKDg1k8/edit?usp=sharing) and [board meeting minutes](https://drive.google.com/open?id=163C2dsaa-dYH45gUfy9t3Uql5XUfTc4A).
 
 The board members of our nonprofit are:
-- Matt Carey – President
+- Liani Lye – President
 - Victoria O’Dell – Vice President
-- Steve Harrison - Treasurer
-- Mateo Clarke – Secretary
+- Steve Harrison - Secretary
+- Matt Carey – Treasurer
+- Aaron Renaud – At-Large Member
+- Mateo Clarke – At-Large Member
 
 ---
 
