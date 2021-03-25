@@ -4,10 +4,10 @@ description:  Website allowing event organizers and businesses to verify that so
 access_at:    https://vax.codes/
 project_at:   https://github.com/open-austin/vax-codes
 type:         website
-status:       in development
+status:       deployed
 categories:   [ health, covid ]
 contact:      Daniel Roesler, @danielroesler
-cfa_stage:    Experiment
+cfa_stage:    Beta
 date:         2021-02-10 00:00:00
 thumb:
 screenshot:   vax-codes.jpg
