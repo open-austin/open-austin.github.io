@@ -55,7 +55,6 @@ We are an all-volunteer organization. The Core Team helps coordinate Open Austin
 You can reach us at: info@open-austin.org
 
 - Liani Lye - Co-Chair
-- Mateo Clarke - Co-Chair
 - Matt Carey
 - Steve Harrison
 
@@ -72,7 +71,6 @@ The board members of our nonprofit are:
 - Steve Harrison - Secretary
 - Matt Carey – Treasurer
 - Aaron Renaud – At-Large Member
-- Mateo Clarke – At-Large Member
 
 ---
 
