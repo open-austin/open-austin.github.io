@@ -67,10 +67,10 @@ Open Austin is a nonprofit entity. You can read our [bylaws](https://docs.google
 
 The board members of our nonprofit are:
 - Liani Lye – President
-- Victoria O’Dell – Vice President
 - Steve Harrison - Secretary
 - Matt Carey – Treasurer
 - Aaron Renaud – At-Large Member
+- Dan Minshew - At-Large Member
 
 ---
 
