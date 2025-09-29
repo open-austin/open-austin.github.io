@@ -1,6 +1,10 @@
-# open-austin.org
+---
+# This repo and the associated website (open-austin.github.io) is no longer maintained.  [Here](https://open-austin.odoo.com/) is our new website.
+---
 
-### The Open Austin website
+## open-austin.org
+
+#### The Open Austin website
 
 - [How to Draft a Blog Post](https://github.com/open-austin/open-austin.github.io/wiki/How-to-Draft-a-Blog-Post)
 - [Development Instructions](#development-instructions)
@@ -9,16 +13,16 @@
 
 ---
 
-# Development Instructions
+## Development Instructions
 
-## Required System Installs (if you haven't already)
+### Required System Installs (if you haven't already)
 
 -  Install [**homebrew**](http://brew.sh/) (for better installation of OS X packages)	
 	- `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 - Install OSX Xcode command line tools if you haven't
   - `xcode-select --install`
 
-## Installing Jekyll/Ruby on OS X
+### Installing Jekyll/Ruby on OS X
 
 _OS X comes with Ruby 2.0.0, but its not the latest version and you may have to use the `sudo` command to do anything. Best to install a version manager like ruby-install + chruby to help with that._
 
@@ -40,7 +44,7 @@ _If you already use [rbenv](https://github.com/rbenv/rbenv) or another Ruby vers
   - `gem install bundler`
 
 
-## Start Jekyll
+### Start Jekyll
 Next, clone down this repo with
 ```
 git clone https://github.com/open-austin/open-austin.github.io.git
@@ -67,7 +71,7 @@ Then go to
 http://localhost:4000/
 ```
 
-## Troubleshooting
+### Troubleshooting
 
 - If you run into errors that look like `zsh: command not found: chruby` you may need to update your `.bashrc` or `.zshrc` file which is a shell script that runs and initializes your shell whenever you open a new terminal.
   - https://github.com/postmodern/chruby/blob/master/README.md#configuration
@@ -81,7 +85,7 @@ sudo <your> <command here>
 ```
 
 
-### Instructions for exporting content from Wordpress
+#### Instructions for exporting content from Wordpress
 
 ```
 gem install jekyll-import hpricot open_uri_redirections
@@ -96,24 +100,24 @@ ruby -rubygems -e 'require "jekyll-import";
 
 ---
 
-# Planning
+## Planning
 
 Staging Site: http://open-austin.github.io/
 
-## Planning & Design
+### Planning & Design
 
-### Sitemap
+#### Sitemap
 
 ![our sitemap](planning-design/site_architecture/oa-sitemap.png?raw=true)
 [link to Gliffy](http://www.gliffy.com/go/publish/8981187)
 
-### Design Docs
+#### Design Docs
 
 [Design Brief](planning-design/planning_and_analytics/OA Design Brief.pdf?raw=true)
 
 [Colors/Typography](planning-design/typography/colorstypography2.png?raw=true)
 
-### Mockups
+#### Mockups
 
 [Homepage Mockups from 1-Sept](planning-design/final_mockups/oa_homepage_mockup.pdf?raw=true)
 
@@ -121,14 +125,14 @@ Higher fidelity Mockup from 24-Aug Meeting ([PDF](planning-design/other_mockups/
 
 [Original Lo-fi Mockup](planning-design/planning_and_analytics/lo-fi-mockup.jpg?raw=true)
 
-### Requirements
+#### Requirements
 
 [Link to functional requirements doc](https://docs.google.com/document/d/1dgYQunemFzfGPpmc6jJz5L1sCm0m7f9ZemPT0z6FK2c)
 
-### Assets/Images
+#### Assets/Images
 
 [Links to potential assets/images](https://github.com/open-austin/OA-Website/wiki/Assets-&-Images-for-potential-use)
 
-# License
+## License
 
 The code for this repository has been released into the public domain by Open Austin via the Unlicense.
